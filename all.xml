@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 03:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 04:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,47 +86,21 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/10/faf964cc-c68b-4d23-99e1-3258d328b18b.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] 대선 1500만 표심 달린 IT템, C·S·G (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25047764</link>
-            <guid>https://www.joongang.co.kr/article/25047764</guid>
-            <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25047764" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/13/e0c35d60-e255-4a1f-8db0-66a54514161b.jpg/_ir_144x144_/" alt="[팩플] 대선 1500만 표심 달린 IT템, C·S·G " width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num4">4</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25047764" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 대선 1500만 표심 달린 IT템, C·S·G </a>
-</h2>
-<div class="meta">
-<p class="date">2022.02.13 12:00</p>
-<button type="button" class="btn_bookmark" data-cid="25047764" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/13/e0c35d60-e255-4a1f-8db0-66a54514161b.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
             <title><![CDATA[[팩플] 비상이다…eMerZency...팩플이 캐릿 만남 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
             <link>https://www.joongang.co.kr/article/25046660</link>
             <guid>https://www.joongang.co.kr/article/25046660</guid>
             <pubDate>Wed, 09 Feb 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25046660" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25046660" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/09/9bded83b-8195-488e-ad52-c2a9fc44398d.jpg/_ir_144x144_/" alt="[팩플] 비상이다…eMerZency...팩플이 캐릿 만남" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num5">5</em>
+<em class="rank_count ico_num4">4</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25046660" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] 비상이다…eMerZency...팩플이 캐릿 만남</a>
+<a href="https://www.joongang.co.kr/article/25046660" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 비상이다…eMerZency...팩플이 캐릿 만남</a>
 </h2>
 <div class="meta">
 <p class="date">2022.02.09 06:00</p>
@@ -136,6 +110,32 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/09/9bded83b-8195-488e-ad52-c2a9fc44398d.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩플] 대선 1500만 표심 달린 IT템, C·S·G (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25047764</link>
+            <guid>https://www.joongang.co.kr/article/25047764</guid>
+            <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25047764" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/13/e0c35d60-e255-4a1f-8db0-66a54514161b.jpg/_ir_144x144_/" alt="[팩플] 대선 1500만 표심 달린 IT템, C·S·G " width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num5">5</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25047764" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] 대선 1500만 표심 달린 IT템, C·S·G </a>
+</h2>
+<div class="meta">
+<p class="date">2022.02.13 12:00</p>
+<button type="button" class="btn_bookmark" data-cid="25047764" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/13/e0c35d60-e255-4a1f-8db0-66a54514161b.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
             <title><![CDATA[[팩플] “배그 노하우, 우리가 C2E로 가는 이유”…김창한 크래프톤 대표 (중앙일보 팩플 ─ 뉴스)]]></title>
@@ -326,7 +326,7 @@
             <link>https://www.joongang.co.kr/article/25042958</link>
             <guid>https://www.joongang.co.kr/article/25042958</guid>
             <pubDate>Mon, 24 Jan 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스 이덕재 신임 CCO(왼쪽)와 황규별 신임 CDO. 사진 LG유플러스 LG유플러스가 외부 인재를 수혈하며 신사업에 드라이브를 걸고 있다. 구독·인공지능(AI)·메타버스에 초점을 둔 SK텔레콤, AI·로봇 등에 방점을 찍은 KT 등 통신의 ‘비통신’ 투자에 LG유플러스도 더 속도를 내겠다는 뜻이다. LG유플러스의 키워드는 콘텐트와 데이터다. ‘3등’ 꼬리표가 지겨울 법한 이 회사, 통신 밖에선 잘할 수 있을까. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; LG유플러스는 새해 들어 신임 C레벨 임원들을 잇따라 영입했다. 최고콘텐트책임자(CCO)에 CJ ENM 출신 방송·콘텐트 전문가 이덕재(53) 전무를, 최고데이터책임자(CDO)에 미국 AT&amp;T 출신 데이터 전문가 황규별(47) 전무를 선임했다. 지난해 3월 황현식 사장이 취임한 후 LG그룹 밖에서 임원급을 데려온 것은 이번이 처음이다. LG유플러스 CEO 직속 신사업 조직도. 그래픽=신재민 기자 shin.jaemin@joongang.co.kr &nbsp; &nbsp;━&nbsp; 황현식의 빅 픽처&nbsp; &nbsp; ● 약은 약사에게: 황 사장은 ‘통신통’이다. LG텔레콤 시절부터 약 20년간 통신 영업전략을 담당했다. 그러나 그가 지금 목마른 건 ‘비통신’ 신사업. 외부 채용에 보수적이던 기조를 깨고 밖에서 임원을 찾은 이유다. LG유플러스 관계자는&nbsp;“본업인 통신 영역이 아닌, 콘텐트·데이터·광고 등 신사업은 내외부 가리지 말고 해당 분야 전문가를 발굴하자는 분위기”라고 설명했다. ● 돈·사람 안 아낀다: ‘보여주기식 인사’에 그치지 않겠다는 의지도 분명히 했다. 외부에서 온 CCO와 CDO에게 큰 폭의 인사권과 예산 주도권을 내줬다. CCO, CDO 조직은 올해 인력을 지난해보다 각 150% 늘릴 계획. ● 구광모의 DX: 디지털 전환(DX)은 구광모 LG그룹 회장이 미래 비전으로 줄곧 강조해온 키워드다. 콘텐트와 데이터 등 비통신 신사업은 LG유플러스 ‘통신 DX’의 전진 기지다. 황 사장은 “비통신사업 매출 비중을 현재 20%대에서 2025년까지 30%로 올리겠다”고 지난해 공언했다. 취임 2년차인 올해는 구체적인 사업모델과 성과를 보여줘야 할 시기다. 유플러스 서비스들의 ‘찐팬’을 늘리고, 축적된 고객 데이터를 신사업 발굴에 쓰는 플라이휠(선순환)이 절실하다. 황현식 LG유플러스 사장. 사진 LG유플러스 &nbsp; &nbsp;━&nbsp; 그래서, LG유플이 하려는 건 &nbsp; ① 우리도 한다, 콘텐트 키즈·아이돌·스포츠 분야에서 오리지널 콘텐트 비중을 확대한다. ▶U+ 아이들나라(누적 사용자 5500만명) ▶U+ 아이돌라이브(12월 앱 사용자 23만명, 모바일인덱스 기준) ▶U+ 프로야구/U+ 골프(사용자 비공개) 등 자사 서비스 강화 차원에서다. 지난 2년간 일본·중국·동남아에서 2300만 달러(274억원)를 번 증강현실(AR)·가상현실(VR) 콘텐트 및 솔루션은 ‘수출 강화’로 가닥을 잡았다. 콘텐트 전문가인 이덕재 CCO가 해외서도 통할 오리지널 콘텐트를 만들지가 관건. 이덕재 CCO는 누구? ② 데이터, 데이터, 데이터 ‘마이데이터’와 ‘익·가명 정보 기반 상품’ 등 투트랙으로 간다. LG유플러스는 지난해 말 금융위원회에 마이데이터 예비허가를 신청했다. 신한은행·CJ올리브네트웍스와 통신·금융·유통 마이데이터 협업을 위한 업무협약(MOU)도 맺었다. 고객 통신 데이터는 익명·가명처리해&nbsp;유동인구 통계조사, IPTV 시청률 조사 등 기업간거래(B2B) 상품으로 다듬는다.&nbsp;미 통신사 AT&amp;T에서 고객 데이터 기반의 신사업·신상품을 구상했던 황규별 CDO가 지휘한다. 데이터를 활용해 기업들이 돈낼 만한 가치를 만들어낼 수 있을지가 관건. 황규별 CDO는 누구? ③ 돈 되는 B2B 솔루션 올 하반기엔 스마트팩토리, 스마트모빌리티, AI 고객센터 등 B2B 솔루션에 주력할 것으로 보인다. LG유플러스는 지난해 5G 전용망·안전·환경·물류 등 12가지 솔루션을 재편한 ‘U+스마트팩토리’를 공개했다. LG전자 창원 스마트파크 등 LG그룹 고객을 포함해 150개 사업장이 이 솔루션을 쓴다. LG유플러스 관계자는 “사업적으로는 B2B에서 성장 기회가 더 클 것으로 보고 있다”며&nbsp;“특히 스마트팩토리와 스마트모빌리티는 3년 뒤 각각 연매출 1000억원을 목표로 한다”고 말했다. 지난 3분기 B2B 솔루션 수익은 전년 동기 대비 22.5% 성장한 1155억원을 기록했다. &nbsp; LG유플러스는 지난해 'U+스마트팩토리'를 론칭했다. 5G 전용망과 안전 솔루션 등이 들어간다. 사진 LG유플러스 &nbsp;━&nbsp; 통신 밖에서도, 진짜 잘 될까&nbsp; &nbsp; 그간 LG유플러스는 넷플릭스·디즈니플러스 등 인기 해외 플랫폼과 독점계약을 따내는 식으로 ‘3등의 판 흔들기’ 전략을 구사해왔다. 성과도 있었다. 넷플릭스 제휴 직후인 2018년 하반기 IPTV 가입자는 전년 대비 13.5% 반등했고, 이후로도 매 반기 10% 안팎씩 늘었다. 제한된 가입자를 놓고 3사끼리 경쟁하는 ‘가두리 양식장’에선 효과가 있었다고 평가받는다. 하지만 비통신 사업에선 이런 뚜렷한 차별화 전략이 보이지 않는다. &nbsp; 특히 콘텐트 사업 확대는 외부의 평가가 엇갈린다. 하나금융투자 김홍식 연구원은 “당장 넷플릭스만 봐도 올해 K콘텐트에 1조원 가량을 쏟아부었다”며&nbsp;“규모의 경제를 달성한 글로벌 사업자들 사이에서 후발주자인 국내 통신사가 콘텐트로 살아남긴 쉽지 않다”고 평가했다.&nbsp;반면 유안타증권 최남곤 연구원은 “지금까지 신사업 투자에 지나치게 조심스러웠을뿐 LG유플러스는 콘텐트 가입자 기반이 통신사 중 가장 탄탄하고 키즈·아이돌에 강점이 있다”며 “사람이 바뀌었으니 전략도 바뀔 것이다. 잘 키운다면 가능성이 있다”고 말했다. &nbsp; 누적 시청시간 4000만분을 넘긴 U+아이돌라이브. 사진 LG유플러스 &nbsp;━&nbsp; 혈맹 불사한 SKT·KT도 어렵다던데 &nbsp; 통신에선 SKT·KT와 싸웠지만, 비통신 시장에선 경계를 초월한 경쟁을 해야 한다. 이를 위해 통신사들은 혈맹 전략으로 경쟁력을 키우려고 애써왔다. SKT는 2019년 카카오와 3000억원 규모 지분을 교환했고, KT는 최근 신한지주와 4375억원어치 지분을 교환하며 ‘탈통신’ 혹은&nbsp;‘비통신’ 경쟁력을 키웠다. 그럼에도 두 회사 모두 네이버·카카오 같은 IT 기업들과 경쟁에서 고전 중이다.&nbsp; &nbsp; 이에 비해, LG유플러스는 아직 파트너십이나 대규모 투자, 인수합병 등을 시도한 적이 없다. 최남곤 연구원은 “제휴·투자를 열심히 한 경쟁사들도 아직 뚜렷한 실적이 없다”며 “LG유플러스는 여러 신사업을 노리기보단 딱 하나라도 성과를 제대로 보여주는 게 더 중요하다”고 말했다. 김홍식 연구원은 “콘텐트나 데이터처럼 ‘이미 뜬 사업’에 도전하기보단, 5G를 활용한 B2B 솔루션이나 소상공인용 AI 비서 등 통신사가 잘할 수 있는 본업 기반의 신사업을 강화하면 전망이 더 밝을 것”이라고 말했다. 김정민 기자 kim.jungmin4@joongang.co.kr]]></content:encoded>
+            <content:encoded><![CDATA[LG유플러스 이덕재 신임 CCO(왼쪽)와 황규별 신임 CDO. 사진 LG유플러스 LG유플러스가 외부 인재를 수혈하며 신사업에 드라이브를 걸고 있다. 구독·인공지능(AI)·메타버스에 초점을 둔 SK텔레콤, AI·로봇 등에 방점을 찍은 KT 등 통신의 ‘비통신’ 투자에 LG유플러스도 더 속도를 내겠다는 뜻이다. LG유플러스의 키워드는 콘텐트와 데이터다. ‘3등’ 꼬리표가 지겨울 법한 이 회사, 통신 밖에선 잘할 수 있을까. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; LG유플러스는 새해 들어 신임 C레벨 임원들을 잇따라 영입했다. 최고콘텐트책임자(CCO)에 CJ ENM 출신 방송·콘텐트 전문가 이덕재(53) 전무를, 최고데이터책임자(CDO)에 미국 AT&amp;T 출신 데이터 전문가 황규별(47) 전무를 선임했다. 지난해 3월 황현식 사장이 취임한 후 LG그룹 밖에서 임원급을 데려온 것은 이번이 처음이다. LG유플러스 CEO 직속 신사업 조직도. 그래픽=신재민 기자 shin.jaemin@joongang.co.kr &nbsp; &nbsp;━&nbsp; 황현식의 빅 픽처&nbsp; &nbsp; ● 약은 약사에게: 황 사장은 ‘통신통’이다. LG텔레콤 시절부터 약 20년간 통신 영업전략을 담당했다. 그러나 그가 지금 목마른 건 ‘비통신’ 신사업. 외부 채용에 보수적이던 기조를 깨고 밖에서 임원을 찾은 이유다. LG유플러스 관계자는&nbsp;“본업인 통신 영역이 아닌, 콘텐트·데이터·광고 등 신사업은 내외부 가리지 말고 해당 분야 전문가를 발굴하자는 분위기”라고 설명했다. ● 돈·사람 안 아낀다: ‘보여주기식 인사’에 그치지 않겠다는 의지도 분명히 했다. 외부에서 온 CCO와 CDO에게 큰 폭의 인사권과 예산 주도권을 내줬다. CCO, CDO 조직은 올해 인력을 지난해보다 각 150% 늘릴 계획. ● 구광모의 DX: 디지털 전환(DX)은 구광모 LG그룹 회장이 미래 비전으로 줄곧 강조해온 키워드다. 콘텐트와 데이터 등 비통신 신사업은 LG유플러스 ‘통신 DX’의 전진 기지다. 황 사장은 “비통신사업 매출 비중을 현재 20%대에서 2025년까지 30%로 올리겠다”고 지난�� 공언했다. 취임 2년차인 올해는 구체적인 사업모델과 성과를 보여줘야 할 시기다. 유플러스 서비스들의 ‘찐팬’을 늘리고, 축적된 고객 데이터를 신사업 발굴에 쓰는 플라이휠(선순환)이 절실하다. 황현식 LG유플러스 사장. 사진 LG유플러스 &nbsp; &nbsp;━&nbsp; 그래서, LG유플이 하려는 건 &nbsp; ① 우리도 한다, 콘텐트 키즈·아이돌·스포츠 분야에서 오리지널 콘텐트 비중을 확대한다. ▶U+ 아이들나라(누적 사용자 5500만명) ▶U+ 아이돌라이브(12월 앱 사용자 23만명, 모바일인덱스 기준) ▶U+ 프로야구/U+ 골프(사용자 비공개) 등 자사 서비스 강화 차원에서다. 지난 2년간 일본·중국·동남아에서 2300만 달러(274억원)를 번 증강현실(AR)·가상현실(VR) 콘텐트 및 솔루션은 ‘수출 강화’로 가닥을 잡았다. 콘텐트 전문가인 이덕재 CCO가 해외서도 통할 오리지널 콘텐트를 만들지가 관건. 이덕재 CCO는 누구? ② 데이터, 데이터, 데이터 ‘마이데이터’와 ‘익·가명 정보 기반 상품’ 등 투트랙으로 간다. LG유플러스는 지난해 말 금융위원회에 마이데이터 예비허가를 신청했다. 신한은행·CJ올리브네트웍스와 통신·금융·유통 마이데이터 협업을 위한 업무협약(MOU)도 맺었다. 고객 통신 데이터는 익명·가명처리해&nbsp;유동인구 통계조사, IPTV 시청률 조사 등 기업간거래(B2B) 상품으로 다듬는다.&nbsp;미 통신사 AT&amp;T에서 고객 데이터 기반의 신사업·신상품을 구상했던 황규별 CDO가 지휘한다. 데이터를 활용해 기업들이 돈낼 만한 가치를 만들어낼 수 있을지가 관건. 황규별 CDO는 누구? ③ 돈 되는 B2B 솔루션 올 하반기엔 스마트팩토리, 스마트모빌리티, AI 고객센터 등 B2B 솔루션에 주력할 것으로 보인다. LG유플러스는 지난해 5G 전용망·안전·환경·물류 등 12가지 솔루션을 재편한 ‘U+스마트팩토리’를 공개했다. LG전자 창원 스마트파크 등 LG그룹 고객을 포함해 150개 사업장이 이 솔루션을 쓴다. LG유플러스 관계자는 “사업적으로는 B2B에서 성장 기회가 더 클 것으로 보고 있다”며&nbsp;“특히 스마트팩토리와 스마트모빌리티는 3년 뒤 각각 연매출 1000억원을 목표로 한다”고 말했다. 지난 3분기 B2B 솔루션 수익은 전년 동기 대비 22.5% 성장한 1155억원을 기록했다. &nbsp; LG유플러스는 지난해 'U+스마트팩토리'를 론칭했다. 5G 전용망과 안전 솔루션 등이 들어간다. 사진 LG유플러스 &nbsp;━&nbsp; 통신 밖에서도, 진짜 잘 될까&nbsp; &nbsp; 그간 LG유플러스는 넷플릭스·디즈니플러스 등 인기 해외 플랫폼과 독점계약을 따내는 식으로 ‘3등의 판 흔들기’ 전략을 구사해왔다. 성과도 있었다. 넷플릭스 제휴 직후인 2018년 하반기 IPTV 가입자는 전년 대비 13.5% 반등했고, 이후로도 매 반기 10% 안팎씩 늘었다. 제한된 가입자를 놓고 3사끼리 경쟁하는 ‘가두리 양식장’에선 효과가 있었다고 평가받는다. 하지만 비통신 사업에선 이런 뚜렷한 차별화 전략이 보이지 않는다. &nbsp; 특히 콘텐트 사업 확대는 외부의 평가가 엇갈린다. 하나금융투자 김홍식 연구원은 “당장 넷플릭스만 봐도 올해 K콘텐트에 1조원 가량을 쏟아부었다”며&nbsp;“규모의 경제를 달성한 글로벌 사업자들 사이에서 후발주자인 국내 통신사가 콘텐트로 살아남긴 쉽지 않다”고 평가했다.&nbsp;반면 유안타증권 최남곤 연구원은 “지금까지 신사업 투자에 지나치게 조심스러웠을뿐 LG유플러스는 콘텐트 가입자 기반이 통신사 중 가장 탄탄하고 키즈·아이돌에 강점이 있다”며 “사람이 바뀌었으니 전략도 바뀔 것이다. 잘 키운다면 가능성이 있다”고 말했다. &nbsp; 누적 시청시간 4000만분을 넘긴 U+아이돌라이브. 사진 LG유플러스 &nbsp;━&nbsp; 혈맹 불사한 SKT·KT도 어렵다던데 &nbsp; 통신에선 SKT·KT와 싸웠지만, 비통신 시장에선 경계를 초월한 경쟁을 해야 한다. 이를 위해 통신사들은 혈맹 전략으로 경쟁력을 키우려고 애써왔다. SKT는 2019년 카카오와 3000억원 규모 지분을 교환했고, KT는 최근 신한지주와 4375억원어치 지분을 교환하며 ‘탈통신’ 혹은&nbsp;‘비통신’ 경쟁력을 키웠다. 그럼에도 두 회사 모두 네이버·카카오 같은 IT 기업들과 경쟁에서 고전 중이다.&nbsp; &nbsp; 이에 비해, LG유플러스는 아직 파트너십이나 대규모 투자, 인수합병 등을 시도한 적이 없다. 최남곤 연구원은 “제휴·투자를 열심히 한 경쟁사들도 아직 뚜렷한 실적이 없다”며 “LG유플러스는 여러 신사업을 노리기보단 딱 하나라도 성과를 제대로 보여주는 게 더 중요하다”고 말했다. 김홍식 연구원은 “콘텐트나 데이터처럼 ‘이미 뜬 사업’에 도전하기보단, 5G를 활용한 B2B 솔루션이나 소상공인용 AI 비서 등 통신사가 잘할 수 있는 본업 기반의 신사업을 강화하면 전망이 더 밝을 것”이라고 말했다. 김정민 기자 kim.jungmin4@joongang.co.kr]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/24/4ad6968d-7346-4855-a775-2c74b15ec3a7.jpg/_ir_205x115_/" length="0" type="image/jpg/_ir_205x115_/"/>
         </item>
         <item>
