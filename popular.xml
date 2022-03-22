@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>중앙일보 팩플 ─ 많이 본 기사</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:12:24 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[단독] 배민, 채용에 120문항 ‘배민 MBTI’ 도입…컬처핏이 뜬다 | 팩플]]></title>
-            <link>https://www.joongang.co.kr/article/25056910</link>
-            <guid>https://www.joongang.co.kr/article/25056910</guid>
-            <pubDate>Mon, 21 Mar 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.joongang.co.kr/factpl</id>
+    <title>중앙일보 팩플 ─ 많이 본 기사</title>
+    <updated>2022-03-22T08:15:30.104Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 배민, 채용에 120문항 ‘배민 MBTI’ 도입…컬처핏이 뜬다 | 팩플]]></title>
+        <id>https://www.joongang.co.kr/article/25056910</id>
+        <link href="https://www.joongang.co.kr/article/25056910"/>
+        <updated>2022-03-21T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
 <a href="https://www.joongang.co.kr/article/25056910" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/21/a62511ce-dc34-4f31-8bc2-30108627bfed.jpg/_ir_144x144_/" alt="[단독] 배민, 채용에 120문항 ‘배민 MBTI’ 도입…컬처핏이 뜬다 | 팩플" width="72" height="72">
 </a>
 </figure>
-</div>
 <div class="card_body">
 <em class="rank_count ico_num1">1</em>
 <h2 class="headline">
@@ -30,21 +26,18 @@
 <i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
 </button>
 </div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/21/a62511ce-dc34-4f31-8bc2-30108627bfed.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩플] KT·CJ ENM의 1000억 혈맹…‘OTT 2등 싸움’ 물밑 계산 분석해보니]]></title>
-            <link>https://www.joongang.co.kr/article/25057054</link>
-            <guid>https://www.joongang.co.kr/article/25057054</guid>
-            <pubDate>Mon, 21 Mar 2022 11:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] KT·CJ ENM의 1000억 혈맹…‘OTT 2등 싸움’ 물밑 계산 분석해보니]]></title>
+        <id>https://www.joongang.co.kr/article/25057054</id>
+        <link href="https://www.joongang.co.kr/article/25057054"/>
+        <updated>2022-03-21T11:10:19.442Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
 <a href="https://www.joongang.co.kr/article/25057054" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/21/d92da471-9683-43ca-a306-4139f5d7c845.jpg/_ir_144x144_/" alt="[팩플] KT·CJ ENM의 1000억 혈맹…‘OTT 2등 싸움’ 물밑 계산 분석해보니" width="72" height="72">
 </a>
 </figure>
-</div>
 <div class="card_body">
 <em class="rank_count ico_num2">2</em>
 <h2 class="headline">
@@ -56,21 +49,18 @@
 <i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
 </button>
 </div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/21/d92da471-9683-43ca-a306-4139f5d7c845.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩플] 1초면 하남→인천공항 …시·공간 뚫은 게임엔진發 콘텐트 혁신]]></title>
-            <link>https://www.joongang.co.kr/article/25057226</link>
-            <guid>https://www.joongang.co.kr/article/25057226</guid>
-            <pubDate>Tue, 22 Mar 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 1초면 하남→인천공항 …시·공간 뚫은 게임엔진發 콘텐트 혁신]]></title>
+        <id>https://www.joongang.co.kr/article/25057226</id>
+        <link href="https://www.joongang.co.kr/article/25057226"/>
+        <updated>2022-03-22T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
 <a href="https://www.joongang.co.kr/article/25057226" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/22/5c38034a-17e6-438b-bad7-9e09ccafbc79.jpg/_ir_144x144_/" alt="[팩플] 1초면 하남→인천공항 …시·공간 뚫은 게임엔진發 콘텐트 혁신" width="72" height="72">
 </a>
 </figure>
-</div>
 <div class="card_body">
 <em class="rank_count ico_num3">3</em>
 <h2 class="headline">
@@ -82,25 +72,45 @@
 <i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
 </button>
 </div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/22/5c38034a-17e6-438b-bad7-9e09ccafbc79.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩플] 게임사들 블록체인으로 무장했다…미래를 건 '가상화폐전쟁']]></title>
-            <link>https://www.joongang.co.kr/article/25056125</link>
-            <guid>https://www.joongang.co.kr/article/25056125</guid>
-            <pubDate>Thu, 17 Mar 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25056125" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/17/456b7666-c733-459a-8282-5081819762f3.jpg/_ir_144x144_/" alt="[팩플] 게임사들 블록체인으로 무장했다…미래를 건 '가상화폐전쟁'" width="72" height="72">
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 게임사 코인, 절대화폐가 될 수 있다? 없다?]]></title>
+        <id>https://www.joongang.co.kr/article/25057329</id>
+        <link href="https://www.joongang.co.kr/article/25057329"/>
+        <updated>2022-03-22T08:14:26.436Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25057329" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/22/ef5d2439-07ba-4ebf-8d26-461e10788c3b.jpg/_ir_144x144_/" alt="[팩플] 게임사 코인, 절대화폐가 될 수 있다? 없다?" width="72" height="72">
 </a>
 </figure>
-</div>
 <div class="card_body">
 <em class="rank_count ico_num4">4</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25056125" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 게임사들 블록체인으로 무장했다…미래를 건 '가상화폐전쟁'</a>
+<a href="https://www.joongang.co.kr/article/25057329" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 게임사 코인, 절대화폐가 될 수 있다? 없다?</a>
+</h2>
+<div class="meta">
+<p class="date">2022.03.22 15:06</p>
+<button type="button" class="btn_bookmark" data-cid="25057329" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 게임사들 블록체인으로 무장했다…미래를 건 '가상화폐전쟁']]></title>
+        <id>https://www.joongang.co.kr/article/25056125</id>
+        <link href="https://www.joongang.co.kr/article/25056125"/>
+        <updated>2022-03-17T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25056125" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/17/456b7666-c733-459a-8282-5081819762f3.jpg/_ir_144x144_/" alt="[팩플] 게임사들 블록체인으로 무장했다…미래를 건 '가상화폐전쟁'" width="72" height="72">
+</a>
+</figure>
+<div class="card_body">
+<em class="rank_count ico_num5">5</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25056125" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] 게임사들 블록체인으로 무장했다…미래를 건 '가상화폐전쟁'</a>
 </h2>
 <div class="meta">
 <p class="date">2022.03.17 06:00</p>
@@ -108,34 +118,6 @@
 <i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
 </button>
 </div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/17/456b7666-c733-459a-8282-5081819762f3.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩플] '오래된 미래' 주차장의 화려한 변신]]></title>
-            <link>https://www.joongang.co.kr/article/25056426</link>
-            <guid>https://www.joongang.co.kr/article/25056426</guid>
-            <pubDate>Fri, 18 Mar 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25056426" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/21/b3bb8cd3-bc43-4793-b648-97fb00dbae03.jpg/_ir_144x144_/" alt="[팩플] '오래된 미래' 주차장의 화려한 변신" width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num5">5</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25056426" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] '오래된 미래' 주차장의 화려한 변신</a>
-</h2>
-<div class="meta">
-<p class="date">2022.03.18 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25056426" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/21/b3bb8cd3-bc43-4793-b648-97fb00dbae03.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-    </channel>
-</rss>
+</div>]]></content>
+    </entry>
+</feed>
