@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/letter</id>
     <title>중앙일보 팩플 ─ 팩플레터</title>
-    <updated>2022-07-17T22:13:17.825Z</updated>
+    <updated>2022-07-18T03:07:25.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
     <entry>
@@ -21,8 +21,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.16 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25087348" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25087348" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -43,8 +43,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.13 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25086475" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25086475" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -65,8 +65,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.09 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25085586" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25085586" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -87,8 +87,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.06 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25084739" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25084739" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -109,8 +109,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.03 12:20</p>
-<button type="button" class="btn_bookmark" data-cid="25083939" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25083939" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -131,8 +131,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.06.29 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25082941" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25082941" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -153,8 +153,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.06.26 10:49</p>
-<button type="button" class="btn_bookmark" data-cid="25082017" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25082017" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -175,8 +175,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.06.22 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25081028" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25081028" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -197,8 +197,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.06.19 11:00</p>
-<button type="button" class="btn_bookmark" data-cid="25080172" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25080172" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -219,8 +219,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.06.15 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25079224" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25079224" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -241,8 +241,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.06.12 12:35</p>
-<button type="button" class="btn_bookmark" data-cid="25078451" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25078451" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -263,8 +263,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.06.08 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25077478" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25077478" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -285,8 +285,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.28 08:01</p>
-<button type="button" class="btn_bookmark" data-cid="25074944" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25074944" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -307,8 +307,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.25 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25073985" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25073985" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -329,8 +329,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.21 08:00</p>
-<button type="button" class="btn_bookmark" data-cid="25072991" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25072991" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -351,8 +351,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.18 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25072093" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25072093" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -373,8 +373,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.15 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25071222" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25071222" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -395,8 +395,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.14 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25071144" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25071144" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -417,8 +417,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.11 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25070289" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25070289" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -439,8 +439,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.04 05:00</p>
-<button type="button" class="btn_bookmark" data-cid="25068626" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25068626" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -461,8 +461,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.05.01 14:00</p>
-<button type="button" class="btn_bookmark" data-cid="25067858" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25067858" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -483,8 +483,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.04.28 05:00</p>
-<button type="button" class="btn_bookmark" data-cid="25067065" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25067065" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -505,8 +505,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.04.24 15:00</p>
-<button type="button" class="btn_bookmark" data-cid="25065845" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25065845" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -527,8 +527,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.04.20 05:00</p>
-<button type="button" class="btn_bookmark" data-cid="25064812" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25064812" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
