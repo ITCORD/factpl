@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-22T20:13:23.129Z</updated>
+    <updated>2022-07-22T21:10:31.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[팩플] "40분 녹음이면 100명 목소리 만든다"…불붙는 'AI 보이스' 시장 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -288,18 +288,40 @@
         <content type="html"><![CDATA[자율주행 기술 생태계의 주도권을 두고 기업들의 발걸음이 빨라지고 있다. 특히, 최근엔 통신사들도 네트워크 기술을 기반으로 관제·통신 인프라 구축에 속도를 내고 있다.&nbsp; &nbsp; &nbsp;━&nbsp; 무슨 일이야? &nbsp; SK텔레콤이 5G(5세대) 이동통신 기반의 차세대 지능형 교통 시스템 C-ITS(Cooperative-Intelligent Transport Systems)을 서울 마포구 월드컵경기장·난지한강공원 등으로 확대 적용한다고 27일 발표했다. 기존 C-ITS는 자율주행 시범지구인 상암 지역 내 일부 주거·상업으로 제한돼 있었다. 이번 확대 적용으로 이 지역에서 자율주행 차량들이 시범 운행할 수 있는 지역은 면적 기준으로 약 2배 이상 넓어졌다. SKT는 이번 시범 운행 지구 확대를 "자율주행 실증이 본격화되는 계기"라고 설명했다. &nbsp; &nbsp;━&nbsp; C-ITS가 뭔데?&nbsp; &nbsp; C-ITS란 차량이 운전자에게 주변 도로 교통 정보를 실시간으로 공유하는 시스템이다. 자율주행 차량은 물론 주변 차량 운전자와 보행자들의 안전을 위해서도 필요한 기술이다. 도로 교통 정보를 지연없이 송출해야해 통신 인프라의 역할이 중요하다. SKT는 2019년부터 서울시와 C-ITS 사업을 함께 추진해 왔다. 서울시에 5G, 차랑용 통신 기술 등 첨단 교통 인프라를 마련하는 게 이 사업의 핵심.&nbsp; &nbsp; 이를 위해 SKT는 다양한 ICT 기술도 활용하고 있다. 디지털 트윈이 대표적. 상암 시범운영지구를 3차원(3D) 디지털 공간에 똑같이 구현한 디지털 트윈을 서울시 자율주행 관제 시스템에 연동했다. SKT 관계자는 "차량, 도로 상황을 실시간으로 센싱해 이를 디지털 트윈에 반영하고 있기 때문에자율주행차와 교통 상황을 조합하고 통제할 수 있다"고 설명했다. 이외에 SKT는 상암 지역 32.3km 길이의 자율주행 구간에 신호제어기, 불법주정차 카메라 등을 대폭 확충했다고 밝혔다. 기기들이 수집한 도로 교통 정보는 서울시의 V2X(vehicle to everything) 단말기를 장착한 자율주행 차량들에 제공된다. V2X는 차량이 유무선 통신망을 통해 주변 차량이나 도로 인프라와 정보를 교환하고 공유하는 기술.&nbsp; SK텔레콤이 27일 상암지역 자율주행차 시범운행지구를 확대, 구축했다고 밝혔다. 사진은 ‘서울 미래 모빌리티 센터’ 관제실에서 디지털 트윈으로 구현된 상암 자율주행 시범운영지구에서 도로 교통을 관제하는 모습. [SK텔레콤] &nbsp; &nbsp;━&nbsp; 통신사의 자율주행, 카카오랑 뭐가 달라? &nbsp; 통신·테크 기업들은 자율주행 시장에서 저마다 가장 자신 있어하는 제반 기술·인프라를 강화하고 있다. 기업별 강점과 개발중인 기술을 살펴보니. &nbsp; ●‘네트워크’ 내세우는 통신사:&nbsp;빠르고 지체없는 통신, 즉 초고속·저지연(low-latency·네트워크 지연에 없거나 적음)&nbsp;통신기술이 자율주행엔 필수다. 5G·6G 이동통신 기술을 연구하고 네트워크 역량을 보유한 통신사들의 입지가 유리하다. 자율주행시 필요한 차량간(V2V), 차량과 도로 인프라 간(V2I) 정보교환도 결국 통신을 통해 구현된다. 물론 액션 플랜은 기업별로 다르다. KT는 경기도 안양시에서 새벽 시간대 자율주행 셔틀버스를 운행하겠다는 계획을 26일 발표했다. LG유플러스는 AI(인공지능)로 자율주행차의 이상 여부를 진단하는 기술을 개발 중. ● 서비스 플랫폼 노리는 MaaS :&nbsp;카카오모빌리티 같은 MaaS(Mobility as a Service·서비스형 모빌리티) 기업과 모빌리티 스타트업들은 자율주행차나 솔루션을 만들어 주도권을 잡으려 한다. 카카오모빌리티는 2월에 개최했던 테크 컨퍼런스 '넥스트 모빌리티: 네모 2022'에서 자체 개발한 자율주행차를 공개했다. 실내외 구분 없이 고정밀(HD) 지도를 구현하는 모바일 매핑 시스템(MMS) 아르고스와 빅데이터를 시각화해 의사결정을 돕는 모빌리티 아틀라스같은 솔루션도 카카오모빌리티의 무기. 이 회사는 경기도 성남시 판교테크노밸리 일대에서 자율주행 시범 운행도 하고 있다.&nbsp;네이버 최고기술책임자(CTO) 출신 송창현 대표가 세운 모빌리티 스타트업 포티투닷(42dot)은 연내에 레벨4(운전자 개입이 필요없는 자율주행 단계) 수준의 자율주행 시범 차량을 30대 이상으로 늘릴 계획. 상용화가 아닌 시범 운행 단계라고 하지만 국내 기업들 중 최대 규모다. 자율주행 기술을 개발 중인 현대차가 포티투닷의 2대 주주(지분율 25.77%)다.&nbsp;&nbsp; &nbsp; &nbsp;━&nbsp; 더 알아야 할 것 &nbsp; 기술 개발 경쟁이 심화되긴 했지만 여전히 자율주행차량·기술이 근미래 상용화가 된다거나 당장 돈을 벌어다줄 사업 모델이 되긴 힘든 것이 현실. 그럼에도 불구하고 기업들이 자율주행 시장에 진심이라는데, 그 이유는. ●“미래 사업 엮어줄 필수재” : SKT 관계자는 "자율주행 시대를 맞이할 때, 관련 기술과 인프라를 철저히 준비해둔 기업만이 살아남을 수 있을 것"이라며 "자율주행 시대에 급격히 커질 카포테인먼트(자동차·인포메이션·엔터테인먼트를 합친 용어) 시장에서도 SKT의 미디어·메타버스 사업이 각광받을 것"이라고 강조했다. 모빌리티·통신 기술과 콘텐트까지 모두 자율주행 시대를 대비하는 필수 준비물이라는 것. &nbsp; ● 합종연횡 파트너십은 필수: 자율주행 관련 기술·디바이스·플랫폼을 모두 다 갖추는 것이 쉽지 않으니 적절한 파트너 기업을 찾는 것도 트렌드. 카카오모빌리티와 LG전자는 차량 내 사용자 경험 발굴, 자율주행 로봇 사업 등을 위한 업무협약(MOU)을 맺었다고 22일 발표했다. 앞서 21일 티맵모빌리티는 스타트업 마스오토와 함께 자율주행 화물·버스 상용화를 준비한다고 밝혔다. 네이버는 투자 전문조직 D2SF를 통해 모라이·뷰런테크놀로지 등 자율주행 스타트업에 투자한 바 있다.&nbsp; 그래픽=전유진 yuki@joongang.co.kr &nbsp; 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩플] BNPL, 앞으로 읽어도 뒤로 읽어도 외상? (중앙일보 팩플 ─ 팩플레터)]]></title>
+        <id>https://www.joongang.co.kr/article/25089095</id>
+        <link href="https://www.joongang.co.kr/article/25089095"/>
+        <updated>2022-07-23T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25089095" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="1">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/23/03a52e5c-e353-4db5-b118-061dfa0b151c.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/23/03a52e5c-e353-4db5-b118-061dfa0b151c.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/23/03a52e5c-e353-4db5-b118-061dfa0b151c.jpg/_ir_760x426_/ 2x" alt="[팩플] BNPL, 앞으로 읽어도 뒤로 읽어도 외상?" width="380" height="213">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25089095" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="1">[팩플] BNPL, 앞으로 읽어도 뒤로 읽어도 외상?</a>
+</h2>
+<div class="meta">
+<p class="date">2022.07.23 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25089095" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩플] 귤이냐 탱자냐, K-BNPL (중앙일보 팩플 ─ 팩플레터)]]></title>
         <id>https://www.joongang.co.kr/article/25087975</id>
         <link href="https://www.joongang.co.kr/article/25087975"/>
         <updated>2022-07-19T11:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25087975" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25087975" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/20/079b29f3-c157-4804-a396-44c0ca8633be.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/20/079b29f3-c157-4804-a396-44c0ca8633be.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/20/079b29f3-c157-4804-a396-44c0ca8633be.jpg/_ir_760x426_/ 2x" alt="[팩플] 귤이냐 탱자냐, K-BNPL" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25087975" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="1">[팩플] 귤이냐 탱자냐, K-BNPL</a>
+<a href="https://www.joongang.co.kr/article/25087975" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="2">[팩플] 귤이냐 탱자냐, K-BNPL</a>
 </h2>
 <div class="meta">
 <p class="date">2022.07.19 11:00</p>
@@ -315,13 +337,13 @@
         <link href="https://www.joongang.co.kr/article/25087348"/>
         <updated>2022-07-16T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25087348" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25087348" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/16/c7d36963-3dd0-4b56-ae90-7018ef89cf00.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/16/c7d36963-3dd0-4b56-ae90-7018ef89cf00.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/16/c7d36963-3dd0-4b56-ae90-7018ef89cf00.jpg/_ir_760x426_/ 2x" alt="[팩플] 어느새 바뀐 패러다임...내 안에 '버추얼 휴먼' 있다" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25087348" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="2">[팩플] 어느새 바뀐 패러다임...내 안에 '버추얼 휴먼' 있다</a>
+<a href="https://www.joongang.co.kr/article/25087348" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="3">[팩플] 어느새 바뀐 패러다임...내 안에 '버추얼 휴먼' 있다</a>
 </h2>
 <div class="meta">
 <p class="date">2022.07.16 06:00</p>
@@ -337,13 +359,13 @@
         <link href="https://www.joongang.co.kr/article/25086475"/>
         <updated>2022-07-13T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25086475" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25086475" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/13/9b0e1c11-c0b1-43c8-9e3c-102b36a9193a.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/13/9b0e1c11-c0b1-43c8-9e3c-102b36a9193a.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/13/9b0e1c11-c0b1-43c8-9e3c-102b36a9193a.jpg/_ir_760x426_/ 2x" alt="[팩플] 2번째 전성기 맞은 버추얼 휴먼, 진짜 광기? 가짜 광기? " width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25086475" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="3">[팩플] 2번째 전성기 맞은 버추얼 휴먼, 진짜 광기? 가짜 광기? </a>
+<a href="https://www.joongang.co.kr/article/25086475" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="4">[팩플] 2번째 전성기 맞은 버추얼 휴먼, 진짜 광기? 가짜 광기? </a>
 </h2>
 <div class="meta">
 <p class="date">2022.07.13 06:00</p>
@@ -359,13 +381,13 @@
         <link href="https://www.joongang.co.kr/article/25085586"/>
         <updated>2022-07-09T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25085586" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25085586" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/11/5b48d88c-e135-40cc-9f3b-80e163c29f0d.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/11/5b48d88c-e135-40cc-9f3b-80e163c29f0d.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/11/5b48d88c-e135-40cc-9f3b-80e163c29f0d.jpg/_ir_760x426_/ 2x" alt="[팩플] 프로 재택러 vs 프로 출근러, 승자는?" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25085586" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="4">[팩플] 프로 재택러 vs 프로 출근러, 승자는?</a>
+<a href="https://www.joongang.co.kr/article/25085586" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="5">[팩플] 프로 재택러 vs 프로 출근러, 승자는?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.07.09 06:00</p>
@@ -381,13 +403,13 @@
         <link href="https://www.joongang.co.kr/article/25084739"/>
         <updated>2022-07-06T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25084739" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25084739" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="6">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/06/42ea2690-f547-4ac7-8de3-808491d5cd3a.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/06/42ea2690-f547-4ac7-8de3-808491d5cd3a.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/06/42ea2690-f547-4ac7-8de3-808491d5cd3a.jpg/_ir_760x426_/ 2x" alt="이제 사무실과 '헤어질 결심'...엔데믹 표준이 됐다, 원격근무 [팩플] " width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25084739" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="5">이제 사무실과 '헤어질 결심'...엔데믹 표준이 됐다, 원격근무 [팩플] </a>
+<a href="https://www.joongang.co.kr/article/25084739" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="6">이제 사무실과 '헤어질 결심'...엔데믹 표준이 됐다, 원격근무 [팩플] </a>
 </h2>
 <div class="meta">
 <p class="date">2022.07.06 06:00</p>
@@ -403,13 +425,13 @@
         <link href="https://www.joongang.co.kr/article/25083939"/>
         <updated>2022-07-03T00:20:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25083939" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25083939" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="7">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/03/fb1e5344-acf0-4440-93da-8776ae6e53f5.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/03/fb1e5344-acf0-4440-93da-8776ae6e53f5.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/03/fb1e5344-acf0-4440-93da-8776ae6e53f5.jpg/_ir_760x426_/ 2x" alt="[팩플] 프리한 ‘수퍼 일잘러’가 되려면" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25083939" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="6">[팩플] 프리한 ‘수퍼 일잘러’가 되려면</a>
+<a href="https://www.joongang.co.kr/article/25083939" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="7">[팩플] 프리한 ‘수퍼 일잘러’가 되려면</a>
 </h2>
 <div class="meta">
 <p class="date">2022.07.03 12:20</p>
@@ -425,13 +447,13 @@
         <link href="https://www.joongang.co.kr/article/25082941"/>
         <updated>2022-06-29T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25082941" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25082941" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="8">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/08/aa7d06b9-eeaa-4f1e-893b-9518bff25b65.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/08/aa7d06b9-eeaa-4f1e-893b-9518bff25b65.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202207/08/aa7d06b9-eeaa-4f1e-893b-9518bff25b65.jpg/_ir_760x426_/ 2x" alt="열정페이가 1억? 이게 웬일?…수퍼프리랜서, 넌 누구냐 [팩플]" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25082941" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="7">열정페이가 1억? 이게 웬일?…수퍼프리랜서, 넌 누구냐 [팩플]</a>
+<a href="https://www.joongang.co.kr/article/25082941" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="8">열정페이가 1억? 이게 웬일?…수퍼프리랜서, 넌 누구냐 [팩플]</a>
 </h2>
 <div class="meta">
 <p class="date">2022.06.29 06:00</p>
@@ -447,13 +469,13 @@
         <link href="https://www.joongang.co.kr/article/25082017"/>
         <updated>2022-06-26T10:49:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25082017" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25082017" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="9">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/26/99bf0117-6f8c-486b-8bce-1b97744f5c09.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/26/99bf0117-6f8c-486b-8bce-1b97744f5c09.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/26/99bf0117-6f8c-486b-8bce-1b97744f5c09.jpg/_ir_760x426_/ 2x" alt="[팩플] 염라대왕 앞에선 거짓말해도 검색창 앞에선..?" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25082017" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="8">[팩플] 염라대왕 앞에선 거짓말해도 검색창 앞에선..?</a>
+<a href="https://www.joongang.co.kr/article/25082017" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="9">[팩플] 염라대왕 앞에선 거짓말해도 검색창 앞에선..?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.06.26 10:49</p>
@@ -469,13 +491,13 @@
         <link href="https://www.joongang.co.kr/article/25081028"/>
         <updated>2022-06-22T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25081028" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25081028" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="10">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/22/989f3399-59de-417f-acb2-952d9937b991.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/22/989f3399-59de-417f-acb2-952d9937b991.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/22/989f3399-59de-417f-acb2-952d9937b991.jpg/_ir_760x426_/ 2x" alt="[팩플] 스크린 밖으로 나온 구글·네이버 검색의 미래" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25081028" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="9">[팩플] 스크린 밖으로 나온 구글·네이버 검색의 미래</a>
+<a href="https://www.joongang.co.kr/article/25081028" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="10">[팩플] 스크린 밖으로 나온 구글·네이버 검색의 미래</a>
 </h2>
 <div class="meta">
 <p class="date">2022.06.22 06:00</p>
@@ -491,13 +513,13 @@
         <link href="https://www.joongang.co.kr/article/25080172"/>
         <updated>2022-06-19T11:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25080172" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25080172" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="11">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/19/0aee14b1-a76f-4b16-bb32-c97fa7fdda62.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/19/0aee14b1-a76f-4b16-bb32-c97fa7fdda62.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/19/0aee14b1-a76f-4b16-bb32-c97fa7fdda62.jpg/_ir_760x426_/ 2x" alt="[팩플] 노브랜드는 되고 카카오택시는 안된다는데, 왜?" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25080172" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="10">[팩플] 노브랜드는 되고 카카오택시는 안된다는데, 왜?</a>
+<a href="https://www.joongang.co.kr/article/25080172" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="11">[팩플] 노브랜드는 되고 카카오택시는 안된다는데, 왜?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.06.19 11:00</p>
@@ -513,13 +535,13 @@
         <link href="https://www.joongang.co.kr/article/25079224"/>
         <updated>2022-06-15T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25079224" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25079224" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="12">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/15/41a89dd4-cfb1-4bc0-8de1-1b6d0bb1c552.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/15/41a89dd4-cfb1-4bc0-8de1-1b6d0bb1c552.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/15/41a89dd4-cfb1-4bc0-8de1-1b6d0bb1c552.jpg/_ir_760x426_/ 2x" alt="[팩플] 신뢰 위기 부른 네·카·쿠 자사우대...플랫폼, '진실의 방'으로" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25079224" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="11">[팩플] 신뢰 위기 부른 네·카·쿠 자사우대...플랫폼, '진실의 방'으로</a>
+<a href="https://www.joongang.co.kr/article/25079224" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="12">[팩플] 신뢰 위기 부른 네·카·쿠 자사우대...플랫폼, '진실의 방'으로</a>
 </h2>
 <div class="meta">
 <p class="date">2022.06.15 06:00</p>
@@ -535,13 +557,13 @@
         <link href="https://www.joongang.co.kr/article/25078451"/>
         <updated>2022-06-12T00:35:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25078451" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25078451" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="13">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/12/3283aaaf-72b5-4f24-88e4-99308ad7f06e.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/12/3283aaaf-72b5-4f24-88e4-99308ad7f06e.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/12/3283aaaf-72b5-4f24-88e4-99308ad7f06e.jpg/_ir_760x426_/ 2x" alt="[팩플] 호시절과 '헤어지는 중입니다'" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25078451" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="12">[팩플] 호시절과 '헤어지는 중입니다'</a>
+<a href="https://www.joongang.co.kr/article/25078451" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="13">[팩플] 호시절과 '헤어지는 중입니다'</a>
 </h2>
 <div class="meta">
 <p class="date">2022.06.12 12:35</p>
@@ -557,13 +579,13 @@
         <link href="https://www.joongang.co.kr/article/25077478"/>
         <updated>2022-06-08T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25077478" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25077478" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="14">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/09/f7eb0468-f224-401a-80ca-29b61fcc65fe.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/09/f7eb0468-f224-401a-80ca-29b61fcc65fe.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202206/09/f7eb0468-f224-401a-80ca-29b61fcc65fe.jpg/_ir_760x426_/ 2x" alt="[팩플] 거품이 빠진다…테크버블, 9인의 View" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25077478" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="13">[팩플] 거품이 빠진다…테크버블, 9인의 View</a>
+<a href="https://www.joongang.co.kr/article/25077478" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="14">[팩플] 거품이 빠진다…테크버블, 9인의 View</a>
 </h2>
 <div class="meta">
 <p class="date">2022.06.08 06:00</p>
@@ -579,13 +601,13 @@
         <link href="https://www.joongang.co.kr/article/25074944"/>
         <updated>2022-05-28T08:01:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25074944" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25074944" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="15">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/28/37cec644-a289-43c9-8e74-7d50606ee84d.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/28/37cec644-a289-43c9-8e74-7d50606ee84d.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/28/37cec644-a289-43c9-8e74-7d50606ee84d.jpg/_ir_760x426_/ 2x" alt="[팩플] 클라우드 앞에도 K가 필요할까 " width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25074944" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="14">[팩플] 클라우드 앞에도 K가 필요할까 </a>
+<a href="https://www.joongang.co.kr/article/25074944" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="15">[팩플] 클라우드 앞에도 K가 필요할까 </a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.28 08:01</p>
@@ -601,13 +623,13 @@
         <link href="https://www.joongang.co.kr/article/25073985"/>
         <updated>2022-05-25T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25073985" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25073985" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="16">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/25/568e361e-dacf-433f-b492-4a9fc11a3af2.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/25/568e361e-dacf-433f-b492-4a9fc11a3af2.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/25/568e361e-dacf-433f-b492-4a9fc11a3af2.jpg/_ir_760x426_/ 2x" alt="[팩플] 구름 올라타는 정부, 이삿짐은 누가?" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25073985" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="15">[팩플] 구름 올라타는 정부, 이삿짐은 누가?</a>
+<a href="https://www.joongang.co.kr/article/25073985" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="16">[팩플] 구름 올라타는 정부, 이삿짐은 누가?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.25 06:00</p>
@@ -623,13 +645,13 @@
         <link href="https://www.joongang.co.kr/article/25072991"/>
         <updated>2022-05-21T08:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25072991" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25072991" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="17">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/21/666ea317-85a6-4708-ab3f-168e0ee851e2.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/21/666ea317-85a6-4708-ab3f-168e0ee851e2.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/21/666ea317-85a6-4708-ab3f-168e0ee851e2.jpg/_ir_760x426_/ 2x" alt="[팩플] 겜플릭스, 얼마면 되겠니?" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25072991" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="16">[팩플] 겜플릭스, 얼마면 되겠니?</a>
+<a href="https://www.joongang.co.kr/article/25072991" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="17">[팩플] 겜플릭스, 얼마면 되겠니?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.21 08:00</p>
@@ -645,13 +667,13 @@
         <link href="https://www.joongang.co.kr/article/25072093"/>
         <updated>2022-05-18T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25072093" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25072093" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="18">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/20/6b65ee28-8274-4116-8a6b-6a09cb532fb7.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/20/6b65ee28-8274-4116-8a6b-6a09cb532fb7.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/20/6b65ee28-8274-4116-8a6b-6a09cb532fb7.jpg/_ir_760x426_/ 2x" alt="[팩플] 겜플릭스 왕좌의 게임, MS-소니의 GaaS 전쟁" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25072093" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="17">[팩플] 겜플릭스 왕좌의 게임, MS-소니의 GaaS 전쟁</a>
+<a href="https://www.joongang.co.kr/article/25072093" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="18">[팩플] 겜플릭스 왕좌의 게임, MS-소니의 GaaS 전쟁</a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.18 06:00</p>
@@ -667,13 +689,13 @@
         <link href="https://www.joongang.co.kr/article/25071222"/>
         <updated>2022-05-15T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25071222" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25071222" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="19">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/20/2d8b2777-3dbe-45ee-a202-448b1a63baf6.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/20/2d8b2777-3dbe-45ee-a202-448b1a63baf6.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/20/2d8b2777-3dbe-45ee-a202-448b1a63baf6.jpg/_ir_760x426_/ 2x" alt="[팩플] 윤석열 정부가 가장 힘줘야할 ICT 정책은?" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25071222" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="18">[팩플] 윤석열 정부가 가장 힘줘야할 ICT 정책은?</a>
+<a href="https://www.joongang.co.kr/article/25071222" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="19">[팩플] 윤석열 정부가 가장 힘줘야할 ICT 정책은?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.15 06:00</p>
@@ -689,13 +711,13 @@
         <link href="https://www.joongang.co.kr/article/25071144"/>
         <updated>2022-05-14T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25071144" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25071144" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="20">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/14/1d714917-7ca3-4093-98ed-8c1758be08ab.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/14/1d714917-7ca3-4093-98ed-8c1758be08ab.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/14/1d714917-7ca3-4093-98ed-8c1758be08ab.jpg/_ir_760x426_/ 2x" alt="[팩플] 우리 아이 놀이공간에 IoT…쑥쑥 크는 '키즈테크' 어디까지?" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25071144" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="19">[팩플] 우리 아이 놀이공간에 IoT…쑥쑥 크는 '키즈테크' 어디까지?</a>
+<a href="https://www.joongang.co.kr/article/25071144" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="20">[팩플] 우리 아이 놀이공간에 IoT…쑥쑥 크는 '키즈테크' 어디까지?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.14 06:00</p>
@@ -711,13 +733,13 @@
         <link href="https://www.joongang.co.kr/article/25070289"/>
         <updated>2022-05-11T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25070289" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25070289" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="21">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/11/393a9567-3855-43d6-953c-6773d96df1f7.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/11/393a9567-3855-43d6-953c-6773d96df1f7.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/11/393a9567-3855-43d6-953c-6773d96df1f7.jpg/_ir_760x426_/ 2x" alt="[팩플] 윤석열의 ICT는 어디에 힘 쏟나...'플랫폼 정부' 앞 과제는 " width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25070289" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="20">[팩플] 윤석열의 ICT는 어디에 힘 쏟나...'플랫폼 정부' 앞 과제는 </a>
+<a href="https://www.joongang.co.kr/article/25070289" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="21">[팩플] 윤석열의 ICT는 어디에 힘 쏟나...'플랫폼 정부' 앞 과제는 </a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.11 06:00</p>
@@ -733,13 +755,13 @@
         <link href="https://www.joongang.co.kr/article/25068626"/>
         <updated>2022-05-04T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25068626" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25068626" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="22">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/04/8aa9df1d-837f-4044-b1d0-d5dbc426d860.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/04/8aa9df1d-837f-4044-b1d0-d5dbc426d860.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/04/8aa9df1d-837f-4044-b1d0-d5dbc426d860.jpg/_ir_760x426_/ 2x" alt="&quot;엄마, 내 앱은 내가 고를래요&quot; 뱃속부터 텍잘알, 55조 키즈테크 [팩플] | 풀버전" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25068626" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="21">"엄마, 내 앱은 내가 고를래요" 뱃속부터 텍잘알, 55조 키즈테크 [팩플] | 풀버전</a>
+<a href="https://www.joongang.co.kr/article/25068626" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="22">"엄마, 내 앱은 내가 고를래요" 뱃속부터 텍잘알, 55조 키즈테크 [팩플] | 풀버전</a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.04 05:00</p>
@@ -755,13 +777,13 @@
         <link href="https://www.joongang.co.kr/article/25067858"/>
         <updated>2022-05-01T06:13:35.552Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25067858" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25067858" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="23">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/01/98625287-b98f-412d-adaa-66d83f2628c6.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/01/98625287-b98f-412d-adaa-66d83f2628c6.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/01/98625287-b98f-412d-adaa-66d83f2628c6.jpg/_ir_760x426_/ 2x" alt="[팩플] 명품백 사다 개인정보 털린 후기" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25067858" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="22">[팩플] 명품백 사다 개인정보 털린 후기</a>
+<a href="https://www.joongang.co.kr/article/25067858" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="23">[팩플] 명품백 사다 개인정보 털린 후기</a>
 </h2>
 <div class="meta">
 <p class="date">2022.05.01 14:00</p>
@@ -777,39 +799,17 @@
         <link href="https://www.joongang.co.kr/article/25067065"/>
         <updated>2022-04-28T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25067065" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25067065" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="24">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/28/2ca631d0-a8b2-4203-a487-a54b12a4f0f5.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/28/2ca631d0-a8b2-4203-a487-a54b12a4f0f5.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/28/2ca631d0-a8b2-4203-a487-a54b12a4f0f5.jpg/_ir_760x426_/ 2x" alt="[팩플] 찐의 전쟁, 누가 검수완벽을 해낼까 | 풀버전" width="380" height="213">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25067065" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="23">[팩플] 찐의 전쟁, 누가 검수완벽을 해낼까 | 풀버전</a>
+<a href="https://www.joongang.co.kr/article/25067065" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="24">[팩플] 찐의 전쟁, 누가 검수완벽을 해낼까 | 풀버전</a>
 </h2>
 <div class="meta">
 <p class="date">2022.04.28 05:00</p>
 <button type="button" class="btn_bookmark" data-cid="25067065" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 무임승차? 필수 기술?…웹 크롤링 허용 범위 논란 (중앙일보 팩플 ─ 팩플레터)]]></title>
-        <id>https://www.joongang.co.kr/article/25065845</id>
-        <link href="https://www.joongang.co.kr/article/25065845"/>
-        <updated>2022-04-24T06:13:56.329Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25065845" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="24">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/24/de79ac64-0a64-4976-ab46-4cbba9af9749.jpg/_ir_380x213_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/24/de79ac64-0a64-4976-ab46-4cbba9af9749.jpg/_ir_380x213_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/24/de79ac64-0a64-4976-ab46-4cbba9af9749.jpg/_ir_760x426_/ 2x" alt="[팩플] 무임승차? 필수 기술?…웹 크롤링 허용 범위 논란" width="380" height="213">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25065845" data-evnt-ctg="area:중앙|오리지널 리포트" data-evnt-act="move:중앙섹션-A-최신기사-포토 리스트 3단(검색엔진)" data-evnt-lbl="24">[팩플] 무임승차? 필수 기술?…웹 크롤링 허용 범위 논란</a>
-</h2>
-<div class="meta">
-<p class="date">2022.04.24 15:00</p>
-<button type="button" class="btn_bookmark" data-cid="25065845" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
