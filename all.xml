@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-25T10:14:05.910Z</updated>
+    <updated>2022-08-25T11:12:04.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[팩플] "이참에 배달앱 갈아타?" 배민ㆍ쿠팡 수수료 부담에 공공배달앱 뜬다 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -51,19 +51,42 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수백만명 모으고, 수천억 끌어오는 90년대생 CEO들의 모든 것 [팩플] (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25095682</id>
-        <link href="https://www.joongang.co.kr/article/25095682"/>
-        <updated>2022-08-20T06:00:00.000Z</updated>
+        <title type="html"><![CDATA[[팩플] K-교육, IT로 바뀔까…메타버스ㆍVR로 교문 여는 빅테크 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25097029</id>
+        <link href="https://www.joongang.co.kr/article/25097029"/>
+        <updated>2022-08-25T10:12:22.926Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25095682" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202208/20/262f0741-9dbb-49d2-bab4-67fa402bc2f8.jpg/_ir_144x144_/" alt="수백만명 모으고, 수천억 끌어오는 90년대생 CEO들의 모든 것 [팩플]" width="72" height="72">
+<a href="https://www.joongang.co.kr/article/25097029" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202208/25/ca1e28fe-64d2-4b43-b827-08eb42174b79.jpg/_ir_144x144_/" alt="[팩플] K-교육, IT로 바뀔까…메타버스ㆍVR로 교문 여는 빅테크" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
 <em class="rank_count ico_num3">3</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25095682" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">수백만명 모으고, 수천억 끌어오는 90년대생 CEO들의 모든 것 [팩플]</a>
+<a href="https://www.joongang.co.kr/article/25097029" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] K-교육, IT로 바뀔까…메타버스ㆍVR로 교문 여는 빅테크</a>
+</h2>
+<div class="meta">
+<p class="date">2022.08.25 18:25</p>
+<button type="button" class="btn_bookmark" data-cid="25097029" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수백만명 모으고, 수천억 끌어오는 90년대생 CEO들의 모든 것 [팩플] (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25095682</id>
+        <link href="https://www.joongang.co.kr/article/25095682"/>
+        <updated>2022-08-20T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25095682" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202208/20/262f0741-9dbb-49d2-bab4-67fa402bc2f8.jpg/_ir_144x144_/" alt="수백만명 모으고, 수천억 끌어오는 90년대생 CEO들의 모든 것 [팩플]" width="72" height="72">
+</a>
+</figure>
+<div class="card_body">
+<em class="rank_count ico_num4">4</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25095682" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">수백만명 모으고, 수천억 끌어오는 90년대생 CEO들의 모든 것 [팩플]</a>
 </h2>
 <div class="meta">
 <p class="date">2022.08.20 06:00</p>
@@ -79,14 +102,14 @@
         <link href="https://www.joongang.co.kr/article/25095140"/>
         <updated>2022-08-18T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25095140" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25095140" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202208/18/4d118e21-f6d2-4fb3-b5a6-273b7bdfcd99.jpg/_ir_144x144_/" alt="YG·김앤장 출신도 '픽'했다…영화 가성비 뛰어넘는 韓콘텐트 [팩플]" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
-<em class="rank_count ico_num4">4</em>
+<em class="rank_count ico_num5">5</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25095140" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">YG·김앤장 출신도 '픽'했다…영화 가성비 뛰어넘는 韓콘텐트 [팩플]</a>
+<a href="https://www.joongang.co.kr/article/25095140" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">YG·김앤장 출신도 '픽'했다…영화 가성비 뛰어넘는 韓콘텐트 [팩플]</a>
 </h2>
 <div class="meta">
 <p class="date">2022.08.18 05:00</p>
@@ -97,33 +120,10 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩플] K-교육, IT로 바뀔까…메타버스ㆍVR로 교문 여는 빅테크 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25097029</id>
-        <link href="https://www.joongang.co.kr/article/25097029"/>
-        <updated>2022-08-25T10:12:22.926Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25097029" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202208/25/ca1e28fe-64d2-4b43-b827-08eb42174b79.jpg/_ir_144x144_/" alt="[팩플] K-교육, IT로 바뀔까…메타버스ㆍVR로 교문 여는 빅테크" width="72" height="72">
-</a>
-</figure>
-<div class="card_body">
-<em class="rank_count ico_num5">5</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25097029" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] K-교육, IT로 바뀔까…메타버스ㆍVR로 교문 여는 빅테크</a>
-</h2>
-<div class="meta">
-<p class="date">2022.08.25 18:25</p>
-<button type="button" class="btn_bookmark" data-cid="25097029" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[팩플] K-교육, IT로 바뀔까…메타버스ㆍVR로 교문 여는 빅테크 (중앙일보 팩플 ─ 뉴스)]]></title>
         <id>https://www.joongang.co.kr/article/25097029</id>
         <link href="https://www.joongang.co.kr/article/25097029"/>
-        <updated>2022-08-25T10:12:33.509Z</updated>
+        <updated>2022-08-25T10:12:22.926Z</updated>
         <content type="html"><![CDATA[메타(페이스북)·네이버 등 빅테크 기업들이 앞다퉈 한국 교육 시장의 문을 두드리고 있다. 길게 보면 돈이 되는 B2G(Business to Government·기업과 정부간 거래) 시장의 가능성을 엿본 것. 정보통신(IT) 기업들은 주로 어떤 서비스·기술을 교육 시장에 도입하는지, 또 왜 이런 시도를 하는지 알아봤다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 지난해 10월 사명까지 바꾸며 메타버스에 올인한 메타는 VR(가상현실) 기술을 기반으로 하는 메타버스를, 네이버는 웨일 브라우저 기반의 교육 플랫폼 '웨일 스페이스'를 초·중·고 교실에 적극 도입하려고 한다. 메타(구 페이스북)는 25일 서울 조선 팰리스 강남 호텔에서 ‘교육 현장에서의 메타버스 미디어 브리핑’을 열었다. 메타버스에 대한 메타의 비전을 공유하고, 실제 교육 현장에서 다양하게 활용되고 있는 메타버스 및 VR(가상현실) 기술을 조명하고자 마련된 자리다. ● 휠체어 조립 훈련도 VR로: 메타는 25일 역삼동에서 '교육 현장에서의 메타버스 미디어 브리핑' 행사를 열고 VR과 AR(증강현실) 기술을 실제 교육 현장에 접목하는 스타트업을 소개했다. 브이리스브이알(VRisVR)은 의료 보조기기 관리 인력인 '휠마스터' 훈련 교육 프로그램을 VR로 만들었다. 권종수 브이리스브이알 대표는 "그동안은 휠마스터가 되고 싶은 발달장애인들이 병원·요양원에 직접 가서 휠체어를 청소, 훈련했어야만 했지만 메타버스 환경에선 가상으로 휠체어를 체험하고 교육 받을 수 있다"고 설명. 또 다른 스타트업 에어패스는 VR스포츠실을 만들어서 시범 운영중. 스크린골프를 치듯이 아이들이 스크린 앞에서 각종 스포츠를 즐기는 것. 메타는 이들 회사들이 각종 실감형 콘텐트를 더 많은 현장에 보급할 수 있게 적극 지원할 계획이다. &nbsp; ● 17개 교육청에 깔린 웨일:&nbsp;이날 네이버도 "출시 1년 6개월 만에 전국 모든 시·도 교육청에 웨일 스페이스를 도입했다"고 발표했다. 웨일 스페이스는 수업에 필요한 다양한 서비스를 웨일 브라우저에 모은 플랫폼이다. 웨일온(화상 채팅) 같은 웨일 자체 기능도 쓸 수 있지만, 교사들 사이에서 인기인 '미리캔버스' 같은 외부 솔루션 등 50가지 기능을 자유자재로 쓸 수 있다. 김효 네이버 웨일 책임리더는 "교육청에서 웨일스페이스를 도입한만큼 일선 교육 현장에서도 각자 원하는 방식으로 플랫폼을 적극 활용할 것으로 보인다"고 말했다. &nbsp; 그래픽=신재민 기자 shin.jaemin@joongang.co.kr &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 이들 빅테크 기업들은 에듀테크 시장에 적극적이지만, 그렇다고 당장 수익화를 목표로 하진 않는다. 교육 현장에서 자사 서비스를 가능한 한 많이 확산시켜 '메타 생태계', '네이버 생태계'에 교사와 학생을 묶어두는 게 더 큰 목적이다. &nbsp; ● 하드웨어·소프트웨어 둘 다: 김진아 메타 코리아 대표는 "하드웨어 시장은 메타 퀘스트2(VR 헤드셋), 레이벤과 협업해서 만든 스마트 안경 등으로 계속 영향력을 키우고 있다"며 "동시에 소프트웨어 측면에선 메타가 12개국에 만든 '리얼리티 랩'에서 각종 기술을 만드는 중"이라고 설명했다. 김 대표는 "국내에 훌륭한 VR 기술 등을 적극 알리는 것도 메타의 임무라고 생각한다"고 강조했다. 메타가 직접 개발한 기술·서비스가 아니더라도 사회에 득이 되는 좋은 기술이면 적극 나서서 함께 키우겠다는 것. &nbsp; ● B2G 사용자에 돈 안받는 네이버: 웨일 스페이스는 학교, 교육청 등에 웨일스페이스 이용 요금을 따로 받고 있지 않다. 네이버 관계자는 "우리가 개발하고 들여온 솔루션을 좀 더 많은 학교에서 쓰는 게 더 중요하다"며 "일선 학교에서 '이런 기능이 더 강화됐으면 좋겠다'고 피드백을 해주면 적극 반영하면서 계속 업데이트 한다"고 설명했다. 실제로 교육청이 웨일 스페이스를 기반으로 자체 교육 플랫폼을 구축해 운영하는 곳도 있다. 경상남도교육청의 ‘아이톡톡’, 전라남도교육청의 ‘전남메타스쿨’, 충청남도교육청의 ‘마주온’이 대표적. &nbsp; &nbsp;━&nbsp; 더 알아야 할 것 &nbsp; VR·메타버스 등이 교육 현장에 실제 도움이 될까. 이런 기술을 교육에 먼저 접목해본 전문가들의 의견을 들어봤다. ● 이젠 "백견불여일험(百見不如一驗)": 메타 코리아 브리핑에 참석한 이상근 경희여자중학교 교사는 VR 교육의 가장 큰 강점으로 몰입감과 실재감을 꼽았다. "백문불여일견이란 말보다 이제는 백견불여일험(백 번 보는 것보다 한 번 경험하는 것이 낫다)이 더 맞는 표현"이라며 "VR은 당장 가볼 수 없는 전 세계 유적지, 화재 대피 교육 등을 체험할 수 있는 효과적인 교육 툴"이라고 설명했다. 정윤강 에어패스 본부장은 "학교에서 아이들에게 '졸지 마'라며 질책할 필요가 없다"며 "블렌디드 러닝(온ㆍ오프라인 학습을 결합한 학습방법)을 하면 아이들의 반응이 정말 뜨겁다"고 전했다. 그래픽=신재민 기자 shin.jaemin@joongang.co.kr ● VR이 컴퍼스·연필이 되려면: 보완할 점도 많다. 이상근 교사는 "학교에서 실감형 콘텐트 교육이 자리 잡으려면 VR이 교실의 컴퍼스·연필처럼 필요할 때마다 바로 쓸 수 있어야 하는데, 아직은 그렇지 못하다"며 "기술과 장비를 세팅하는 데에 너무 오랜 시간이 걸린다"고 말했다. 아직까진 교사의 의지와 개인 역량에 기대야 하는 부분이 많은 것도 문제. 권종수 브이리스브이알 대표는 "스타트업들이 만든 각종 VR 서비스를 학교에서 바로 쓸 수 있게 테크 기업들이 솔루션을 제공해주면 좋겠다"고 설명했다.&nbsp;&nbsp; &nbsp; 네이버의 교육 플랫폼 '웨일스페이스'. [네이버] &nbsp; &nbsp; &nbsp; 관련기사 메타·구글·애플·TSMC·MS…빅테크 왜 여성에게 돈줄 맡길까 [팩플] [팩플] 2번째 전성기 맞은 버추얼 휴먼, 진짜 광기? 가짜 광기? 건축가 유현준 교수도 영입…컴투스 “메타버스 시대 선도하겠다” 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl &nbsp; 하선영 기자 dynamic@joongang.co.kr]]></content>
     </entry>
     <entry>
