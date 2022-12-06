@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2022-12-06T10:10:31.076Z</updated>
+    <updated>2022-12-06T11:08:47.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2022-12-06T10:10:18.025Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
 <a href="https://www.joongang.co.kr/article/25123642" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/f5b1ab94-2241-4814-904b-c830ae68fd80.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/f5b1ab94-2241-4814-904b-c830ae68fd80.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/f5b1ab94-2241-4814-904b-c830ae68fd80.jpg/_ir_410x230_/ 2x" alt="[팩플] 네이버+삼성전자=‘AI 반도체’…1위 시너지 날까" style="filter: blur(0px);" width="205" height="115">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/f5b1ab94-2241-4814-904b-c830ae68fd80.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/f5b1ab94-2241-4814-904b-c830ae68fd80.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/f5b1ab94-2241-4814-904b-c830ae68fd80.jpg/_ir_410x230_/ 2x" alt="[팩플] 네이버+삼성전자=‘AI 반도체’…1위 시너지 날까" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
@@ -22,7 +22,7 @@
 </a>
 </h2>
 <p class="description">
-국내 대표 정보통신(IT) 기업과 반도체 기업의 협업이 인공지능(AI) 반도체에서 ‘1위의 시너지’를 낼 수 있을까. 삼성전자와 네이버가 AI 반도체 개발을 위해 손을 맞잡았다. 네이버가 가진 AI 기술과 삼성전자의 반도체 기술로 AI 서비스를 극대화할 수 있는 반도체 솔루션을 개발하겠다는 계획이다. &nbsp; 삼성전자 메모리사업부 전략마케팅실장 한진만 부사장(왼쪽)과 네이버 클로바 CIC 정석근 대표가 기념 촬영을 하고 있다. 사진 네이버·삼성전자 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 삼성전자와 네이버는 “AI 반도체 솔루션 개발 협력을 위한 업무협약(MOU)을 체결하고 실무 태스크포스(TF)를 발족했다”고 6일 밝혔다. AI는 대량의 데이터를 학습한 뒤 추론한 결과를 내놓는다. AI 반도체는 AI의 두뇌로, 입력한 데이터를 빠르게 분류해 결과를 추출하기 위해서는 대용량 연산을 해야 한다. CPU(중앙처리장치)의 단순한 인지와 달리 복잡한 상황을 인식하고 판단하는 능력이 중요하다. 방대한 정보를 처리하기 위해서는 경량화·저전력·고효율 기술이 갖춰져야 한다. 최근에는 빅데이터 분석, 사물인터넷, 자율주행차 등으로 AI 기술 적용이 확대되는 추세다.&nbsp;정석근 네이버 클로바 CIC 대표는 “네이버가 하이퍼클로바를 서비스하면서 확보한 지식과 노하우를 삼성전자의 첨단 반도체 제조 기술과 결합하면 최신의 AI 기술이 당면하고 있는 문제를 해결할 수 있는, 기존에 없던 새로운 솔루션을 만들어낼 수 있을 것”이라고 기대했다.&nbsp; &nbsp;&nbsp; &nbsp; 그래픽=김은교 kim.eungyo@joongang.co.kr 이게 왜 중요해&nbsp;&nbsp; ◦ 성장하는 시장 : 코트라(KOTRA)의 지난 3월 보고서에 따르면, 글로벌 시장조사기관 가트너는 AI 반도체 매출이 2020년 230억 달러(30조3485억원)에서 2025년 700억달러(92조3650억원)로 3배로 성장할 것으로 예상했다. 기존 시스템 반도체 생태계(반도체 설계 및 제조)와 AI 기술이 융합된 AI 반도체 시장이 새롭게 형성되고 있는 것. 이런 가운데 글로벌 반도체 기업과 IT 기업들도 협업을 이어가고 있다. 데이터센터용 시장의 경우 아마존웹서비스(AWS), 마이크로소프트, IBM, 구글 등은 엔비디아와 협업하고 있다. AI 반도체인 엣지 디바이스용 AI 반도체는&nbsp;스마트폰과 자율주행자동차에 적용되는데 구글, 퀄컴, 테슬라 등이 시장을 주도하고 있다. 국내에서도 SK텔레콤, SK하이닉스 등으로 구성된 SK ICT 연합이 AI 반도체 기업 ‘사피온’을 설립했고, KT는 AI 반도체 스타트업 리벨리온에 300억원을 투자해 AI 반도체 공략에 나섰다.&nbsp;&nbsp; &nbsp; 그래픽=차준홍 기자 cha.junhong@joongang.co.kr ◦ 기대하는 시너지&nbsp;: 네이버가 국내 기업 최초로 개발한 초대규모 AI인 ‘하이퍼클로바’는 파라미터(매개변수) 규모를 늘려 사람처럼 생각하고 창작할 수 있도록 설계됐다. 하이퍼클로바는 네이버 검색서비스에 사용자가 검색어를 잘못 입력하는 경우 올바른 단어로 전환하고, 중소상공인 등이 상품을 팔 때 도움이 되는 마케팅 문구를 자동으로 작성한다. 하루 3600만명 이상이 이용하는 서비스를 운영하며 쌓은 기술 노하우를 보유하게 된 것. 또 그래픽처리장치(GPU) 기반으로도 기존 모델 대비 2~3배 수준의 빠른 성능을 구현할 수 있는 경량화 알고리즘을 확보하고 있다.&nbsp; &nbsp; 이에 반해 삼성전자는 스마트SSD, HBM-PIM(고대역폭 지능형 반도체)등 시스템 병목 해소를 위한 메모리 기반 솔루션을 다수 개발한 기술 경쟁력과 경험을 보유하고 있다. AI가 방대한 데이터를 입력하고 처리할 때 발생하는 정체 현상인 ‘데이터 병목’을 기술로 해결할 수 있는 것.&nbsp; &nbsp;&nbsp; &nbsp; 이강윤 성균관대 전기전자공학부 교수는 “최근 글로벌 기업들도 빅데이터, 메타버스, 자율주행을 위한 AI 반도체 개발에 힘쓰며 IT기업과 반도체 기업 간 협업이 활발하다”며 “네이버의 AI 기술이 원활하게 작동하기 위해서는 감당할 수 있는 하드웨어의 도움이 필요한데 삼성전자는 역량을 갖춘 파트너다. 삼성전자도 AI 기술과 운영 노하우 습득, 네이버라는 안정적인 고객사를 확보함으로써 경쟁력에 도움이 된다”고 말했다. &nbsp;&nbsp; 네이버는 지난해 5월 국내 최초로 초거대 AI '하이퍼클로바'를 공개했다. 사진 네이버 &nbsp; &nbsp;━&nbsp; 앞으로는&nbsp;&nbsp; &nbsp; 두 회사는 초거대 AI 모델을 위한 경량화솔루션 기술검증과 개발에 착수했다. 현재 양사 개발자들이 상호 협력하고 있다. 한진만 삼성전자 메모리사업부 전략마케팅실장(부사장)은 “AI 서비스 기업과 사용자의 니즈를 반영한 반도체 솔루션을 통해 시장을 선도하는 차세대 메모리 라인업을 확대해 나가겠다”고 말했다.&nbsp; &nbsp; 관련기사 메타버스·자율주행에 필수…AI반도체 90조 시장 잡아라 [팩플] “KT의 초거대AI는 산업 특화형”…구현모, AI로 연임 승부수 [팩플] 이제라도…네이버 클로바 따라잡기 나선 LG U+ ‘익시’의 큰 그림 여성국 기자 yu.sungkuk@joongang.co.kr
+삼성전자와 네이버가 AI 반도체 개발을 위해 손을 맞잡았다. 네이버가 가진 AI 기술과 삼성전자의 반도체 기술로 AI 서비스를 극대화할 수 있는 반도체 솔루션을 개발하겠다는 계획이다.&nbsp;국내 대표 정보통신(IT) 기업과 반도체 기업의 협업이 인공지능(AI) 반도체에서 ‘1위의 시너지’를 낼 수 있을지 주목된다. &nbsp; 삼성전자 메모리사업부 전략마케팅실장 한진만 부사장(왼쪽)과 네이버 클로바 CIC 정석근 대표가 기념 촬영을 하고 있다. 사진 네이버·삼성전자 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 삼성전자와 네이버는 “AI 반도체 솔루션 개발 협력을 위한 업무협약(MOU)을 체결하고 실무 태스크포스(TF)를 발족했다”고 6일 밝혔다.&nbsp;두 회사는 AI 시스템의 데이터 병목을 해결하고 전력 효율을 극대화할 수 있는 새로운 반도체 솔루션을 개발해 AI 기술 경쟁력을 한층 더 강화할 계획이라고 설명했다.&nbsp; &nbsp; AI는 대량의 데이터를 학습한 뒤 추론한 결과를 내놓는다. AI 반도체는 AI의 두뇌로, 입력한 데이터를 빠르게 분류해 결과를 추출하기 위해서는 대용량 연산을 해야 한다. CPU(중앙처리장치)의 단순한 인지와 달리 복잡한 상황을 인식하고 판단하는 능력이 중요하다. 방대한 정보를 처리하기 위해서는 경량화·저전력·고효율 기술이 갖춰져야 한다. 최근에는 빅데이터 분석, 사물인터넷, 자율주행차 등으로 AI 기술 적용이 확대되는 추세다.&nbsp; &nbsp; 정석근 네이버 클로바 CIC 대표는 “네이버가 하이퍼클로바를 서비스하면서 확보한 지식과 노하우를 삼성전자의 첨단 반도체 제조 기술과 결합하면 최신의 AI 기술이 당면하고 있는 문제를 해결할 수 있는, 기존에 없던 새로운 솔루션을 만들어낼 수 있을 것”이라고 기대했다.&nbsp; &nbsp;&nbsp; &nbsp; 그래픽=김은교 kim.eungyo@joongang.co.kr &nbsp;━&nbsp; 이게 왜 중요해&nbsp;&nbsp; &nbsp; 코트라(KOTRA)의 지난 3월 보고서에 따르면, 글로벌 시장조사기관 가트너는 AI 반도체 매출이 2020년 230억 달러(30조3485억원)에서 2025년 700억달러(92조3650억원)로 3배로 성장할 것으로 예상했다. 기존 시스템 반도체 생태계(반도체 설계 및 제조)와 AI 기술이 융합된 AI 반도체 시장이 새롭게 형성되고 있는 것.&nbsp; &nbsp; 이런 가운데 글로벌 반도체 기업과 IT 기업들도 협업을 이어가고 있다. 데이터센터용 시장의 경우 아마존웹서비스(AWS), 마이크로소프트, IBM, 구글 등은 엔비디아와 협업하고 있다. AI 반도체인 엣지 디바이스용 AI 반도체는&nbsp;스마트폰과 자율주행자동차에 적용되는데 구글, 퀄컴, 테슬라 등이 시장을 주도하고 있다.&nbsp; &nbsp; 국내에서도 SK텔레콤, SK하이닉스 등으로 구성된 SK ICT 연합이 AI 반도체 기업 ‘사피온’을 설립했고, KT는 AI 반도체 스타트업 리벨리온에 300억원을 투자해 AI 반도체 공략에 나섰다.&nbsp;&nbsp; &nbsp; 그래픽=차준홍 기자 cha.junhong@joongang.co.kr &nbsp;━&nbsp; 어떤 시너지 나올까&nbsp;&nbsp; &nbsp; 네이버가 국내 기업 최초로 개발한 초대규모 AI인 ‘하이퍼클로바’는 파라미터(매개변수) 규모를 늘려 사람처럼 생각하고 창작할 수 있도록 설계됐다. 하이퍼클로바는 네이버 검색서비스에 사용자가 검색어를 잘못 입력하는 경우 올바른 단어로 전환하고, 중소상공인 등이 상품을 팔 때 도움이 되는 마케팅 문구를 자동으로 작성한다. 하루 3600만명 이상이 이용하는 서비스를 운영하며 쌓은 기술 노하우를 보유하게 된 것. 또 그래픽처리장치(GPU) 기반으로도 기존 모델 대비 2~3배 수준의 빠른 성능을 구현할 수 있는 경량화 알고리즘을 확보하고 있다.&nbsp; &nbsp; 이에 반해 삼성전자는 스마트SSD, HBM-PIM(고대역폭 지능형 반도체)등 시스템 병목 해소를 위한 메모리 기반 솔루션을 다수 개발한 기술 경쟁력과 경험을 보유하고 있다. AI가 방대한 데이터를 입력하고 처리할 때 발생하는 정체 현상인 ‘데이터 병목’을 기술로 해결할 수 있는 것.&nbsp; &nbsp;&nbsp; &nbsp; 이강윤 성균관대 전기전자공학부 교수는 “최근 글로벌 기업들도 빅데이터, 메타버스, 자율주행을 위한 AI 반도체 개발에 힘쓰며 IT기업과 반도체 기업 간 협업이 활발하다”며 “네이버의 AI 기술이 원활하게 작동하기 위해서는 감당할 수 있는 하드웨어의 도움이 필요한데 삼성전자는 역량을 갖춘 파트너다. 삼성전자도 AI 기술과 운영 노하우 습득, 네이버라는 안정적인 고객사를 확보함으로써 경쟁력에 도움이 된다”고 말했다. &nbsp;&nbsp; 네이버는 지난해 5월 국내 최초로 초거대 AI '하이퍼클로바'를 공개했다. 사진 네이버 &nbsp; &nbsp;━&nbsp; 앞으로는&nbsp;&nbsp; &nbsp; 두 회사는 초거대 AI 모델을 위한 경량화솔루션 기술검증과 개발에 착수했다. 현재 양사 개발자들이 상호 협력하고 있다. 한진만 삼성전자 메모리사업부 전략마케팅실장(부사장)은 “AI 서비스 기업과 사용자의 니즈를 반영한 반도체 솔루션을 통해 시장을 선도하는 차세대 메모리 라인업을 확대해 나가겠다”고 말했다.&nbsp; &nbsp; &nbsp; 관련기사 메타버스·자율주행에 필수…AI반도체 90조 시장 잡아라 [팩플] “KT의 초거대AI는 산업 특화형”…구현모, AI로 연임 승부수 [팩플] 이제라도…네이버 클로바 따라잡기 나선 LG U+ ‘익시’의 큰 그림 여성국 기자 yu.sungkuk@joongang.co.kr
 </p>
 <div class="meta">
 <p class="date">2022.12.06 19:07</p>
@@ -60,19 +60,19 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩플] “소비자 보호” vs “규제산업 낙인”…게임업계, 확률형 아이템 논쟁 ‘재점화’]]></title>
+        <title type="html"><![CDATA[[팩플] “소비자 보호” vs “규제산업 낙인”…확률형 게임 아이템 논쟁 재점화]]></title>
         <id>https://www.joongang.co.kr/article/25123239</id>
         <link href="https://www.joongang.co.kr/article/25123239"/>
         <updated>2022-12-05T09:10:02.067Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
 <a href="https://www.joongang.co.kr/article/25123239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/05/e816c5ad-42d6-4665-aeee-5a4af1897d94.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/05/e816c5ad-42d6-4665-aeee-5a4af1897d94.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/05/e816c5ad-42d6-4665-aeee-5a4af1897d94.jpg/_ir_410x230_/ 2x" alt="[팩플] “소비자 보호” vs “규제산업 낙인”…게임업계, 확률형 아이템 논쟁 ‘재점화’" width="205" height="115">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/e816c5ad-42d6-4665-aeee-5a4af1897d94.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/e816c5ad-42d6-4665-aeee-5a4af1897d94.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/06/e816c5ad-42d6-4665-aeee-5a4af1897d94.jpg/_ir_410x230_/ 2x" alt="[팩플] “소비자 보호” vs “규제산업 낙인”…확률형 게임 아이템 논쟁 재점화" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
 <a href="https://www.joongang.co.kr/article/25123239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
-[팩플] “소비자 보호” vs “규제산업 낙인”…게임업계, 확률형 아이템 논쟁 ‘재점화’
+[팩플] “소비자 보호” vs “규제산업 낙인”…확률형 게임 아이템 논쟁 재점화
 </a>
 </h2>
 <p class="description">
