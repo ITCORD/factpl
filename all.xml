@@ -2,45 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-11T19:10:28.147Z</updated>
+    <updated>2023-01-11T20:10:51.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[[팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25132529</id>
-        <link href="https://www.joongang.co.kr/article/25132529"/>
-        <updated>2023-01-10T06:13:04.328Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25132529" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/10/50d65af8-5ad9-47eb-a283-e0e2dfe9d6ed.jpg/_ir_144x144_/" alt="[팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동" width="72" height="72">
-</a>
-</figure>
-<div class="card_body">
-<em class="rank_count ico_num1">1</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25132529" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">[팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동</a>
-</h2>
-<div class="meta">
-<p class="date">2023.01.10 14:30</p>
-<button type="button" class="btn_bookmark" data-cid="25132529" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 알뜰폰·탈통신이 뒤흔든 이통 점유율...SKT 40% 지킬까 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
         <id>https://www.joongang.co.kr/article/25132261</id>
         <link href="https://www.joongang.co.kr/article/25132261"/>
         <updated>2023-01-09T08:12:44.094Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25132261" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25132261" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/09/a49d1c2c-02f4-4aa6-93f0-973b6bbe4c49.jpg/_ir_144x144_/" alt="[팩플] 알뜰폰·탈통신이 뒤흔든 이통 점유율...SKT 40% 지킬까" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
-<em class="rank_count ico_num2">2</em>
+<em class="rank_count ico_num1">1</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25132261" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] 알뜰폰·탈통신이 뒤흔든 이통 점유율...SKT 40% 지킬까</a>
+<a href="https://www.joongang.co.kr/article/25132261" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">[팩플] 알뜰폰·탈통신이 뒤흔든 이통 점유율...SKT 40% 지킬까</a>
 </h2>
 <div class="meta">
 <p class="date">2023.01.09 17:01</p>
@@ -56,18 +33,41 @@
         <link href="https://www.joongang.co.kr/article/25131711"/>
         <updated>2023-01-06T07:09:48.611Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25131711" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25131711" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/95b8ac83-0bc6-42f1-9a08-cf036f1b40b4.jpg/_ir_144x144_/" alt="[CES 2023] [팩플] 플랫폼은 가라, 기술이다… 거대한 전환 넷" width="72" height="72">
+</a>
+</figure>
+<div class="card_body">
+<em class="rank_count ico_num2">2</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25131711" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[CES 2023] [팩플] 플랫폼은 가라, 기술이다… 거대한 전환 넷</a>
+</h2>
+<div class="meta">
+<p class="date">2023.01.06 15:50</p>
+<button type="button" class="btn_bookmark" data-cid="25131711" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25132529</id>
+        <link href="https://www.joongang.co.kr/article/25132529"/>
+        <updated>2023-01-10T06:13:04.328Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25132529" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/10/50d65af8-5ad9-47eb-a283-e0e2dfe9d6ed.jpg/_ir_144x144_/" alt="[팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
 <em class="rank_count ico_num3">3</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25131711" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[CES 2023] [팩플] 플랫폼은 가라, 기술이다… 거대한 전환 넷</a>
+<a href="https://www.joongang.co.kr/article/25132529" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동</a>
 </h2>
 <div class="meta">
-<p class="date">2023.01.06 15:50</p>
-<button type="button" class="btn_bookmark" data-cid="25131711" data-ctype="A" aria-label="북마크">
+<p class="date">2023.01.10 14:30</p>
+<button type="button" class="btn_bookmark" data-cid="25132529" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
@@ -120,18 +120,45 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[여긴 마약, 저긴 시금치 판다…‘숏폼 지배자’ 틱톡 두 얼굴 [팩플 오리지널] (중앙일보 팩플 ─ 뉴스)]]></title>
+        <id>https://www.joongang.co.kr/article/25133047</id>
+        <link href="https://www.joongang.co.kr/article/25133047"/>
+        <updated>2023-01-12T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25133047" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/12/3fd7641e-4223-454b-a8f7-22828da7a13d.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/12/3fd7641e-4223-454b-a8f7-22828da7a13d.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/12/3fd7641e-4223-454b-a8f7-22828da7a13d.jpg/_ir_410x230_/ 2x" alt="여긴 마약, 저긴 시금치 판다…‘숏폼 지배자’ 틱톡 두 얼굴 [팩플 오리지널]" width="205" height="115">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25133047" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+여긴 마약, 저긴 시금치 판다…‘숏폼 지배자’ 틱톡 두 얼굴 [팩플 오리지널]
+</a>
+</h2>
+<p class="description">
+&nbsp;━&nbsp; [The JoongAng Plus -&nbsp;팩플 오리지널] 기로 놓인 숏폼 &nbsp; 틱톡 로고. 숏폼 비디오 플랫폼 ‘틱톡’을 향한 미국의 제재가 연일 강세다. 지난해 말 미 의회에서는 연방 정부 소유 스마트폰 등 공공 기관에서 틱톡 사용을 금지하는 법안이 통과됐고, 9일 뉴저지와 오하이오가 합류하면서 틱톡을 금지한 주 정부도 16곳으로 늘었다. 민간에서도 틱톡을 전면 금지하는 내용의 법안도 발의된 상태다. 트럼프 행정부에 이어 바이든 정부에서도 두드려 맞는 틱톡, 그 이유는 보면 크게 두가지.&nbsp; &nbsp; &nbsp;━&nbsp; 바이든까지… 틱톡을 왜?&nbsp; &nbsp; 하나는 틱톡의 본사 바이트댄스가 중국 기업이란 점이다. 바이트댄스가 미국 내 틱톡 사용자 데이터에 접근할 수 있고, 이 데이터가 중국 당국으로 넘어가면 미국의 안보를 위협할 수 있다는 우려다. 지난해 6월 틱톡이 미국 사용자 데이터를 오라클 클라우드로 이전했지만, 지난달 틱톡 직원이 포브스·파이낸셜타임스 기자 계정 데이터에 무단 접근했다 해고된 사실이 알려지는 등 의심을 거둘 수 없는 상황이다. &nbsp; &nbsp; 다른 하나는 청소년 문제다. 2017년 출시돼 2020년부터 3년 연속 전 세계에서 가장 많이 다운로드된 앱 1위를 지키고 있는 틱톡(6억 7200만 회)은 10대의 절대적 지지를 받고 있다. 월 사용자(MAU) 10억명 중 25%가 20대 미만일 정도. IT 매체 테크크런치에 따르면 2021년 기준 4~18세의 일평균 틱톡 시청 시간은 91분으로 유튜브(56분)를 크게 앞질렀다. 한국 상황도 비슷하다. 모바일 분석기업 와이즈앱에 따르면 지난해 7월 국내 틱톡 사용 시간은 19억분으로, 2년 전 8억분 대비 155% 성장했다. &nbsp; 지난해 틱톡에서 유행한 챌린지. 왼쪽부터 ‘지구방위대’ 챌린지, ‘러브 다이브’ 챌린지, ‘지글지글’ 챌린지. 사진 틱톡 이들을 붙드는 힘은 틱톡의 남다른 알고리즘이다. 페이스북·인스타그램 등 메타가 운영하는 SNS가 지인 중심의 관계망을 기반으로 사용자들을 끌어 모았다면, 틱톡은 철저히 관심사 기반이다. 사용자가 ‘좋아요’를 눌렀거나 방금 본 영상을 참고해 좋아할 만한 영상을 이어서 추천하는 방식으로 틱톡에 푹 빠지게 만들었다. 누구나 쉽게 만들 수 있고, 챌린지를 통해 더 많은 사람의 참여를 촉진했다. 이렇게 틱톡이 숏폼 시장을 장악하자, 유튜브(쇼츠)·인스타그램(릴스) 등 미국의 SNS 기업들도 질세라 숏폼 시장에 뛰어 들었고, 틱톡에 위협을 느낀 페이스북은 지난해 6월 지인보단 관심사 기반 추천 알고리즘을 강화했다.&nbsp;&nbsp; &nbsp; &nbsp;━&nbsp; 중독성 알고리즘, 중국선 다르다?&nbsp; &nbsp; 하지만 이같은 중독성 강한 알고리즘은 틱톡의 발목을 잡는 요인이기도 하다. 뉴욕타임스는 “사용자를 탈출하기 힘든 토끼굴로 몰아넣는다”고 지적했고, 마이크 갤러거 미 하원의원은 틱톡을 마약성 진통제에 빗대 ‘디지털 펜타닐’이라고 주장했다. 영미권 비영리단체 ‘디지털 혐오 대응 센터’는 틱톡 알고리즘이 미성년자에게 섭식 장애·자살 등과 관련된 유해 콘텐트를 추천한다는 연구 결과를 내놓기도 했다. 틱톡을 휩쓴 ‘기절 챌린지’로 2년간 15명이 사망하면서 관련 소송도 쏟아지고 있다. &nbsp; 반면, 틱톡의 중국판 ‘더우인’은 노선이 다르다. 중국에선 14세 미만은 하루 40분 이상 틱톡을 쓸 수 없고 알고리즘도 과학 실험이나 박물관 방문, 애국심 혹은 교육적 영상 위주로 촘촘하게 짜여 있다고 한다. 구글 출신 디자인 윤리학자 트리스탄 해리스는 “중국이 자국에선 건강에 좋은 시금치 버전을 사용하게 하면서, 해외에는 마약 버전을 수출한다”고 지적했다. &nbsp; &nbsp;━&nbsp; 유럽이 때리는 메타, 맞춤형 광고 개편&nbsp; &nbsp; 미국이 틱톡을 때리는 가운데, 유럽에선 메타가 집중 포화의 대상이다. 유럽연합(EU)이 일반개인정보보호법(GDPR)을 근거로 미국 SNS 기업들에 거액의 과징금이 부과되는 사례가 늘어나면서다. 지난 4일 아일랜드 데이터보호위원회는 이용자들이 SNS에 가입할 때 맞춤형 광고에 동의하도록 한 메타의 조항을 문제 삼아 3억9000만 유로(5255억원)의 벌금을 부과했다. 메타의 핵심 수익 모델이 존폐 위기에 놓인 것.&nbsp; &nbsp; 그러자 메타는 개인정보 및 청소년 보호 조치를 잇따라 내놓고 있다. 9일 인종ㆍ성별 등과 관계없이 공정한 광고를 촉진하는 기술을 선보이겠다고 밝힌 데 이어 10일 청소년을 타깃으로 한 광고 제재 강화 방침을 밝혔다. 광고가 진행되는 동안 사용자들의 개별 인구 통계 정보를 학습하지 못하도록 ‘소음’ 기술을 도입하겠다는 설명이다. 다음 달부터 광고주가 10대 사용자의 성별이나 관심 콘텐트 등의 데이터를 기반으로 한 광고는 금지되고, 나이와 위치 기반 광고만 허용된다. 관련기사 여긴 마약, 저긴 시금치 판다…‘숏폼 지배자’ 틱톡 두 얼굴 "애들 SNS 중독 책임져라" 美엄마들 이어 학교까지, 빅테크 소송 [팩플] ‘과징금 맛집’ 된 메타…맞춤형 광고 시대 끝나간다 &nbsp; 팩플 오리지널 ‘팩플 오리지널’ 연재 콘텐트는 중앙일보 프리미엄 디지털 구독 서비스인 The JoongAng Plus에서 볼 수 있습니다. https://www.joongang.co.kr/plus 민경원·김인경 기자 storymin@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.01.12 05:00</p>
+<button type="button" class="btn_bookmark" data-cid="25133047" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동 (중앙일보 팩플 ─ 뉴스)]]></title>
         <id>https://www.joongang.co.kr/article/25132529</id>
         <link href="https://www.joongang.co.kr/article/25132529"/>
         <updated>2023-01-10T06:13:04.328Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25132529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25132529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/10/50d65af8-5ad9-47eb-a283-e0e2dfe9d6ed.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/10/50d65af8-5ad9-47eb-a283-e0e2dfe9d6ed.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/10/50d65af8-5ad9-47eb-a283-e0e2dfe9d6ed.jpg/_ir_410x230_/ 2x" alt="[팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25132529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25132529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] KT, 이번주 임원 인사…국민연금 반대 속 ‘구현모 2기’ 시동
 </a>
 </h2>
@@ -152,13 +179,13 @@
         <link href="https://www.joongang.co.kr/article/25132261"/>
         <updated>2023-01-09T08:12:44.094Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25132261" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25132261" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/09/a49d1c2c-02f4-4aa6-93f0-973b6bbe4c49.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/09/a49d1c2c-02f4-4aa6-93f0-973b6bbe4c49.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/09/a49d1c2c-02f4-4aa6-93f0-973b6bbe4c49.jpg/_ir_410x230_/ 2x" alt="[팩플] 알뜰폰·탈통신이 뒤흔든 이통 점유율...SKT 40% 지킬까" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25132261" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25132261" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] 알뜰폰·탈통신이 뒤흔든 이통 점유율...SKT 40% 지킬까
 </a>
 </h2>
@@ -179,13 +206,13 @@
         <link href="https://www.joongang.co.kr/article/25131711"/>
         <updated>2023-01-06T07:09:48.611Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25131711" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25131711" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/95b8ac83-0bc6-42f1-9a08-cf036f1b40b4.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/95b8ac83-0bc6-42f1-9a08-cf036f1b40b4.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/95b8ac83-0bc6-42f1-9a08-cf036f1b40b4.jpg/_ir_410x230_/ 2x" alt="[CES 2023] [팩플] 플랫폼은 가라, 기술이다… 거대한 전환 넷" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25131711" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25131711" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [CES 2023] [팩플] 플랫폼은 가라, 기술이다… 거대한 전환 넷
 </a>
 </h2>
@@ -206,13 +233,13 @@
         <link href="https://www.joongang.co.kr/article/25131621"/>
         <updated>2023-01-06T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25131621" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25131621" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/1fa297fa-458d-4e0f-b51f-6530815fcc45.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/1fa297fa-458d-4e0f-b51f-6530815fcc45.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/1fa297fa-458d-4e0f-b51f-6530815fcc45.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘과징금 맛집’ 된 메타…맞춤형 광고 시대 끝나간다" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25131621" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25131621" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] ‘과징금 맛집’ 된 메타…맞춤형 광고 시대 끝나간다
 </a>
 </h2>
@@ -233,13 +260,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25131494"/>
         <updated>2023-01-05T09:09:59.285Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25131494" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25131494" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/acf377b5-2315-43ed-a03a-6c5412967700.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/acf377b5-2315-43ed-a03a-6c5412967700.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/06/acf377b5-2315-43ed-a03a-6c5412967700.jpg/_ir_410x230_/ 2x" alt="[팩플] 억대연봉자 100만 시대, 고액연봉자 이직도 플랫폼에서?" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25131494" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25131494" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [팩플] 억대연봉자 100만 시대, 고액연봉자 이직도 플랫폼에서?
 </a>
 </h2>
@@ -260,13 +287,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25131233"/>
         <updated>2023-01-04T09:10:12.926Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25131233" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25131233" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/04/4a86eac0-5fa6-48c7-b35b-94c2a8bd11e9.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/04/4a86eac0-5fa6-48c7-b35b-94c2a8bd11e9.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/04/4a86eac0-5fa6-48c7-b35b-94c2a8bd11e9.jpg/_ir_410x230_/ 2x" alt="[팩플] “투자 심리 위축” 상장 연기하는 컬리…커머스 경쟁에 영향은" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25131233" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25131233" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] “투자 심리 위축” 상장 연기하는 컬리…커머스 경쟁에 영향은
 </a>
 </h2>
@@ -287,13 +314,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25131142"/>
         <updated>2023-01-04T11:51:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25131142" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25131142" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/04/d57c1347-9b80-4191-b305-12ba0e465da4.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/04/d57c1347-9b80-4191-b305-12ba0e465da4.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/04/d57c1347-9b80-4191-b305-12ba0e465da4.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘쇄국 빗장’ 풀리는 공공 클라우드…찬반 둘 다 이유는 “디지털 주권”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25131142" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25131142" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] ‘쇄국 빗장’ 풀리는 공공 클라우드…찬반 둘 다 이유는 “디지털 주권”
 </a>
 </h2>
@@ -314,13 +341,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25130809"/>
         <updated>2023-01-03T05:01:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25130809" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25130809" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/03/bf5c784d-bf20-4330-9820-fcc3399e6b19.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/03/bf5c784d-bf20-4330-9820-fcc3399e6b19.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/03/bf5c784d-bf20-4330-9820-fcc3399e6b19.jpg/_ir_410x230_/ 2x" alt="[팩플] 챗GPT는 구글의 대항마?…‘대화하는 검색’ 시대 올까" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25130809" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25130809" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] 챗GPT는 구글의 대항마?…‘대화하는 검색’ 시대 올까
 </a>
 </h2>
@@ -341,13 +368,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25130694"/>
         <updated>2023-01-02T10:10:11.146Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25130694" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25130694" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/02/f5f0502e-b5d0-4191-a11c-9ffd2bf0c840.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/02/f5f0502e-b5d0-4191-a11c-9ffd2bf0c840.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/02/f5f0502e-b5d0-4191-a11c-9ffd2bf0c840.jpg/_ir_410x230_/ 2x" alt="[팩플] 요금 인하 압박에, 알뜰폰 추격…그래도 통신사 CEO들은 “AI”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25130694" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25130694" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] 요금 인하 압박에, 알뜰폰 추격…그래도 통신사 CEO들은 “AI”
 </a>
 </h2>
@@ -368,13 +395,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25130529"/>
         <updated>2023-01-02T06:10:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25130529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25130529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/02/541a7144-2ec9-40d3-b90d-a42bf7b141f5.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/02/541a7144-2ec9-40d3-b90d-a42bf7b141f5.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/02/541a7144-2ec9-40d3-b90d-a42bf7b141f5.jpg/_ir_410x230_/ 2x" alt="[팩플] K게임 찐팬은 카타르·UAE…중국보다 더 쓴다, 왜?" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25130529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25130529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] K게임 찐팬은 카타르·UAE…중국보다 더 쓴다, 왜?
 </a>
 </h2>
@@ -395,13 +422,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25130148"/>
         <updated>2022-12-30T07:09:01.183Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25130148" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25130148" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/30/adde39eb-995b-4183-8a86-7794a7ca7f8e.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/30/adde39eb-995b-4183-8a86-7794a7ca7f8e.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/30/adde39eb-995b-4183-8a86-7794a7ca7f8e.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘흑자+상장=새벽배송+퀵커머스’…오아시스, 더블로 간다" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25130148" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25130148" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] ‘흑자+상장=새벽배송+퀵커머스’…오아시스, 더블로 간다
 </a>
 </h2>
@@ -422,13 +449,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25129881"/>
         <updated>2022-12-29T10:10:08.437Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25129881" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25129881" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/29/46ad8756-b8c2-466c-b853-ca2aa3f30e1e.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/29/46ad8756-b8c2-466c-b853-ca2aa3f30e1e.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/29/46ad8756-b8c2-466c-b853-ca2aa3f30e1e.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘카톡 먹통’ 두 달 만에...“소상공인엔 현금, 전 국민엔 이모티콘”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25129881" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25129881" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] ‘카톡 먹통’ 두 달 만에...“소상공인엔 현금, 전 국민엔 이모티콘”
 </a>
 </h2>
@@ -449,13 +476,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25129869"/>
         <updated>2022-12-29T09:09:04.372Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25129869" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25129869" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/29/8035c2a7-fc0b-4373-a1f8-d24eea712992.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/29/8035c2a7-fc0b-4373-a1f8-d24eea712992.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/29/8035c2a7-fc0b-4373-a1f8-d24eea712992.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘공룡플랫폼’에 칼 빼든 정부…자율규제, 당근일까 채찍일까 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25129869" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25129869" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] ‘공룡플랫폼’에 칼 빼든 정부…자율규제, 당근일까 채찍일까
 </a>
 </h2>
@@ -476,13 +503,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25129696"/>
         <updated>2022-12-29T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25129696" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25129696" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/30/a1b08dfb-e57d-4565-ad92-218506800cc1.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/30/a1b08dfb-e57d-4565-ad92-218506800cc1.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/30/a1b08dfb-e57d-4565-ad92-218506800cc1.jpg/_ir_410x230_/ 2x" alt="[팩플] 카톡 먹통 방지 3법에 이어 또 디지털안전법?…중복규제 우려는 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25129696" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25129696" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] 카톡 먹통 방지 3법에 이어 또 디지털안전법?…중복규제 우려는
 </a>
 </h2>
@@ -503,13 +530,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25129518"/>
         <updated>2022-12-28T09:10:04.642Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25129518" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25129518" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/28/8c027aac-ede5-4cc5-81b0-a16a4cf523f5.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/28/8c027aac-ede5-4cc5-81b0-a16a4cf523f5.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/28/8c027aac-ede5-4cc5-81b0-a16a4cf523f5.jpg/_ir_410x230_/ 2x" alt="[팩플] KT 이사회, 구현모 연임 결정…변수는 최대주주 국민연금" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25129518" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25129518" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] KT 이사회, 구현모 연임 결정…변수는 최대주주 국민연금
 </a>
 </h2>
@@ -530,13 +557,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25129358"/>
         <updated>2022-12-28T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25129358" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25129358" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/28/79bb0afe-ce40-4b07-b497-18d62638f482.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/28/79bb0afe-ce40-4b07-b497-18d62638f482.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/28/79bb0afe-ce40-4b07-b497-18d62638f482.jpg/_ir_410x230_/ 2x" alt="'정육각' 구조조정 몸살 &quot;매크로 못 봤다…초록마을 곧 시너지 낼 것&quot; [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25129358" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25129358" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 '정육각' 구조조정 몸살 "매크로 못 봤다…초록마을 곧 시너지 낼 것" [팩플]
 </a>
 </h2>
@@ -557,13 +584,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25129186"/>
         <updated>2023-01-02T02:08:36.641Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25129186" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25129186" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/27/a5091392-5f92-4b7f-a8eb-24072bf767aa.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/27/a5091392-5f92-4b7f-a8eb-24072bf767aa.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/27/a5091392-5f92-4b7f-a8eb-24072bf767aa.jpg/_ir_410x230_/ 2x" alt="[팩플] 중기부, 내년 예산 34%는 스타트업 육성에...어떻게 쓰나 보니" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25129186" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25129186" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 [팩플] 중기부, 내년 예산 34%는 스타트업 육성에...어떻게 쓰나 보니
 </a>
 </h2>
@@ -584,13 +611,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25128836"/>
         <updated>2023-01-02T02:08:22.747Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25128836" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25128836" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/26/5c0bfa80-38ff-48b2-8f25-19db4f3cd7d4.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/26/5c0bfa80-38ff-48b2-8f25-19db4f3cd7d4.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/26/5c0bfa80-38ff-48b2-8f25-19db4f3cd7d4.jpg/_ir_410x230_/ 2x" alt="[팩플] “올해 총 880곡을 들었다고?”…앱 연말결산에 뜨는 ‘스몰 데이터’" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25128836" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25128836" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] “올해 총 880곡을 들었다고?”…앱 연말결산에 뜨는 ‘스몰 데이터’
 </a>
 </h2>
@@ -611,13 +638,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25128281"/>
         <updated>2023-01-02T02:08:36.642Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25128281" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25128281" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/23/df0b96a9-d255-46a2-b71e-b698ca841daf.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/23/df0b96a9-d255-46a2-b71e-b698ca841daf.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/23/df0b96a9-d255-46a2-b71e-b698ca841daf.jpg/_ir_410x230_/ 2x" alt="[팩플] 결국 28㎓ 주파수 반납하는 KTㆍLG유플…빈 자리 누가 채울까" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25128281" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25128281" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] 결국 28㎓ 주파수 반납하는 KTㆍLG유플…빈 자리 누가 채울까
 </a>
 </h2>
@@ -638,13 +665,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25128261"/>
         <updated>2023-01-02T02:08:36.642Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25128261" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25128261" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/23/00442297-5d3a-4e83-8616-5cdab976b2f7.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/23/00442297-5d3a-4e83-8616-5cdab976b2f7.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/23/00442297-5d3a-4e83-8616-5cdab976b2f7.jpg/_ir_410x230_/ 2x" alt="[팩플] SK주유소에 물류센터 만드는 네이버, 뭘 노리나 보니" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25128261" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25128261" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] SK주유소에 물류센터 만드는 네이버, 뭘 노리나 보니
 </a>
 </h2>
@@ -665,13 +692,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25127976"/>
         <updated>2022-12-22T09:09:23.769Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25127976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25127976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/22/7ec7260a-682d-486e-a264-1e7eed9d64b1.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/22/7ec7260a-682d-486e-a264-1e7eed9d64b1.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/22/7ec7260a-682d-486e-a264-1e7eed9d64b1.jpg/_ir_410x230_/ 2x" alt="[팩플] “새해엔 알뜰폰 요금 더 싸진다”…알뜰폰 도매대가 20% 인하" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25127976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25127976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] “새해엔 알뜰폰 요금 더 싸진다”…알뜰폰 도매대가 20% 인하
 </a>
 </h2>
@@ -692,13 +719,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25127811"/>
         <updated>2022-12-22T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25127811" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25127811" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/22/cb94d051-61f7-449a-b5f3-a6294453b8d0.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/22/cb94d051-61f7-449a-b5f3-a6294453b8d0.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/22/cb94d051-61f7-449a-b5f3-a6294453b8d0.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘AI친구’ 이루다2.0, 가르쳐보니...“주말에 영화볼래?” 루다의 답은" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25127811" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25127811" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 [팩플] ‘AI친구’ 이루다2.0, 가르쳐보니...“주말에 영화볼래?” 루다의 답은
 </a>
 </h2>
@@ -719,13 +746,13 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
         <link href="https://www.joongang.co.kr/article/25127068"/>
         <updated>2022-12-20T05:01:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25127068" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25127068" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/20/473cd2a1-a91e-4b3e-9c4f-def9a6b03664.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/20/473cd2a1-a91e-4b3e-9c4f-def9a6b03664.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/20/473cd2a1-a91e-4b3e-9c4f-def9a6b03664.jpg/_ir_410x230_/ 2x" alt="[팩플] 게임·OTT·음악 소비자 불만…한동훈 ‘이 법’으로 한 방에?" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25127068" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25127068" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플] 게임·OTT·음악 소비자 불만…한동훈 ‘이 법’으로 한 방에?
 </a>
 </h2>
@@ -735,33 +762,6 @@ AFP=연합뉴스 &nbsp; ‘광고 제국’ 메타의 시대가 저물고 있다
 <div class="meta">
 <p class="date">2022.12.20 05:01</p>
 <button type="button" class="btn_bookmark" data-cid="25127068" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] “더 오래, 더 젊게”…달라지는 카톡, 카카오의 노림수는 (중앙일보 팩플 ─ 뉴스)]]></title>
-        <id>https://www.joongang.co.kr/article/25126621</id>
-        <link href="https://www.joongang.co.kr/article/25126621"/>
-        <updated>2023-01-02T02:08:36.644Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25126621" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/18/5e0ff144-b650-488f-bde2-dc4cd72ff2fa.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/18/5e0ff144-b650-488f-bde2-dc4cd72ff2fa.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202212/18/5e0ff144-b650-488f-bde2-dc4cd72ff2fa.jpg/_ir_410x230_/ 2x" alt="[팩플] “더 오래, 더 젊게”…달라지는 카톡, 카카오의 노림수는" width="205" height="115">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25126621" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] “더 오래, 더 젊게”…달라지는 카톡, 카카오의 노림수는
-</a>
-</h2>
-<p class="description">
-사진 카카오프렌즈 유튜브 카카오가 상반기부터 예고했던 카카오톡 개편 작업에 본격적으로 착수했다. 12년 차 ‘중견 메신저’가 된 카톡을 젊게 바꿔 새로운 성장동력을 만들겠다는 구상. 카카오는 카톡의 진화에 성공할 수&nbsp;있을까. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 카카오는 지난 7일 카톡 프로필에 새로운 꾸미기 기능인 ‘공감 스티커’를 도입했다. 내 상태를 표현한 공감 스티커를 추가하면, 프로필을 방문한 친구가 스티커를 누르거나 옆으로 밀어 ‘공감’을 표시할 수 있다. 공감 수는 프로필에 표시된다. 단, 누가 눌렀는지는 프로필 주인만 확인할 수 있다. 페이스북·인스타그램 등의 ‘스토리’ 기능과 비슷하다. 카카오 관계자는 “공감 스티커를 시작으로 인터랙션(interaction·상호작용) 기능을 지속적으로 추가할 예정”이라고 말했다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 소소한 업데이트지만 이번 개편이 유의미한 이유는 카카오가 세운 ‘카톡 2.0’ 로드맵의 시작을 알리는 신호탄이기 때문. 올들어 카카오는 메시지 확인 중심이었던 기존 카톡을 가볍게 즐길 수 있는 비(非)목적형 서비스로 손질하겠다고 예고해왔다. &nbsp; ◦카톡의 고민: 카톡은 자주 쓰지만, 오래 쓰는 서비스는 아니다. 오픈서베이가 발표한 ‘소셜미디어·검색포털 트렌드 리포트 2022’에 따르면 카톡은 이용 빈도에서 일평균 접속 횟수 8.6회로 1위를 차지했다. 그러나 1회 평균 이용시간은 유튜브가 50.3분으로 가장 높았고, 틱톡(32.8분)과 네이버(25.4분), 인스타그램(18.2분)이 뒤를 이었다. 카톡은 약 13분에 그쳤다. &nbsp; 이 때문에 남궁훈 전 카카오 대표는 카톡 이용자를&nbsp;‘출근길 직장인’에 비유하기도 했다. 남궁 전 대표는 지난 5월 1분기 실적발표 컨퍼런스콜에서 “이용자들은 지인과의 대화를 위해 하루에도 수십번 카톡에 접속하지만, 목적이 달성되는 순간 빠르게 나간다”며 “출근 시간에 삼성역에 내려 지각하지 않기 위해 허겁지겁 뛰어가는 직장인을 닮았다”고 말했다. 이어 “이 같은 한계를 넘으려면 이용자들이 카톡을 더 가볍게 즐길 수 있도록 근본적인 변화가 필요하다”며 “퇴근길에 친구들을 만나러 강남역을 나서는 마음처럼 편한 마음으로 이용할 수 있도록 하겠다”고 덧붙였다. &nbsp; 그래픽=김현서 kim.hyeonseo12@joongang.co.kr ◦SNS의 벽: 카카오의 미션에는&nbsp;‘Z세대 끌어안기’도 있다.&nbsp;10대들은 유튜브·틱톡·인스타그램 등 이미지·영상 기반 SNS에 대한 선호도가 높은 반면, 메신저인 카톡은 텍스트가 중심이다. 업계에선 카카오가 카톡 세 번째 탭 ‘뷰(view)’를 ‘숏폼(짧은 동영상)’을 볼 수 있는 공간으로 개편할 가능성이 높다고 보고 있다. 앞서 경쟁 서비스인 라인도 지난해 세 번째 탭을 숏폼용 공간인 ‘라인 붐(LINE VOOM)’으로 손질했다. 익명을 원한 정보통신(IT)업계 관계자는 “아직은 10대들도 카톡을 쓰지만 카톡에는 올드한 이미지가 있다. 인스타 ‘DM(다이렉트 메시지)’으로 언제 떠나갈지 모르기 때문에&nbsp;카카오도 위기의식을 느끼고 있을 것”이라고 말했다. &nbsp; 문제는 메신저가 ‘SNS처럼’ 변하는 데 대한 이용자들의 심리적 저항이 크다는 것. 불특정 다수에 공개되는 SNS와 달리 메신저는 사적 대화 용도로 이용되기 때문에 이용자들의 민감도가 높다. 카톡 기능이 개편된다는 보도가 나오자 커뮤니티를 중심으로 “메신저 기능만 했으면 좋겠다”는 부정적인 반응이 잇따른 것도 이 같은 이유에서다.&nbsp;카카오 관계자는 “이용자들이 즉각 반응하는 만큼 조심스럽게 접근하고 있다. 공감 스티커도 부정적 여론이 있어 걱정했지만 다행히 ‘영(young) 유저’들 사이에선 기대했던 반응이 나오고 있다”며 “시대 흐름에 따라 변화하는 커뮤니케이션 방식을 메신저에 반영하며 진화해 나가려는 시도로 봐 달라”고 설명했다. &nbsp; 카카오톡 공감 스티커 &nbsp;━&nbsp; 카톡으로 그리는 빅 픽처 &nbsp; 추후 카카오는 프로필에서 ‘나만의 캐릭터 펫’을 키우거나, 친구 프로필을 방문한 이용자가 상태 메시지에 공감을 표시하고 기분 전환용 선물을 보내는 식으로 카톡 프로필을 개편할 예정. 이를 통해 카카오는 이용자들이 카톡에 머무는 시간, 즉 ‘체류 시간’을 늘려 성장세가 둔화한 광고·커머스 영역에 활기를 불어넣을 계획이다. 이용자들이 프로필을 자주 방문하고 소통량이 늘면 ‘친구탭’ 트래픽이 증가해 카톡 광고판인 ‘비즈보드’를 비롯해 이모티콘, 선물하기 등의 매출 상승을 기대할 수 있다. KB증권에 따르면 카톡 5개 탭(친구·채팅·뷰·쇼핑·더보기) 가운데 트래픽이 가장 높은 건 채팅탭. 매일 4200만명의 이용자가 채팅탭을 방문한다. 반면 친구탭의 일별 활동자 수(DAU)는 채팅탭의 절반 수준인 2200만명이다. 이선화 KB증권 연구원은 “카톡 프로필 개편 이후 친구탭을 방문하는 트래픽이 증가하고, 체류 시간 또한 늘어날 것으로 전망한다”고 말했다. 관련기사 [팩플] 고민 많은 카카오, 카카오톡에 손댄다 “가벼운 글로벌 서비스로” [팩플] 카카오 시즌2 준비하는 '김범수 올드보이'…과제는 글로벌 [팩플] 착잡한 김범수, 구원투수 남궁훈...카카오는 '메타버스'로 간다 [팩플] "카카오 먹통 막기위해 삼중화+α"…'카카오 반성문'의 핵심은 &nbsp;━&nbsp; 앞으로는 &nbsp; 카톡 프로필 개편을 화두로 던졌던 남궁 전 대표는 자리에서 물러났지만, 카카오는 사업을 예정대로 이어간다. 홍은택 카카오 대표는 지난 11월 3분기 실적발표 컨퍼런스 콜에서 “프로필 개편으로 카톡 지인 간 소셜 인터랙션이 더 활성화되면 생일에 집중돼 있던 선물하기 맥락이 일상의 다양한 이벤트로 확장될 것”이라며 “카톡 순기능을 확장해 지속적으로 성장하는 기업이 될 수 있다”고 말했다. 다만 각종 탭을 개편하는 과정에서 이용자들의 반감을 사지 않고 매출을 올리는 게 관건이 될 전망.&nbsp; &nbsp; 지난 10월 일어난 ‘카톡 먹통 사태’ 뒷수습도 여전히 해결해야 할 숙제다. 카카오는 재발 방지 대책의 하나로 향후 5년 동안 서비스 안정화 투자 금액을 기존 대비 3배로 늘리겠다고 밝힌 바 있다. 업계 관계자는&nbsp;“내년엔 카톡의 수익성을 제고하는 동시에 먹통 사태 보상 등을 해결해야 한다”며 “카카오로서는 쉽지 않은 한 해가 될 것”이라고 전망했다. 김인경 기자 kim.inkyoung@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2022.12.18 18:49</p>
-<button type="button" class="btn_bookmark" data-cid="25126621" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
