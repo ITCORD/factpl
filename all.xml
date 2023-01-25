@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-25T02:12:04.383Z</updated>
+    <updated>2023-01-25T03:11:02.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[팩플] "알뜰폰이 그렇게 잘나가?" 알뜰폰 인기 요금제 뜯어보니 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -51,19 +51,42 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩플] 넷플릭스 창업자 퇴진…치열해진 OTT 시장, 새판 짤까 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25135175</id>
-        <link href="https://www.joongang.co.kr/article/25135175"/>
-        <updated>2023-01-20T09:10:09.066Z</updated>
+        <title type="html"><![CDATA[[팩플] MS-블리자드 인수 가시밭길…빅테크 ‘빅딜’ 시대 저무나 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25135735</id>
+        <link href="https://www.joongang.co.kr/article/25135735"/>
+        <updated>2023-01-25T11:05:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25135175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/20/15e7cfde-8708-4a0e-aab7-b3b27e7ed05b.jpg/_ir_144x144_/" alt="[팩플] 넷플릭스 창업자 퇴진…치열해진 OTT 시장, 새판 짤까" width="72" height="72">
+<a href="https://www.joongang.co.kr/article/25135735" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/25/ce461138-6068-49f0-8bfb-b66b64e3af10.jpg/_ir_144x144_/" alt="[팩플] MS-블리자드 인수 가시밭길…빅테크 ‘빅딜’ 시대 저무나" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
 <em class="rank_count ico_num3">3</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25135175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] 넷플릭스 창업자 퇴진…치열해진 OTT 시장, 새판 짤까</a>
+<a href="https://www.joongang.co.kr/article/25135735" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] MS-블리자드 인수 가시밭길…빅테크 ‘빅딜’ 시대 저무나</a>
+</h2>
+<div class="meta">
+<p class="date">2023.01.25 11:05</p>
+<button type="button" class="btn_bookmark" data-cid="25135735" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 넷플릭스 창업자 퇴진…치열해진 OTT 시장, 새판 짤까 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25135175</id>
+        <link href="https://www.joongang.co.kr/article/25135175"/>
+        <updated>2023-01-20T09:10:09.066Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25135175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/20/15e7cfde-8708-4a0e-aab7-b3b27e7ed05b.jpg/_ir_144x144_/" alt="[팩플] 넷플릭스 창업자 퇴진…치열해진 OTT 시장, 새판 짤까" width="72" height="72">
+</a>
+</figure>
+<div class="card_body">
+<em class="rank_count ico_num4">4</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25135175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 넷플릭스 창업자 퇴진…치열해진 OTT 시장, 새판 짤까</a>
 </h2>
 <div class="meta">
 <p class="date">2023.01.20 17:50</p>
@@ -79,41 +102,18 @@
         <link href="https://www.joongang.co.kr/article/25135074"/>
         <updated>2023-01-20T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25135074" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25135074" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/20/68a889c7-5478-45c2-a7a1-2b16e9cbbb2d.jpg/_ir_144x144_/" alt="[팩플] ‘기업메시징 덤핑’ LGU+·KT…1조원대 시장 변수는 카카오?" width="72" height="72">
-</a>
-</figure>
-<div class="card_body">
-<em class="rank_count ico_num4">4</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25135074" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] ‘기업메시징 덤핑’ LGU+·KT…1조원대 시장 변수는 카카오?</a>
-</h2>
-<div class="meta">
-<p class="date">2023.01.20 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25135074" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 챗GPT 품는 MS…클라우드·검색 시장 ‘게임체인저’ 될까 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25134784</id>
-        <link href="https://www.joongang.co.kr/article/25134784"/>
-        <updated>2023-01-19T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25134784" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202301/19/00d9189d-9156-419f-a937-dbfa452b0825.jpg/_ir_144x144_/" alt="[팩플] 챗GPT 품는 MS…클라우드·검색 시장 ‘게임체인저’ 될까" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
 <em class="rank_count ico_num5">5</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25134784" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] 챗GPT 품는 MS…클라우드·검색 시장 ‘게임체인저’ 될까</a>
+<a href="https://www.joongang.co.kr/article/25135074" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] ‘기업메시징 덤핑’ LGU+·KT…1조원대 시장 변수는 카카오?</a>
 </h2>
 <div class="meta">
-<p class="date">2023.01.19 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25134784" data-ctype="A" aria-label="북마크">
+<p class="date">2023.01.20 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25135074" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
@@ -136,7 +136,7 @@
 </a>
 </h2>
 <p class="description">
-마이크로소프트는 게임업체 액티비전 블리자드 인수를 추진 중이다. [로이터=연합뉴스] 마이크로소프트(MS)의 ‘게임 야심’은 성공할 수 있을까. MS가 세계 3위 게임사로 올라 서느냐 마느냐가 달린 빅딜이 난항을 겪고 있다. 빅테크를 둘러싼 반(反)독점 규제가 강화되면서 MS의 85조원 짜리 액티비전 블리자드 인수가 무산될 위기에 처한 것. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 지난 16일(현지시간) 로이터는 유럽연합(EU) 집행위원회가 MS의 블리자드 인수를 반대하는 입장을 낼 것이라고 보도했다. 앞서 미국 연방거래위원회(FTC)는 지난달 8일(현지시간) “MS가 블리자드를 인수할 경우 반독점법 위반 소지가 있다”며 소송을 제기한 상태. 지난해 9월에는 영국 시장경쟁청(CMA)이 MS의 시장 독점을 우려하며 시정조치를 요구했다. 각국의 경쟁당국이 MS-블리자드 기업결합에 부정적인 상황이다. &nbsp; MS가 블리자드 인수 계획을 깜짝 발표한 건 지난해 1월. 블리자드는 ‘워크래프트’ ‘스타크래프트’ ‘디아블로’ ‘캔디크러시’ ‘콜 오브 듀티’ 등 각종 인기게임 지식재산권(IP)을 보유하고 있는 대형 게임사다. MS는 687억 달러(약 84조 8500억원)에 블리자드를 인수하겠다고 했다. MS의 기존 게임사업에 블리자드의 게임 IP를 합친 시너지를 노렸다는 해석이 나왔다. MS는 콘솔게임인 X박스와 클라우드 기반 구독서비스 게임패스를 운영 중이다. 게임시장 조사업체 뉴주에 따르면 매출 기준 MS는 전 세계 4위, 블리자드는 7위를 차지하고 있다. 기업결합이 성사되면 MS는 텐센트, 소니에 이어 전 세계 3위 게임사로 올라서게 된다.&nbsp; &nbsp; 그래픽= 전유진 yuki@joongang.co.kr &nbsp;━&nbsp; 왜 중요해 &nbsp; ◦ 돌파구가 필요해: 전반적으로 성장이 둔화된 MS엔 돌파구가 필요하다. 24일 나온 MS의 실적발표에 따르면, 지난해 4분기(10~12월) 매출은 전년 동기 대비 2% 성장한 527억달러에 그쳤다. 분기매출 성장률 기준으론 6년 만에 가장 낮은 수치다. 게임패스 구독을 포함한 X박스 콘텐트·서비스 매출도 12% 줄었다. 클라우드 컴퓨팅 사업을 제외하곤 미래 먹거리가 부실한 상황. 사티아 나델라 MS 최고경영자(CEO)는 지난 18일 블로그에 올린 글을 통해 올해 전체 직원 20만명 중 5%를 해고하겠다는 계획을 공개하면서도 “회사의 장기적 성장과 미래를 위한 전략적 영역에는 계속 투자할 것”이라고 강조했다. 인공지능 챗GPT를 개발한 오픈AI와 게임은 MS가 찍은 전략적 투자 대상들. &nbsp; 사티아 나델라 MS 최고경영자(CEO)는&nbsp;클라우드 게임을 일찌감치 미래 먹거리로 낙점했다. 업계가 추산한 글로벌 게임 시장 규모는 연간 2000억 달러. 지난해 1월 기준 게임패스 구독자 수는 전 세계 2500만명이다. MS의 목표는 블리자드의 초대형 IP를 활용해 클라우드 게임을 키워 이른바 ‘게임계의 넷플릭스’가 되는 것. 그러나 인수가 무산되면 게임 사업의 성장 속도는 지체될 가능성이 크다. &nbsp; ◦ 빅딜 시대 저무나:&nbsp;한국의 공정거래위원회 격인 FTC의 리나 칸 위원장은 ‘빅테크 저격수’로 유명하다. 2021년에는 엔비디아의 반도체설계회사 ARM 인수에 대해 반대 소송을 제기해 결국 무산시켰고, 지난해 7월에는 메타의 가상현실(VR) 스타트업 위딘 인수를 막는 데 앞장서기도 했다. 이번 MS-블리자드 인수까지 저지하면, 다른 빅테크들이 주도하는 빅딜도 줄줄이 영향을 받게 될 것이라는 게 업계의 전망이다. 리나 칸 위원장의 행보에도 힘이 실릴 수 있다. 뉴욕타임스는 “기존 법원은 이번 인수 같은 수직결합(생산 공정이나 유통 단계상 관련이 있는 기업끼리의 결합)을 승인해왔다”며 “이번 소송은 반독점법을 손질하려는 리나 칸의 노력에 대한 가장 큰 시험이 될 것”이라고 평가했다. &nbsp; &nbsp;━&nbsp; “독점 맞아”vs“독점 아냐”&nbsp; &nbsp; 액티비전 블리자드의 인기 게임인 콜 오브 듀티의 이미지. [사진 액티비전 블리자드] 경쟁사들은 블리자드의 인기 IP를 MS가 독점할 것을 우려한다. FTC의 지적도 마찬가지. MS가 블리자드 IP를 자사의 게임패스에만 독점 출시하는 방식으로 시장 지배력을 남용해, 빠르게 성장하는 구독·클라우드 게임 시장을 독점할 것이라는 판단이다.&nbsp;홀리 베도바 FTC 경쟁국장은 블로그를 통해 MS가 지난 2021년 게임사 제니맥스미디어의 모회사인 베네스다를 인수하고, 독점 게임을 냈던 사례를 언급하며 “MS는 이미 경쟁사에 독점 IP를 주지 않은 전례가 있다”고 주장했다. &nbsp; MS는 사실과 다르다며 반박한다. MS가 클라우드 게임에 사활을 걸고 있긴 하지만 콘솔 게임 시장에도 발을 담그고 있기 때문. 콘솔 1위인 소니의 시장 점유율(70%)을 고려하면 블리자드 인수가 오히려 시장 경쟁을 촉진한다는 게 MS의 항변이다. 브래드 스미스 MS 사장은 지난달 월스트리트저널 기고글에서 “MS의 X박스는 소니의 플레이스테이션과 닌텐도 스위치에 밀려 콘솔 시장 3위에 머물러 있다”며 “이번 인수를 막는다면 게임 산업의 경쟁력이 떨어지고 게임 이용자들의 상황도 나빠질 것”이라고 강조했다. 블리자드 인수에 먹구름이 낀&nbsp;지난해 12월 MS는 블리자드 인기 IP인 ‘콜 오브 듀티’ 라이선스를 경쟁사인 소니·닌텐도 등에 최소 10년간 보장하겠다고도 밝혔다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 당초 MS는 이번 인수를 오는 6월까지 마무리하려 했지만 현재로선 사실상 불가능할 전망. MS가 블리자드를 최종 인수하려면 FTC 외에도 블리자드가 진출한 각국의 경쟁당국 심사를 통과해야 하기 때문이다. 국내에서도 지난해 4월 공정거래위원회에 기업결합 신고가 접수돼 심사가 진행 중이다. FTC가 낸 MS-블리자드 기업결합에 대한 반독점 소송은 오는 8월 시작된다. 관련기사 [팩플] 챗GPT 품는 MS…클라우드·검색 시장 ‘게임체인저’ 될까 [팩플] 모바일·PC에서 콘솔까지…‘선 넘는 게임’ 크로스 플랫폼이 뭐길래 [팩플] MMORPG 인기 뺨치는 '웰메이드' 캐주얼 게임…인기 끄는 까닭 김인경 기자 kim.inkyoung@joongang.co.kr
+마이크로소프트는 게임업체 액티비전 블리자드 인수를 추진 중이다. [로이터=연합뉴스] 마이크로소프트(MS)의 ‘게임 야심’은 성공할 수 있을까. MS가 세계 3위 게임사로 올라 서느냐 마느냐가 달린 빅딜이 난항을 겪고 있다. 빅테크를 둘러싼 반(反)독점 규제가 강화되면서 MS의 85조원 짜리 액티비전 블리자드 인수가 무산될 위기에 처한 것. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 지난 16일(현지시간) 로이터는 유럽연합(EU) 집행위원회가 MS의 블리자드 인수를 반대하는 입장을 낼 것이라고 보도했다. 앞서 미국 연방거래위원회(FTC)는 지난달 8일(현지시간) “MS가 블리자드를 인수할 경우 반독점법 위반 소지가 있다”며 소송을 제기한 상태. 지난해 9월에는 영국 시장경쟁청(CMA)이 MS의 시장 독점을 우려하며 시정조치를 요구했다. 각국의 경쟁당국이 MS-블리자드 기업결합에 부정적인 상황이다. &nbsp; MS가 블리자드 인수 계획을 깜짝 발표한 건 지난해 1월. 블리자드는 ‘워크래프트’ ‘스타크래프트’ ‘디아블로’ ‘캔디크러시 사가’ ‘콜 오브 듀티’ 등 각종 인기게임 지식재산권(IP)을 보유하고 있는 대형 게임사다. MS는 687억 달러(약 84조 8500억원)에 블리자드를 인수하겠다고 했다. MS의 기존 게임사업에 블리자드의 게임 IP를 합친 시너지를 노렸다는 해석이 나왔다. MS는 콘솔게임인 X박스와 클라우드 기반 구독서비스 게임패스를 운영 중이다. 게임시장 조사업체 뉴주에 따르면 매출 기준 MS는 전 세계 4위, 블리자드는 7위를 차지하고 있다. 기업결합이 성사되면 MS는 텐센트, 소니에 이어 전 세계 3위 게임사로 올라서게 된다.&nbsp; &nbsp; 그래픽= 전유진 yuki@joongang.co.kr &nbsp;━&nbsp; 왜 중요해 &nbsp; ◦ 돌파구가 필요해: 전반적으로 성장이 둔화된 MS엔 돌파구가 필요하다. 24일 나온 MS의 실적발표에 따르면, 지난해 4분기(10~12월) 매출은 전년 동기 대비 2% 성장한 527억달러에 그쳤다. 분기매출 성장률 기준으론 6년 만에 가장 낮은 수치다. 게임패스 구독을 포함한 X박스 콘텐트·서비스 매출도 12% 줄었다. 클라우드 컴퓨팅 사업을 제외하곤 미래 먹거리가 부실한 상황. 사티아 나델라 MS 최고경영자(CEO)는 지난 18일 블로그에 올린 글을 통해 올해 전체 직원 20만명 중 5%를 해고하겠다는 계획을 공개하면서도 “회사의 장기적 성장과 미래를 위한 전략적 영역에는 계속 투자할 것”이라고 강조했다. 인공지능 챗GPT를 개발한 오픈AI와 게임은 MS가 찍은 전략적 투자 대상들. &nbsp; 사티아 나델라 MS 최고경영자(CEO)는&nbsp;클라우드 게임을 일찌감치 미래 먹거리로 낙점했다. 업계가 추산한 글로벌 게임 시장 규모는 연간 2000억 달러. 지난해 1월 기준 게임패스 구독자 수는 전 세계 2500만명이다. MS의 목표는 블리자드의 초대형 IP를 활용해 클라우드 게임을 키워 이른바 ‘게임계의 넷플릭스’가 되는 것. 그러나 인수가 무산되면 게임 사업의 성장 속도는 지체될 가능성이 크다. &nbsp; ◦ 빅딜 시대 저무나:&nbsp;한국의 공정거래위원회 격인 FTC의 리나 칸 위원장은 ‘빅테크 저격수’로 유명하다. 2021년에는 엔비디아의 반도체설계회사 ARM 인수에 대해 반대 소송을 제기해 결국 무산시켰고, 지난해 7월에는 메타의 가상현실(VR) 스타트업 위딘 인수를 막는 데 앞장서기도 했다. 이번 MS-블리자드 인수까지 저지하면, 다른 빅테크들이 주도하는 빅딜도 줄줄이 영향을 받게 될 것이라는 게 업계의 전망이다. 리나 칸 위원장의 행보에도 힘이 실릴 수 있다. 뉴욕타임스는 “기존 법원은 이번 인수 같은 수직결합(생산 공정이나 유통 단계상 관련이 있는 기업끼리의 결합)을 승인해왔다”며 “이번 소송은 반독점법을 손질하려는 리나 칸의 노력에 대한 가장 큰 시험이 될 것”이라고 평가했다. &nbsp; &nbsp;━&nbsp; “독점 맞아”vs“독점 아냐”&nbsp; &nbsp; 액티비전 블리자드의 인기 게임인 콜 오브 듀티의 이미지. [사진 액티비전 블리자드] 경쟁사들은 블리자드의 인기 IP를 MS가 독점할 것을 우려한다. FTC의 지적도 마찬가지. MS가 블리자드 IP를 자사의 게임패스에만 독점 출시하는 방식으로 시장 지배력을 남용해, 빠르게 성장하는 구독·클라우드 게임 시장을 독점할 것이라는 판단이다.&nbsp;홀리 베도바 FTC 경쟁국장은 블로그를 통해 MS가 지난 2021년 게임사 제니맥스미디어의 모회사인 베네스다를 인수하고, 독점 게임을 냈던 사례를 언급하며 “MS는 이미 경쟁사에 독점 IP를 주지 않은 전례가 있다”고 주장했다. &nbsp; MS는 사실과 다르다며 반박한다. MS가 클라우드 게임에 사활을 걸고 있긴 하지만 콘솔 게임 시장에도 발을 담그고 있기 때문. 콘솔 1위인 소니의 시장 점유율(70%)을 고려하면 블리자드 인수가 오히려 시장 경쟁을 촉진한다는 게 MS의 항변이다. 브래드 스미스 MS 사장은 지난달 월스트리트저널 기고글에서 “MS의 X박스는 소니의 플레이스테이션과 닌텐도 스위치에 밀려 콘솔 시장 3위에 머물러 있다”며 “이번 인수를 막는다면 게임 산업의 경쟁력이 떨어지고 게임 이용자들의 상황도 나빠질 것”이라고 강조했다. 블리자드 인수에 먹구름이 낀&nbsp;지난해 12월 MS는 블리자드 인기 IP인 ‘콜 오브 듀티’ 라이선스를 경쟁사인 소니·닌텐도 등에 최소 10년간 보장하겠다고도 밝혔다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 당초 MS는 이번 인수를 오는 6월까지 마무리하려 했지만 현재로선 사실상 불가능할 전망. MS가 블리자드를 최종 인수하려면 FTC 외에도 블리자드가 진출한 각국의 경쟁당국 심사를 통과해야 하기 때문이다. 국내에서도 지난해 4월 공정거래위원회에 기업결합 신고가 접수돼 심사가 진행 중이다. FTC가 낸 MS-블리자드 기업결합에 대한 반독점 소송은 오는 8월 시작된다. 관련기사 [팩플] 챗GPT 품는 MS…클라우드·검색 시장 ‘게임체인저’ 될까 [팩플] 모바일·PC에서 콘솔까지…‘선 넘는 게임’ 크로스 플랫폼이 뭐길래 [팩플] MMORPG 인기 뺨치는 '웰메이드' 캐주얼 게임…인기 끄는 까닭 김인경 기자 kim.inkyoung@joongang.co.kr
 </p>
 <div class="meta">
 <p class="date">2023.01.25 11:05</p>
