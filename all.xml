@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-28T20:11:59.838Z</updated>
+    <updated>2023-02-28T21:09:54.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[팩플] 성지도 호갱도 사라질까…‘단통법 수술’ 앞둔 통신업계 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -120,18 +120,45 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[현장에서] 구글·빙 이어 네이버도… ‘그럴듯한 거짓말’ 어쩌나 (중앙일보 팩플 ─ 뉴스)]]></title>
+        <id>https://www.joongang.co.kr/article/25143939</id>
+        <link href="https://www.joongang.co.kr/article/25143939"/>
+        <updated>2023-03-01T06:01:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25143939" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/01/24ce8b0f-c5d7-4cc6-9e29-9d8f8ff3227a.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/01/24ce8b0f-c5d7-4cc6-9e29-9d8f8ff3227a.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/01/24ce8b0f-c5d7-4cc6-9e29-9d8f8ff3227a.jpg/_ir_410x230_/ 2x" alt="[현장에서] 구글·빙 이어 네이버도… ‘그럴듯한 거짓말’ 어쩌나 " width="205" height="115">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25143939" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[현장에서] 구글·빙 이어 네이버도… ‘그럴듯한 거짓말’ 어쩌나
+</a>
+</h2>
+<p class="description">
+27일 네이버 개발자 콘퍼런스 '데뷰'에서 공개된 서치GPT 예시. 사진 네이버 “일본 여행 가려고 하는데 코로나 백신 접종 증명서와 입국 정보 등록하는 방법 알려줘.” “일본 정부는 현재 모더나, 얀센, 아스트라제네카, 푸라노스백신 중 2차 접종을 완료한 사람에 대해서만 입국을 허용하고 있습니다.” &nbsp; 지난달 27일 네이버 개발자 콘퍼런스 ‘데뷰(DEVIEW)’에서 공개된 ‘서치GPT’의 예시다. 서치GPT는 초거대 인공지능(AI) 하이퍼클로바X를 네이버 검색에 특화시킨 대규모 언어모델(오션)을 활용한 검색 프로젝트. 네이버가 올해 상반기에 서치GPT 출시를 예고하면서 미국 오픈AI의 대화형 AI 챗GPT의 대항마가 될 수 있을지 관심을 모았다. 네이버는 2021년 데이터까지 학습하고 정보 출처를 제시하지 않는 챗GPT를 겨냥한 듯 “최신성과 정보 간 교차·반복 검증 및 사용자 피드백을 통해 정확성과 신뢰성을 갖춘 정보를 생성할 것”이라고 자신했다. &nbsp; &nbsp;━&nbsp; “최신성·정확성 갖추겠다” 했지만&nbsp;&nbsp; &nbsp; 27일 데뷰에서 공개된 서치GPT. 신뢰성을 높이고, 서비스간 연결, 멀티모달 강화가 특징이다. 사진 네이버 하지만 이날 공개된 서치GPT의 답변에서 오답이 발견됐다. 일본 정부가 요구하는 코로나19 백신 관련 답변에 포함된 푸라노스는 존재하지 않는 백신이다. 또 일본 입국시에는 백신 3차 영문 접종증명서 혹은 출국 전 72시간 이내 PCR 음성 증명서를 제출해야 하는데 잘못된 정보를 제공한 것. 네이버 관계자는 “테스트를 여러 차례 진행하면서 나온 결과를 조합해 예시 답변을 만들다 보니 이미지 제작 과정에서 최종본이 아닌 이전 버전이 포함됐다”며 “아직 테스트 중이기 때문에 보완해나갈 것”이라고 밝혔다. &nbsp; &nbsp; 비단 네이버만의 문제는 아니다. 지난 1월 6, 7일 앞다퉈 공개된 구글 람다 기반의 대화형 AI 바드와 챗GPT를 결합한 마이크로소프트(MS)의 새 검색엔진 빙 시연 과정에서도 비슷한 오류가 나왔다. 바드는 제임스 웹 우주망원경이 최초로 태양계 외부 행성을 찍는 데 사용됐다며 잘못된 답을 내놨고, 빙은 의류 브랜드 갭과 룰루레몬의 실적을 비교하는 과정에서 총마진율과 영업마진율 등을 잘못 제시했다. 대화형 AI 기술에서 검색의 미래를 찾고 있다는 빅테크 기업들이 연일 체면을 구기고 있는 모습이다. &nbsp; &nbsp; &nbsp;━&nbsp; 리스크 감수해도 경쟁 뛰어들 때&nbsp;&nbsp; &nbsp; 지난달 6일 구글 트위터에 올라온 바드 예시. 구글 트위터 캡처 문제는 시연 당시 이같은 오류를 알아차린 사람이 거의 없다는 사실. 완전히 잘못된 답변이 아니라 ‘그럴듯한 거짓말’을 내놓는 탓이다. 바드의 예시는 구글 트위터에 공개되면서 과학자들이 문제를 제기했다. 이를 로이터 등 외신이 보도한 직후(1월 8일) 알파벳(구글 모회사) 주가는 전날보다 7.7% 급락해 하루 만에 시총 1000억 달러(약 127조원)가 사라졌다. CNBC 등에 따르면 빙의 오답은 소프트웨어 엔지니어 드미트리 브레러튼의 지적으로 뒤늦게 알려졌다. “MS와 구글의 AI를 비교하기 위해 자세히 들여다보는 과정에서 발견했다”고. &nbsp; &nbsp;&nbsp; 결국 이 경쟁의 관건은 얼마나 믿을 만한 정보를 제공할 수 있는지에 달린 것으로 보인다. 보도나 연구 등 특별한 목적을 가지고 있지 않은 이상 검색 사이트가 제공한 결과를 일일이 원 데이터와 대조할 사람은 많지 않을 테니 말이다. 2014년 딥마인드를 인수하는 등 AI 연구의 선두주자였던 구글이 관련 서비스를 선뜻 출시하지 못한 것도 같은 맥락. 구글 출신 AI 윤리 연구자 팀니트 게브루는 워싱턴포스트와 인터뷰에서 “구글 입장에서는 AI 서비스 공개로 인한 리스크를 감수할 정도로 실익이 없었다. 하지만 이제 핵심 사업에 위협이 되기 때문에 (공개를) 미룰 수 없었을 것”이라고 말했다. &nbsp; &nbsp; &nbsp;━&nbsp; 오답 속출 AI, 책임은 누구에&nbsp;&nbsp; &nbsp; 지난달 14일 소프트웨어 엔지니어 드미트리 브레러튼이 지적한 빙의 오류. 드미트리 브레러튼 블로그 캡처 구글이나 네이버처럼 검색뿐 아니라 여러 가지 서비스를 운영하는 기업의 책임은 더 커지게 됐다. 네이버가 보여준 서치GPT 예시처럼 이용자별 검색 목적을 예측해 블로그 정보를 취합하고 쇼핑 링크까지 함께 제공하는 과정에 문제는 없을까. 허위·과장 정보가 뒤섞인 웹문서가 AI의 답변에 섞여 나올 가능성은 얼마든지 있다. 웹에 떠도는 정보가 모두 사실은 아니므로 뉴스·논문 등 정확한 정보의 가치가 높아지고, 이를 판별할 수 있는 AI 리터러시 능력은 더 중요해졌다.&nbsp;&nbsp; &nbsp; AI 관련 법안 논의도 나온다. 로이터 등에 따르면 유럽연합(EU)의 AI법은 이달 초안이 나오고 연내 공표 예정이다. AI의 위험 수준을 단계별로 구분해 규제하는 것이 골자다. 한국에서는 지난달 14일 ‘AI 산업 육성ㆍ신뢰 기반 조성에 관한 법률’이 국회 과학기술정보방송통신위원회 법안심사소위원회를 통과했다. AI 기반 추천 서비스 제공자는 방송통신위원회에 신고하고, 오류나 오작동이 발생할 경우 이를 시정해야 한다는 내용의 정보통신망법 개정안도 발의돼 있다. AI 추천 서비스의 결과에 오류가 있으면 그 책임을 법으로 묻겠다는 것인데, 개별 기업의 서비스 오류 책임을 법으로 정할 일일까. 또 웹에 존재하는 데이터에 대해 어디까지 검색 서비스 기업에 책임을 물을 수 있을까. 이런 우려에도 불구하고, 검색 강자들의 잇따른 오류를 보니, 이제 신기술에 대한 흥분은 가라앉히고 부작용과 문제점을 차분히 생각해봐야 할 때다. 팩플배너 민경원 기자 storymin@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.03.01 06:01</p>
+<button type="button" class="btn_bookmark" data-cid="25143939" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩플] 성지도 호갱도 사라질까…‘단통법 수술’ 앞둔 통신업계 (중앙일보 팩플 ─ 뉴스)]]></title>
         <id>https://www.joongang.co.kr/article/25143658</id>
         <link href="https://www.joongang.co.kr/article/25143658"/>
         <updated>2023-02-28T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25143658" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25143658" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/28/046c989c-a895-4809-b28a-51ab153cf72b.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/28/046c989c-a895-4809-b28a-51ab153cf72b.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/28/046c989c-a895-4809-b28a-51ab153cf72b.jpg/_ir_410x230_/ 2x" alt="[팩플] 성지도 호갱도 사라질까…‘단통법 수술’ 앞둔 통신업계" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25143658" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25143658" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] 성지도 호갱도 사라질까…‘단통법 수술’ 앞둔 통신업계
 </a>
 </h2>
@@ -152,13 +179,13 @@
         <link href="https://www.joongang.co.kr/article/25143476"/>
         <updated>2023-02-27T09:11:08.138Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25143476" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25143476" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/27/47db6a30-5232-491d-88a8-52d220b22c9b.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/27/47db6a30-5232-491d-88a8-52d220b22c9b.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/27/47db6a30-5232-491d-88a8-52d220b22c9b.jpg/_ir_410x230_/ 2x" alt="[팩플] 한국어 만렙에 최근 정보까지?…네이버 서치GPT 통할까" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25143476" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25143476" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] 한국어 만렙에 최근 정보까지?…네이버 서치GPT 통할까
 </a>
 </h2>
@@ -179,13 +206,13 @@
         <link href="https://www.joongang.co.kr/article/25143229"/>
         <updated>2023-02-26T09:09:44.615Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25143229" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25143229" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/26/aa98d0b4-8fc9-4a2b-9a06-64ebf89e2331.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/26/aa98d0b4-8fc9-4a2b-9a06-64ebf89e2331.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/26/aa98d0b4-8fc9-4a2b-9a06-64ebf89e2331.jpg/_ir_410x230_/ 2x" alt="[팩플] 메타도 한다, 초거대AI…실적‧윤리 고민에도 공개한 이유" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25143229" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25143229" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] 메타도 한다, 초거대AI…실적‧윤리 고민에도 공개한 이유
 </a>
 </h2>
@@ -206,13 +233,13 @@ REUTERS=연합뉴스 메타가 초거대 언어 모델(LLM)인 ‘라마(LLaMA)�
         <link href="https://www.joongang.co.kr/article/25142391"/>
         <updated>2023-02-22T08:13:24.408Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25142391" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25142391" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/22/83f466d5-b36c-4666-9355-d22f831f47ae.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/22/83f466d5-b36c-4666-9355-d22f831f47ae.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/22/83f466d5-b36c-4666-9355-d22f831f47ae.jpg/_ir_410x230_/ 2x" alt="[팩플] AWS‧허깅페이스도 동맹…글로벌 클라우드, 초거대AI로 힘 키운다" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25142391" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25142391" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] AWS‧허깅페이스도 동맹…글로벌 클라우드, 초거대AI로 힘 키운다
 </a>
 </h2>
@@ -233,13 +260,13 @@ REUTERS=연합뉴스 메타가 초거대 언어 모델(LLM)인 ‘라마(LLaMA)�
         <link href="https://www.joongang.co.kr/article/25142367"/>
         <updated>2023-02-22T20:10:39.184Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25142367" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25142367" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/23/9fd3e705-c163-4f5c-9807-ec9c8e9efff7.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/23/9fd3e705-c163-4f5c-9807-ec9c8e9efff7.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/23/9fd3e705-c163-4f5c-9807-ec9c8e9efff7.jpg/_ir_410x230_/ 2x" alt="버핏의 픽, 스노우플레이크…美 IPO ‘미다스의 손’ 있었다" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25142367" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25142367" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 버핏의 픽, 스노우플레이크…美 IPO ‘미다스의 손’ 있었다
 </a>
 <strong class="badge_plus"><span class="visually_hidden">유료 전용</span></strong>
@@ -261,13 +288,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25142003"/>
         <updated>2023-02-21T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25142003" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25142003" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/21/00fefd26-03ba-468a-90d2-16fe140784e2.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/21/00fefd26-03ba-468a-90d2-16fe140784e2.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/21/00fefd26-03ba-468a-90d2-16fe140784e2.jpg/_ir_410x230_/ 2x" alt="[팩플] 페북·인스타도 파란 딱지 판다…유료 회원 잡기 나선 빅테크, 이유는" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25142003" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25142003" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] 페북·인스타도 파란 딱지 판다…유료 회원 잡기 나선 빅테크, 이유는
 </a>
 </h2>
@@ -288,13 +315,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25141880"/>
         <updated>2023-02-20T10:12:00.377Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25141880" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25141880" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/20/f48f6433-df13-4c47-a055-50f45a6db854.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/20/f48f6433-df13-4c47-a055-50f45a6db854.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/20/f48f6433-df13-4c47-a055-50f45a6db854.jpg/_ir_410x230_/ 2x" alt="[팩플] KT CEO 공모 34명 몰려…연임이냐 새 인물이냐, 막 오른 레이스" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25141880" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25141880" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] KT CEO 공모 34명 몰려…연임이냐 새 인물이냐, 막 오른 레이스
 </a>
 </h2>
@@ -315,13 +342,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25141625"/>
         <updated>2023-02-19T10:09:26.026Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25141625" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25141625" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/19/cb2c3d50-d148-4346-9551-05dec523c97b.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/19/cb2c3d50-d148-4346-9551-05dec523c97b.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/19/cb2c3d50-d148-4346-9551-05dec523c97b.jpg/_ir_410x230_/ 2x" alt="[팩플] SK텔레콤·KT만 나선 MWC2023…키워드는 ‘속도’" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25141625" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25141625" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] SK텔레콤·KT만 나선 MWC2023…키워드는 ‘속도’
 </a>
 </h2>
@@ -342,13 +369,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25141252"/>
         <updated>2023-02-17T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25141252" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25141252" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/17/30719467-589b-48ea-ac0d-d624337d96c6.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/17/30719467-589b-48ea-ac0d-d624337d96c6.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/17/30719467-589b-48ea-ac0d-d624337d96c6.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘상폐’ 위믹스 재상장…위메이드에 문 연 코인원, ‘대오이탈’의 빅픽처는" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25141252" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25141252" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] ‘상폐’ 위믹스 재상장…위메이드에 문 연 코인원, ‘대오이탈’의 빅픽처는
 </a>
 </h2>
@@ -369,13 +396,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25141125"/>
         <updated>2023-02-16T10:10:58.206Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25141125" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25141125" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/16/95a7ea8b-aa74-43ef-874e-da56c3934926.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/16/95a7ea8b-aa74-43ef-874e-da56c3934926.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/16/95a7ea8b-aa74-43ef-874e-da56c3934926.jpg/_ir_410x230_/ 2x" alt="[팩플] 영상 표절 도운 ‘신사임당표 AI’…유튜브는 왜 못잡아냈나" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25141125" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25141125" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] 영상 표절 도운 ‘신사임당표 AI’…유튜브는 왜 못잡아냈나
 </a>
 </h2>
@@ -396,13 +423,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25141120"/>
         <updated>2023-02-16T10:10:58.207Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25141120" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25141120" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/16/937430a1-680d-4993-b180-e0482d28c0c0.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/16/937430a1-680d-4993-b180-e0482d28c0c0.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/16/937430a1-680d-4993-b180-e0482d28c0c0.jpg/_ir_410x230_/ 2x" alt="[팩플] 잇단 사고에 고개 숙인 LG유플…“보안 투자에 연 1000억원 쏟겠다”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25141120" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25141120" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 잇단 사고에 고개 숙인 LG유플…“보안 투자에 연 1000억원 쏟겠다”
 </a>
 </h2>
@@ -423,13 +450,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25140858"/>
         <updated>2023-02-15T10:11:14.079Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25140858" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25140858" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/15/b44a28f4-8b4e-4fff-8dcb-e71e32d99724.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/15/b44a28f4-8b4e-4fff-8dcb-e71e32d99724.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/15/b44a28f4-8b4e-4fff-8dcb-e71e32d99724.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘최대 실적’ 통신3사, 무료 데이터 쏜다…정부의 통신비 인하 대책은" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25140858" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25140858" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] ‘최대 실적’ 통신3사, 무료 데이터 쏜다…정부의 통신비 인하 대책은
 </a>
 </h2>
@@ -450,13 +477,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25140764"/>
         <updated>2023-02-15T06:13:16.269Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25140764" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25140764" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/15/6406353c-0b13-4651-8c05-e1c50f988adb.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/15/6406353c-0b13-4651-8c05-e1c50f988adb.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/15/6406353c-0b13-4651-8c05-e1c50f988adb.jpg/_ir_410x230_/ 2x" alt="[팩플] 공정위 257억 과징금에 “인정 못 한다”는 카모, 쟁점 세가지 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25140764" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25140764" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] 공정위 257억 과징금에 “인정 못 한다”는 카모, 쟁점 세가지
 </a>
 </h2>
@@ -477,13 +504,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25140561"/>
         <updated>2023-02-14T09:11:05.186Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25140561" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25140561" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/14/a80a69ee-ef44-4efd-910a-1f799f34bab0.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/14/a80a69ee-ef44-4efd-910a-1f799f34bab0.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/14/a80a69ee-ef44-4efd-910a-1f799f34bab0.jpg/_ir_410x230_/ 2x" alt="공시지원금 짜네?…몸값 오른 갤S23, 가장 싸게 사는 방법은" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25140561" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25140561" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 공시지원금 짜네?…몸값 오른 갤S23, 가장 싸게 사는 방법은
 </a>
 </h2>
@@ -504,13 +531,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25140167"/>
         <updated>2023-02-13T11:40:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25140167" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25140167" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/13/a85ae294-0dd5-4bf6-8c5a-78e5cead1b59.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/13/a85ae294-0dd5-4bf6-8c5a-78e5cead1b59.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/13/a85ae294-0dd5-4bf6-8c5a-78e5cead1b59.jpg/_ir_410x230_/ 2x" alt="[팩플] 유럽·북미·동남아까지? 네이버 커머스, 기대와 의구심 사이" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25140167" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25140167" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] 유럽·북미·동남아까지? 네이버 커머스, 기대와 의구심 사이
 </a>
 </h2>
@@ -531,13 +558,13 @@ Today’s interview마이크 스카펠리 스노우플레이크 최고재무책�
         <link href="https://www.joongang.co.kr/article/25140015"/>
         <updated>2023-02-12T10:09:18.536Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25140015" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25140015" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/12/079a1212-7dfa-48e2-808c-e0c07fefdb85.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/12/079a1212-7dfa-48e2-808c-e0c07fefdb85.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/12/079a1212-7dfa-48e2-808c-e0c07fefdb85.jpg/_ir_410x230_/ 2x" alt="[팩플] SM엔터, 하이브ㆍ카카오ㆍ네이버 격전지 된 이유는 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25140015" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25140015" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [팩플] SM엔터, 하이브ㆍ카카오ㆍ네이버 격전지 된 이유는
 </a>
 </h2>
@@ -558,13 +585,13 @@ SM엔터테인먼트를 설립한 이수만 전 총괄 프로듀서. 사진 SM�
         <link href="https://www.joongang.co.kr/article/25139984"/>
         <updated>2023-02-12T08:11:37.277Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25139984" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25139984" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/12/4e7b61a1-03b1-4ddb-9f8c-e3e77657382a.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/12/4e7b61a1-03b1-4ddb-9f8c-e3e77657382a.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/12/4e7b61a1-03b1-4ddb-9f8c-e3e77657382a.jpg/_ir_410x230_/ 2x" alt="[팩플] 네이버의 AI 데이터가 모이는 이곳...10주년 ‘각 춘천’ 가보니" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25139984" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25139984" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 [팩플] 네이버의 AI 데이터가 모이는 이곳...10주년 ‘각 춘천’ 가보니
 </a>
 </h2>
@@ -585,13 +612,13 @@ SM엔터테인먼트를 설립한 이수만 전 총괄 프로듀서. 사진 SM�
         <link href="https://www.joongang.co.kr/article/25139750"/>
         <updated>2023-02-10T10:11:06.437Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25139750" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25139750" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/10/b0462945-664b-4d2d-ad86-b4d2332354cb.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/10/b0462945-664b-4d2d-ad86-b4d2332354cb.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/10/b0462945-664b-4d2d-ad86-b4d2332354cb.jpg/_ir_410x230_/ 2x" alt="[팩플] 덩치 커졌는데 실속 못 챙긴 카카오…“AI·콘텐트로 길 연다”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25139750" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25139750" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] 덩치 커졌는데 실속 못 챙긴 카카오…“AI·콘텐트로 길 연다”
 </a>
 </h2>
@@ -612,13 +639,13 @@ SM엔터테인먼트를 설립한 이수만 전 총괄 프로듀서. 사진 SM�
         <link href="https://www.joongang.co.kr/article/25139498"/>
         <updated>2023-02-09T10:10:06.774Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25139498" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25139498" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/09/a3d01871-ead9-4d51-831d-00cf001169d4.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/09/a3d01871-ead9-4d51-831d-00cf001169d4.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/09/a3d01871-ead9-4d51-831d-00cf001169d4.jpg/_ir_410x230_/ 2x" alt="[팩플] 대화ㆍ이미지ㆍ맥락까지 다 동원…AI가 검색 패러다임 바꾼다" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25139498" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25139498" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] 대화ㆍ이미지ㆍ맥락까지 다 동원…AI가 검색 패러다임 바꾼다
 </a>
 </h2>
@@ -639,13 +666,13 @@ SM엔터테인먼트를 설립한 이수만 전 총괄 프로듀서. 사진 SM�
         <link href="https://www.joongang.co.kr/article/25139479"/>
         <updated>2023-02-09T09:10:38.123Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25139479" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25139479" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/09/50d65af8-5ad9-47eb-a283-e0e2dfe9d6ed.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/09/50d65af8-5ad9-47eb-a283-e0e2dfe9d6ed.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/09/50d65af8-5ad9-47eb-a283-e0e2dfe9d6ed.jpg/_ir_410x230_/ 2x" alt="[팩플] 尹 발언 때문? KT 대표 찾기, 처음부터 다시…구현모도 지원" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25139479" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25139479" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] 尹 발언 때문? KT 대표 찾기, 처음부터 다시…구현모도 지원
 </a>
 </h2>
@@ -666,13 +693,13 @@ SM엔터테인먼트를 설립한 이수만 전 총괄 프로듀서. 사진 SM�
         <link href="https://www.joongang.co.kr/article/25138928"/>
         <updated>2023-02-07T10:10:28.850Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25138928" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25138928" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/07/f38d94a0-eb17-45ce-870b-ea3c4b8aaaaf.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/07/f38d94a0-eb17-45ce-870b-ea3c4b8aaaaf.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/07/f38d94a0-eb17-45ce-870b-ea3c4b8aaaaf.jpg/_ir_410x230_/ 2x" alt="[챗GPT AI 전쟁①] 검색에서 통찰로…빅테크, AI 전쟁 시작됐다 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25138928" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25138928" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [챗GPT AI 전쟁①] 검색에서 통찰로…빅테크, AI 전쟁 시작됐다
 </a>
 </h2>
@@ -693,13 +720,13 @@ SM엔터테인먼트를 설립한 이수만 전 총괄 프로듀서. 사진 SM�
         <link href="https://www.joongang.co.kr/article/25138478"/>
         <updated>2023-02-06T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25138478" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25138478" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/06/94ff0259-e56a-487b-8a94-6feaf7783536.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/06/94ff0259-e56a-487b-8a94-6feaf7783536.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/06/94ff0259-e56a-487b-8a94-6feaf7783536.jpg/_ir_410x230_/ 2x" alt="[팩플] 키울 땐 ‘글로벌’, 줄일 땐 ‘한국식’…스타트업 ‘고용 딜레마’" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25138478" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25138478" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 [팩플] 키울 땐 ‘글로벌’, 줄일 땐 ‘한국식’…스타트업 ‘고용 딜레마’
 </a>
 </h2>
@@ -720,13 +747,13 @@ SM엔터테인먼트를 설립한 이수만 전 총괄 프로듀서. 사진 SM�
         <link href="https://www.joongang.co.kr/article/25138353"/>
         <updated>2023-02-05T08:11:14.011Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25138353" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25138353" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/05/ba4c1b70-0237-4f90-8150-e9a61c0cca7d.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/05/ba4c1b70-0237-4f90-8150-e9a61c0cca7d.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/05/ba4c1b70-0237-4f90-8150-e9a61c0cca7d.jpg/_ir_410x230_/ 2x" alt="[팩플] 해커에 뚫리고 디도스에 끊기고…LG유플러스에 칼 빼든 정부" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25138353" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25138353" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플] 해커에 뚫리고 디도스에 끊기고…LG유플러스에 칼 빼든 정부
 </a>
 </h2>
@@ -736,33 +763,6 @@ SM엔터테인먼트를 설립한 이수만 전 총괄 프로듀서. 사진 SM�
 <div class="meta">
 <p class="date">2023.02.05 16:51</p>
 <button type="button" class="btn_bookmark" data-cid="25138353" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 첫 투자유치한 NHN클라우드, 물적분할 논란 딛고 성장 속도 낼까 (중앙일보 팩플 ─ 뉴스)]]></title>
-        <id>https://www.joongang.co.kr/article/25138311</id>
-        <link href="https://www.joongang.co.kr/article/25138311"/>
-        <updated>2023-02-05T04:10:54.776Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25138311" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/05/40da819f-d218-488e-b599-34eec5c425ce.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/05/40da819f-d218-488e-b599-34eec5c425ce.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202302/05/40da819f-d218-488e-b599-34eec5c425ce.jpg/_ir_410x230_/ 2x" alt="[팩플] 첫 투자유치한 NHN클라우드, 물적분할 논란 딛고 성장 속도 낼까" width="205" height="115">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25138311" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 첫 투자유치한 NHN클라우드, 물적분할 논란 딛고 성장 속도 낼까
-</a>
-</h2>
-<p class="description">
-NHN클라우드가 사모펀드로부터 투자를 유치해 기업가치 1조원을 인정받았다. 지난해 4월 NHN 소액 주주들의 반발 속에 NHN으로부터 분사한 이후 첫 외부 투자 유치다. NHN클라우드의 성장은 NHN과 NHN 주주들에게도 그린라이트로 이어질까.&nbsp;&nbsp; 경기도 판교 테크노밸리에 있는 NHN의 사옥 플레이뮤지엄. 사진 NHN &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; NHN클라우드가 “IMM인베스트먼트로부터 1500억원 규모의 투자를 받아, 기업가치 1조원을 기록했다”고 지난 26일 밝혔다. 지분의 85%는 본사인 NHN이, 15%는 IMM인베스트먼트 측이 갖는다. IMM인베스트먼트는 특수목적법인(SPC) 카리테스 주식회사를 통해 이번 투자를 진행했다. IMM인베스트먼트 측은 투자 배경에 대해 “국내외 경쟁력을 갖춘 NHN클라우드가 공격적인 사업 확장에 나선다면 향후 대표적인 클라우드 전문 기업으로 성장할 가능성이 유망하다고 판단했다”고 밝혔다. &nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; 이준호 NHN 회장. 사진 NHN NHN으로부터 독립한 이후 첫 투자 유치. NHN은 지난해 4월 클라우드 사업부를 NHN클라우드로 물적분할했다. 이 과정에서 “이준호 NHN 회장의 지배력만 키우고 기업 가치는 훼손했다”는 소액주주들의 반발이 컸다. 이준호 회장의 NHN 보유 지분은 18.88%. 알짜배기인 클라우드 사업을 물적분할하면서 주주들에게 떨어지는 이익이 없어졌다는 불만이 나온다. 그럼에도 NHN은 외부 투자금 유치를 용이하게 한다는 이유로 클라우드 사업부를 분사시켜 사업을 키워왔다. &nbsp; NHN클라우드 측은 이번 투자가 본사의 기업 가치를 높이는 데도 긍정적 영향을 준다고 주장한다. 이 회사 관계자는 “NHN클라우드가 NHN의 기술 경쟁력 중 상당 부분을 책임지는 만큼, 이번 투자가 본사의 정성적 가치를 높이는 데도 기여할 것”이라고 설명했다. NHN클라우드의 투자 유치가 공시된 직후, NHN은 이틀 연속 주가가 상승해 2350원 오른 2만9300원까지 강세를 보이다 지난 30일 800원 하락한 2만8500원에 장을 마감했다. &nbsp; &nbsp; &nbsp;━&nbsp; 왜 클라우드에 돈 몰리나 &nbsp; 벤처투자 혹한기에도 클라우드 시장에 대한 투자 열기는 꺼지지 않고 있다. 미국의 오픈AI가 공개한 인공지능(AI) 서비스 챗GPT가 화제를 모으며, LLM(대규모 언어 모델)과 그 토대가 되는 초거대 AI에 대한 관심이 높아졌고 클라우드 산업의 잠재력도 함께 재조명된 것. 클라우드는 LLM과 초거대 AI를 운용하기 위한 필수 인프라다. 한국IDC에 따르면 국내 퍼블릭 클라우드 서비스 시장의 성장률은 연평균 14.8%로 전망된다. 글로벌 퍼블릭 클라우드 시장의 성장률은 더 가파르다. 시장조사업체 가트너는 글로벌 퍼블릭 클라우드 시장이 올 한 해 20.7% 성장할 것으로 예측했다. &nbsp; 이렇다 보니 NHN클라우드뿐만 아니라 다른 클라우드 업체들에도 투자가 몰리고 있다. 지난해 12월 베스핀글로벌이 아랍에미리트(UAE) 정보기술(IT) 기업 이앤(e&amp;) 엔터프라이즈로부터 1400억원 규모의 투자를 유치했다. NHN클라우드에 투자한 IMM인베스트먼트는 클라우드 SW기업 오케스트로에도 지난해 단독으로 200억원을 투자했다. KT클라우드 역시 최대 8000억원 규모의 투자유치를 진행 중이다. &nbsp; &nbsp;━&nbsp; NHN클라우드, 넘어야 할 산은 &nbsp; NHN클라우드 로고. 사진 NHN클라우드 시장에서 NHN클라우드가 차지하는 비중은 아직 크지 않다. 공정거래위원회에 따르면 국내 클라우드 시장 점유율은 아마존웹서비스(AWS), 마이크로소프트(MS), 네이버 순이다. 다른 국산 업체들과 마찬가지로 NHN클라우드도 공공 클라우드 시장에 집중하고 있으나, 과학기술정보통신부가 일부 공공 시장에 외산 업체의 진출을 허용하면서 경쟁이 치열해지게 됐다. 클라우드 업계 관계자는 “공공 분야는 특정 업체 하나에만 수주를 몰아주지 않아 매출 상한이 거의 정해져 있다”며 “(NHN클라우드가) 승부를 보려면 민간 시장에서의 경쟁력도 높일 필요가 있다”고 전했다. &nbsp; &nbsp;━&nbsp; NHN의 빅픽처 &nbsp; IT업계에선 NHN이 카카오처럼 자회사 상장을 통한 성장을 노릴 것으로 보고 있다. 지난 2021년 1분기 실적발표 당시 정우진 NHN 대표는 NHN커머스(옛 NHN고도), NHN클라우드, NHN글로벌 등의 상장 계획을 밝힌 바 있다. 다만 기업공개(IPO) 시장이 냉각됨에 따라 상장 시기는 애초 계획보다 늦어질 가능성이 크다. NHN 관계자는 “NHN커머스의 상장 시기는 현재 미정으로, 대내외 환경을 종합적으로 고려해 판단할 계획”이라며 “NHN클라우드를 비롯한 다른 자회사는 현재 계획된 것이 없다”고 밝혔다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; NHN클라우드는 지역 클라우드 수요를 흡수하는 전략으로 공공 클라우드 시장을 공략할 것으로 보인다. 지난해 광주 AI 데이터센터 수주하며 올해는 김해, 순천 등 지역에 데이터센터 건립을 추진한다. NHN클라우드는 “이번 투자금을 기술 연구개발과 공공·민간 클라우드 시장 영향력 강화, 글로벌 사업 확대 등에 사용할 계획”이라고 했다. 관련기사 [팩플] ‘쇄국 빗장’ 풀리는 공공 클라우드…찬반 둘 다 이유는 “디지털 주권” [팩플] 클라우드에 서비스 얹는 네이버…"유럽·동남아·일본 공략한다" 3년뒤 90조 시장이 열린다, 국가 대결로 번진 ‘AI 반도체’ 김남영 기자 kim.namyoung3@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.02.05 13:00</p>
-<button type="button" class="btn_bookmark" data-cid="25138311" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
