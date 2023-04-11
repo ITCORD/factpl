@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2023-04-11T20:10:45.397Z</updated>
+    <updated>2023-04-11T21:08:42.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 구글·메타는 왜 투명성에 꽂혔나…선택도 책임도 이용자 몫?]]></title>
+        <id>https://www.joongang.co.kr/article/25154401</id>
+        <link href="https://www.joongang.co.kr/article/25154401"/>
+        <updated>2023-04-12T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25154401" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/12/469af3d7-60f0-436d-a5dd-b297f1b4daa1.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/12/469af3d7-60f0-436d-a5dd-b297f1b4daa1.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/12/469af3d7-60f0-436d-a5dd-b297f1b4daa1.jpg/_ir_410x230_/ 2x" alt="[팩플] 구글·메타는 왜 투명성에 꽂혔나…선택도 책임도 이용자 몫?" width="205" height="115">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25154401" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] 구글·메타는 왜 투명성에 꽂혔나…선택도 책임도 이용자 몫?
+</a>
+</h2>
+<p class="description">
+애플에 이어 구글도 이용자 계정 삭제 관련 지침을 강화한다. 이용자에게 더 많은 권한을 제공하며 투명성을 높이는 방향으로 바뀌고 있는 것. 2021년 4월 애플이 ‘앱 추적 투명성(ATT)’ 정책을 도입한 이후 개인정보 추적 시 반드시 동의를 얻도록 하는 등 관련 규정이 강화되는 추세다. 이용자가 선택권을 넘겨받았으니 책임도 ‘셀프’로 져야 하는 시대가 오고 있는 걸까. &nbsp; &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; &nbsp; 구글과 애플 로고. 로이터=연합뉴스 구글은 5일(현지시간) 구글플레이 이용자 데이터 정책과 관련해 새로운 계정 삭제 요구 사항을 발표했다. 모든 안드로이드 개발자는 계정 생성이 가능한 앱에 계정·데이터 삭제 관련 질문을 만들고, 이를 이용자가 찾기 쉽게 배치해야 한다는 내용. 앱을 다시 설치하지 않아도 삭제 요청이 가능하도록 웹 링크도 제공해야 한다. 앱뿐만 아니라 해당 계정과 연결된 시스템 내 데이터도 삭제해야 하는 등 적용 범위 역시 넓어진다. 계정과 함께 일괄 삭제하지 않더라도, 활동 기록·이미지·비디오 등 원하는 데이터만 선택적으로 지우는 것도 가능해진다. 내년 초부터 적용하겠다는 계획. 애플은 지난해 6월부터 관련 조치를 시행해왔다. &nbsp; &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; &nbsp; ◦ 규제는 강화되고: 알파벳(구글)과 메타(페이스북·인스타그램)는 이용자 정보 기반 ‘맞춤형 광고’로 성장해 왔지만, 개인정보 보호 목소리가 높아지면서 더는 기존 모델에 기댈 수 없게 됐다. 한국에서도 지난해 9월 개인정보보호위원회로부터 이용자 동의 없이 개인정보를 수집했다며 시정 명령과 함께 각각 692억원, 308억원의 과징금을 부과받은 상태. 양사는 이에 불복해 올 2월 처분 취소 행정소송을 제기했다. 이들은 이용자 행태정보 수집에 대한 동의는 플랫폼 사업자가 아닌 웹사이트 혹은 앱 서비스가 받아야 한다는 입장이다. 이번 조치 역시 개발자에게 더 많은 의무를 부여하고 이용자에게 더 많은 권한을 나눠주며 책임 소재를 줄이기 위한 장치인 셈.&nbsp;&nbsp; &nbsp; 그래픽=김영희 02@joongang.co.kr ◦ 입지는 좁아지고: 애플이 쏘아 올린 ATT의 파장은 나날이 커지고 있다. 리서치업체 인사이더 인텔리전스에 따르면 지난해 미국 디지털 광고시장 매출에서 구글과 메타의 비중은 각각 28.8%, 19.6%. 두 회사의 비중 합계(48.4%)가 과반을 넘지 못한 것은 2014년 이후 8년 만이다. 스태티스타에 따르면 구글의 지난해 광고 매출은 2245억 달러(약 297조원)로 전년(2095억 달러, 278조원) 대비 7% 성장하는 데 그쳤다. 메타는 1136억 달러(150조원)를 기록하며 처음으로 전년(1149억 달러, 152조원)보다 감소했다. 반면 애플은 반사 이익을 누리고 있는 상황. CNBC 등 외신에 따르면 2021년 30억 달러(4조원)에서 지난해 50억 달러(7조원) 규모로 성장했다. &nbsp; &nbsp;━&nbsp; 또 뭐가 바뀌는데 &nbsp; &nbsp; 구글의 '내 광고 센터'에서 어떤 주제에 대해 얼마나 광고를 받을 것인지 선택할 수 있다. 구글 홈페이지 캡처 개인정보와 직결된 광고에 대해서도 더 많은 정보를 제공하기 위해 힘쓰는 중. 구글은 지난달 29일 ‘광고 투명성 센터’를 출시했다. 광고를 클릭하면 그동안 광고주가 지난 30일간 어떤 광고를 게재해왔는지 상세 내용을 확인할 수 있다. 2020년 광고주 인증 프로그램을 통해 신원을 확인할 수 있게 한 것에서 한발 더 나아간 것. 지난해 10월 도입한 ‘내 광고 센터’에서는 이용자가 직접 주제와 브랜드에 따라 원하는 광고와 원치 않는 광고를 설정할 수 있게 했다.&nbsp; &nbsp; 지난 2월&nbsp;메타는 2014년 도입한 ‘이 광고가 표시되는 이유는’ 기능에 광고 기본 설정 페이지로 이동할 수 있는 링크를 추가했다. 유사 광고를 더 볼지, 덜 볼지 설정할 수 있고 나와 관련성이 낮다고 느껴지면 해당 광고나 광고주 숨기기도 가능하다. 이 기능은 페이스북에 이어 인스타그램까지 확대됐다. 이용자 활동이 광고 머신러닝 모델에 어떻게 적용되는지 메커니즘까지 밝혀둔 상태. &nbsp; &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; &nbsp; 국내 사업자에 대한 개인정보 보호와 투명성 강화 요구도 늘어날 것으로 보인다. 국내 검색 광고 시장의 60% 이상을 점유하고 있는 네이버는 ‘네이버 광고’ 페이지를 통해 운영 정책과 개인정보 처리 방침을 소개하고 있지만 광고주를 대상으로 한 정보가 대부분이다. 이용자가 선택할 수 있는 권한은 거의 없는 상황. 지난달 23일 국회 과학기술정보방송통신위원회 소속 윤두현 국민의힘 의원이 네이버 마이카에서 자동차세 연납 신청에 관한 전자문서를 확인하는 과정을 예로 들며 광고 노출이 지나치게 많고 이를 막을 수 있는 장치가 없다며 문제를 지적하기도. 이후 “네이버가 간이 부었다”(이철규 국민의힘 사무총장) “권한은 공룡만큼 큰데 책임은 쥐꼬리만큼”(김장겸 국민의힘 ICT미디어특위 포털위원장)과 같은 발언이 나오는 등 규제 강화에 대한 목소리가 높아지는 중.&nbsp; &nbsp; ※ 지금 뜨는 기업ㆍ기술 궁금하세요? 요즘 핫한 테크 소식을 입체적으로 뜯어보는 ‘기사 +α’를 만나보세요.👉 https://www.joongang.co.kr/factpl 관련기사 “리니지, 원스토어엔 출시 불가” 앱마켓 독점 구글에 과징금 421억원 [팩플] ‘중개’로 큰 네이버, 뉴스·쇼핑 양뺨 맞나…여당발(發) 규제 급물살 [팩플] 美 청문회서 집중포화 맞은 틱톡 CEO…SNS 지형 바뀌나 [팩플] 페북·인스타도 파란 딱지 판다…유료 회원 잡기 나선 빅테크, 이유는민경원 기자 storymin@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.04.12 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25154401" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까]]></title>
         <id>https://www.joongang.co.kr/article/25154269</id>
         <link href="https://www.joongang.co.kr/article/25154269"/>
         <updated>2023-04-11T10:10:20.212Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25154269" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25154269" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/11/b2a92b3c-78d7-4aac-9e6a-f7e1079f4798.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/11/b2a92b3c-78d7-4aac-9e6a-f7e1079f4798.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/11/b2a92b3c-78d7-4aac-9e6a-f7e1079f4798.jpg/_ir_410x230_/ 2x" alt="[팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25154269" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25154269" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까
 </a>
 </h2>
@@ -38,13 +65,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25153920"/>
         <updated>2023-04-10T10:10:41.080Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25153920" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25153920" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/10/1b6bf195-6ee4-4bdf-ae1b-b544344b4044.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/10/1b6bf195-6ee4-4bdf-ae1b-b544344b4044.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/10/1b6bf195-6ee4-4bdf-ae1b-b544344b4044.jpg/_ir_410x230_/ 2x" alt="[팩플] 엔씨도 ‘판교 노조’ 합류…노조 힘 커지는 IT업계, 화섬노조도 변화 바람" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25153920" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25153920" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] 엔씨도 ‘판교 노조’ 합류…노조 힘 커지는 IT업계, 화섬노조도 변화 바람
 </a>
 </h2>
@@ -65,13 +92,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25153913"/>
         <updated>2023-04-10T09:09:33.671Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25153913" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25153913" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/10/42375a95-cad7-44c6-accc-b5f1a76aca5b.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/10/42375a95-cad7-44c6-accc-b5f1a76aca5b.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/10/42375a95-cad7-44c6-accc-b5f1a76aca5b.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘중개’로 큰 네이버, 뉴스·쇼핑 양뺨 맞나…여당발(發) 규제 급물살" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25153913" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25153913" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] ‘중개’로 큰 네이버, 뉴스·쇼핑 양뺨 맞나…여당발(發) 규제 급물살
 </a>
 </h2>
@@ -92,13 +119,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25153496"/>
         <updated>2023-04-08T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25153496" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25153496" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/08/0a2faf84-a473-49ca-9ba9-c4506adcfda3.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/08/0a2faf84-a473-49ca-9ba9-c4506adcfda3.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/08/0a2faf84-a473-49ca-9ba9-c4506adcfda3.jpg/_ir_410x230_/ 2x" alt="[팩플] 메타버스 직진하는 에픽게임즈 &quot;창작자에 순수익 40% 주겠다&quot;" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25153496" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25153496" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] 메타버스 직진하는 에픽게임즈 "창작자에 순수익 40% 주겠다"
 </a>
 </h2>
@@ -119,13 +146,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25152972"/>
         <updated>2023-04-06T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25152972" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25152972" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/06/9b84f5cd-5f63-424d-b5a8-f5c1155b7a08.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/06/9b84f5cd-5f63-424d-b5a8-f5c1155b7a08.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/06/9b84f5cd-5f63-424d-b5a8-f5c1155b7a08.jpg/_ir_410x230_/ 2x" alt="[팩플] 엔씨-카겜, 초유의 ‘리니지 소송’…K-게임의 딜레마 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25152972" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25152972" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [팩플] 엔씨-카겜, 초유의 ‘리니지 소송’…K-게임의 딜레마
 </a>
 </h2>
@@ -146,13 +173,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25152825"/>
         <updated>2023-04-05T09:09:53.766Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25152825" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25152825" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/05/d2212072-5fca-4dd6-95ea-5c6544259b24.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/05/d2212072-5fca-4dd6-95ea-5c6544259b24.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/05/d2212072-5fca-4dd6-95ea-5c6544259b24.jpg/_ir_410x230_/ 2x" alt="[팩플] KT, 지배구조 개선TF 구성...&quot;지분 1% 이상 주주가 추천해달라&quot;" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25152825" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25152825" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] KT, 지배구조 개선TF 구성..."지분 1% 이상 주주가 추천해달라"
 </a>
 </h2>
@@ -173,13 +200,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25152524"/>
         <updated>2023-04-04T09:09:17.604Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25152524" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25152524" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/04/070ceafe-e3e4-4c10-ad75-a336c64007bd.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/04/070ceafe-e3e4-4c10-ad75-a336c64007bd.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/04/070ceafe-e3e4-4c10-ad75-a336c64007bd.jpg/_ir_410x230_/ 2x" alt="[팩플] 파란딱지 이어 '도지코인 시바견' 내건 트위터…수익구조 바꾸나" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25152524" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25152524" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] 파란딱지 이어 '도지코인 시바견' 내건 트위터…수익구조 바꾸나
 </a>
 </h2>
@@ -200,13 +227,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25152359"/>
         <updated>2023-04-04T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25152359" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25152359" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/04/62ca72ef-342b-4ea4-afa1-960ff97c1690.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/04/62ca72ef-342b-4ea4-afa1-960ff97c1690.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/04/62ca72ef-342b-4ea4-afa1-960ff97c1690.jpg/_ir_410x230_/ 2x" alt="[팩플] 일론 머스크의 스타링크, 비싸고 느려도 통신사들이 긴장하는 이유" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25152359" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25152359" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] 일론 머스크의 스타링크, 비싸고 느려도 통신사들이 긴장하는 이유
 </a>
 </h2>
@@ -227,13 +254,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25152054"/>
         <updated>2023-04-03T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25152054" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25152054" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/03/4fcc4750-0a9a-4256-bcf7-011df15656cb.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/03/4fcc4750-0a9a-4256-bcf7-011df15656cb.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/03/4fcc4750-0a9a-4256-bcf7-011df15656cb.jpg/_ir_410x230_/ 2x" alt="[팩플] 1년만에 4200억 흑자 낸 배민...“압도적 1위의 독식, 나머지는 다 적자”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25152054" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25152054" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] 1년만에 4200억 흑자 낸 배민...“압도적 1위의 독식, 나머지는 다 적자”
 </a>
 </h2>
@@ -254,13 +281,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25151708"/>
         <updated>2023-03-31T10:10:49.310Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25151708" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25151708" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/02/000aecca-660a-40a0-92d5-35f9bda85936.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/02/000aecca-660a-40a0-92d5-35f9bda85936.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202304/02/000aecca-660a-40a0-92d5-35f9bda85936.jpg/_ir_410x230_/ 2x" alt="[팩플] 흑자 전환 배민‧암호화폐 한파 두나무…희비 교차한 플랫폼" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25151708" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25151708" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] 흑자 전환 배민‧암호화폐 한파 두나무…희비 교차한 플랫폼
 </a>
 </h2>
@@ -281,13 +308,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25151655"/>
         <updated>2023-03-31T06:12:30.339Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25151655" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25151655" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/31/b0929df2-9510-4311-b814-6202563db1c9.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/31/b0929df2-9510-4311-b814-6202563db1c9.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/31/b0929df2-9510-4311-b814-6202563db1c9.jpg/_ir_410x230_/ 2x" alt="[팩플] 북미 최대 게임쇼 E3, 개막 두달 앞두고 취소…이유는" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25151655" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25151655" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 북미 최대 게임쇼 E3, 개막 두달 앞두고 취소…이유는
 </a>
 </h2>
@@ -308,13 +335,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25151432"/>
         <updated>2023-03-30T10:11:14.722Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25151432" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25151432" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/5ba61075-58d2-4ec8-b11f-14284c3b71e2.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/5ba61075-58d2-4ec8-b11f-14284c3b71e2.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/5ba61075-58d2-4ec8-b11f-14284c3b71e2.jpg/_ir_410x230_/ 2x" alt="[팩플] 네이버, 중동에 IT 기술수출 길…사우디 정부와 디지털 전환 협약" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25151432" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25151432" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] 네이버, 중동에 IT 기술수출 길…사우디 정부와 디지털 전환 협약
 </a>
 </h2>
@@ -335,13 +362,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25151420"/>
         <updated>2023-03-30T09:11:32.096Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25151420" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25151420" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/003cbd8d-2935-4b27-afc9-dde56096d84e.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/003cbd8d-2935-4b27-afc9-dde56096d84e.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/003cbd8d-2935-4b27-afc9-dde56096d84e.jpg/_ir_410x230_/ 2x" alt="[팩플] 네이버·카카오 7월부터 재난관리 의무…‘제2의 카카오 사태’ 막는다 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25151420" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25151420" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] 네이버·카카오 7월부터 재난관리 의무…‘제2의 카카오 사태’ 막는다
 </a>
 </h2>
@@ -362,13 +389,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25151413"/>
         <updated>2023-03-30T09:11:32.101Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25151413" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25151413" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/fadb5a17-b5c5-4e07-9f77-96c4ba2f9ea3.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/fadb5a17-b5c5-4e07-9f77-96c4ba2f9ea3.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/30/fadb5a17-b5c5-4e07-9f77-96c4ba2f9ea3.jpg/_ir_410x230_/ 2x" alt="머스크 &quot;AI개발 멈춰라&quot;…서울 오는 챗GPT 아빠도 &quot;우려스럽다&quot; " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25151413" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25151413" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 머스크 "AI개발 멈춰라"…서울 오는 챗GPT 아빠도 "우려스럽다"
 </a>
 </h2>
@@ -389,13 +416,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25151013"/>
         <updated>2023-03-29T09:10:33.296Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25151013" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25151013" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/29/f4d9f9a9-cfba-41d4-8490-025dd6ef061c.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/29/f4d9f9a9-cfba-41d4-8490-025dd6ef061c.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/29/f4d9f9a9-cfba-41d4-8490-025dd6ef061c.jpg/_ir_410x230_/ 2x" alt="[팩플] 게임 만들며 포스텍 학점 딴다…IPO 노리는 시프트업의 승부" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25151013" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25151013" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] 게임 만들며 포스텍 학점 딴다…IPO 노리는 시프트업의 승부
 </a>
 </h2>
@@ -416,13 +443,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25150875"/>
         <updated>2023-03-29T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25150875" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25150875" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/29/da3845cc-9406-4125-af6c-7f5f027148a8.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/29/da3845cc-9406-4125-af6c-7f5f027148a8.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/29/da3845cc-9406-4125-af6c-7f5f027148a8.jpg/_ir_410x230_/ 2x" alt="[팩플] 카카오 김범수, 금산분리·승계 논란 케이큐브홀딩스 접나" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25150875" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25150875" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [팩플] 카카오 김범수, 금산분리·승계 논란 케이큐브홀딩스 접나
 </a>
 </h2>
@@ -443,13 +470,13 @@ SK텔레콤에 이어 LG유플러스도 5세대(5G) 중간요금제 4종을 추�
         <link href="https://www.joongang.co.kr/article/25150734"/>
         <updated>2023-03-28T10:10:25.220Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25150734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25150734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/28/5a42561c-8548-41dd-9be1-85db256dd315.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/28/5a42561c-8548-41dd-9be1-85db256dd315.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/28/5a42561c-8548-41dd-9be1-85db256dd315.jpg/_ir_410x230_/ 2x" alt="구현모·사외이사 2명도 줄사퇴…“KT, 5개월 이상 비상경영 해야”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25150734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25150734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 구현모·사외이사 2명도 줄사퇴…“KT, 5개월 이상 비상경영 해야”
 </a>
 </h2>
@@ -470,13 +497,13 @@ KT가 28일 구현모 대표 및 사외이사 2명이 사퇴했다고 밝혔다.
         <link href="https://www.joongang.co.kr/article/25150357"/>
         <updated>2023-03-27T09:11:32.506Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25150357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25150357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/27/bb80c9f7-7283-4b9d-a0bd-737c839a398c.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/27/bb80c9f7-7283-4b9d-a0bd-737c839a398c.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/27/bb80c9f7-7283-4b9d-a0bd-737c839a398c.jpg/_ir_410x230_/ 2x" alt="KT, 경영공백 장기화 불가피…이사회 재구성도 난항" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25150357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25150357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 KT, 경영공백 장기화 불가피…이사회 재구성도 난항
 </a>
 </h2>
@@ -497,13 +524,13 @@ KT, 경영공백 장기화 불가피…이사회 재구성도 난항
         <link href="https://www.joongang.co.kr/article/25150215"/>
         <updated>2023-03-27T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25150215" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25150215" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/27/4cf35e51-0afd-499a-8001-4fe36506e241.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/27/4cf35e51-0afd-499a-8001-4fe36506e241.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/27/4cf35e51-0afd-499a-8001-4fe36506e241.jpg/_ir_410x230_/ 2x" alt="[팩플] 여행 준비·장보기도 ‘척척’…챗GPT 플러그인, ‘AI판 앱스토어’ 될까" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25150215" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25150215" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] 여행 준비·장보기도 ‘척척’…챗GPT 플러그인, ‘AI판 앱스토어’ 될까
 </a>
 </h2>
@@ -524,13 +551,13 @@ KT, 경영공백 장기화 불가피…이사회 재구성도 난항
         <link href="https://www.joongang.co.kr/article/25150095"/>
         <updated>2023-03-26T09:09:04.757Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25150095" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25150095" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/26/9f344b41-e611-46e5-b13b-f9537525d818.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/26/9f344b41-e611-46e5-b13b-f9537525d818.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/26/9f344b41-e611-46e5-b13b-f9537525d818.jpg/_ir_410x230_/ 2x" alt="&quot;버티면 KT 망가질 듯&quot; 물러난 CEO 후보…노조 &quot;이사진 사퇴하라&quot;" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25150095" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25150095" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 "버티면 KT 망가질 듯" 물러난 CEO 후보…노조 "이사진 사퇴하라"
 </a>
 </h2>
@@ -551,13 +578,13 @@ KT, 경영공백 장기화 불가피…이사회 재구성도 난항
         <link href="https://www.joongang.co.kr/article/25149841"/>
         <updated>2023-03-24T09:10:19.645Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25149841" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25149841" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/24/85820d53-3b2e-4b7e-a5e2-14c50f6c2448.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/24/85820d53-3b2e-4b7e-a5e2-14c50f6c2448.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/24/85820d53-3b2e-4b7e-a5e2-14c50f6c2448.jpg/_ir_410x230_/ 2x" alt="[팩플] 美 청문회서 집중포화 맞은 틱톡 CEO…SNS 지형 바뀌나" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25149841" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25149841" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] 美 청문회서 집중포화 맞은 틱톡 CEO…SNS 지형 바뀌나
 </a>
 </h2>
@@ -578,13 +605,13 @@ KT, 경영공백 장기화 불가피…이사회 재구성도 난항
         <link href="https://www.joongang.co.kr/article/25149555"/>
         <updated>2023-03-23T10:10:27.282Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25149555" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25149555" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/acf44b9a-03be-4e2b-8ddf-52792070a1f9.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/acf44b9a-03be-4e2b-8ddf-52792070a1f9.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/acf44b9a-03be-4e2b-8ddf-52792070a1f9.jpg/_ir_410x230_/ 2x" alt="[팩플] 정부 압박에 백기 든 통신사… SK텔레콤, 5G 중간요금제 추가 출시" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25149555" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25149555" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 [팩플] 정부 압박에 백기 든 통신사… SK텔레콤, 5G 중간요금제 추가 출시
 </a>
 </h2>
@@ -605,13 +632,13 @@ SK텔레콤이 데이터 사용량에 따라 요금 구간을 다양화한 5세�
         <link href="https://www.joongang.co.kr/article/25149541"/>
         <updated>2023-03-23T09:10:36.552Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25149541" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25149541" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/9f344b41-e611-46e5-b13b-f9537525d818.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/9f344b41-e611-46e5-b13b-f9537525d818.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/9f344b41-e611-46e5-b13b-f9537525d818.jpg/_ir_410x230_/ 2x" alt="[팩플] KT 경영 공백 현실로…윤경림 차기 CEO 후보 사의 표명" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25149541" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25149541" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플] KT 경영 공백 현실로…윤경림 차기 CEO 후보 사의 표명
 </a>
 </h2>
@@ -621,33 +648,6 @@ SK텔레콤이 데이터 사용량에 따라 요금 구간을 다양화한 5세�
 <div class="meta">
 <p class="date">2023.03.23 17:48</p>
 <button type="button" class="btn_bookmark" data-cid="25149541" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 투자 혹한기라더니? 벤처 고용 증가폭, 일반기업 3배 이상인 이유는]]></title>
-        <id>https://www.joongang.co.kr/article/25149485</id>
-        <link href="https://www.joongang.co.kr/article/25149485"/>
-        <updated>2023-03-23T08:12:27.162Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25149485" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/06786e40-934c-4485-b6a9-0f5c8146ddc6.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/06786e40-934c-4485-b6a9-0f5c8146ddc6.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202303/23/06786e40-934c-4485-b6a9-0f5c8146ddc6.jpg/_ir_410x230_/ 2x" alt="[팩플] 투자 혹한기라더니? 벤처 고용 증가폭, 일반기업 3배 이상인 이유는" width="205" height="115">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25149485" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 투자 혹한기라더니? 벤처 고용 증가폭, 일반기업 3배 이상인 이유는
-</a>
-</h2>
-<p class="description">
-지난해 12월 부산 해운대구에서 개최된 정보통신기술(ICT) 전문 취업박람회인 '2022 부산디지털혁신아카데미 잡페어' 행사의 모습. [중앙포토] 벤처 투자 혹한기에도 지난해 말 기준 벤처·스타트업의 전체 고용은 늘어난 것으로 나타났다. 이들 기업의 고용 증가율은 같은 기간 일반 기업 고용 증가율의 3배가 넘었다. 벤처투자액과 창업기업의 숫자가 줄어든 것과는 대비된다. &nbsp; &nbsp;━&nbsp; 무슨일이야 &nbsp; 중소벤처기업부가 23일 발표한 ‘2022년 벤처·스타트업 고용 동향’에 따르면, 지난해 말 기준 벤처·스타트업으로 분류된 3만3000개 기업의 고용 규모는 74만5800명으로 나타났다. 2021년 말(68만9662명)보다 8.1% 증가했다. 같은 기간 전체 기업의 고용 증가율(2.4%·34만8469명)의 3배가 넘는 수준이다.&nbsp;다만, 지난해 고용 증가율은 전년(9.4%)보다는 소폭 낮아졌다. &nbsp; 곳간이 확보된 기업들이 채용에 적극적이었다. 지난해 벤처투자를 유치한 기업 2007곳의 고용 증가율은 29.8%(1만8501명)로 나타났다. 2년 치(2021·2022년) 고용보험 가입 내역이 확보된 유니콘 기업(기업가치 10억 달러 이상의 비상장사) 15곳의 전년 대비 고용 증가율도 22.9%(1847명)였다.&nbsp; &nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; 고금리·고물가·고환율 등 이른바 ‘3고(高) 위기’를 겪는 벤처·스타트업계가 오히려 고용에 적극적있던 것으로 확인됐다. 중기부에 따르면, 지난해 벤처투자액은 전년대비 11.9% 줄어 9162억원에 그쳤고, 창업기업 수도 전년보다 7.1% 줄어든 10만494개였다. 중기부 관계자는 “벤처·스타트업계의 투자 지표가 2021년까지 나쁘지 않은 수준이었기 때문에 일반적으로 자금 여력이 있었을 것”이라며 “투자심리 위축 등의 악영향이 지난해 고용에까지는 아직 영향을 미치지는 않았던 것으로 추정된다”고 말했다. 그래픽=김영옥 기자 yesok@joongang.co.kr &nbsp; &nbsp;━&nbsp; 주목할 지표는 &nbsp; ◦ 청년·여성 고용: 이날 발표에 따르면,&nbsp;벤처·스타트업은 지난해 청년(만 15~29세)&nbsp;19만7582명을 고용해 1년 전보다 3.6%(6800명) 더 채용했다. 하지만 같은 기간 기업 전체의 청년 고용은 246만 3276명으로, 전년보다 1.2%(3만475명) 감소했다. 중기부는 “청년 인구감소, 사회진출 연령대 상승, 신규채용 축소 영향으로 기업 전체의 청년 고용이 줄어든 것으로 보인다”고 풀이했다. 지난해 말 벤처·스타트업의 여성 고용 규모는 24만3105명으로 1년 전보다 10% 증가했고, 이 역시 기업 전체의 여성 고용증가율(2.9%·18만7687명)보다 높았다. &nbsp; &nbsp; ◦ 업종별 고용: 업종별로는 콘텐트와 디지털 관련 업종의 고용 증가가 두드러졌다. 영상·공연·음반 업종의 고용 증가율은 15.4%(1764명)로, 전체 분야 중 가장 높았다. 드라마, 음악 등의 한류 콘텐트가 해외로 확산하면서 업황이 좋았기 때문이라는 게 중기부의 분석이다.&nbsp;실제로 지난 1월 중기부 발표에 따르면, 지난해 영상·공연·음반 투자액은 전년 대비 10.6%(4604억원) 증가하며, 같은 기간 바이오·의료(-34.1%·1조1058억원), 게임(-31.4%·1615억원) 업종의 투자가 줄어든 모습과 대비됐다. 그 외에 업종의 고용 증가율은 게임(14.9%), ICT 서비스(12.3%), 유통·서비스(10%) 분야 순으로 높게 나타났다. &nbsp; ※ 지금 뜨는 기업ㆍ기술 궁금하세요? 요즘 핫한 테크 소식을 입체적으로 뜯어보는 ‘기사 +α’를 만나보세요.&nbsp;👉 https://www.joongang.co.kr/factpl&nbsp; 윤상언 기자 youn.sangun@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.03.23 16:08</p>
-<button type="button" class="btn_bookmark" data-cid="25149485" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
