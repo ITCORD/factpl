@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-25T03:32:09.341Z</updated>
+    <updated>2023-06-25T04:16:52.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독] 카카오 주가 28% 떨어졌는데, 경영진들 130억 팔았다 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -51,42 +51,19 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['챗GPT 악용' 범죄 늘었는데…양날의 검, 국내업체엔 기회? [팩플] (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25171421</id>
-        <link href="https://www.joongang.co.kr/article/25171421"/>
-        <updated>2023-06-21T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25171421" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/5e8e9bf8-b345-4b68-9893-4daccd96016f.jpg/_ir_144x144_/" alt="'챗GPT 악용' 범죄 늘었는데…양날의 검, 국내업체엔 기회? [팩플] " width="72" height="72">
-</a>
-</figure>
-<div class="card_body">
-<em class="rank_count ico_num3">3</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25171421" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">'챗GPT 악용' 범죄 늘었는데…양날의 검, 국내업체엔 기회? [팩플] </a>
-</h2>
-<div class="meta">
-<p class="date">2023.06.21 05:00</p>
-<button type="button" class="btn_bookmark" data-cid="25171421" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[팩플] ‘공격 전환’ 선언한 손정의 “AI 혁명 주도…5조엔 준비됐다” (중앙일보 팩플 ─ 많이 본 기사)]]></title>
         <id>https://www.joongang.co.kr/article/25171539</id>
         <link href="https://www.joongang.co.kr/article/25171539"/>
         <updated>2023-06-21T08:11:31.088Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25171539" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25171539" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/51b34d5d-3b36-4ad0-a83a-961757dd0a44.jpg/_ir_144x144_/" alt="[팩플] ‘공격 전환’ 선언한 손정의 “AI 혁명 주도…5조엔 준비됐다”" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
-<em class="rank_count ico_num4">4</em>
+<em class="rank_count ico_num3">3</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25171539" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] ‘공격 전환’ 선언한 손정의 “AI 혁명 주도…5조엔 준비됐다”</a>
+<a href="https://www.joongang.co.kr/article/25171539" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] ‘공격 전환’ 선언한 손정의 “AI 혁명 주도…5조엔 준비됐다”</a>
 </h2>
 <div class="meta">
 <p class="date">2023.06.21 17:08</p>
@@ -97,23 +74,46 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["챗GPT 왜 공짜로 뉴스 썼나"…언론사들, 제값받기 나섰다 [팩플] (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25170778</id>
-        <link href="https://www.joongang.co.kr/article/25170778"/>
-        <updated>2023-06-19T05:00:00.000Z</updated>
+        <title type="html"><![CDATA['챗GPT 악용' 범죄 늘었는데…양날의 검, 국내업체엔 기회? [팩플] (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25171421</id>
+        <link href="https://www.joongang.co.kr/article/25171421"/>
+        <updated>2023-06-21T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25170778" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/f7c2dcad-813f-45bd-858d-607bab099878.jpg/_ir_144x144_/" alt="&quot;챗GPT 왜 공짜로 뉴스 썼나&quot;…언론사들, 제값받기 나섰다 [팩플]" width="72" height="72">
+<a href="https://www.joongang.co.kr/article/25171421" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/5e8e9bf8-b345-4b68-9893-4daccd96016f.jpg/_ir_144x144_/" alt="'챗GPT 악용' 범죄 늘었는데…양날의 검, 국내업체엔 기회? [팩플] " width="72" height="72">
+</a>
+</figure>
+<div class="card_body">
+<em class="rank_count ico_num4">4</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25171421" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">'챗GPT 악용' 범죄 늘었는데…양날의 검, 국내업체엔 기회? [팩플] </a>
+</h2>
+<div class="meta">
+<p class="date">2023.06.21 05:00</p>
+<button type="button" class="btn_bookmark" data-cid="25171421" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 규제, EU 먼저 나섰다…"규제해달라" 외치던 챗GPT 속내 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25170287</id>
+        <link href="https://www.joongang.co.kr/article/25170287"/>
+        <updated>2023-06-16T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25170287" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/03c6ea43-0b13-403f-83f9-387b567ade71.jpg/_ir_144x144_/" alt="AI 규제, EU 먼저 나섰다…&quot;규제해달라&quot; 외치던 챗GPT 속내" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
 <em class="rank_count ico_num5">5</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25170778" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">"챗GPT 왜 공짜로 뉴스 썼나"…언론사들, 제값받기 나섰다 [팩플]</a>
+<a href="https://www.joongang.co.kr/article/25170287" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">AI 규제, EU 먼저 나섰다…"규제해달라" 외치던 챗GPT 속내</a>
 </h2>
 <div class="meta">
-<p class="date">2023.06.19 05:00</p>
-<button type="button" class="btn_bookmark" data-cid="25170778" data-ctype="A" aria-label="북마크">
+<p class="date">2023.06.16 05:00</p>
+<button type="button" class="btn_bookmark" data-cid="25170287" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
