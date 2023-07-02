@@ -2,22 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2023-07-02T19:08:43.340Z</updated>
+    <updated>2023-07-02T20:10:40.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 트위터 문 걸어잠그는 머스크 “데이터 퍼가지 마”]]></title>
+        <id>https://www.joongang.co.kr/article/25174329</id>
+        <link href="https://www.joongang.co.kr/article/25174329"/>
+        <updated>2023-07-03T05:01:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25174329" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/2455c118-97a4-401d-88a8-e4e351d42cac.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/2455c118-97a4-401d-88a8-e4e351d42cac.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/2455c118-97a4-401d-88a8-e4e351d42cac.jpg/_ir_410x230_/ 2x" alt="[팩플] 트위터 문 걸어잠그는 머스크 “데이터 퍼가지 마” " width="205" height="115">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25174329" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] 트위터 문 걸어잠그는 머스크 “데이터 퍼가지 마”
+</a>
+</h2>
+<p class="description">
+지난해 트위터를 인수한 일론 머스크. F 로이터=연합뉴스 &nbsp; 트위터가 데이터 단속에 나섰다. 앞으로는 이용자들이 하루에 볼 수 있는 게시물 수가 300~6000개로 제한된다. 인공지능(AI) 개발사들이 트위터 등 소셜미디어에 공개된 데이터를 수집해 거대언어모델(LLM·Large Language Models)을 훈련 시키는 데 활용하는 걸 막으려는 조치다. ‘일론 머스크표’ 트위터 유료화 전략의 연장선이라는 분석도 나온다.&nbsp; &nbsp; 일론 머스크 트위터 회장·최고기술책임자(CTO)는 1일(현지시간) 자신의 트위터를 통해 “극단적인 수준의 데이터 수집과 시스템 조작 문제를 해결하기 위해 임시 제한을 적용했다”고 알렸다. 이에 따라 이날부터 트위터에서 하루에 읽을 수 있는 게시물 수가 유·무료 계정별로 차등 제한되고 있다. 월 7.99달러를 내고 ‘트위터 블루’ 체크를 받은&nbsp;유료 계정은 하루 6000개 게시물을, 인증이 없는 일반 계정은 600개까지 읽을 수 있다. 새로 가입한 미인증 계정은 300개로 제한된다. 등급별 한도는 추후 확대될 예정이다.&nbsp; &nbsp; &nbsp;━&nbsp; 웹 검색도 “NO” &nbsp; 전날인 지난달 30일부터 트위터는 웹 검색을 통한 접근도 막기 시작했다. 기존에는 트위터 계정이 없거나 로그인을 하지 않아도 공개된 게시물을 웹 검색으로 열람할 수 있었다. 현재는 로그인을 해야 게시물을 확인할 수 있도록 바뀌었다. 머스크 회장은 “데이터가 너무 많이 약탈돼 일반 이용자들의 서비스 품질이 저하되고 있기에 임시 비상조치를 취했다”고 설명했다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; ‘머스크의 트위터’에선 공짜가 점점 줄어들고 있다. 지난해 10월 트위터를 440억 달러(약 57조1870억원)에 인수한 그는 매출의 약 90%를 광고에 의존하는 트위터의 수익 구조를 뜯어 고치는 중이다. 전체 직원의 75%를 해고하고, 광고 외의 매출을 늘리기 위해 공격적인 유료화에&nbsp;집중하고 있다. ◦ 공짜 SNS 옛말 될까: 이번 게시물 열람 제한 조치가 트위터 유료화 효과로 이어질지 주목된다. 트위터는 지난해 11월 기업·기관·유명인 등에 붙는 ‘블루체크’ 인증을 유료로 전환하고 유료 구독 모델(트위터 블루)을 출시했다. 돈을 낸 회원은 설문조사 등 각종 기능을 쓸 수 있고 장문의 트윗도 가능하다. 그러나 아직은 호응이 적은 편. 이에 BBC는 “유료 구독제를 밀고 있는 머스크가 트위터 무제한 열람용 유료 모델을 도입할 가능성도 있다”고 전망했다. 트위터는 다이렉트 메시지(DM)에도 요금별 기능을 적용할 예정이다. &nbsp; 트위터의 잇따른 유료화 시도가 다른 SNS로 확산할 가능성도 있다. 광고 의존도를 줄여 안정적인 수익 구조를 만들고 싶은 건 다른 SNS도 마찬가지이기 때문. 트위터 블루 출시 이후 메타도 지난 2월 페이스북·인스타그램에 월 약 12달러 유료 인증제 ‘메타 베리파이드’를 일부 국가에&nbsp;도입한 바 있다. &nbsp; 트위터는 AP=연합뉴스 ◦ AI 시대, SNS의 가치: 챗GPT(오픈AI)·바드(구글) 등 AI 챗봇 열풍으로&nbsp;SNS 데이터의 가치도 재조명되고 있다. 머스크 회장은 다른 기업들이 트위터 게시물을 무단 수집해 AI 학습에 쓰고 있다며 꾸준히 불만을 제기해왔다. 지난 2월에는 데이터베이스(DB)에 접근할 수 있는 API(응용프로그램 인터페이스)를 유료화했고, 월 100달러(베이직)·5000달러(프로)·4만2000달러(기업용) 요금제도 내놨다. 앞서 AI 개발사들은 사람의 자연스러운 언어를 학습 시키기 위해 트위터·레딧 등에 이용자들이 올린 방대한 데이터를 긁어다 썼는데, 여기에 제동을 건 것. 이후 미국 최대 온라인 커뮤니티 레딧도 API 요금제 도입에 나섰다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 머스크식 트위터 개편에 반감을 느끼는 이용자들도 적지 않다. 트위터가 이들의 이탈을 얼마나 막을 수 있을지가 관건. 경쟁 SNS들은 ‘트위터 대항마’를 내세우며 기회를 엿보고 있다. 메타는 텍스트 기반의 SNS ‘스레드(Threads)’ 출시를 준비 중이다. 잭 도시 전(前) 트위터 CEO가 만든 탈중앙화 SNS ‘블루스카이’도 초대장 기반으로 이용자를 확보하는 중이다. 블루스카이는 지난달 5일 기준 10만명을 돌파했다. 뉴욕타임스는&nbsp;“트위터의 정신없는 변화는 일부 이용자들이 다른 SNS를 써보는 계기가 되고 있다”고 평가했다. 김인경 기자 kim.inkyoung@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.07.03 05:01</p>
+<button type="button" class="btn_bookmark" data-cid="25174329" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“생성AI 허위정보, 선거에 영향 우려” 머스크와 갈라 선 트위터 前 임원 [팩플]]]></title>
+        <id>https://www.joongang.co.kr/article/25174313</id>
+        <link href="https://www.joongang.co.kr/article/25174313"/>
+        <updated>2023-07-03T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25174313" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/f61bd61a-2c0f-4a5f-905d-62efc6e59cbc.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/f61bd61a-2c0f-4a5f-905d-62efc6e59cbc.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/f61bd61a-2c0f-4a5f-905d-62efc6e59cbc.jpg/_ir_410x230_/ 2x" alt="“생성AI 허위정보, 선거에 영향 우려” 머스크와 갈라 선 트위터 前 임원 [팩플]" width="205" height="115">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25174313" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+“생성AI 허위정보, 선거에 영향 우려” 머스크와 갈라 선 트위터 前 임원 [팩플]
+</a>
+</h2>
+<p class="description">
+“생성AI 기술은 팩트체킹 속도를 높일 수도 있지만 허위 정보를 더 빠르게 만들어내 선거에 지대한 영향을 미칠 것이다.” &nbsp; 지난달 29일 서울 강남구 코엑스에서 열린 ‘글로벌팩트10’ 컨퍼런스에 참석한 요엘 로스(35) 전 트위터 신뢰·안전 글로벌 책임자는 중앙일보와 인터뷰에서 이같이 말했다. 그러면서 그는 “정부 규제와 테크 기업의 기술·보안 투자가 필요하다”고 강조했다. 그는 2021년 도널드 트럼프 전 미국 대통령의 트위터 계정 영구 정지를 주도한 것으로 유명하다. 지난해 10월 일론 머스크가 트위터를 인수한 뒤 회사를 떠나 미국 UC 버클리대 카네기 국제평화재단 연구원으로 소셜미디어 안전과 허위 정보의 위험성 등을 연구하고 있다. &nbsp; 지난달 30일 서울 강남구 코엑스에서 열린 국제 팩트체크 콘퍼런스 '글로벌팩트 10(Global Fact 10)' 마지막 날 행사에서 요엘 로스 전 트위터 신뢰·안전 책임자가 발언하고 있다. 서울대 팩트체크센터 제공 이날 요엘 로스는 트럼프 전 대통령 계정을 정지시킨 이유에 대해 “팔로워가 가장 많은 국가의 수장인데 폭력을 조장했고, 극우 인사들이 이를 실어 날랐다”면서&nbsp;“폭력 조장이 가장 큰 이유였다”고 말했다. 구체적으로 “2021년 1월 6일 미국 국회의사당 난입 사건으로 트럼프의 트위터 계정 3개를 정지했는데, 이때 140개의 규칙을 적용했다”면서 “처음엔 12시간 동안 트럼프 계정의 기능을 일시정지 했는데, 다시 폭력 조장하는 글을 올려 트위터 정책에 어긋났기 때문에 계정을 영구적으로 정지할 수 밖에 없었다”고 설명했다.&nbsp; &nbsp; 2021년 1월 트위터는 도널드 트럼프 전 미국 대통령 트위터 계정을 영구히 정지했다. [트위터 캡처] &nbsp;━&nbsp; 머스크와 갈등-퇴사&nbsp;“트위터 안전 축소 우려” &nbsp; 그는 지난해 10월 일론 머스크 테슬라 최고경영자(CEO)가 트위터를 인수할 당시, 이를 지지했지만, 머스크와 ‘트위터 블루’ 서비스를 두고 갈등을 빚다 퇴사했다. 트위터 블루는 광고 중심인 트위터의 수익 개선을 위해 도입한 유료 서비스. 사용자가 월 7.99달러를 내면 트위터가 본인 인증 표시(블루체크)를 해주는 서비스다. 요엘 로스는 “머스크가 트위터를 인수하겠다고 했을 때, 회사를 효율적으로 변화시킬 것으로 기대했다”며 “머스크는 인종주의를 줄이고 위험한 콘텐트를 신속하게 줄이라고 지시했지만, 동의할 수 없는 결정도 많았다”고 말했다. 그는 “트위터 블루 인증은 사칭이 아니라 본인을 확인하는 제도다. 이를 유료화할 경우 계정 사칭 문제가 발생하고 더 큰 혼란과 위험이 발생할 수 있다”고 주장했다.&nbsp; &nbsp; 요엘 로스는 트위터가 허위 정보 관리에 있어서 변화의 기로에 서 있다고 평가했다. “트위터가 코로나, 선거 등 위기 상황과 관련한 허위 정보를 필터링했는데, 머스크 인수 이후 콘텐트 및 허위 정보 관리 팀을 없애고 직원들을 해고했다”는 이유에서다. 요엘 로스는 자신이 “내가 트위터를 떠날 당시에 200명이던 신뢰·안전팀이 지금은 완전히 사라졌다”며 “아동 성 착취나 불법 거래, 테러 방조 행위 등을 감시하는 팀이 현재 많이 축소돼, 관련 문제들을 잘 해결할 수 있을지 의문”이라고 말했다. &nbsp; &nbsp;&nbsp; 지난달 29일 서울 강남구 코엑스에서 국내 언론과 인터뷰를 하고 있는 요엘 로스. 여성국 기자 요엘 로스는 “누군가의 표현의 자유가 타인에게 해를 끼칠 경우 안전을 우선해야 한다”면서 플랫폼의 적극적인 역할을 촉구했다. 이런 방향이 수익성에도 도움이 된다고 주장했다. 그는 “트위터 이용 중단 이용자들에게 ‘왜 트위터를 더 쓰지 않냐’고 설문 조사를 해보니 가장 많은 응답이 ‘안전하지 않다고 느낀다’는 것이었다”면서 “이들로부터 ‘허위정보에 트위터가 개입하면 좋겠다’는 답이 많았다”고 밝혔다. &nbsp; &nbsp;━&nbsp; “생성 AI 허위정보 생산, 규제 필요” &nbsp; 그는 “정치적 맥락에서 AI 사용에 대한 규제가 절대적으로 필요하다”고 강조했다. 요엘 로스는 “AI 관련 규제 논의는 정당하다. 생성AI는 허위정보를 만들어낼 수 있고, AI가 사실을 꾸며내는 것이 큰 문제를 일으킬 수 있다”면서 “정부는 유해성을 규제하고, 테크 기업도 (허위 정보 확산을 막기 위한) 기술과 보안 투자를 통해 예방해야 한다”고 말했다. 이어 “AI는 팩트체킹 속도를 높일 수 있지만, 허위정보를 빠르게 양산할 수도 있어 선거 등에 지대한 영향을 미칠 것”이라고 경고했다. &nbsp; 아시아에서 처음 열린 이번 ‘글로벌팩트10’은 지난달 28일부터 3일간 열렸다. 서울대 팩트체크센터는 “올해 글로벌팩트10의 대면 참석자는 75개국 550여명으로 2014년 글로벌 팩트가 시작된 이후 가장 많은 국가에서 최다 인원이 참석했다”고 밝혔다. &nbsp; &nbsp; 여성국 기자 yu.sungkuk@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.07.03 05:00</p>
+<button type="button" class="btn_bookmark" data-cid="25174313" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코인 이제 제도권 안으로…시세조종 땐 처벌, 금감원서도 감시[팩플]]]></title>
         <id>https://www.joongang.co.kr/article/25173983</id>
         <link href="https://www.joongang.co.kr/article/25173983"/>
         <updated>2023-06-30T11:08:09.725Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25173983" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25173983" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/de76e997-a32b-42dd-baf9-e5b75a00a16f.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/de76e997-a32b-42dd-baf9-e5b75a00a16f.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/de76e997-a32b-42dd-baf9-e5b75a00a16f.jpg/_ir_410x230_/ 2x" alt="코인 이제 제도권 안으로…시세조종 땐 처벌, 금감원서도 감시[팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25173983" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25173983" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 코인 이제 제도권 안으로…시세조종 땐 처벌, 금감원서도 감시[팩플]
 </a>
 </h2>
@@ -38,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25173976"/>
         <updated>2023-06-30T10:10:14.787Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25173976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25173976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/4c9209a6-077a-405b-aace-1c4e8ee14a7a.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/4c9209a6-077a-405b-aace-1c4e8ee14a7a.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/4c9209a6-077a-405b-aace-1c4e8ee14a7a.jpg/_ir_410x230_/ 2x" alt="[팩플] 이사회 재구성 마친 KT, 대표 찾기 속도 낸다" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25173976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25173976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] 이사회 재구성 마친 KT, 대표 찾기 속도 낸다
 </a>
 </h2>
@@ -65,13 +119,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25173946"/>
         <updated>2023-06-30T07:09:05.358Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25173946" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25173946" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/c05f76ca-b388-4544-9dcf-279f43e73087.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/c05f76ca-b388-4544-9dcf-279f43e73087.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/c05f76ca-b388-4544-9dcf-279f43e73087.jpg/_ir_410x230_/ 2x" alt="[팩플] AI도 해결 못한 ‘깜깜이 논란’ 어쩌나…네이버, 3차 ‘알검위’ 발족 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25173946" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25173946" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] AI도 해결 못한 ‘깜깜이 논란’ 어쩌나…네이버, 3차 ‘알검위’ 발족
 </a>
 </h2>
@@ -92,13 +146,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25173844"/>
         <updated>2023-06-30T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25173844" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25173844" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/4f0b58a2-90af-43be-a57c-d02b653c2e01.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/4f0b58a2-90af-43be-a57c-d02b653c2e01.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/30/4f0b58a2-90af-43be-a57c-d02b653c2e01.jpg/_ir_410x230_/ 2x" alt="‘나이스 오류' 논란에, 공공SW 대기업 장벽 낮춘다는데…[팩플] " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25173844" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25173844" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 ‘나이스 오류' 논란에, 공공SW 대기업 장벽 낮춘다는데…[팩플]
 </a>
 </h2>
@@ -119,13 +173,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25173615"/>
         <updated>2023-06-29T08:22:44.212Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25173615" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25173615" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/29/ff7b2edf-25a3-4055-a9cb-18303f298ce6.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/29/ff7b2edf-25a3-4055-a9cb-18303f298ce6.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/29/ff7b2edf-25a3-4055-a9cb-18303f298ce6.jpg/_ir_410x230_/ 2x" alt="[팩플] 오픈AI, '구글 AI 앞마당' 런던에 첫 해외 지사…왜 다들 영국인가" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25173615" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25173615" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] 오픈AI, '구글 AI 앞마당' 런던에 첫 해외 지사…왜 다들 영국인가
 </a>
 </h2>
@@ -146,13 +200,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25173467"/>
         <updated>2023-06-29T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25173467" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25173467" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/29/b78c10d0-0121-407f-ba63-425879f821a5.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/29/b78c10d0-0121-407f-ba63-425879f821a5.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/29/b78c10d0-0121-407f-ba63-425879f821a5.jpg/_ir_410x230_/ 2x" alt="노조 만난 엔씨 김택진 “나도 노동자라 생각&quot;…실적엔 어떤 영향? [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25173467" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25173467" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 노조 만난 엔씨 김택진 “나도 노동자라 생각"…실적엔 어떤 영향? [팩플]
 </a>
 </h2>
@@ -173,13 +227,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25173268"/>
         <updated>2023-06-28T09:10:32.140Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25173268" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25173268" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/28/1f763b3f-798b-4faa-b16f-53336f89868f.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/28/1f763b3f-798b-4faa-b16f-53336f89868f.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/28/1f763b3f-798b-4faa-b16f-53336f89868f.jpg/_ir_410x230_/ 2x" alt="[팩플] “저성능 칩도 안 돼”…中 압박 수위 높이는 美, 엔비디아의 미래는" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25173268" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25173268" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] “저성능 칩도 안 돼”…中 압박 수위 높이는 美, 엔비디아의 미래는
 </a>
 </h2>
@@ -200,13 +254,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25173129"/>
         <updated>2023-06-28T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25173129" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25173129" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/28/2a43abb5-c25a-4a83-a3d1-15b6eeb9746c.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/28/2a43abb5-c25a-4a83-a3d1-15b6eeb9746c.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/28/2a43abb5-c25a-4a83-a3d1-15b6eeb9746c.jpg/_ir_410x230_/ 2x" alt="까치 몸에 여자 가슴을? 이현세 웃게 한 드로잉 천재 문하생" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25173129" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25173129" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 까치 몸에 여자 가슴을? 이현세 웃게 한 드로잉 천재 문하생
 </a>
 </h2>
@@ -227,13 +281,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25172949"/>
         <updated>2023-06-27T08:13:13.077Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25172949" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25172949" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/bbdccb12-5544-41e9-8f7f-a0cbad1a91f9.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/bbdccb12-5544-41e9-8f7f-a0cbad1a91f9.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/bbdccb12-5544-41e9-8f7f-a0cbad1a91f9.jpg/_ir_410x230_/ 2x" alt="[팩플] '넥슨 3대 주주' 사우디, 1700억 어치 더 산 이유는" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25172949" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25172949" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] '넥슨 3대 주주' 사우디, 1700억 어치 더 산 이유는
 </a>
 </h2>
@@ -254,13 +308,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25172835"/>
         <updated>2023-06-27T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25172835" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25172835" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/e1f7c4ac-d69a-4fe6-bd75-ff4dbcafc101.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/e1f7c4ac-d69a-4fe6-bd75-ff4dbcafc101.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/e1f7c4ac-d69a-4fe6-bd75-ff4dbcafc101.jpg/_ir_410x230_/ 2x" alt="[팩플] 난공불락 엔비디아에 ‘K-AI반도체’ 도전…&quot;소프트웨어 인재 키워야&quot;" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25172835" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25172835" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 난공불락 엔비디아에 ‘K-AI반도체’ 도전…"소프트웨어 인재 키워야"
 </a>
 </h2>
@@ -281,13 +335,13 @@ KT가 30일 임시 주주 총회를 열고 새 사외이사 7명을 선임했다
         <link href="https://www.joongang.co.kr/article/25172591"/>
         <updated>2023-06-26T20:19:04.200Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25172591" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25172591" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/2a50ebc9-d175-4580-a054-d79ace75b362.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/2a50ebc9-d175-4580-a054-d79ace75b362.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/27/2a50ebc9-d175-4580-a054-d79ace75b362.jpg/_ir_410x230_/ 2x" alt="AI가 없애는 게, 노가다 맞아? 웹툰 작가들은 뭔가 찜찜하다" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25172591" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25172591" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 AI가 없애는 게, 노가다 맞아? 웹툰 작가들은 뭔가 찜찜하다
 </a>
 <strong class="badge_plus"><span class="visually_hidden">유료 전용</span></strong>
@@ -309,13 +363,13 @@ Today’s TopicAI가 없앤 건, 노가다 혹은 창작‘웹툰 종주국’ �
         <link href="https://www.joongang.co.kr/article/25172468"/>
         <updated>2023-06-26T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25172468" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25172468" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/26/3f4841aa-f3ff-4b86-9ade-22c2402e8f3c.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/26/3f4841aa-f3ff-4b86-9ade-22c2402e8f3c.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/26/3f4841aa-f3ff-4b86-9ade-22c2402e8f3c.jpg/_ir_410x230_/ 2x" alt="[팩플] 넷 중 하나는 반려가구, 1300만 ‘펫팸족’ 노린 통신3사 전략은" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25172468" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25172468" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] 넷 중 하나는 반려가구, 1300만 ‘펫팸족’ 노린 통신3사 전략은
 </a>
 </h2>
@@ -336,13 +390,13 @@ Today’s TopicAI가 없앤 건, 노가다 혹은 창작‘웹툰 종주국’ �
         <link href="https://www.joongang.co.kr/article/25172365"/>
         <updated>2023-06-25T10:10:19.415Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25172365" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25172365" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/25/147a8cfa-ced6-41b7-9c0c-c835e9f20303.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/25/147a8cfa-ced6-41b7-9c0c-c835e9f20303.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/25/147a8cfa-ced6-41b7-9c0c-c835e9f20303.jpg/_ir_410x230_/ 2x" alt="[팩플] 광고 매출 줄어든 유튜브, 온라인 게임 시장서 활로 찾나" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25172365" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25172365" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] 광고 매출 줄어든 유튜브, 온라인 게임 시장서 활로 찾나
 </a>
 </h2>
@@ -363,13 +417,13 @@ Today’s TopicAI가 없앤 건, 노가다 혹은 창작‘웹툰 종주국’ �
         <link href="https://www.joongang.co.kr/article/25172014"/>
         <updated>2023-06-23T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25172014" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25172014" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/23/ff7b2edf-25a3-4055-a9cb-18303f298ce6.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/23/ff7b2edf-25a3-4055-a9cb-18303f298ce6.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/23/ff7b2edf-25a3-4055-a9cb-18303f298ce6.jpg/_ir_410x230_/ 2x" alt="소송전 불사하는 'AI 인재 쟁탈전'...챗GPT도 난리 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25172014" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25172014" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 소송전 불사하는 'AI 인재 쟁탈전'...챗GPT도 난리 [팩플]
 </a>
 </h2>
@@ -390,13 +444,13 @@ Today’s TopicAI가 없앤 건, 노가다 혹은 창작‘웹툰 종주국’ �
         <link href="https://www.joongang.co.kr/article/25171696"/>
         <updated>2023-06-22T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25171696" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25171696" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/22/332a18fc-23f8-406f-a93b-9939063b15c9.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/22/332a18fc-23f8-406f-a93b-9939063b15c9.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/22/332a18fc-23f8-406f-a93b-9939063b15c9.jpg/_ir_410x230_/ 2x" alt="[단독] 카카오 주가 28% 떨어졌는데, 경영진들 130억 팔았다" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25171696" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25171696" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [단독] 카카오 주가 28% 떨어졌는데, 경영진들 130억 팔았다
 </a>
 </h2>
@@ -417,13 +471,13 @@ Today’s TopicAI가 없앤 건, 노가다 혹은 창작‘웹툰 종주국’ �
         <link href="https://www.joongang.co.kr/article/25171572"/>
         <updated>2023-06-21T10:10:07.500Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25171572" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25171572" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/c6b60e3d-1a8f-4d2b-b54b-9445e5cfccd9.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/c6b60e3d-1a8f-4d2b-b54b-9445e5cfccd9.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/c6b60e3d-1a8f-4d2b-b54b-9445e5cfccd9.jpg/_ir_410x230_/ 2x" alt="[팩플] AI 융합에 직진하는 KT…“2025년까지 AI 매출 1조원대”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25171572" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25171572" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 [팩플] AI 융합에 직진하는 KT…“2025년까지 AI 매출 1조원대”
 </a>
 </h2>
@@ -444,13 +498,13 @@ KT AI/DX융합사업부문장 송재호 부사장이 21일 서울 중구 노보�
         <link href="https://www.joongang.co.kr/article/25171539"/>
         <updated>2023-06-21T08:11:31.088Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25171539" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25171539" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/51b34d5d-3b36-4ad0-a83a-961757dd0a44.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/51b34d5d-3b36-4ad0-a83a-961757dd0a44.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/51b34d5d-3b36-4ad0-a83a-961757dd0a44.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘공격 전환’ 선언한 손정의 “AI 혁명 주도…5조엔 준비됐다”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25171539" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25171539" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] ‘공격 전환’ 선언한 손정의 “AI 혁명 주도…5조엔 준비됐다”
 </a>
 </h2>
@@ -471,13 +525,13 @@ KT AI/DX융합사업부문장 송재호 부사장이 21일 서울 중구 노보�
         <link href="https://www.joongang.co.kr/article/25171421"/>
         <updated>2023-06-21T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25171421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25171421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/5e8e9bf8-b345-4b68-9893-4daccd96016f.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/5e8e9bf8-b345-4b68-9893-4daccd96016f.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/5e8e9bf8-b345-4b68-9893-4daccd96016f.jpg/_ir_410x230_/ 2x" alt="'챗GPT 악용' 범죄 늘었는데…양날의 검, 국내업체엔 기회? [팩플] " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25171421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25171421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 '챗GPT 악용' 범죄 늘었는데…양날의 검, 국내업체엔 기회? [팩플]
 </a>
 </h2>
@@ -498,13 +552,13 @@ KT AI/DX융합사업부문장 송재호 부사장이 21일 서울 중구 노보�
         <link href="https://www.joongang.co.kr/article/25171283"/>
         <updated>2023-06-20T10:09:47.391Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25171283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25171283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/0fb6d7f1-dc7a-47ef-a104-8b36cacd1c2d.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/0fb6d7f1-dc7a-47ef-a104-8b36cacd1c2d.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/21/0fb6d7f1-dc7a-47ef-a104-8b36cacd1c2d.jpg/_ir_410x230_/ 2x" alt="[팩플] 야놀자 “외국인 관광객 5000만 시대 열겠다…300조 경제효과”" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25171283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25171283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] 야놀자 “외국인 관광객 5000만 시대 열겠다…300조 경제효과”
 </a>
 </h2>
@@ -525,13 +579,13 @@ KT AI/DX융합사업부문장 송재호 부사장이 21일 서울 중구 노보�
         <link href="https://www.joongang.co.kr/article/25170924"/>
         <updated>2023-06-19T09:10:23.044Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25170924" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25170924" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/f8ba5eb2-cf93-4303-b1ca-c04303dca747.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/f8ba5eb2-cf93-4303-b1ca-c04303dca747.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/f8ba5eb2-cf93-4303-b1ca-c04303dca747.jpg/_ir_410x230_/ 2x" alt="[팩플] ‘아기상어’ 후속작도 터졌다…더핑크퐁 IP 고공행진 비결은" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25170924" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25170924" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] ‘아기상어’ 후속작도 터졌다…더핑크퐁 IP 고공행진 비결은
 </a>
 </h2>
@@ -552,13 +606,13 @@ KT AI/DX융합사업부문장 송재호 부사장이 21일 서울 중구 노보�
         <link href="https://www.joongang.co.kr/article/25170778"/>
         <updated>2023-06-19T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25170778" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25170778" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/f7c2dcad-813f-45bd-858d-607bab099878.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/f7c2dcad-813f-45bd-858d-607bab099878.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/f7c2dcad-813f-45bd-858d-607bab099878.jpg/_ir_410x230_/ 2x" alt="&quot;챗GPT 왜 공짜로 뉴스 썼나&quot;…언론사들, 제값받기 나섰다 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25170778" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25170778" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 "챗GPT 왜 공짜로 뉴스 썼나"…언론사들, 제값받기 나섰다 [팩플]
 </a>
 </h2>
@@ -579,13 +633,13 @@ KT AI/DX융합사업부문장 송재호 부사장이 21일 서울 중구 노보�
         <link href="https://www.joongang.co.kr/article/25170298"/>
         <updated>2023-06-16T05:01:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25170298" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25170298" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/16/a18a705d-04bd-47c8-adde-d498c37ba6a0.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/16/a18a705d-04bd-47c8-adde-d498c37ba6a0.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/16/a18a705d-04bd-47c8-adde-d498c37ba6a0.jpg/_ir_410x230_/ 2x" alt="'토스'도 '타다'를 구하지 못했다…결국 구조조정, 결정타 둘 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25170298" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25170298" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 '토스'도 '타다'를 구하지 못했다…결국 구조조정, 결정타 둘 [팩플]
 </a>
 </h2>
@@ -595,60 +649,6 @@ KT AI/DX융합사업부문장 송재호 부사장이 21일 서울 중구 노보�
 <div class="meta">
 <p class="date">2023.06.16 05:01</p>
 <button type="button" class="btn_bookmark" data-cid="25170298" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 규제, EU 먼저 나섰다…"규제해달라" 외치던 챗GPT 속내]]></title>
-        <id>https://www.joongang.co.kr/article/25170287</id>
-        <link href="https://www.joongang.co.kr/article/25170287"/>
-        <updated>2023-06-16T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25170287" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/03c6ea43-0b13-403f-83f9-387b567ade71.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/03c6ea43-0b13-403f-83f9-387b567ade71.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/19/03c6ea43-0b13-403f-83f9-387b567ade71.jpg/_ir_410x230_/ 2x" alt="AI 규제, EU 먼저 나섰다…&quot;규제해달라&quot; 외치던 챗GPT 속내" width="205" height="115">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25170287" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
-AI 규제, EU 먼저 나섰다…"규제해달라" 외치던 챗GPT 속내
-</a>
-</h2>
-<p class="description">
-유럽이 먼저&nbsp;테이프를 끊었다. 챗GPT 돌풍 이후 인공지능(AI) 기술과 서비스를 규제하자는 주장이 전 세계적으로 확산되는 가운데, 유럽연합(EU)의 입법기구가 ‘AI법’(AI Act) 초안을 통과시켰다.&nbsp;유럽의 AI 시장을 두드리려던 미국 빅테크 기업들의 행보에 제동이 걸릴 것으로 예상된다. &nbsp; 14일(현지시간) 유럽의회는 본회의에서 AI법 초안에 대한 표결을 진행해 압도적인 찬성(찬성 499표, 반대 28표, 기권 93표)으로 통과시켰다. 이 초안에 따르면, AI 개발 업체들은 AI 모델 훈련에 쓰인 데이터의 출처를 공개해야 하고, AI가 생성한 콘텐트의 창작자가 인간이 아니라는 사실을 명시해야 한다. 데이터 출처를 공개할 경우, 데이터 저작권을 가진 이들이 AI 개발 기업에 수익 공유나 데이터 사용료를 요구할 수 있다.&nbsp; &nbsp; 초안은 또 AI 개발사가 상업적 목적으로 AI 상품을 출시하기 전에 EU의 규제 기구 측에 AI 시스템을 제출하도록 했다. EU의 통제 하에 AI로 수익 활동을 하라는 의미다. 이외에, 공공장소에서 안면 등 생체정보 인식을 금지하는 내용도 초안에 포함됐다. 유럽 의회‧집행위원회‧이사회 간 3자 협상이 무난히 타결될 경우, 2026년엔 EU 내에 해당 규제가 적용될 전망이다.&nbsp; 유럽의회 의원들이 14일(현지시간) 프랑스 동부 스트라스부르의 유럽의회 본회의에서 투표에 참여하고 있다. AFP=연합뉴스 EU가 2년간 준비한 AI 규제 법제화가 가까워짐에 따라, 유럽은 미국 실리콘밸리 기업들이 주도하는 AI 산업에 영향력을 행사할 수 있게 됐다. 그동안 오픈AI, 마이크로소프트(MS), 구글 등 미국 기술 기업들은 AI 규제가 필요하다는 주장을 선제적으로 펼쳐왔다. 챗GPT의 개발사인 오픈AI 샘 올트먼 최고경영자(CEO)는 “국제원자력기구(IAEA) 같은 국제 기구를 만들어 AI를 규제하자”고 주장해왔고, 오픈AI의 핵심 투자자인 MS 역시 “정부 주도의 AI 가드레일이 필요하다”(브래드 스미스 MS 부회장)는 의견을 피력했다. &nbsp; 이들의 ‘규제 옹호’엔 경쟁의 규칙을 유리한 방향으로 끌고 가려는 의도도 있다. 규제의 방향과 수준이 이들 선두주자들의 수준에 맞춘다면, AI 후발주자들은 추격하기가 쉽지 않기 때문이다. 이 때문에 이들의 주장이 ‘AI 사다리 걷어차기’라는 비판이 나온다. AI 규제를 꾸준히 강조하던 샘 올트먼 오픈AI CEO는 지난 5일 이스라엘 방문에서 “AI에 당장 무거운 규제를 가해 혁신을 늦추는 것은 실수라고 생각한다”며 강도 높은 규제엔 반대한다며 애매한 태도를 보였다. 유럽이 강경한 규제를 예고하자, 지난달 24일 영국 방문 당시&nbsp; “규제가 심하면 유럽에서 GPT 운영을 중단할 수 있다”고 했다가 이틀 만에 번복하기도 했다. 그러면서도 물밑에선 부지런히 EU 리더들을 설득했다. EU의 로비스트 명부인 투명성 등록부에 따르면, 15일 기준 오픈AI 관련자들은 올해에만 EU집행위원회와 3차례의 만남을 가진 것으로 나타났다.&nbsp;&nbsp; 샘 올트먼 오픈AI CEO가 지난 9일 서울 여의도 63빌딩에서 열린 대담회에 참석해 발언하고 있다. 사진 소프트뱅크벤처스 &nbsp;━&nbsp; 빅테크, 유럽 AI 시장 진출 차질 빚나 &nbsp; 이번 법안이 최종 확정될 경우, 미국 빅테크 기업들은 유럽 AI 시장 진입에 차질이 생길 수 있다. 당장 구글의 생성 AI 챗봇인 ‘바드’의 유럽 출시가 개인정보보호 문제로 연기됐다. 미국 정치전문 매체 폴리티코에 따르면, 아일랜드 데이터보호위원회(IDPC)가 구글에 개인정보보호 방안이 미흡하다며 시정을 요구하면서 바드 출시가 늦춰진 상태다.&nbsp; &nbsp; 이번 규제는 미국 기업뿐 아니라 유럽 기업들의 AI 경쟁력에도 영향을 미칠 전망이다. 이성엽 고려대 기술경영전문대학원 교수는 “데이터의 출처를 공개하게 되면 원 저작권자들이 데이터에 대한 보상을 해달라는 등의 논란이 커질 것”이라며 “미국뿐만이 아니라 유럽의 기업들에도 적용되는 만큼 유럽의 AI 산업이 성장하기 어려워질 수 있다”고 덧붙였다. &nbsp; 오픈AI를 중심으로 한 미국 AI 기업들이 상대적으로 기업 친화적인 영국 시장을 대안으로 택할 가능성도 있다. 샘 올트먼 CEO는 이달초 영국을 방문해 리시 수낵 영국 총리를 만나 AI 규제 방안을 논의했다. 미국의 IT 매체 테크크런치는 “영국 정부는 AI 규제를 위한 새로운 법안을 계획하고 있지 않다는 신호를 (오픈AI에) 보내고 있다”며 “(오픈AI 측이) AI 규제와 관련하여 영국과 EU 사이에 더 큰 쐐기를 박으려 할 가능성이 크다”고 지난달 보도했다. &nbsp; 해외 진출을 염두에 둔 국내 AI 기업들도 상황을 주시하고 있다. 익명을 요구한 한 AI 스타트업 관계자는 “EU의 개인정보보호법(GDPR) 사례를 보면, 처음엔 난관이 있었지만 결국 그 법에 맞춰 세계 기업들도 서비스를 수정했다”며 “유럽의 AI 규제가 벤치마크가 돼 다른 나라에 적용될 가능성이 크다”고 말했다. &nbsp; &nbsp; 한국의 경우 지난 2월 인공지능법 제정안이 국회 상임위 법안심사소위를 통과한 상태다. AI 기술 발전 대원칙으로 ‘선(先)허용, 후(後)규제’를 명문화했다. 정부는 3년마다 AI 기본 계획을 세우고, 국무총리 산하 AI 위원회를 두는 내용이다.&nbsp; 김남영 기자 kim.namyoung3@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.06.16 05:00</p>
-<button type="button" class="btn_bookmark" data-cid="25170287" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 위기의 구글...EU도 "디지털 광고 팔면서 중개까지? 하나는 팔아라"]]></title>
-        <id>https://www.joongang.co.kr/article/25170170</id>
-        <link href="https://www.joongang.co.kr/article/25170170"/>
-        <updated>2023-06-15T10:09:59.933Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25170170" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/15/a7555ec5-16fb-4c0d-9a05-e17d32351ca0.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/15/a7555ec5-16fb-4c0d-9a05-e17d32351ca0.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/15/a7555ec5-16fb-4c0d-9a05-e17d32351ca0.jpg/_ir_410x230_/ 2x" alt="[팩플] 위기의 구글...EU도 &quot;디지털 광고 팔면서 중개까지? 하나는 팔아라&quot;" width="205" height="115">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25170170" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 위기의 구글...EU도 "디지털 광고 팔면서 중개까지? 하나는 팔아라"
-</a>
-</h2>
-<p class="description">
-마르그레테 베스타게르 EU 경쟁정책 담당 집행위원이 14일(현지시간) 벨기에 브뤼셀에 위치한 EU 본부에서 구글의 반독점법 위반 혐의에 대한 심사 보고서에 관한 발표를 하고 있다. AP=연합뉴스 구글의 핵심 캐시카우(수익 창출원)인 디지털 광고 사업이 흔들리고 있다. 미국에 이어 유럽연합(EU)까지 구글의 광고 기술이 디지털 광고 시장 독점에 쓰이고 있다며 광고 사업부 중 일부를 매각하라고 요구했다.&nbsp; &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; EU 집행위원회는 14일(현지시간) 구글의 반독점법 위반 혐의에 대한 심사보고서를 발간하면서 “구글이 디지털 광고 시장의 경쟁을 왜곡시킴으로써 EU의 반독점법을 위반했다”고 밝혔다. 그러면서 “구글이 일부 (광고 부문) 서비스를 의무적으로 매각해야 독점 우려를 해소할 수 있을 것”라고 덧붙였다. 심사보고서는 EU 집행위가 2021년 6월부터 구글을 상대로 한 조사의 결론을 내리기 전 내놓은 중간 발표의 일종이다. &nbsp; &nbsp;━&nbsp; 보고서 내용은 &nbsp; EU 집행위는 구글이 디지털 광고를 직접 공급하고 구매하면서, 광고를 중개하는 사업까지 다 하고 있어 독점이 발생했다고 판단했다. 구글은 온라인 광고 구매자와 판매자를 중개하는 플랫폼 ‘에드 익스체인지(AdX)’를 보유했고, 광고를 중개 플랫폼에 올리는 업체 ‘DV360’, 시장에 나온 광고를 웹사이트에 게시하는 플랫폼 ‘DFP(DoubleClick for Publishers)’도 운영한다. 이 구조 속에서 구글은 2014년부터 DFP에 등록된 광고 경매 입찰가격을 AdX에 미리 알려주거나, AdX에만 구글의 광고를 판매해 일감을 몰아주는 등 불법 행위를 해왔다는 게 EU의 판단이다. 박경민 기자 &nbsp; 이날 EU 집행위는 구글의 광고시장 독점 문제로 미국 법무부와 “긴밀한 협의를 했다”고 언급했다. 미 법무부는 지난 1월 EU와 같은 이유로 구글을 상대로 반독점법 위반 소송을 제기하며, 구글이 광고 기술 사업부 일부를 매각해야 한다고 요구했다. 마르그레테 베스타게르 EU 경쟁정책 담당 집행위원은 “EU와 미 법무부는 시장 경쟁에 무엇이 도움되고, 궁극적으로 반독점법 위반에 어떤 조치가 가장 효과적인지에 대해서 시각을 함께하고 있다”고 말했다. &nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; EU 집행위와 미 법무부의 요구대로 구글이 광고사업 일부를 매각해야 할 경우, 구글 매출과 수익에 타격이 불가피할 전망이다. 지난 1분기 알파벳(구글의 모회사) 매출 698억 달러(약 89조4000억원) 중 78%가 광고부문 매출(545억 달러, 약 69조8000억원)이었다. 이 중&nbsp; 13.7%(75억 달러·약 9조6000억원)가 EU의 규제 범위에 포함된 디지털 광고 중개(구글 네트워크) 사업이다. &nbsp; 매출 규모만 놓고 보면, 광고 중개 사업은 구글 검색 등 자체 광고상품 매출(404억 달러·74%)에 비해 비중이 작은 편이다. 그러나 광고 중개를 통해 구글은 각종 소비자 데이터에 접근해왔다. 강제 분할 매각시, 이 데이터 창고가 사라지는 것. IT 전문지 디인포메이션은 이날 “구글이 인터넷에서 광고를 판매해서 얻는 다른 시장에 관한 정보 등 무형의 이익은 자사 광고 판매에도 도움이 됐을 가능성이 높다”며 “광고 중개 사업 부문의 일부가 매각될 경우, 자체 광고판매 사업에 얼만큼의 악영향을 미칠지는 불확실하다”고 분석했다. 신재민 기자 &nbsp; 한편, 사업부 매각 요구와 별개로 구글이 ‘벌금 폭탄’을 떠안을 가능성도 있다. 이날 EU 집행위는 구글이 반독점법을 위반했다고 최종 결론이 나면, 연간 글로벌 매출의 10%까지 과징금을 부과할 수 있다고 밝혔다. 예컨대 지난해 알파벳의 연간 매출(2828억 달러)을 기준으로 하면, 벌금의 규모는 282억8000만 달러(약 36조2000억원)로 추산된다. 지난달 EU가 메타(Meta)에 개인정보보호법(GDPR) 위반으로 부과한 과징금 12억 유로(약 13억 달러)의 20배가 넘는 규모다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 구글 독점 여부 둘러싼 EU 집행위 최종 판단까지 1년 넘게 시간 걸린다는 게 월스트리트저널(WSJ) 등 외신의 전망이다. 이런 와중에 구글은 지난 1월 미 법무부가 제기한 소송과, 향후 영국이 발표할 구글의 광고 시장 독점 관련 조사에도 대응해야 한다. 설상가상 향후 글로벌 광고 시장에서 구글의 반독점법 위반 규제 움직임이 더욱 커질 가능성이 있다. 최경진 가천대 법학과 교수는 “유럽 입장에서는 해외 빅 테크가 디지털 광고 등의 방식으로 손쉽게 돈을 벌어가는 것이 뼈아플 것”이라며 “최근 유럽이 제정한 GDPR이나 DSA(디지털 서비스법) 등의 플랫폼 규제도 결국 디지털 광고 시장에 영향을 미치는 만큼, 앞으로도 비슷한 규제는 이어질 전망”이라고 분석했다.&nbsp; &nbsp; 이날 EU 집행위 발표 이후 댄 테일러 구글 글로벌 광고부문 부사장은 “(EU 집행위의 결론이) 새로운 것이 아니고, 구글 광고사업의 협소한 부분에만 주목했다”며 “EU 집행위의 결론에 동의하지 않고, 상황에 맞춰 대응할 것”이라고 밝혔다.&nbsp; 윤상언·민경원 기자 youn.sangun@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.06.15 18:34</p>
-<button type="button" class="btn_bookmark" data-cid="25170170" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
