@@ -2,27 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2023-07-23T07:08:41.894Z</updated>
+    <updated>2023-07-23T08:11:16.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버, 출시 시간표까지 공개했다…생성 AI에 집중하는 이유 [팩플]]]></title>
+        <id>https://www.joongang.co.kr/article/25179171</id>
+        <link href="https://www.joongang.co.kr/article/25179171"/>
+        <updated>2023-07-23T08:11:02.584Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25179171" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/23/6b237944-a5f9-4e35-9ebf-76ebb3d4c351.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/23/6b237944-a5f9-4e35-9ebf-76ebb3d4c351.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/23/6b237944-a5f9-4e35-9ebf-76ebb3d4c351.jpg/_ir_410x230_/ 2x" alt="네이버, 출시 시간표까지 공개했다…생성 AI에 집중하는 이유 [팩플] " width="205" height="115">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25179171" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+네이버, 출시 시간표까지 공개했다…생성 AI에 집중하는 이유 [팩플]
+</a>
+</h2>
+<p class="description">
+김유원 네이버클라우드 대표. 사진 네이버 네이버가 올 하반기 생성 인공지능(AI) 서비스를 대거 공개한다. 다음달 말 핵심 기반 기술인 거대언어모델(LLM) ‘하이퍼클로바X’ 공개를 시작으로, 응용 서비스들을 줄줄이 내놓는다. 챗GPT 같은 소비자 대상(B2C) 대화형 챗봇 서비스 뿐 아니라 기업용(B2B) 생성 AI 시장에도 진출한다. 오픈AI나 구글·마이크로소프트 등이 주도하는 생성 AI 경쟁에서 네이버가 수익성까지&nbsp;잡을 수 있을지 관심이 모인다. &nbsp; &nbsp;━&nbsp; 공개 일정은 &nbsp; &nbsp; 네이버는 다음달 말 기존 LLM ‘하이퍼클로바’(2021년 공개)의 업그레이드 버전인 ‘하이퍼클로바X’를 공개한다고 21일 발표했다. ‘네이버 버전 챗GPT’인 ‘클로바X’도 8월에 공개된다. 창작과 요약을 비롯한 글쓰기가 가능해 개인의 생산성 도구로 이용할 수 있다는 게 네이버 측의 설명이다. 챗GPT처럼 학습·예약·쇼핑 등 외부 서비스를 클로바X와 플러그인(Plug-in) 형태로 연동해 쓸 수도 있다. &nbsp; 9월에는 네이버의 검색에 하이퍼클로바X를 결합한 서비스를 베타(테스트용) 출시한다. 생성 AI 검색 ‘큐:(Cue:)’다.&nbsp;GPT-4를 적용한 마이크로소프트(MS)의 빙(bing)과 유사한 서비스일 가능성이 크다. 현재 네이버 검색은&nbsp;키워드를 검색창에 입력하면 관련 링크를 나열해 보여주는 방식이지만, 큐:에선 긴 질문 형태로 검색이 가능하다. 네이버 측은 “큐:는 복합적인 의도가 포함된 긴 질의를 이해할 수 있다다”며&nbsp;“신뢰도 있는 최신 정보를 활용해 입체적인 검색 결과를 제공할 것”이라고 설명했다. 네이버는 연내에 네이버 검색에도 큐:를 일부 적용할 계획이다.&nbsp;&nbsp; 하이퍼클로바X 공개 일정. 사진 네이버 &nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; 이날 네이버는 이례적으로 주요 서비스 공개 일정을 밝혔다. 당초 7월이던 하이퍼클로바X의 공개 시점이 늦춰지면서 네이버의 AI 경쟁력에 대한 의구심이 나오던 차였다. 네이버는 2년 전에 자체 LLM을 이미 공개했지만, 오픈AI나 구글·마이크로소프트&nbsp;등이 주도하는 최근의 서비스 경쟁에서 뒤쳐졌다는 평가를 받아왔다. 시장의 관심은 이제 하이퍼클로바X가 네이버의 구원투수가 될 수 있느냐로 모아지고 있다.&nbsp; &nbsp; 최근 네이버는 기술, 시장, 규제 등 여러 면에서 도전에 직면한 상황. 일단 매출에서 가장 큰 비중을 차지하는 검색(서치플랫폼) 사업의 성장세가 둔화됐다. 지난 1분기 서치플랫폼 매출은 전년 동기 대비 0.2% 증가하는 데 그쳤다. 정치권의 압박도 거세다. 국민의힘 소속 국회의원 14명은 지난 12일 정보통신망법 개정안(윤두현 의원 대표발의)을 발의했다. 검색 결과로 비영리성 정보를 우선 노출해야 하고, 광고와 비영리성 정보를 구분해 제공해야 한다는 내용이다. 네이버의 수익원인 검색광고 사업을 직접 겨냥했다. &nbsp; &nbsp; 동시에, 실리콘밸리 기업들이 주도하는 생성 AI 기술 경쟁을 따라잡는 것만도 만만치 않다.닐슨코리아클릭에 따르면, 네이버의 국내 웹 검색(PC·모바일 웹 합계) 시장 점유율은 지난 1월 64.5%에서 5월 55.7%로 하락했다. 반면 구글은 1월 26.5%에서 5월 34.8%로 8%포인트 이상 오르며 네이버를 추격하는 중. 네이버로서는 이용자들을 불러 세울 ‘한 방’이 필요한 시점이다. &nbsp; &nbsp;━&nbsp; 네이버의 AI 전략은 &nbsp; ① 네이버 서비스의 생산성 향상 검색을 중심으로 큐:와 네이버 서비스들과 연계를 확대한다. 기존에 검색을 여러번 해야 가능했던 쇼핑이나 음식점 예약 등을 큐를 이용해 간편하고 빠르게 하겠다는 계획이다.&nbsp; &nbsp; 창작자·중소상공인(SME) 등 파트너를 위한 도구에도 생성AI를 적용한다. 먼저 콘텐트 제작 툴 ‘스마트에디터’에 하이퍼클로바X를 결합한다. 이렇게 되면 사용자는 글쓰기 좋은 소재를 추천받을 수 있고 키워드를 선택해 적절한 초안을 AI에게 써 달라고 할 수도 있다. 9월부터 일부 블로그 창작자를 대상으로 제공할 예정. &nbsp; ② AI로 돈 벌기, B2B 노린다 기업용 생성 AI 시장에도 뛰어든다. 현재 네이버클라우드에서 서비스 중인 AI 앱 개발 플랫폼 ‘클로바 스튜디오’에 하이퍼클로바X를 결합한 서비스를 8월에 일부 기업에 공개한 뒤, 10월 공식 출시한다. 기업들이 보유한 자체 데이터를 활용해 기업 맞춤형 생성 AI 서비스를 만들 수 있는 플랫폼이다. 기업의 데이터센터에 서버 인프라를 설치하는 하이브리드 클라우드도 같은 달 출시한다. 앞서 네이버클라우드는 지난 4월 성낙호 기술총괄 중심으로 ‘하이퍼스케일 AI’ 조직을 확대 개편해 관련 기술개발을 준비해왔다.&nbsp; 권유진 기자 kwen.yujin@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.07.21 17:25</p>
+<button type="button" class="btn_bookmark" data-cid="25179171" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 통신사 빠진 5G 28㎓…3분의 1 값인데도 인기 시들한 이유는]]></title>
         <id>https://www.joongang.co.kr/article/25178927</id>
         <link href="https://www.joongang.co.kr/article/25178927"/>
         <updated>2023-07-20T10:09:39.959Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25178927" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/21/d08b27bd-adaa-4774-bd5e-bd2d20ae2ffc.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/21/d08b27bd-adaa-4774-bd5e-bd2d20ae2ffc.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/21/d08b27bd-adaa-4774-bd5e-bd2d20ae2ffc.jpg/_ir_410x230_/ 2x" alt="[팩플] 통신사 빠진 5G 28㎓…3분의 1 값인데도 인기 시들한 이유는" width="205" height="115">
+<a href="https://www.joongang.co.kr/article/25178927" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/23/d08b27bd-adaa-4774-bd5e-bd2d20ae2ffc.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/23/d08b27bd-adaa-4774-bd5e-bd2d20ae2ffc.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/23/d08b27bd-adaa-4774-bd5e-bd2d20ae2ffc.jpg/_ir_410x230_/ 2x" alt="[팩플] 통신사 빠진 5G 28㎓…3분의 1 값인데도 인기 시들한 이유는" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25178927" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25178927" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] 통신사 빠진 5G 28㎓…3분의 1 값인데도 인기 시들한 이유는
 </a>
 </h2>
 <p class="description">
-SKT 직원들이 도서 지역에 설치된 5G 마이크로웨이브 통신 장비를 점검하는 모습. 사진 SKT &nbsp; 정부가 제4이동통신사 유치에 시동을 걸었다.SK텔레콤·KT·LG유플러스 등 3사로부터 회수한 5세대(5G) 이동통신용 28㎓ 대역 주파수를 쓸 새 얼굴을 찾는 것이다. 그러나 해당 주파수의 수요처가 마땅치 않아 새로운 사업자가 시장에서 경쟁력을 가질 수 있을지에 대한 우려도 나온다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 과학기술정보통신부는 5G 28㎓ 대역의 주파수 800㎒ 폭과, 700㎒ 대역의 앵커용 주파수 20㎒ 폭을 신규 할당한다고 20일 발표했이다. 앵커 주파수는 28㎓에 접속하기 위해 필요한 신호 제어용이다. 정부는 경매를 통해 이 2개 대역 주파수를 전국 또는 권역 단위로 사용할 사업자를 결정한다. 전국 단위 할당은 최저 742억원부터 경매에 붙인다. 여기에 입찰자가 없으면 권역 단위로 주파수를 할당할 수도 있다. 최저 경쟁 가격은 수도권 337억원을 비롯해 동남권 105억,&nbsp;대구·경북권 81억원 등이다. 제주권의 경우 18억원으로 최저 경쟁가격이 가장 낮다.&nbsp; &nbsp; 이번 입찰에&nbsp;통신3사는 참여할 수 없다. 망 투자 소홀로 28㎓ 주파수를 회수 당한 이력 때문. 과기정통부는 이번 주파수 할당에 대해 ”통신 시장의 과점 구조를 개선하고 소비자에게 차별화된 28㎓ 서비스를 제공하기 위한 것”이라고 설명했다.&nbsp; &nbsp; &nbsp;━&nbsp; 742억으로 떨어진 주파수 &nbsp; 정부의 이번 공고는 신규 사업자의 초기 시장 진입 장벽을 낮추는 데 초점을 맞췄다. 전국 단위 주파수 값은 2018년 5G 최초 할당 시 통신3사에게 제시했던 2072억원의 3분의 1 수준. 3년 안에 구축 해야할 기지국 의무 수량도 기존 1만5000대에서 절반 이하인 6000대로 줄었다. 업계에서는 28㎓ 기지국 한 대 구축에 약 3000만원이 든다고 본다. 신규 사업자가 의무 구축에만 1800억원이 든다는 얘기다. 통신 3사의 경우 3년간 설치한 28㎓ 기지국은 총 2000여대에 그쳤다. &nbsp; 지난 1월 서울 종로구 정부서울청사에서 열린 신규사업자 진입 지원 방안 발표. 연합뉴스 &nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; 정부가 주파수 값을 떨어 뜨리고 의무 구축 부담도 줄였지만, 나서는 사업자를 찾기는 쉽지 않은 상황이다, 현재 공식적으로 28㎓ 경매에 지원하겠다는 계획을 밝힌 건 미래모바일 뿐. 알뜰폰 사업을 하거나 이음5G(특화망)를 사용하는 KB국민은행·쿠팡·신세계 등도 후보군으로 거론됐으나 입찰 참여에 소극적이다. 통신3사와 마찬가지로 28㎓ 주파수의 수익성이 떨어진다는 이유가 가장 크다. &nbsp; ① 28㎓의 주파수 한계 : 28㎓는 휴대전화 등 전용 단말이 없어 기업소비자간거래(B2C) 시장을 찾긴 힘들다. 전파 도달 거리가 짧고, 장애물에 약하다는 단점도 있다. 이 때문에 경기장, 지하철 등 인구 밀집도가 높은 핫스팟 지역에 주로 쓰인다. 통신사 관계자는 “28㎓를 스마트공장에 구축하는 등 기업간거래(B2B) 수요를 노렸으나 이 시장도 예상보다 크지 않았다”고 말했다.&nbsp; &nbsp; ② 수요-공급 미스매치 : 입찰 의사가 있는 미래모바일도 중·저대역인 2.3㎓ 주파수 경매를 원한다. 수익성 때문이다. 미래모바일은 지난 13일 ”신규 사업자가 중·저대역(2.3㎓) 주파수 없이 이통3사조차 포기한 28㎓ 대역만으로 경쟁력을 갖추고 성과를 내기는 불가능하다“고 밝혔다. 정부도 모르는 건 아니다. 다만 중·저대역을 할당하면 과거 이통3사의 실패를 반복할까 우려한다. 새 사업자가 28㎓ 대역 투자엔 소홀하고 중·저대역 기지국만 집중적으로 세울 수 있다는 의심이다. 과기정통부 관계자는 ”중·저대역 주파수 공급은 순차적으로 검토할 계획“이라고 말했다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 과기정통부는 오는 11월 20일부터 한달간 주파수 할당 신청을 받는다. 이날 이종호 과기정통부 장관은 “이번 할당 공고로 신규사업자가 진입해 통신시장의 경쟁구조를 개선할 수 있을 것으로 기대한다”며 “28㎓ 대역을 통해 차별화된 서비스를 제공하는 경쟁력 있는 신규사업자를 지속 발굴하겠다”고 말했다. 권유진 기자 kwen.yujin@joongang.co.kr
+SKT 직원들이 도서 지역에 설치된 5G 마이크로웨이브 통신 장비를 점검하는 모습. 사진 SKT &nbsp; 정부가 제4이동통신사 유치에 시동을 걸었다.SK텔레콤·KT·LG유플러스 등 3사로부터 회수한 5세대(5G) 이동통신용 28㎓ 대역 주파수를 쓸 새 얼굴을 찾는 것이다. 그러나 해당 주파수의 수요처가 마땅치 않아 새로운 사업자가 시장에서 경쟁력을 가질 수 있을지에 대한 우려도 나온다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 과학기술정보통신부는 5G 28㎓ 대역의 주파수 800㎒ 폭과, 700㎒ 대역의 앵커용 주파수 20㎒ 폭을 신규 할당한다고 20일 발표했다. 앵커 주파수는 28㎓에 접속하기 위해 필요한 신호 제어용이다. 정부는 경매를 통해 이 2개 대역 주파수를 전국 또는 권역 단위로 사용할 사업자를 결정한다. 전국 단위 할당은 최저 742억원부터 경매에 붙인다. 여기에 입찰자가 없으면 권역 단위로 주파수를 할당할 수도 있다. 최저 경쟁 가격은 수도권 337억원을 비롯해 동남권 105억,&nbsp;대구·경북권 81억원 등이다. 제주권의 경우 18억원으로 최저 경쟁가격이 가장 낮다.&nbsp; &nbsp; 이번 입찰에&nbsp;통신3사는 참여할 수 없다. 망 투자 소홀로 28㎓ 주파수를 회수 당한 이력 때문. 과기정통부는 이번 주파수 할당에 대해 ”통신 시장의 과점 구조를 개선하고 소비자에게 차별화된 28㎓ 서비스를 제공하기 위한 것”이라고 설명했다.&nbsp; &nbsp; &nbsp;━&nbsp; 742억으로 떨어진 주파수 &nbsp; 정부의 이번 공고는 신규 사업자의 초기 시장 진입 장벽을 낮추는 데 초점을 맞췄다. 전국 단위 주파수 값은 2018년 5G 최초 할당 시 통신3사에게 제시했던 2072억원의 3분의 1 수준. 3년 안에 구축 해야할 기지국 의무 수량도 기존 1만5000대에서 절반 이하인 6000대로 줄었다. 업계에서는 28㎓ 기지국 한 대 구축에 약 3000만원이 든다고 본다. 신규 사업자가 의무 구축에만 1800억원이 든다는 얘기다. 통신 3사의 경우 3년간 설치한 28㎓ 기지국은 총 2000여대에 그쳤다. &nbsp; 지난 1월 서울 종로구 정부서울청사에서 열린 신규사업자 진입 지원 방안 발표. 연합뉴스 &nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; 정부가 주파수 값을 떨어 뜨리고 의무 구축 부담도 줄였지만, 나서는 사업자를 찾기는 쉽지 않은 상황이다, 현재 공식적으로 28㎓ 경매에 지원하겠다는 계획을 밝힌 건 미래모바일 뿐. 알뜰폰 사업을 하거나 이음5G(특화망)를 사용하는 KB국민은행·쿠팡·신세계 등도 후보군으로 거론됐으나 입찰 참여에 소극적이다. 통신3사와 마찬가지로 28㎓ 주파수의 수익성이 떨어진다는 이유가 가장 크다. &nbsp; ① 28㎓의 주파수 한계 : 28㎓는 휴대전화 등 전용 단말이 없어 기업소비자간거래(B2C) 시장을 찾긴 힘들다. 전파 도달 거리가 짧고, 장애물에 약하다는 단점도 있다. 이 때문에 경기장, 지하철 등 인구 밀집도가 높은 핫스팟 지역에 주로 쓰인다. 통신사 관계자는 “28㎓를 스마트공장에 구축하는 등 기업간거래(B2B) 수요를 노렸으나 이 시장도 예상보다 크지 않았다”고 말했다.&nbsp; &nbsp; ② 수요-공급 미스매치 : 입찰 의사가 있는 미래모바일도 중·저대역인 2.3㎓ 주파수 경매를 원한다. 수익성 때문이다. 미래모바일은 지난 13일 ”신규 사업자가 중·저대역(2.3㎓) 주파수 없이 이통3사조차 포기한 28㎓ 대역만으로 경쟁력을 갖추고 성과를 내기는 불가능하다“고 밝혔다. 정부도 모르는 건 아니다. 다만 중·저대역을 할당하면 과거 이통3사의 실패를 반복할까 우려한다. 새 사업자가 28㎓ 대역 투자엔 소홀하고 중·저대역 기지국만 집중적으로 세울 수 있다는 의심이다. 과기정통부 관계자는 ”중·저대역 주파수 공급은 순차적으로 검토할 계획“이라고 말했다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 과기정통부는 오는 11월 20일부터 한달간 주파수 할당 신청을 받는다. 이날 이종호 과기정통부 장관은 “이번 할당 공고로 신규사업자가 진입해 통신시장의 경쟁구조를 개선할 수 있을 것으로 기대한다”며 “28㎓ 대역을 통해 차별화된 서비스를 제공하는 경쟁력 있는 신규사업자를 지속 발굴하겠다”고 말했다. 권유진 기자 kwen.yujin@joongang.co.kr
 </p>
 <div class="meta">
 <p class="date">2023.07.20 18:50</p>
@@ -38,13 +65,13 @@ SKT 직원들이 도서 지역에 설치된 5G 마이크로웨이브 통신 장�
         <link href="https://www.joongang.co.kr/article/25178922"/>
         <updated>2023-07-20T10:09:39.962Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25178922" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25178922" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/53fde993-ffe6-468f-8e38-4fac5cba4551.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/53fde993-ffe6-468f-8e38-4fac5cba4551.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/53fde993-ffe6-468f-8e38-4fac5cba4551.jpg/_ir_410x230_/ 2x" alt="서울대 찾은 앤드류 응 “韓 AI 모멘텀 매우 강력한 수준” " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25178922" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25178922" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 서울대 찾은 앤드류 응 “韓 AI 모멘텀 매우 강력한 수준”
 </a>
 </h2>
@@ -65,13 +92,13 @@ SKT 직원들이 도서 지역에 설치된 5G 마이크로웨이브 통신 장�
         <link href="https://www.joongang.co.kr/article/25178733"/>
         <updated>2023-07-20T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25178733" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25178733" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/18fc8a3a-eec6-40b1-88de-7119e62c5cfd.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/18fc8a3a-eec6-40b1-88de-7119e62c5cfd.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/18fc8a3a-eec6-40b1-88de-7119e62c5cfd.jpg/_ir_410x230_/ 2x" alt="34세 美공정위원장, 빅테크에 또 졌다…한국에 던진 시사점 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25178733" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25178733" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 34세 美공정위원장, 빅테크에 또 졌다…한국에 던진 시사점 [팩플]
 </a>
 </h2>
@@ -92,13 +119,13 @@ SKT 직원들이 도서 지역에 설치된 5G 마이크로웨이브 통신 장�
         <link href="https://www.joongang.co.kr/article/25178614"/>
         <updated>2023-07-19T10:09:48.123Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25178614" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25178614" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/dbd88f8b-af6a-4206-8b52-a1b8c873d3a6.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/dbd88f8b-af6a-4206-8b52-a1b8c873d3a6.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/dbd88f8b-af6a-4206-8b52-a1b8c873d3a6.jpg/_ir_410x230_/ 2x" alt="[팩플] “오픈AI 사랑하지만, 메타도…” B2B 황제 MS의 AI 다자전략" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25178614" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25178614" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] “오픈AI 사랑하지만, 메타도…” B2B 황제 MS의 AI 다자전략
 </a>
 </h2>
@@ -119,13 +146,13 @@ MS 인스파이어 2023에서 사티아 나델라 CEO가 기조연설을 하고 
         <link href="https://www.joongang.co.kr/article/25178588"/>
         <updated>2023-07-19T09:09:16.602Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25178588" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25178588" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/4ac31143-8c3d-4de0-820d-12f4c6ad2177.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/4ac31143-8c3d-4de0-820d-12f4c6ad2177.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/4ac31143-8c3d-4de0-820d-12f4c6ad2177.jpg/_ir_410x230_/ 2x" alt="“ICBM 30회 쏠 암호화폐 빼내는 北 해커들”...韓기업 위장 취업 시도도" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25178588" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25178588" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 “ICBM 30회 쏠 암호화폐 빼내는 北 해커들”...韓기업 위장 취업 시도도
 </a>
 </h2>
@@ -146,13 +173,13 @@ MS 인스파이어 2023에서 사티아 나델라 CEO가 기조연설을 하고 
         <link href="https://www.joongang.co.kr/article/25178559"/>
         <updated>2023-07-19T20:09:42.051Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25178559" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25178559" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/9c271f1c-157e-4487-8d32-1443406ea066.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/9c271f1c-157e-4487-8d32-1443406ea066.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/20/9c271f1c-157e-4487-8d32-1443406ea066.jpg/_ir_410x230_/ 2x" alt="“AI반도체의 테슬라는 우리” 엔비디아도 놀란 韓스타트업" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25178559" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25178559" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 “AI반도체의 테슬라는 우리” 엔비디아도 놀란 韓스타트업
 </a>
 <strong class="badge_plus"><span class="visually_hidden">유료 전용</span></strong>
@@ -174,13 +201,13 @@ MS 인스파이어 2023에서 사티아 나델라 CEO가 기조연설을 하고 
         <link href="https://www.joongang.co.kr/article/25178431"/>
         <updated>2023-07-19T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25178431" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25178431" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/1e5ed34c-5473-44e4-b458-194e15cd0ecd.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/1e5ed34c-5473-44e4-b458-194e15cd0ecd.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/19/1e5ed34c-5473-44e4-b458-194e15cd0ecd.jpg/_ir_410x230_/ 2x" alt="이해진 '의료 사랑'…서울대병원 콕집어 300억 기부한 이유 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25178431" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25178431" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 이해진 '의료 사랑'…서울대병원 콕집어 300억 기부한 이유 [팩플]
 </a>
 </h2>
@@ -201,13 +228,13 @@ MS 인스파이어 2023에서 사티아 나델라 CEO가 기조연설을 하고 
         <link href="https://www.joongang.co.kr/article/25178279"/>
         <updated>2023-07-18T09:09:40.359Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25178279" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25178279" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/18/20d9e327-c148-47c3-b3dd-df599fc9bd41.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/18/20d9e327-c148-47c3-b3dd-df599fc9bd41.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/18/20d9e327-c148-47c3-b3dd-df599fc9bd41.jpg/_ir_410x230_/ 2x" alt="&quot;텔레그램 계정 재인증 필요&quot;…이 링크 클릭하면, 해킹당한다 [팩플] " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25178279" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25178279" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 "텔레그램 계정 재인증 필요"…이 링크 클릭하면, 해킹당한다 [팩플]
 </a>
 </h2>
@@ -228,13 +255,13 @@ MS 인스파이어 2023에서 사티아 나델라 CEO가 기조연설을 하고 
         <link href="https://www.joongang.co.kr/article/25177166"/>
         <updated>2023-07-13T10:11:10.868Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25177166" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25177166" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/13/d2212072-5fca-4dd6-95ea-5c6544259b24.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/13/d2212072-5fca-4dd6-95ea-5c6544259b24.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/13/d2212072-5fca-4dd6-95ea-5c6544259b24.jpg/_ir_410x230_/ 2x" alt="[팩플] 30여명 몰린 KT 대표 공모…지원자 명단은 비공개" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25177166" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25177166" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] 30여명 몰린 KT 대표 공모…지원자 명단은 비공개
 </a>
 </h2>
@@ -255,13 +282,13 @@ MS 인스파이어 2023에서 사티아 나델라 CEO가 기조연설을 하고 
         <link href="https://www.joongang.co.kr/article/25177142"/>
         <updated>2023-07-14T02:28:15.481Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25177142" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25177142" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/14/05e3ba8b-45d7-45ce-8e43-415967f82f02.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/14/05e3ba8b-45d7-45ce-8e43-415967f82f02.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/14/05e3ba8b-45d7-45ce-8e43-415967f82f02.jpg/_ir_410x230_/ 2x" alt="[팩플] 머스크도, 메타도 뛰어드는 생성 AI 전쟁...구글은 韓 시장에 '러브콜'" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25177142" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25177142" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] 머스크도, 메타도 뛰어드는 생성 AI 전쟁...구글은 韓 시장에 '러브콜'
 </a>
 </h2>
@@ -282,13 +309,13 @@ MS 인스파이어 2023에서 사티아 나델라 CEO가 기조연설을 하고 
         <link href="https://www.joongang.co.kr/article/25176861"/>
         <updated>2023-07-12T10:10:41.476Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25176861" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25176861" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/221ea235-f00a-4369-aca3-fef888a0dddc.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/221ea235-f00a-4369-aca3-fef888a0dddc.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/221ea235-f00a-4369-aca3-fef888a0dddc.jpg/_ir_410x230_/ 2x" alt="개인정보 30만건 유출된 LGU+, 과징금 68억원…국내 기업 중 최대" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25176861" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25176861" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 개인정보 30만건 유출된 LGU+, 과징금 68억원…국내 기업 중 최대
 </a>
 </h2>
@@ -309,13 +336,13 @@ MS 인스파이어 2023에서 사티아 나델라 CEO가 기조연설을 하고 
         <link href="https://www.joongang.co.kr/article/25176842"/>
         <updated>2023-07-12T20:10:50.652Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25176842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25176842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/13/2cbd20db-4f39-4560-b862-63ced35f4390.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/13/2cbd20db-4f39-4560-b862-63ced35f4390.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/13/2cbd20db-4f39-4560-b862-63ced35f4390.jpg/_ir_410x230_/ 2x" alt="4만 원이면 ‘AI 용병’ 만들어준다…몸값 49조 데이터브릭스" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25176842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25176842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 4만 원이면 ‘AI 용병’ 만들어준다…몸값 49조 데이터브릭스
 </a>
 <strong class="badge_plus"><span class="visually_hidden">유료 전용</span></strong>
@@ -337,13 +364,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25176797"/>
         <updated>2023-07-12T07:10:27.434Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25176797" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25176797" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/0b942272-b9db-46e2-8802-2f9f60246e76.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/0b942272-b9db-46e2-8802-2f9f60246e76.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/0b942272-b9db-46e2-8802-2f9f60246e76.jpg/_ir_410x230_/ 2x" alt="[팩플] 美 고비 넘긴 MS·블리자드 ‘세기의 빅딜’, 남은 건 영국" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25176797" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25176797" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] 美 고비 넘긴 MS·블리자드 ‘세기의 빅딜’, 남은 건 영국
 </a>
 </h2>
@@ -364,13 +391,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25176377"/>
         <updated>2023-07-11T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25176377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25176377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/78e7861a-fdf8-42c7-9d94-245879cf842e.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/78e7861a-fdf8-42c7-9d94-245879cf842e.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/12/78e7861a-fdf8-42c7-9d94-245879cf842e.jpg/_ir_410x230_/ 2x" alt="딱 103시간 걸렸다…스레드 1억명 가입에, 열받은 머스크 도발 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25176377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25176377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 딱 103시간 걸렸다…스레드 1억명 가입에, 열받은 머스크 도발 [팩플]
 </a>
 </h2>
@@ -391,13 +418,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25176047"/>
         <updated>2023-07-10T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25176047" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25176047" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/10/b215365e-732f-410c-aa32-270f0d86dbdf.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/10/b215365e-732f-410c-aa32-270f0d86dbdf.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/10/b215365e-732f-410c-aa32-270f0d86dbdf.jpg/_ir_410x230_/ 2x" alt="'만년 1위' AWS 흔들기 시작됐다…빅테크 진짜 전쟁터는 여기 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25176047" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25176047" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 '만년 1위' AWS 흔들기 시작됐다…빅테크 진짜 전쟁터는 여기 [팩플]
 </a>
 </h2>
@@ -418,13 +445,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25175691"/>
         <updated>2023-07-07T09:10:20.512Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25175691" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25175691" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/f8687dab-a885-43cc-b25e-963125448a9d.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/f8687dab-a885-43cc-b25e-963125448a9d.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/f8687dab-a885-43cc-b25e-963125448a9d.jpg/_ir_410x230_/ 2x" alt="스레드 “하루 5000만 돌파”에 트위터 발끈, 그러나 광고주는… [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25175691" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25175691" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 스레드 “하루 5000만 돌파”에 트위터 발끈, 그러나 광고주는… [팩플]
 </a>
 </h2>
@@ -445,13 +472,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25175680"/>
         <updated>2023-07-07T08:13:14.990Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25175680" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25175680" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/7414cff8-1d2d-4fb2-ad58-6fd11cf5c2a3.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/7414cff8-1d2d-4fb2-ad58-6fd11cf5c2a3.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/7414cff8-1d2d-4fb2-ad58-6fd11cf5c2a3.jpg/_ir_410x230_/ 2x" alt="흙수저 창업신화 13년…김봉진, 배민 이어 DH도 떠난다 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25175680" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25175680" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 흙수저 창업신화 13년…김봉진, 배민 이어 DH도 떠난다 [팩플]
 </a>
 </h2>
@@ -472,13 +499,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25175411"/>
         <updated>2023-07-06T09:12:18.105Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25175411" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25175411" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/d88b0344-9124-4c2e-884b-1eb0bc81d20c.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/d88b0344-9124-4c2e-884b-1eb0bc81d20c.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/d88b0344-9124-4c2e-884b-1eb0bc81d20c.jpg/_ir_410x230_/ 2x" alt="정부 &quot;알뜰폰 키운다, 5G 요금 내린다&quot;…통신비 얼마나 낮아질까 [팩플] " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25175411" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25175411" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 정부 "알뜰폰 키운다, 5G 요금 내린다"…통신비 얼마나 낮아질까 [팩플]
 </a>
 </h2>
@@ -499,13 +526,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25175395"/>
         <updated>2023-07-06T08:13:52.814Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25175395" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25175395" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/06fa331c-58b0-410f-aec8-7027f3a97fa6.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/06fa331c-58b0-410f-aec8-7027f3a97fa6.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/07/06fa331c-58b0-410f-aec8-7027f3a97fa6.jpg/_ir_410x230_/ 2x" alt="머스크의 트위터 겨눴다…저커버그가 내놓은 새 SNS '스레드' [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25175395" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25175395" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 머스크의 트위터 겨눴다…저커버그가 내놓은 새 SNS '스레드' [팩플]
 </a>
 </h2>
@@ -526,13 +553,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25175239"/>
         <updated>2023-07-06T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25175239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25175239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/06/3a432b20-e53d-4044-9694-b4381ef43595.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/06/3a432b20-e53d-4044-9694-b4381ef43595.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/06/3a432b20-e53d-4044-9694-b4381ef43595.jpg/_ir_410x230_/ 2x" alt="동네샵 예약 한 발 뺀 카카오…'만년 적자' 당근마켓이 나섰다 왜 [팩플]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25175239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25175239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 동네샵 예약 한 발 뺀 카카오…'만년 적자' 당근마켓이 나섰다 왜 [팩플]
 </a>
 </h2>
@@ -553,13 +580,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25174624"/>
         <updated>2023-07-04T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25174624" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25174624" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/04/7e0ca074-e12d-4d89-a6f4-d5400b035b09.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/04/7e0ca074-e12d-4d89-a6f4-d5400b035b09.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/04/7e0ca074-e12d-4d89-a6f4-d5400b035b09.jpg/_ir_410x230_/ 2x" alt="&quot;보수언론 노출 많다&quot; 급변경…논란 키운 네이버뉴스 알고리즘 [현장에서]" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25174624" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25174624" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 "보수언론 노출 많다" 급변경…논란 키운 네이버뉴스 알고리즘 [현장에서]
 </a>
 </h2>
@@ -580,13 +607,13 @@ Today’s Interview“모든 기업의 CEO는 AI·데이터 리더여야”알�
         <link href="https://www.joongang.co.kr/article/25174479"/>
         <updated>2023-07-03T20:11:03.741Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25174479" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25174479" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/04/11a5d308-6090-4039-a5ce-6c726148b154.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/04/11a5d308-6090-4039-a5ce-6c726148b154.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/04/11a5d308-6090-4039-a5ce-6c726148b154.jpg/_ir_410x230_/ 2x" alt="달러 환전 왜 합니까, 귀찮게…200만 택한 ‘수수료 0원’ 카드" width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25174479" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25174479" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 달러 환전 왜 합니까, 귀찮게…200만 택한 ‘수수료 0원’ 카드
 </a>
 <strong class="badge_plus"><span class="visually_hidden">유료 전용</span></strong>
@@ -608,13 +635,13 @@ Today’s topic 여름 휴가 떠나기 전 알아야 할 필수 앱&amp;팁 A t
         <link href="https://www.joongang.co.kr/article/25174437"/>
         <updated>2023-07-03T08:18:25.518Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25174437" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25174437" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/625167ce-14b8-4334-b540-36e693adec93.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/625167ce-14b8-4334-b540-36e693adec93.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/625167ce-14b8-4334-b540-36e693adec93.jpg/_ir_410x230_/ 2x" alt="LG유플러스-카카오모빌리티, 새 먹거리 ‘전기차충전 사업’ 같이 키운다 " width="205" height="115">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25174437" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25174437" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 LG유플러스-카카오모빌리티, 새 먹거리 ‘전기차충전 사업’ 같이 키운다
 </a>
 </h2>
@@ -624,33 +651,6 @@ LG유플러스-카카오모빌리티, 새 먹거리 ‘전기차충전 사업’
 <div class="meta">
 <p class="date">2023.07.03 16:18</p>
 <button type="button" class="btn_bookmark" data-cid="25174437" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 몸값 3조 달러, 애플…미래는 아이폰‧비전프로‧애플카?]]></title>
-        <id>https://www.joongang.co.kr/article/25174333</id>
-        <link href="https://www.joongang.co.kr/article/25174333"/>
-        <updated>2023-07-03T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25174333" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/6ae703e8-e3a9-4c60-a0e8-3e7db4ba45c7.jpg/_ir_205x115_/" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/6ae703e8-e3a9-4c60-a0e8-3e7db4ba45c7.jpg/_ir_205x115_/ 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202307/03/6ae703e8-e3a9-4c60-a0e8-3e7db4ba45c7.jpg/_ir_410x230_/ 2x" alt="[팩플] 몸값 3조 달러, 애플…미래는 아이폰‧비전프로‧애플카?" width="205" height="115">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25174333" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 몸값 3조 달러, 애플…미래는 아이폰‧비전프로‧애플카?
-</a>
-</h2>
-<p class="description">
-세계 시가총액 1위 기업인 애플이 종가 기준으로 시가총액 3조 달러(약 3950조원)를 처음 돌파했다. 탄탄한 기술 생태계와 향후 출시할 새로운 카테고리 제품을 무기로 애플이 4조 달러의 벽도 넘길 수 있을지 관심이 모이고 있다. AP=연합뉴스 &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 나스닥 상장사인 애플 주가는 지난달 30일(현지시간) 전일 대비 2.31% 상승한 193.97달러에 거래를 마쳤다. 시총은 3조500억달러(약 4022조원)를 기록했다.&nbsp;세계에서 유일하게 3조 달러를 돌파한 기업에 올랐다. 1976년 스티브 잡스와 스티브 워즈니악 등이 애플을 공동 창업한 지 47년만이다.&nbsp; &nbsp; 애플이 장중 3조 달러를 넘긴 적은 몇 차례 있었지만, 종가 기준으로는 이날이 처음이다. 국내 코스피 상장사인 삼성전자 시총(431조원)의 9배 규모이고. 세계 시총 2위인 마이크로소프트(MS, 2조5320억 달러)보다 20% 가량 더 크다. 지난해 국내총생산(GDP) 세계 6위인 영국(3조700억 달러)와 맞먹는 규모.&nbsp; &nbsp; 앞서 애플은 2018년 8월에 시총 1조 달러를 넘어섰고, 2020년 8월에는 2조 달러를 돌파한 바 있다. 비라일리 웰스의 아트 호건 수석 시장전략가는 “애플은 계속 성장하면서 매출 구조를 다각화하고 있고, 주주 친화적인 경영진을 보유해 자사주를 매각하고 배당을 하고 있다”며 “단단한 재무 구조와 함께 강력한 현금 흐름을 유지하고 있다”고 분석했다. 정근영 디자이너 &nbsp; &nbsp;━&nbsp; 3조 달러의 비결은 &nbsp; 하드웨어와 소프트웨어 아우르는 생태계는 애플의 핵심 무기로 꼽힌다.&nbsp;아이폰이라는 하드웨어가 모바일 운영체제 iOS를 중심으로 하는 소프트웨어(앱) 생태계와 결합해 애플의 성장 엔진이 됐다. 앱 스토어를 통해 누구나 앱을 개발하고 배포할 수 있는 시장을 열어줬고, 소비자에겐 아이폰, 맥북부터 애플워치, 애플페이를 모두 클라우드로 연결해 쓸 수 있는 호환성을 제공했다. 애플이 지난 6월 공개한 MR(혼합현실) 헤드셋 기기‘비전프로’도 이같은 애플식 생태계 전략을 따를 것이란 분석이 나오면서 애플 주가 상승 동력이 됐다. 전용 운영체제인 비전OS를 중심으로 생태계 장악을 노리고 있다. &nbsp; 애플은 또 반도체를 직접 설계하며 인텔·퀄컴 등에 대한 의존도를 꾸준히 낮춰왔다. 2020년 자체 설계한 칩 M1을 공개했고, 지난달 6일 열린 연례 세계개발자회의(WWDC)에서는 ‘M2 울트라’를 선보였다. MR 헤드셋 비전프로에는 새로 개발한 반도체 R1을 탑재하기도 했다. 오는 2025년까지 퀄컴과 브로드컴에서 공급받던 반도체를 자체 칩으로 대체한다는 계획이다. 반도체까지 직접 만들며 생태계 독립을 추구한 애플의 영업이익률은 30%다.&nbsp; 정근영 디자이너 &nbsp; &nbsp;━&nbsp; 4조 달러의 조건은 &nbsp; ① 아이폰 신화, 계속될까: 애플의 대표 먹거리인 아이폰의 실적에 따라 3조 달러 기록이 좌우될 가능성이 크다. 전망은 다소 엇갈린다. UBS는 지난달 13일 아이폰 주력 시장인 미국, 중국, 유럽의 수요가 줄어든 것으로 집계돼 수요 둔화가 예상된다며 애플에 대한 투자 의견을 매수에서 중립으로 하향했다. 반면 대니얼 아이브스 웨드부시증권 애널리스트는 지난달 30일 CNBC와의 인터뷰에서 “지난 4년간 기기교체를 하지 않은 아이폰 사용자의 4분의 1이 기기를 교체할 것으로 예상되며, 아이폰15 출시 이후 ‘작은 슈퍼 사이클’을 기록할 것”이라고 긍정적으로 전망했다. 애플은 오는 9월 아이폰15 시리즈를 출시할 예정이다. &nbsp; ② 비전프로, 성공할까: 지난달 애플이 공개한&nbsp;비전프로의 정식 출시 시점은 내년 초. 애플이 이 기기로 MR 헤드셋 시장을 키우고 장악한다면 주가 상승 여력이 더 커질 수 있다는 기대감이 크다. 문제는 고가의 가격(3499달러, 약 447만원). 애플은 비전프로의 저가 보급형 모델 개발도 시작한 것으로 알려졌다. &nbsp; ③‘비밀병기’ 애플카: 아직 드러나지 않은 애플의 ‘원 모어 씽(one more thing)’은 애플카(가칭)다. 애플은 2026년 출시 목표로 자율주행차를 개발하고 있다. 모바일 시장을 주도한 애플의 모빌리티 도전은 이 회사의 향후 10년을 결정할 변수로 꼽히지만, 지지부진한 속도 때문에 의구심도 커지고 있다. 지난해 12월 블룸버그 보도에 따르면, 당초 애플은 운전대도 페달도 없는 ‘완전 자율주행차’ 개발을 노렸다가 현재는 운전대·페달이 있고 고속도로에서만 자율주행이 가능한 차를 개발하는 쪽으로 방향을 바궜다고 한다. 역시 다른 애플 기기처럼 애플 생태계에 통합될 것으로 예상된다. 김남영 기자 kim.namyoung3@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.07.03 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25174333" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
