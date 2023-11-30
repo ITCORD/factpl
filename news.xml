@@ -2,27 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2023-11-30T09:10:38.195Z</updated>
+    <updated>2023-11-30T10:11:29.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 남들이 만든 AI도 다 끌어오는 AWS의 AI 플랫폼 전략]]></title>
+        <id>https://www.joongang.co.kr/article/25211460</id>
+        <link href="https://www.joongang.co.kr/article/25211460"/>
+        <updated>2023-11-30T10:10:47.660Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25211460" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/30/778c12ad-4025-4ad5-b5da-d7c83f02de76.jpg/_ir_410x230_/" alt="[팩플] 남들이 만든 AI도 다 끌어오는 AWS의 AI 플랫폼 전략">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25211460" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] 남들이 만든 AI도 다 끌어오는 AWS의 AI 플랫폼 전략
+</a>
+</h2>
+<p class="description">
+타이탄 파운데이션 모델의 업데이트 기능. 라스베이거스(미국) 권유진 기자 &nbsp; 글로벌 1위 클라우드 제공사인 아마존웹서비스(AWS)가 인공지능(AI) 플랫폼 전략을 강화하고 있다. 직접 개발한 AI 모델 ‘타이탄’ 외에 구글·마이크로소프트 등 타사의 AI 모델들도 끌어안았다. 빅테크의 AI 모델을 쓰려는 수요층을 AWS가 모두 흡수하겠다는 플랫폼 전략이다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 스와미 시바수브라마니안 AWS 데이터 및 AI 부문 부사장은 29일(현지시간) 미국 네바다주 라스베이거스에서 열린 연례 컨퍼런스 리인벤트(re:Invent)에서 AWS의 AI 플랫폼 ‘베드록’의 최신 업데이트 내용을 대거 발표했다. 베드록은 AWS가 자체 개발한 거대언어모델(LLM) 타이탄을 비롯해 메타의 라마2, 앤트로픽의 클로드2 등 여러 종류의 생성 AI 파운데이션 모델로 기업들이 맞춤형 AI 서비스를 개발할 수 있도록 지원하는 ‘AI 모델 개발 플랫폼’이다.&nbsp; &nbsp; AWS가 내놓은 AI 전략의 핵심은 ‘기업이 자기 데이터만 잘 갖고 있으면, AI와 접목할 수 있도록 AWS가 어떻게 해서든 도와주겠다’는 것. 베드록이 지원하는 AI 모델의 성능을 업그레이드하고, 파인튜닝(미세조정)의 장벽을 낮춤으로써 더 많은 기업이 더 빠르게 AI를 쓸 수 있게 하겠다는 전략이다. 직접 LLM을 개발하는 일부 빅테크 기업을 제외하고는 다수 기업은 기존 AI 모델에 자사가 보유한 데이터를 넣어 맞춤형 학습을 시키는 파인튜닝 방식을 택한다. &nbsp; &nbsp; 스와미 시바수브라마니안 AWS 데이터 및 AI 부문 부사장이 29일(현지시간) 리인벤트에서 키노트를 진행하고 있다. 사진 AWS &nbsp;━&nbsp; 뭐가 달라졌어? &nbsp; ① 멀티모달 장착한 타이탄 AWS는 이날 ‘타이탄 멀티모달 임베딩’(embedding, 자연어나 이미지 등을 머신러닝이 학습할 수 있는 단위로 바꾸는 것)을 출시했다. 베드록의 고객사들은 자사의 서비스에 멀티모달 기능을 추가할 수 있다. 예를 들어, 가구 판매사는 운영 중이던 온라인 서비스에 이미지 검색 기능을 추가할 수 있다. ‘선택한 쇼파와 잘 어울릴 만한 가구를 추천해줘’라고 텍스트로 입력한 후 쇼파 사진을 같이 입력하면, AI가 이를 동시에 이해하고 적절한 추천 목록을 제시한다. 스와미 부사장은 “멀티모달을 구현하기 위해 개발자들이 여러 모델을 직접 결합했을 땐 개발 시간이 오래 걸리고, 모델의 효율성도 떨어졌는데 이제는 쉽게 해결할 수 있게 됐다”고 말했다. &nbsp; 자연어 프롬프트(명령어)를 사용해 이미지를 편집할 수 있는 ‘타이탄 이미지 생성기’도 이날 공개했다. 이미지 속 배경만 교체하거나 새로운 물체를 추가할 수 있는 기능이다. “해변가에 서핑 보트를 넣어줘”라고 입력하면 없던 서프보드가 이미지에 추가된다. 기능만 놓고 보면 어도비의 ‘생성형 채우기’와 유사하다. AWS는 타이탄이 생성한 이미지에 워터마크가 삽입된다고도 했다. 지난 10월 미국 정부가 AI 생성 자료에 워터마크를 부착하도록 하는 지침을 내린 데 따른 것. &nbsp; ② 데이터 관리도 AI가 한다 AWS는 데이터를 AI 모델이 이해할 수 있게 저장하고 검색하는 기능도 강화했다. AI가 알맞은 데이터를 검색하고 답변하는 시간도 빨라진다. 스와미 부사장은 생성 AI와 데이터, 인간의 공존을 강조했다. 데이터 경쟁력이 곧 AI의 경쟁력이라는 것. 스와미 부사장은 “데이터가 AI의 원동력인 건 분명하지만 진정한 공생이 되려면, 데이터 활용을 AI가 도울 수 있어야 한다”고 말했다. &nbsp; &nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; AWS의 AI 전략이 공개될수록 구글ㆍMS의 AI 전략과 차이점이 선명하게 드러나고 있다. 구글·MS에 비해 AWS는 자체 개발한&nbsp;LLM의 파급효과보단 모든 LLM을 아우르는 플랫폼 역할에 비중을 두고 있다. “하나의 AI 모델을 모든 필요한 곳에 쓸 수는 없다”며 다종 다양한 LLM에 대한 선택권을 강조한다. 스와미 부사장은 이날 “엔트로픽의 클로드2 보다 업그레이드 된 클로드2.1, 라마2 70B(700억 개 파라미터)를 새롭게 베드록에 추가한다”고 공개했다. 고개들이 필요에 맞는 LLM을 골라서 응용할 수 있도록, LLM을 기업이 직접 파인튜닝할 수 있는 기능도 베드록에서 지원된다.&nbsp; &nbsp; &nbsp;━&nbsp; 더 알면 좋을 것 &nbsp; &nbsp; AWS는 산업별 클라우드 사업에도 힘을 주고 있다. 그중에서도 자동차 산업 등 제조업은 핵심 영역이다. 이날 리인벤트 현장에서 만난 웬디 바우어 AWS 자동차&amp;제조 부문 부사장은 중앙일보에 “자동차와 제조는 AWS가 정말 깊이 있게 집중하는 영역”이라고 소개했다. 예를 들어, 차량 데이터를 클라우드와 연동한 ‘AWS IoT 플릿와이즈(FleetWise)’ 기능은 실시간으로 차량에서 어떤 일이 일어나는지 클라우드가 데이터를 수집해 차량 품질 관리를 지원한다. &nbsp; 바우어 부사장은 생성AI가 자동차 시장에도 빠르게 침투하고 있다고 분석했다. 그는 “복잡했던 차량용 소프트웨어 개발 시간이 빨라지고 있다”며 “전체 생산 라인에서 공정이 어떻게 진행되는지 파악하기 어려운 문서 작성 등에도 생성 AI가 많이 활용되고 있다”고 말했다. 관련기사 "우리 생성 AI는 비즈니스에 바로 쓴다" AWS 대공세 시작됐다 [팩플]라스베이거스(미국)=권유진 기자 kwen.yujin@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.11.30 18:34</p>
+<button type="button" class="btn_bookmark" data-cid="25211460" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 배민 전 대표, 네이버로 간다]]></title>
+        <id>https://www.joongang.co.kr/article/25211459</id>
+        <link href="https://www.joongang.co.kr/article/25211459"/>
+        <updated>2023-11-30T10:10:47.662Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25211459" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/30/5c8424c4-cbe8-4967-855b-571f53e258b9.jpg/_ir_410x230_/" alt="[팩플] 배민 전 대표, 네이버로 간다">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25211459" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+[팩플] 배민 전 대표, 네이버로 간다
+</a>
+</h2>
+<p class="description">
+네이버는 30일 김범준 전 우아한형제들 대표를 네이버 최고운영책임자(COO, Chief Operating Officer)로 영입한다고 밝혔다. 사진 네이버 네이버가 김범준 우아한형제들 전 대표를 최고운영책임자(COO)로 영입한다고 30일 밝혔다. 네이버 측은 개발 능력과 경영 능력을 모두 갖춘 김 전 대표의 능력이 네이버의 인공지능(AI) 기술 개발 등 다양한 사업 확장에 필요하다고 판단한 것으로 보인다. &nbsp; &nbsp;━&nbsp; 네이버는 왜 ‘배민’ 대표를? &nbsp; 네이버가 본사의 최고경영자(CEO), 최고기술책임자(CTO) 등 ‘C 레벨’급 경영진을 외부에서 곧바로 영입한 건 이례적이다. 더욱이 김 전 대표가 내정된 COO 직책은 2년간 공석이었다. 전임자는 2021년 네이버 내 직장 내 괴롭힘으로 직원이 사망한 사건에 도의적 책임을 지고 물러난 최인혁 네이버파이낸셜 대표였다. 해당 사건 이후 네이버는 C 레벨 임원에게 권한을 집중하는 ‘CXO 체제’에서 벗어나 책임을 여러 임원에게 분산하는 경영 방식을 유지해왔다. 이날 기준 창업자인 이해진 글로벌투자책임자(GIO)를 제외한 네이버의 C 레벨 임원은 최수연 CEO와 김남선 최고재무책임자(CFO) 두 명뿐이다. &nbsp; 김 전 대표는 IT업계에서 기술과 경영에 모두 밝은 경영자라는 평가를 받아왔다. 2015년 우아한형제들 CTO를 맡았고 독일계 딜리버리히어로가 회사를 인수한 직후인 2020년부터 2년간 CEO를 맡아 회사의 성장을 이끌었다. 업계 안팎에서는 그를 두고 “개발자 출신으로는 드물게 경영 능력과 소통 능력을 두루 갖춘 인물”이라는 평가를 한다. &nbsp; 네이버 관계자는 “김범준 전 대표를 영입한 건 특정 사업이나 역할보다는 기술 전문성과 경영 능력을 고루 갖춘 장점이 많은 인재라 향후 기여하는 바가 클 것이라는 판단 때문”이라고 설명했다. &nbsp; 김 전 대표도 이날 자신의 페이스북에 네이버에 내년부터 일하기로 했다며 COO 내정 사실을 확인했다. 그는 “네이버가 20년이 넘도록 글로벌 시장에 도전하는 꾸준한 진정성이 멋있었다”라며 “네이버에서는 특정 프로젝트가 아니라 전사 차원에서 변화를 만들어야 하는 도전이 처음부터 주어진다는 점이 새로웠다”고 합류 배경을 밝혔다. &nbsp; &nbsp;━&nbsp; 무슨 역할을 맡나 &nbsp; 네이버 측은 김 전 대표의 역할에 대해선 “입사 후에 역할이 구체화할 것”이며 말을 아꼈다. 올해 연말 인사이동과 조직개편 등과 맞물려 수행할 역할 등이 달라질 수 있다는 설명이다. 다만, 마이크로소프트와 오픈 AI, 구글 등 글로벌 빅 테크에 맞서 지난 8월 공개한 자체 거대규모언어모델(LLM) 하이퍼클로바X 기술을 활용한 사업화에 속도를 내야 하는 등 과제가 쌓여 있다. 김 전 대표 이력 상 이를 포함한 기술 사업 전반에 관여할 가능성이 크다는 전망이 나온다. &nbsp; 윤상언 기자 youn.sangun@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.11.30 18:31</p>
+<button type="button" class="btn_bookmark" data-cid="25211459" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 카카오 폭로전 점입가경…홍은택 "조사단 꾸려 감사"]]></title>
         <id>https://www.joongang.co.kr/article/25211448</id>
         <link href="https://www.joongang.co.kr/article/25211448"/>
         <updated>2023-11-30T09:09:57.064Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25211448" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/30/06ff3cf0-3423-4769-b49a-1244aed6dfbf.jpg/_ir_410x230_/" alt="[팩플] 카카오 폭로전 점입가경…홍은택 &quot;조사단 꾸려 감사&quot;">
+<a href="https://www.joongang.co.kr/article/25211448" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/30/ea029de2-dd9c-4da0-98bc-6b0ef3500efb.jpg/_ir_410x230_/" alt="[팩플] 카카오 폭로전 점입가경…홍은택 &quot;조사단 꾸려 감사&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25211448" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25211448" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] 카카오 폭로전 점입가경…홍은택 "조사단 꾸려 감사"
 </a>
 </h2>
 <p class="description">
-‘경영 쇄신’을 앞세운 카카오가 내부 폭로전으로 내홍을 겪고 있다. 김정호 카카오 CA협의체 경영지원총괄이 자신의 SNS를 통해 사내 각종 경영 비위 의혹을 폭로한 가운데, 카카오 임직원들이 반박에 나서면서 진실 공방전이 되어가고 있다. &nbsp; 김정호 카카오 CA협의체 경영지원총괄. 사진 브라이언임팩트재단 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 카카오 부동산 개발을 총괄하는 자산개발실 소속 오지훈 부사장과 직원 11명은 지난 29일 카카오 내부망에 장문의 공동 입장문을 올렸다. 안산 데이터센터와 서울아레나 시공사 선정은 문제 없이 이뤄졌다는 내용이다. 오 부사장은 제주도 JDC 유휴 부지 개발 과정도 배재현 투자총괄대표 등 경영진 결재를 모두 거쳐 진행한 사안이라며 관련 결재 서류도 공개했다. &nbsp; 오 부사장 등의 입장문은 김 총괄의 기존 주장을 정면 반박하는 내용이다. 앞서 김 총괄은 지난 28일부터 자신의 페이스북에 “데이터센터, 공연장 등 부동산 개발프로젝트에 대한 비리 제보가 이어지고 있다”고 주장했다. 또 제주도 본사 유휴 부지 개발 과정에서도 외부 업체 선정에 절차상 문제가 있었다고 지적했다.&nbsp; &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 김범수 카카오 경영쇄신위원장. 사진 카카오 경영 쇄신을 선언한 카카오가 내부 진흙탕 싸움으로 혼란에 빠졌다. 카카오는 SM엔터테인먼트 시세조종 의혹으로 김범수 창업자를 비롯한 주요 경영진이 금융당국과 검찰 조사 대상에 오르며 창사 이래 최대 위기에 처해 있다. 윤석열 대통령이 카카오모빌리티의 플랫폼 수수료 사업을 독점 기업의 부도덕이라 질타해 핵심 계열사의 앞날도 밝지 않다. 사면초가에 빠진 카카오는 외부 감시기구로 ‘준법과 신뢰위원회’(준신위)를 출범했고, 김 창업자가 직접 ‘경영쇄신위원회’(경쇄위)를 이끌겠다며 경영 일선에 복귀하기도 했다. 이런 상황에서 지난 9월 영입된 김 창업자의 30년 지기 소방수인 김정호 총괄이 SNS에 내부 비리 의혹을 폭로한 것. 경영 쇄신보단 내부 알력 다툼을 SNS로 중계하는 상황이 됐다. &nbsp; 카카오 내부도 최근 논란에 대해 ‘(김 총괄이) 쇄신 작업에 앞장서고 있다’며 지지하는 쪽과 ‘잘 모르고 내부 총질로 더 문제를 키우고 있다’며 김 총괄에 부정적인 세력으로 갈라진 상태다. &nbsp; &nbsp;━&nbsp; 수습 나선 카카오 &nbsp; 홍은택 카카오 대표이사가 지난 13일 오전 경기 성남에 위치한 카카오모빌리티 본사에서 3차 공동체 비상경영회의에 참석하기 위해 이동하고 있다. 뉴스1 논란이 커지자 카카오 본사도 수습에 나섰다. 30일 오후 홍은택 대표이사는 직원들만 접속하는 사내망에 입장문을 올렸다. 그는 “안산 데이터센터와 서울 아레나, 제주 ESG 센터 등의 건설과정 그리고 브랜든(김 총괄의 영어이름)이 제기한 다른 의혹에 대해서도 공동체 준법경영실과 법무법인을 중심으로 조사단을 꾸려서 감사에 착수했다”며&nbsp;“골프장 회원권과 관련해서는 이미 매각 절차에 들어갔고, 환수한 자금은 휴양시설 확충 등 크루(직원)들의 복지를 늘리는 데 사용할 계획이다”고 설명했다. “대외협력비의 문제는 이미 개선안을 마련해 시행에 들어갔다”고도 덧붙였다. &nbsp; 홍 대표는 김 총괄이 임원들에게 폭언을 했다는 의혹도 정식 조사하겠다고 밝혔다. 그는 “논란이 되고 있는 사안에 대해서는 공정성과 객관성을 위해 외부 법무법인에 조사 의뢰할 것을 윤리위에서 건의해 와서 수용했으며, 외부 기관들의 조사 결과를 바탕으로 최종 판단은 윤리위에서 할 것”이라고 밝혔다. 이어&nbsp;“조사 결과가 나올 때까지 기다려주시길 당부드리고,&nbsp;그동안 감사나 조사 결과를 예단해서 얘기하는 일은 없었으면 한다”고 말했다.&nbsp; &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 비리 의혹이 공방전으로 이어지면서 중립성을 띈 외부기구인 준신위가 나설 가능성도 있다. 카카오 노조인 카카오 크루유니언은 이날 입장문을 통해 김 총괄이 폭로한 경영진의 특혜와 비위행위, 김 총괄의 폭언 사건 등에 대해 외부 독립기구인 준신위에 조사를 요구했다. 준신위는 다음 달 정식 활동이 시작될 예정이다. 함께 보면 좋은 IT 기업 소식들 "애니콜 화형식과 같다"…최악의 악? 카카오 폭로전이 남긴 것 [현장에서] "개X신" 카카오 임원 욕설 파문…"업무관행 지적 중 실수였다" 게임업계 또 '남혐' 논란…'집게 손'에 여성단체∙특공대 떴다 클라우드 첫 흑자낸 야놀자 “해외서 1000억 벌어오겠다”김남영 기자 kim.namyoung3@joongang.co.kr
+‘경영 쇄신’을 앞세운 카카오가 내부 폭로전으로 내홍을 겪고 있다. 김정호 카카오 CA협의체 경영지원총괄이 자신의 SNS를 통해 사내 각종 경영 비위 의혹을 폭로한 가운데, 카카오 임직원들이 반박에 나서면서 진실 공방전이 되어가고 있다. &nbsp; 김정호 카카오 CA협의체 경영지원총괄. 장진영 기자 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 카카오 부동산 개발을 총괄하는 자산개발실 소속 오지훈 부사장과 직원 11명은 지난 29일 카카오 내부망에 장문의 공동 입장문을 올렸다. 안산 데이터센터와 서울아레나 시공사 선정은 문제 없이 이뤄졌다는 내용이다. 오 부사장은 제주도 JDC 유휴 부지 개발 과정도 배재현 투자총괄대표 등 경영진 결재를 모두 거쳐 진행한 사안이라며 관련 결재 서류도 공개했다. &nbsp; 오 부사장 등의 입장문은 김 총괄의 기존 주장을 정면 반박하는 내용이다. 앞서 김 총괄은 지난 28일부터 자신의 페이스북에 “데이터센터, 공연장 등 부동산 개발프로젝트에 대한 비리 제보가 이어지고 있다”고 주장했다. 또 제주도 본사 유휴 부지 개발 과정에서도 외부 업체 선정에 절차상 문제가 있었다고 지적했다.&nbsp; &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 김범수 카카오 경영쇄신위원장. 사진 카카오 경영 쇄신을 선언한 카카오가 내부 진흙탕 싸움으로 혼란에 빠졌다. 카카오는 SM엔터테인먼트 시세조종 의혹으로 김범수 창업자를 비롯한 주요 경영진이 금융당국과 검찰 조사 대상에 오르며 창사 이래 최대 위기에 처해 있다. 윤석열 대통령이 카카오모빌리티의 플랫폼 수수료 사업을 독점 기업의 부도덕이라 질타해 핵심 계열사의 앞날도 밝지 않다. 사면초가에 빠진 카카오는 외부 감시기구로 ‘준법과 신뢰위원회’(준신위)를 출범했고, 김 창업자가 직접 ‘경영쇄신위원회’(경쇄위)를 이끌겠다며 경영 일선에 복귀하기도 했다. 이런 상황에서 지난 9월 영입된 김 창업자의 30년 지기 소방수인 김정호 총괄이 SNS에 내부 비리 의혹을 폭로한 것. 경영 쇄신보단 내부 알력 다툼을 SNS로 중계하는 상황이 됐다. &nbsp; 카카오 내부도 최근 논란에 대해 ‘(김 총괄이) 쇄신 작업에 앞장서고 있다’며 지지하는 쪽과 ‘잘 모르고 내부 총질로 더 문제를 키우고 있다’며 김 총괄에 부정적인 세력으로 갈라진 상태다. &nbsp; &nbsp;━&nbsp; 수습 나선 카카오 &nbsp; 홍은택 카카오 대표이사가 지난 13일 오전 경기 성남에 위치한 카카오모빌리티 본사에서 3차 공동체 비상경영회의에 참석하기 위해 이동하고 있다. 뉴스1 논란이 커지자 카카오 본사도 수습에 나섰다. 30일 오후 홍은택 대표이사는 직원들만 접속하는 사내망에 입장문을 올렸다. 그는 “안산 데이터센터와 서울 아레나, 제주 ESG 센터 등의 건설과정 그리고 브랜든(김 총괄의 영어이름)이 제기한 다른 의혹에 대해서도 공동체 준법경영실과 법무법인을 중심으로 조사단을 꾸려서 감사에 착수했다”며&nbsp;“골프장 회원권과 관련해서는 이미 매각 절차에 들어갔고, 환수한 자금은 휴양시설 확충 등 크루(직원)들의 복지를 늘리는 데 사용할 계획이다”고 설명했다. “대외협력비의 문제는 이미 개선안을 마련해 시행에 들어갔다”고도 덧붙였다. &nbsp; 홍 대표는 김 총괄이 임원들에게 폭언을 했다는 의혹도 정식 조사하겠다고 밝혔다. 그는 “논란이 되고 있는 사안에 대해서는 공정성과 객관성을 위해 외부 법무법인에 조사 의뢰할 것을 윤리위에서 건의해 와서 수용했으며, 외부 기관들의 조사 결과를 바탕으로 최종 판단은 윤리위에서 할 것”이라고 밝혔다. 이어&nbsp;“조사 결과가 나올 때까지 기다려주시길 당부드리고,&nbsp;그동안 감사나 조사 결과를 예단해서 얘기하는 일은 없었으면 한다”고 말했다.&nbsp; &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 비리 의혹이 공방전으로 이어지면서 중립성을 띤 외부기구인 준신위가 나설 가능성도 있다. 카카오 노조인 카카오 크루유니언은 이날 입장문을 통해 김 총괄이 폭로한 경영진의 특혜와 비위행위, 김 총괄의 폭언 사건 등에 대해 외부 독립기구인 준신위에 조사를 요구했다. 준신위는 다음 달 정식 활동이 시작될 예정이다. 함께 보면 좋은 IT 기업 소식들 "애니콜 화형식과 같다"…최악의 악? 카카오 폭로전이 남긴 것 [현장에서] "개X신" 카카오 임원 욕설 파문…"업무관행 지적 중 실수였다" 게임업계 또 '남혐' 논란…'집게 손'에 여성단체∙특공대 떴다 클라우드 첫 흑자낸 야놀자 “해외서 1000억 벌어오겠다”김남영 기자 kim.namyoung3@joongang.co.kr
 </p>
 <div class="meta">
 <p class="date">2023.11.30 17:54</p>
@@ -38,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25211388"/>
         <updated>2023-11-30T06:12:34.470Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25211388" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25211388" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/30/1b325c8c-48fe-4e0b-9e9b-f9558c1cb1d5.jpg/_ir_410x230_/" alt="[팩플] 임원 싹 바꾼 ‘김영섭호 KT’ 첫 조직개편, MB 정부·법조계 출신 영입">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25211388" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25211388" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] 임원 싹 바꾼 ‘김영섭호 KT’ 첫 조직개편, MB 정부·법조계 출신 영입
 </a>
 </h2>
@@ -65,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25211239"/>
         <updated>2023-11-30T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25211239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25211239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/30/9ab2b9a4-9996-4d86-a7bd-c47f4df339cc.jpg/_ir_410x230_/" alt="&quot;애니콜 화형식과 같다&quot;…최악의 악? 카카오 폭로전이 남긴 것 [현장에서]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25211239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25211239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 "애니콜 화형식과 같다"…최악의 악? 카카오 폭로전이 남긴 것 [현장에서]
 </a>
 </h2>
@@ -92,13 +146,13 @@
         <link href="https://www.joongang.co.kr/article/25211109"/>
         <updated>2023-11-29T09:09:28.584Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25211109" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25211109" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/29/27da4a5e-60b3-4528-b712-e399a71170d1.jpg/_ir_410x230_/" alt="&quot;우리 생성 AI는 비즈니스에 바로 쓴다&quot; AWS 대공세 시작됐다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25211109" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25211109" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 "우리 생성 AI는 비즈니스에 바로 쓴다" AWS 대공세 시작됐다 [팩플]
 </a>
 </h2>
@@ -119,13 +173,13 @@
         <link href="https://www.joongang.co.kr/article/25211030"/>
         <updated>2023-11-29T05:09:27.985Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25211030" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25211030" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/29/4237d2ab-aec1-4575-bff4-429407b0e1af.jpg/_ir_410x230_/" alt="[팩플] 모바일 강자 엔씨소프트, 콘솔 제왕 소니 손 잡았다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25211030" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25211030" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] 모바일 강자 엔씨소프트, 콘솔 제왕 소니 손 잡았다
 </a>
 </h2>
@@ -146,13 +200,13 @@
         <link href="https://www.joongang.co.kr/article/25211019"/>
         <updated>2023-11-29T04:11:30.276Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25211019" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25211019" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/29/9a0e0c4e-ce0a-4378-99ba-82ad8ed787bf.jpg/_ir_410x230_/" alt="[팩플] KT SAT·SK텔링크 손잡은 스타링크, 국내 서비스 초읽기">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25211019" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25211019" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] KT SAT·SK텔링크 손잡은 스타링크, 국내 서비스 초읽기
 </a>
 </h2>
@@ -173,13 +227,13 @@
         <link href="https://www.joongang.co.kr/article/25210935"/>
         <updated>2023-11-29T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25210935" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25210935" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/29/d3d15dbf-e523-435d-ae65-96516bd26ef6.jpg/_ir_410x230_/" alt="주파수 규제 풀어줬더니…반도체 업계 &quot;개발비 1500억 줄였다&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25210935" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25210935" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 주파수 규제 풀어줬더니…반도체 업계 "개발비 1500억 줄였다"
 </a>
 </h2>
@@ -200,13 +254,13 @@
         <link href="https://www.joongang.co.kr/article/25210777"/>
         <updated>2023-11-28T08:12:04.158Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25210777" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25210777" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/29/b8e0390a-ace2-4760-beab-22bba4c5984f.jpg/_ir_410x230_/" alt="[팩플] ‘아래아 한글’ 한컴도 AI 비서 만든다…“‘코인논란’ 법인과 무관”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25210777" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25210777" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] ‘아래아 한글’ 한컴도 AI 비서 만든다…“‘코인논란’ 법인과 무관”
 </a>
 </h2>
@@ -227,13 +281,13 @@
         <link href="https://www.joongang.co.kr/article/25210401"/>
         <updated>2023-11-27T07:09:37.022Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25210401" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25210401" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/27/61d76fd8-9eaa-469d-8b71-2a17e50d504c.jpg/_ir_410x230_/" alt="자율 아닌 '관리'의 카카오…김범수 &quot;준법·인사·재무 밀착관리를&quot; | 팩플">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25210401" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25210401" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 자율 아닌 '관리'의 카카오…김범수 "준법·인사·재무 밀착관리를" | 팩플
 </a>
 </h2>
@@ -254,13 +308,13 @@
         <link href="https://www.joongang.co.kr/article/25210276"/>
         <updated>2023-11-27T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25210276" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25210276" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/27/fafb6679-633a-4c60-95f1-b5f810da753c.jpg/_ir_410x230_/" alt="노래 한 곡, 한우 한 마리로 조각투자? 토큰증권 시장 '기지개' [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25210276" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25210276" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 노래 한 곡, 한우 한 마리로 조각투자? 토큰증권 시장 '기지개' [팩플]
 </a>
 </h2>
@@ -281,13 +335,13 @@
         <link href="https://www.joongang.co.kr/article/25210183"/>
         <updated>2023-11-26T10:08:36.068Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25210183" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25210183" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/26/984e00bd-aada-4199-b50b-fb4ecd4936ce.jpg/_ir_410x230_/" alt="[팩플] 반복된 ‘디지털 재난’…“공공SW 저가 발주 멈추고 관리 역량 키워야”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25210183" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25210183" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] 반복된 ‘디지털 재난’…“공공SW 저가 발주 멈추고 관리 역량 키워야”
 </a>
 </h2>
@@ -308,13 +362,13 @@
         <link href="https://www.joongang.co.kr/article/25209611"/>
         <updated>2023-11-23T09:09:35.602Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25209611" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25209611" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/23/8967d1e8-e54f-4c2d-890a-3c1b5bf11782.jpg/_ir_410x230_/" alt="[팩플] ‘감시기구’와 만난 김범수 “체계화된 시스템 못 갖췄다”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25209611" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25209611" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] ‘감시기구’와 만난 김범수 “체계화된 시스템 못 갖췄다”
 </a>
 </h2>
@@ -335,13 +389,13 @@
         <link href="https://www.joongang.co.kr/article/25209326"/>
         <updated>2023-11-22T20:09:39.737Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25209326" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25209326" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/22/6ef39ce0-943d-4ef9-81e3-f482ec37a57a.jpg/_ir_410x230_/" alt="[팩플] 샘 올트먼, 오픈AI 복귀…5일 만에 끝난 ‘CEO 축출’ 쿠데타">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25209326" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25209326" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] 샘 올트먼, 오픈AI 복귀…5일 만에 끝난 ‘CEO 축출’ 쿠데타
 </a>
 </h2>
@@ -362,13 +416,13 @@
         <link href="https://www.joongang.co.kr/article/25209311"/>
         <updated>2023-11-22T20:09:39.739Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25209311" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25209311" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/22/87c64959-906c-4860-8f90-63d75ae21e86.jpg/_ir_410x230_/" alt="[팩플] 북한·하마스 ‘돈세탁’ 인정한 바이낸스…5조원 벌금 내고 미국서 퇴출">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25209311" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25209311" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] 북한·하마스 ‘돈세탁’ 인정한 바이낸스…5조원 벌금 내고 미국서 퇴출
 </a>
 </h2>
@@ -389,13 +443,13 @@
         <link href="https://www.joongang.co.kr/article/25209108"/>
         <updated>2023-11-22T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25209108" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25209108" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/22/477878cd-029e-49a8-8210-c09f87401857.jpg/_ir_410x230_/" alt="배민의 독주, 쿠팡의 추격…2등 요기요는 카카오톡 들어갔다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25209108" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25209108" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 배민의 독주, 쿠팡의 추격…2등 요기요는 카카오톡 들어갔다 [팩플]
 </a>
 </h2>
@@ -416,13 +470,13 @@
         <link href="https://www.joongang.co.kr/article/25209109"/>
         <updated>2023-11-22T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25209109" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25209109" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/22/f9103016-563d-49cb-9c91-8704a6bd1718.jpg/_ir_410x230_/" alt="통계 없이 북한경제 속살 한눈에…AI, 위성영상 이렇게 읽었다 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25209109" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25209109" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 통계 없이 북한경제 속살 한눈에…AI, 위성영상 이렇게 읽었다 [팩플]
 </a>
 </h2>
@@ -443,13 +497,13 @@
         <link href="https://www.joongang.co.kr/article/25208991"/>
         <updated>2023-11-22T20:09:39.746Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25208991" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25208991" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/21/ed427d29-b2e2-4e8b-9a9d-5f7cc4698541.jpg/_ir_410x230_/" alt="[팩플] 샘 올트먼 복귀해도 잃을 게 없는 MS...혼돈의 오픈AI, 미래는">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25208991" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25208991" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] 샘 올트먼 복귀해도 잃을 게 없는 MS...혼돈의 오픈AI, 미래는
 </a>
 </h2>
@@ -470,13 +524,13 @@
         <link href="https://www.joongang.co.kr/article/25208951"/>
         <updated>2023-11-22T20:09:39.758Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25208951" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25208951" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/21/28bc0930-a13b-42e8-884c-16b081778c9a.jpg/_ir_410x230_/" alt="[팩플] “당근하다 싸움났다? 채팅창에 ‘분쟁조정’ 쳐보세요”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25208951" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25208951" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] “당근하다 싸움났다? 채팅창에 ‘분쟁조정’ 쳐보세요”
 </a>
 </h2>
@@ -497,13 +551,13 @@
         <link href="https://www.joongang.co.kr/article/25208802"/>
         <updated>2023-11-21T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25208802" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25208802" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/21/53952631-45ba-4764-b0e5-94709586e971.jpg/_ir_410x230_/" alt="[단독] 게임 커뮤니티 공략하는 네이버…생중계 플랫폼 내년 출시 | 팩플">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25208802" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25208802" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [단독] 게임 커뮤니티 공략하는 네이버…생중계 플랫폼 내년 출시 | 팩플
 </a>
 </h2>
@@ -524,13 +578,13 @@
         <link href="https://www.joongang.co.kr/article/25208656"/>
         <updated>2023-11-22T20:09:39.761Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25208656" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25208656" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/20/4b841bab-8177-4770-aa98-8efdc2fae73c.jpg/_ir_410x230_/" alt="오픈AI서 쫓겨난 '챗GPT 아버지' 올트먼, 결국 MS로 간다 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25208656" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25208656" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 오픈AI서 쫓겨난 '챗GPT 아버지' 올트먼, 결국 MS로 간다 [팩플]
 </a>
 </h2>
@@ -551,13 +605,13 @@
         <link href="https://www.joongang.co.kr/article/25208631"/>
         <updated>2023-11-22T20:09:39.762Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25208631" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25208631" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/20/7c2123ed-5b47-470f-9071-010adfd139ae.jpg/_ir_410x230_/" alt="&quot;총선 트래픽 장사하나&quot; 비판에…네이버 '대댓글' 닷새만에 철회 | 팩플">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25208631" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25208631" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 "총선 트래픽 장사하나" 비판에…네이버 '대댓글' 닷새만에 철회 | 팩플
 </a>
 </h2>
@@ -578,13 +632,13 @@
         <link href="https://www.joongang.co.kr/article/25208380"/>
         <updated>2023-11-22T20:09:39.763Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25208380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25208380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/19/6ef39ce0-943d-4ef9-81e3-f482ec37a57a.jpg/_ir_410x230_/" alt="[팩플] 111조짜리 ‘오픈AI’에서 창업자가 쫓겨났다...안전 vs 수익 갈등? ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25208380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25208380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플] 111조짜리 ‘오픈AI’에서 창업자가 쫓겨났다...안전 vs 수익 갈등?
 </a>
 </h2>
@@ -594,60 +648,6 @@
 <div class="meta">
 <p class="date">2023.11.19 18:25</p>
 <button type="button" class="btn_bookmark" data-cid="25208380" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 한국서 열리는 '롤드컵' 결승...침체된 e스포츠 반등 시동]]></title>
-        <id>https://www.joongang.co.kr/article/25208305</id>
-        <link href="https://www.joongang.co.kr/article/25208305"/>
-        <updated>2023-11-19T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25208305" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/19/83e425da-ee7f-496f-b1ab-8f5cda09499c.jpg/_ir_410x230_/" alt="[팩플] 한국서 열리는 '롤드컵' 결승...침체된 e스포츠 반등 시동">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25208305" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
-[팩플] 한국서 열리는 '롤드컵' 결승...침체된 e스포츠 반등 시동
-</a>
-</h2>
-<p class="description">
-지난 15일 서울 중구 반얀트리 호텔에서 라이엇 게임즈가 개최한 '리그 오브 레전드 월드 챔피언십 파이널 미디어데이'에 결승전에 참가하는 한국 구단인 SKT T1 선수들이 참석하고 있다. AP=연합뉴스 &nbsp; ‘황제’ 페이커(이상혁)는 우승컵을 들어 올릴 수 있을까. 서울에서 열리는 리그오브레전드(LoL·롤) 2023 월드 챔피언십, 일명 ‘롤드컵’ 결승전에 글로벌 e스포츠 팬들의 이목이 집중되고 있다. 대회 주관사 라이엇게임즈는 이번 결승전을 발판으로, 얼어붙은 글로벌 e스포츠 시장을 되살리려고 한다. &nbsp; &nbsp;━&nbsp; 무슨일이야 &nbsp; 19일 서울 구로구 고척 스카이돔에서 롤드컵 결승전이 열린다. 한국의 ‘SKT T1’과 중국의 ‘웨이보 게임즈’가 맞붙는 한중전이다. 한국에서 열리는 롤드컵 결승은 2018년 인천 경기 이후 5년 만이다. 1만 8000여개 관람석은 지난 8월 진행된 사전예매에서 20분 만에 모두 팔렸다. &nbsp; 국내 팬들의 관전 포인트는 페이커가 소속된 팀 T1의 우승 여부다. T1은 준결승전에서 올해 유력 우승 후보였던 중국의 ‘징동 인텔 이스포츠 클럽(JDG)’을 누르고 2년 연속 결승에 진출했다. T1은 세계 정상급 선수인 페이커를 앞세워 역대 12번의 롤드컵 대회 중 최다 우승(3회)을 차지한 강팀이지만, 최근 성적은 우승과는 거리가 있었다. 마지막 우승은 미국 로스앤젤레스(LA)에서 열린 2016년 대회다. 지난해에는 결승전에서 또다른 국내 e스포츠 구단 DRX에 밀려 준우승을 차지했다. &nbsp; 결승전 상대인 중국의 웨이보 게이밍은 ‘신흥 강호’로 평가된다. 롤드컵 우승 경험은 없지만, 이번 대회 우승 후보 중 하나였던 중국 강팀 ‘빌리빌리 게이밍(BGL)’을 준결승에서 접전 끝에 물리쳤다. 감독(양대인)과 코치(김상철), 주장인 더샤이(강승록)까지 한국인인 팀이다. &nbsp; &nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; 이번 롤드컵이 최근 경기 침체 여파로 얼어붙은 글로벌 e스포츠 시장의 분위기를 반전시킬 수 있을지 주목된다. 뉴욕타임스(NYT)는 지난 5월 ‘e스포츠 세계가 휘청거린다’는 기사에서 ”최근 미국 e스포츠 시장은 흑자 전환에 실패한 각 구단이 구조조정에 들어가거나, 손해를 감수하고 구단을 매각하는 경우가 생겨나고 있다”고 전했다. 한국콘텐츠흥원에 따르면 국내 e스포츠 산업 규모도 1204억원(2020년)에서 1048억원(2021년)으로 축소됐다. &nbsp; 박경민 기자 &nbsp; e스포츠 업계에선 한국에서 열리는 롤드컵 결승전이 침체된 분위기를 반등시킬 중요한 기회가 될 수 있다고 본다. 한국은 전반적인 선수의 실력이 뛰어난 덕분에 글로벌 팬층이 두텁고, 시장 규모도 커서다.&nbsp;시장조사업체 스태티스타에 따르면 올해 예상되는 국가별 e스포츠 시장 규모는 한국(2억7440만 달러)이 미국(8억7100만 달러)과 중국(4억4520만 달러)에 이어 세 번째로 컸다. 또 한국은 1999년 스타크래프트의 선풍적 인기를 바탕으로 세계 최초 ‘프로게이머 코리아오픈(PKO)’을 개최한 e스포츠 종주국이기도 하다. &nbsp; 나즈 알레타하 라이엇 게임즈 롤 e스포츠 글로벌 총괄은 지난 15일 기자간담회에서 “올해 롤드컵 예선전부터 준결승까지 내부 잠정 집계한 시청률은 미국 샌프란시스코에서 열렸던 지난해보다 65% 증가했다”고 말했다. 라이엇게임즈 관계자는 “영국 프로 축구 리그를 글로벌 팬들이 시청하는 것처럼, 한국 롤 프로리그인 LCK도 세계 곳곳에서 시청할 만큼 영향력이 크다”고 말했다.&nbsp;e스포츠 리그를 운영하는 대형 게임사 관계자는 “최근 몇 년간 코로나19 영향과 경기침체 등으로 e스포츠 시장이 쪼그라든 뒤 좀처럼 다시 살아나지 못하고 있다”며 “올해 롤드컵 흥행을 계기로 다른 국내 e스포츠 리그도 반등할 것을 기대한다”고 말했다. &nbsp; 박경민 기자 &nbsp; &nbsp;━&nbsp; ‘흑자 e스포츠’를 향하여 &nbsp; 라이엇게임즈의 궁극적 목적은 ‘지속 가능한 e스포츠 리그’ 생태계를 꾸리는 것이다. 현재는 e스포츠 리그를 운영하는 각 게임사가 마케팅 및 게임 산업 저변 확대를 목적으로 투자하고 있다. 하지만 수익화 방안이 마땅치 않아 대부분 적자 신세다. 라이엇게임즈는 올해를 기점으로 e스포츠 리그 수익화에 나설 계획이다. e스포츠 경기를 홈페이지에서 중계하면서 기념품이나 게임 내 상품 판매로 연결하는 방식 등이 거론된다. &nbsp; 지난 15일 서울 중구 반얀트리 호텔에서 라이엇 게임즈가 개최한 '리그 오브 레전드 월드 챔피언십 파이널 미디어데이'에 (왼쪽부터) 제레미 리 라이엇 게임즈 롤 총괄 프로듀서, 나즈 알레타하 라이엇 게임즈 롤 e스포츠 글로벌 총괄, 존 니덤, 라이엇 게임즈 e스포츠 사장이 대담을 나누고 있다. 사진 윤상언 기자 &nbsp; 롤드컵 참가 구단에게 돌아가는 수익 배분 방식도 e스포츠 생태계를 살리려는 라이엇게임즈 측 의중이 반영됐다. 올해 대회를 기념해 출시한 디지털 상품의 전체 매출액 중 25%를 총상금(222만5000 달러)에 더하기로 했다. 상금도 일부 팀에게 돌아가는 게 아닌, 순위에 따라 총상금을 비율대로 나눠갖는 식으로 운영된다. 우승팀에겐 총상금의 20%가 돌아가고, 2위 구단에는 15%, 3~4위 구단은 8%를 가져가는 식이다.&nbsp;제레미 리 라이엇 게임즈 롤 총괄 프로듀서는 지난 15일 기자간담회에서 “라이엇은 (e스포츠를) 지속가능한 비즈니스가 되도록 만들고 있다"며 "새로운 방법들을 모색하기 위해 최선을 다하고 있다”고 말했다. 윤상언 기자 youn.sangun@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.11.19 09:00</p>
-<button type="button" class="btn_bookmark" data-cid="25208305" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔씨도 '한우물'은 버렸다...장르·플랫폼 다 바꾼 K게임 [지스타2023-팩플]]]></title>
-        <id>https://www.joongang.co.kr/article/25207998</id>
-        <link href="https://www.joongang.co.kr/article/25207998"/>
-        <updated>2023-11-17T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207998" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/17/7f0b4387-8b55-4faf-8be0-2313512eec2b.jpg/_ir_410x230_/" alt="엔씨도 '한우물'은 버렸다...장르·플랫폼 다 바꾼 K게임 [지스타2023-팩플]">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207998" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-엔씨도 '한우물'은 버렸다...장르·플랫폼 다 바꾼 K게임 [지스타2023-팩플]
-</a>
-</h2>
-<p class="description">
-16일 부산 벡스코에서 열린 지스타 2023 크래프톤 체험부스에서 이용자들이 게임을 즐기고 있다. 박민제 기자 &nbsp; “한국 게임이 모바일에선 잘했으니, 이젠 다른 영역도 잘 해보려는 것이다. 엔씨소프트도 그렇다.” &nbsp; 16일 부산 벡스코(BEXCO)에서 개막한 지스타2023 현장부스에서 만난 김택진 엔씨소프트 대표는 한국게임산업의 변화에 대한 질문에 이 같이 답했다. 김 대표의 진단처럼 지스타 2023 현장은 그간 K게임의 주류였던 ‘모바일 MMORPG’(다중접속역할수행게임) 대신 새로운 장르, 새로운 플랫폼을 타깃한 변화의 흐름으로 가득찼다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 최근 한국 게임산업의 화두는 ‘확장’이다. 지난 10년동안 ‘리니지 라이크’(like·같은) 류의 모바일 MMORPG 한 우물을 판 끝에 규모의 성장을 이뤘다. 하지만 소수의 열성적인 팬덤 위주로 시장이 고착화되면서 정체기를 맞았다. 돈을 많이 내면 이기는 P2W(Pay to Win) 과금 구조, 확률형 아이템, AI 자동전투 등 모바일 MMORPG의 주요 시스템에 염증을 느끼는 이들이 늘어난 것. 변화를 감지한 일부 게임사들이 모바일 MMORPG 아닌 다른 곳으로 눈을 돌리기 시작했고 올해 하나둘 성과가 나타나는 상황. 국내 대형 게임사 고위 관계자는 “게임 플랫폼부터 지역, 장르를 다양화해 이용자 층을 확대하려는 게임사들이 올해 지스타에 대거 등장했다”며 “변화의 흐름은 더 빨라질 것”이라고 말했다. &nbsp; 김영옥 기자 &nbsp;━&nbsp; K게임의 ‘확장’ 어떻게 &nbsp; 지스타2023 현장에서 나타난 K게임의 확장 방향은 플랫폼, 장르, 지식재산(IP) 등 크게 3가지다. &nbsp; ① 탈(脫)모바일, 플랫폼의 확장 : 벡스코 제1 전시장에서 가장 규모가 큰 엔씨소프트 부스에는 모바일 게임용 스마트폰을 찾을 수 없었다. 대신 자리를 채운 건 PC와 콘솔(닌텐도 스위치). 이번에 엔씨가 출품한 3종의 시연 게임(‘LLL’, ‘배틀 크러쉬’, ‘프로젝트 BSS’) 모두 모바일 게임이 아니었다. 리니지 3종 시리즈(M·2M·W)로 모바일 MMORPG 최강자 자리에 오른 게임사로선 이례적 결정이다. 부스엔 새 게임을 체험해보려는 관람객들의 줄이 길었다. 김택진 대표는 “새로운 세대가 등장하면서 플레이어가 원하는 바가 바뀌고 있기 때문에, 우리 개발도 그런 방식으로 바뀌고 있다”며 “MMORPG가 아닌 새로 도전하는 장르로 플레이어를 만나러 왔다”고 설명했다. 김 대표는 이날 오전 일찍부터 ‘staff’라고 적힌 엔씨소프트 단체복을 입고 부스를 분주하게 오갔다. &nbsp; 16일 부산 벡스코(BEXCO)에서 열린 지스타 엔씨소프트 부스에서 김택진 대표가 발언하고 있다. 사진 엔씨소프트 엔씨소프트 뿐만이 아니다. 앱마켓 운영자인 구글플레이도 ‘크로스 플레이’를 주제로 부스를 차렸다. ‘쿠키런 : 모험의 탑’(데브시스터즈), ‘별이되어라2’(하이브IM) 등 모바일 게임을 PC에서 해볼 수 있는 체험존을 운영했다. 구글플레이 게임즈(오픈 베타)는 안드로이드 운영 체제(OS)로 출시된 게임들을 윈도우 PC에서도 할 수 있게 지원하는 PC용 앱이다.&nbsp;신경자 구글 아태지역 플랫폼 및 구글코리아 마케팅 총괄은 “(여러 플랫폼을 동시 지원하는) 크로스 플랫폼은 글로벌 게이밍 시장 화두로, 한국 개발사들이 이 트렌드를 이끌고 있다”라고 말했다. 실제 체험해 본 쿠키런은 쾌적한 조작 환경이 돋보였다. 키보드·마우스 뿐만 아니라 게임패드로도 이용 가능했다. 이날 게임을 체험한 관객 유준상씨는 “모바일 게임을 PC에서도 이용하니 더 몰입감이 좋아졌다”고 말했다. ② ‘P의 거짓’ 효과, 장르의 확장 :&nbsp; 지난 15일 대한민국 게임대상을 수상한 네오위즈의 ‘P의 거짓’(네오위즈)은 국내에 드문 ‘소울라이크’ 장르다. PC게임 플랫폼 스팀에서 200만 장 이상을 판매한 ‘데이브 더 다이버’(넥슨)는 해양 어드벤쳐 및 경영 시뮬레이션 장르다. 그간 국내에서 시도하지 않던 장르의 게임이 글로벌 히트에 성공하는 사례가 나오면서, 새로운 게임이 봇물처럼 나오고 있다. 크래프톤이 지스타에 출품한 ‘inZOI(인조이)’는 시뮬레이션 장르 PC게임이다. 게임 속에서 신이 되어 사람을 창조하고 그 사람 인생을 경험하는 게임이다. 현실을 방불케하는 몰입도 높은 그래픽을 자랑한다. 주력 게임인 FPS(1인칭 슈팅 게임) 배틀 그라운드와는 전혀 다른 분위기의 게임이다. 일본 애니메이션 같은 그래픽 중심의 서브 컬쳐(하위 장르) 게임들도 지스타조직위가 별도 행사를 기획할 정도로 주목을 받았다.&nbsp; 16일 부산 벡스코에서 열린 구글플레이 체험 부스에서 이용자들이 모바일 게임 '쿠키런 : 모험의 탑'을 PC에서 플레이하고 있다. 박민제 기자 &nbsp; ③ 진입장벽 낮춘다, IP의 확장 : 기존 IP를 재해석해 새로운 게임을 만드는 IP의 확장도 다양하게 이뤄졌다. 올해 지스타 최고의 화제작 중 하나인 로스트아크 모바일(스마일게이트)이 대표적이다. 2018년 11월 출시돼 글로벌 히트한 로스트아크 IP로 제작한 모바일 게임이다. 넷마블은 ‘일곱 개의 대죄: 오리진’을 공개했다. 일본 인기 애니메이션 '일곱 개의 대죄'를 기반으로 2019년 출시한 모바일 게임 ‘일곱 개의 대죄: 그랜드 크로스’의 후속작이다. 국내 게임사 한 관계자는 “게임 출시 후 몇년이 지나면 신규 이용자는 들어가기 어려운 진입 장벽이 생기는 편”이라며 “신작을 통해 게임사들이 새로운 이용자의 유입을 기대할 수 있을 것”이라고 말했다. 부산=박민제 기자 letmein@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.11.17 05:00</p>
-<button type="button" class="btn_bookmark" data-cid="25207998" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
