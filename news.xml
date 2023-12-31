@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2023-12-31T07:09:10.665Z</updated>
+    <updated>2023-12-31T08:11:52.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 생성AI, 돈 되네?…연 매출 2조 넘긴 오픈AI, ‘GPT스토어’로 진격]]></title>
+        <id>https://www.joongang.co.kr/article/25218770</id>
+        <link href="https://www.joongang.co.kr/article/25218770"/>
+        <updated>2023-12-31T08:11:09.024Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25218770" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/31/23948a66-00e3-4214-b9da-3e1d350b499e.jpg/_ir_410x230_/" alt="[팩플] 생성AI, 돈 되네?…연 매출 2조 넘긴 오픈AI, ‘GPT스토어’로 진격">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25218770" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] 생성AI, 돈 되네?…연 매출 2조 넘긴 오픈AI, ‘GPT스토어’로 진격
+</a>
+</h2>
+<p class="description">
+챗GPT로 전 세계를 뒤흔든 오픈AI가 올해 매출 2조원을 넘겼다. 추가 투자 유치, GPT 스토어 출시로 생성 AI 경쟁에서 선두주자를 유지할수 있을지 주목된다. &nbsp; 샘 올트먼 오픈AI 최고경영자(CEO). 뉴시스 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 30일(현지시간) IT 매체 디인포메이션에 따르면&nbsp;오픈AI 올 한 해 매출은 16억달러(약 2조800억원)를 넘어섰다. 오픈AI는 챗GPT 유료 구독과 이를 타 서비스에 API(응용프로그램 인터페이스)로 제공한 뒤 받는 사용료에서 수익을 얻는다. 마이크로소프트(MS)가 자사 클라우드 애저에서 오픈AI 모델을 판매할 때 발생하는 수익 일부도 오픈AI가 가져간다. 디인포메이션은 “오픈AI 경영진 일부는 2024년에는 연 매출 50억 달러(약 6조5000억원)를 기록할 수 있을 것이라 보고 있다”고 보도했다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해&nbsp; &nbsp; 생성 AI가 ‘돈 되는 사업’이라는 것을 증명했다. 오픈AI는 2022년 매출이 2800만달러(약 364억원)에 불과했다. 하지만 유료 서비스 ‘챗GPT 플러스’(2월), 기업용 AI 서비스 ‘챗GPT 엔터프라이즈’(8월)를 내놓으면서 매출 확대에 힘을 기울였다.&nbsp;오픈AI는 강력한 경쟁자로 꼽히는 앤트로픽과도 격차를 벌리고 있다. 구글과 아마존의 투자를 받은 앤트로픽은 2024년 8억5000만달러(약 1조1000억원) 수준 매출을 창출할 것으로 전망하고 있다. 오픈AI 올해 매출의 절반 수준이다. &nbsp; &nbsp;━&nbsp; 오픈AI, 내년도 진격한다 &nbsp; ①신규 투자 유치: 오픈AI는 사업 확장을 위한 ‘총알’도 준비하고 있다. 지난 22일(현지시간) 블룸버그에 따르면 오픈AI는 기업가치 1000억달러(약 130조원)를 목표로 신규 투자 유치를 진행하고 있다. 최근까지 알려진 오픈AI의 시장 가치 860억 달러를 뛰어넘은 수준이다. 블룸버그는 “협상 초기 단계여서 펀딩 조건, 가치 평가 및 시기 등 구체적 사항은 아직 확정되지 않았다”고 전했다. &nbsp; 오픈AI가 지난달 6일(현지시간) 맞춤형 생성AI 서비스인 GPTs를 공개했다. 오픈AI 홈페이지 캡처 ②GPT 스토어: 내년 초에 출시할 GPT 스토어도 오픈AI의 강력한 무기. 당초 지난달 출시 예정이었으나, 최고경영자(CEO)인 샘 올트먼 축출 사태로 미뤄졌다. GPT 스토어에서는 구글‧애플 앱마켓처럼 개발자들이 ‘GPTs’를 활용해 만든 서비스를 사고팔 수 있게 된다. 개발 지식 없이도 챗봇과 대화를 통해 챗GPT를 활용한 맞춤형 기능을 만들 수 있는 ‘GPTs’는 이미 공개된 상태. GPT 스토어가 나오게 되면 소비자대상 시장(B2C)에서 오픈AI 영향력은 더욱 커질 전망이다. &nbsp; ③AI 하드웨어도: AI 기기, AI칩과 같은 하드웨어에서도 오픈AI 영향력이 커질 것으로 보인다. 오픈AI는 애플 최고디자인책임자 출신 조니 아이브가 설립한 회사 ‘아이프롬’과 AI 기기를 개발하고 있다. 아랍에미리트(UAE) 아부다비에 본사를 둔 AI 기업 ‘G42’와 새로운 AI 반도체 벤처기업에 대한 자금 조달을 위한 논의도 진행하고 있다. &nbsp; &nbsp;━&nbsp; 저작권 문제는 불안요인 &nbsp; 거침없는 오픈AI의 진격에 걸림돌이 없진 않다. 저작권 침해 문제가 있다. 뉴욕타임스(NYT)는 지난 27일(현지시간) 자사 저작권이 침해됐다며 챗GPT 개발사인 오픈AI와 MS를 상대로 소송을 냈다. NYT가 발행한 수백만 건의 기사가 챗GPT와 코파일럿 등을 훈련하는 데 사용됐다는 주장이다. 소송 결과에 따라서 오픈AI는 NYT에 거액을 배상하는 것은 물론, 다른 콘텐트 사업자에도 배상할 가능성이 생긴다. 로버트 오펜하이머의 전기 『아메리칸 프로메테우스』의 공동 저자 카이 버드 등 작가 11명도 지난 19일 자신들의 창작물을 무단 사용해 수십억 달러를 벌어들였다며 오픈AI와 MS를 상대로 소송을 냈다. &nbsp; &nbsp;━&nbsp; 더 알면 좋은 것 &nbsp; 마이크로소프트(MS)의 코파일럿 앱. 앱스토어 캡처 오픈AI의 파트너인 MS는 AI 챗봇 ‘코파일럿’을 모바일 앱으로 출시하며 챗GPT 앱과 경쟁 구도를 형성했다. 30일(현지시간) IT 매체 더버지는 MS가 코파일럿 안드로이드 앱에 이어 iOS 앱도 출시됐다고 보도했다. 이메일 등 텍스트 초안을 작성할 수 있고, 이미지도 생성할 수 있다. GPT-4를 기반으로 하지만 무료로 이용할 수 있는 것이 특징이다. 오픈AI는 GPT-4를 유료로 제공하고 있다. 김남영 기자 kim.namyoung3@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.12.31 16:09</p>
+<button type="button" class="btn_bookmark" data-cid="25218770" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주말 일본서 장어덮밥 먹고 온다…요즘 대세는 '밤도깨비 여행' [팩플]]]></title>
         <id>https://www.joongang.co.kr/article/25218528</id>
         <link href="https://www.joongang.co.kr/article/25218528"/>
         <updated>2023-12-29T07:08:48.765Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25218528" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25218528" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/29/d9899b1a-ed80-40cb-80be-27893a962f0a.jpg/_ir_410x230_/" alt="주말 일본서 장어덮밥 먹고 온다…요즘 대세는 '밤도깨비 여행' [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25218528" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25218528" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 주말 일본서 장어덮밥 먹고 온다…요즘 대세는 '밤도깨비 여행' [팩플]
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25218445"/>
         <updated>2023-12-29T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25218445" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25218445" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/29/2f73f3ec-8a2a-4e6a-87e8-0a34b6999510.jpg/_ir_410x230_/" alt="[단독] 카카오 정신아 &quot;1000명 크루 만날 것&quot; 쇄신 나선다 | 팩플">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25218445" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25218445" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [단독] 카카오 정신아 "1000명 크루 만날 것" 쇄신 나선다 | 팩플
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25218114"/>
         <updated>2023-12-28T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25218114" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25218114" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/28/e566910d-753a-4140-ba66-315a34555c26.jpg/_ir_410x230_/" alt="유럽 최대 택시플랫폼 품는 카카오모빌리티, 이 규제에 발목? [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25218114" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25218114" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 유럽 최대 택시플랫폼 품는 카카오모빌리티, 이 규제에 발목? [팩플]
 </a>
 </h2>
@@ -92,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25217918"/>
         <updated>2023-12-27T08:11:43.997Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25217918" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25217918" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/27/53fd480e-ee66-436a-9115-a5aeea697625.jpg/_ir_410x230_/" alt="[팩플] 5G 속도, 지난해보다 개선…자존심 지킨 SKT·서울서 약진한 LGU+">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25217918" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25217918" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] 5G 속도, 지난해보다 개선…자존심 지킨 SKT·서울서 약진한 LGU+
 </a>
 </h2>
@@ -119,13 +146,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25217784"/>
         <updated>2023-12-27T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25217784" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25217784" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/27/6035840f-9959-4c1e-8589-2b1b4fa2416a.jpg/_ir_410x230_/" alt="中 게임주 하루 새 104조 증발…K게임도 '이것'에 떤다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25217784" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25217784" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 中 게임주 하루 새 104조 증발…K게임도 '이것'에 떤다 [팩플]
 </a>
 </h2>
@@ -146,13 +173,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25217626"/>
         <updated>2023-12-26T09:09:26.957Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25217626" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25217626" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/26/8fc0234a-f107-4e6b-86bb-9617389bba13.jpg/_ir_410x230_/" alt="구글, 3만명 구조조정 추진설…커지는 AI發 해고 공포 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25217626" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25217626" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 구글, 3만명 구조조정 추진설…커지는 AI發 해고 공포 [팩플]
 </a>
 </h2>
@@ -173,13 +200,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25217355"/>
         <updated>2023-12-25T09:09:47.090Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25217355" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25217355" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/25/f97ea481-6713-4561-a675-982a18521d4b.jpg/_ir_410x230_/" alt="오픈AI 몸값, 130조까지 올랐다…AI '쩐의 전쟁' 뒤 짙어진 그늘 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25217355" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25217355" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 오픈AI 몸값, 130조까지 올랐다…AI '쩐의 전쟁' 뒤 짙어진 그늘 [팩플]
 </a>
 </h2>
@@ -200,13 +227,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25217278"/>
         <updated>2023-12-25T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25217278" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25217278" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/25/7f7206cd-833a-4985-ae8c-0a6126cc1d1c.jpg/_ir_410x230_/" alt="&quot;근로자다&quot;&quot;프리랜서다&quot; 4년새 신분 4번 바뀐 기구한 '이 직업' [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25217278" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25217278" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 "근로자다""프리랜서다" 4년새 신분 4번 바뀐 기구한 '이 직업' [팩플]
 </a>
 </h2>
@@ -227,13 +254,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216978"/>
         <updated>2023-12-22T09:09:36.852Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216978" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25216978" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/22/526c10e2-ced5-4118-abf1-cd777e3c665f.jpg/_ir_410x230_/" alt="[팩플] 네이버, ‘뉴스혁신포럼’ 만든다...알고리즘 공정성·가짜뉴스 대응 논의">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216978" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25216978" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] 네이버, ‘뉴스혁신포럼’ 만든다...알고리즘 공정성·가짜뉴스 대응 논의
 </a>
 </h2>
@@ -254,13 +281,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216975"/>
         <updated>2023-12-22T09:09:36.856Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216975" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25216975" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/22/0be6bbf8-4756-45fa-9e62-6b10592c5509.jpg/_ir_410x230_/" alt="이종호 &quot;R&amp;D 예산 감축, 경쟁력 위한 고통&quot;…과학계는 우려 여전 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216975" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25216975" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 이종호 "R&amp;D 예산 감축, 경쟁력 위한 고통"…과학계는 우려 여전 [팩플]
 </a>
 </h2>
@@ -281,13 +308,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216911"/>
         <updated>2023-12-22T00:21:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216911" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25216911" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/22/333c1a37-b76d-41f3-ba11-5792e6045574.jpg/_ir_410x230_/" alt="[팩플] 상속세로 낸 NXC 주식, 공개매각 유찰…2대 주주 모시는 길 ‘험난’">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216911" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25216911" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 상속세로 낸 NXC 주식, 공개매각 유찰…2대 주주 모시는 길 ‘험난’
 </a>
 </h2>
@@ -308,13 +335,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216687"/>
         <updated>2023-12-21T10:09:37.964Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216687" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25216687" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/21/45e8705e-b6b6-45b0-a894-2e4573dd79f0.jpg/_ir_410x230_/" alt="[팩플] ‘윤석열 AI’ ‘이재명 NFT’ 옛말...2024년 선거와 IT, 이유있는 결별 ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216687" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25216687" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] ‘윤석열 AI’ ‘이재명 NFT’ 옛말...2024년 선거와 IT, 이유있는 결별
 </a>
 </h2>
@@ -335,13 +362,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216332"/>
         <updated>2023-12-20T09:09:02.398Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216332" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25216332" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/20/487387cd-fed1-491f-99d1-4af782078420.jpg/_ir_410x230_/" alt="[팩플] '서학개미' 노리던 카카오페이, 美 증권사 인수 무산">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216332" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25216332" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] '서학개미' 노리던 카카오페이, 美 증권사 인수 무산
 </a>
 </h2>
@@ -362,13 +389,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216325"/>
         <updated>2023-12-20T09:09:02.413Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216325" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25216325" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/20/e3716222-8548-437a-a8c7-bae93f2f2291.jpg/_ir_410x230_/" alt="[팩플] 초개인화 IPTV로 시청자 잡는다…AI 앞세운 SKB, ‘코드커팅’ 대응 전략은">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216325" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25216325" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] 초개인화 IPTV로 시청자 잡는다…AI 앞세운 SKB, ‘코드커팅’ 대응 전략은
 </a>
 </h2>
@@ -389,13 +416,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216027"/>
         <updated>2023-12-19T11:08:26.158Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216027" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25216027" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/19/9c8f6888-9f7c-4d6d-a940-7642f569be91.jpg/_ir_410x230_/" alt="'제4 이통사' 8수 성공할까…28GHz 주파수에 도전한 3개사 어디? [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216027" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25216027" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 '제4 이통사' 8수 성공할까…28GHz 주파수에 도전한 3개사 어디? [팩플]
 </a>
 </h2>
@@ -416,13 +443,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216020"/>
         <updated>2023-12-19T10:09:54.399Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216020" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25216020" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/19/2648579d-a60a-4403-bc54-a3e1a896a2fd.jpg/_ir_410x230_/" alt="[팩플] 네이버·삼성 저전력 고효율 AI 반도체 첫 공개">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216020" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25216020" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [팩플] 네이버·삼성 저전력 고효율 AI 반도체 첫 공개
 </a>
 </h2>
@@ -443,13 +470,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25216002"/>
         <updated>2023-12-19T09:10:07.343Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25216002" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25216002" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/19/2c41b6ea-c280-4ad8-b065-b08c042c6b90.jpg/_ir_410x230_/" alt="[팩플] 카카오모빌리티, 검찰수사 받는다…중기부 '콜 몰아주기' 검찰고발 요청">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25216002" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25216002" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 [팩플] 카카오모빌리티, 검찰수사 받는다…중기부 '콜 몰아주기' 검찰고발 요청
 </a>
 </h2>
@@ -470,13 +497,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25215669"/>
         <updated>2023-12-18T09:10:29.650Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25215669" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25215669" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/18/0b6345e9-8c2d-4d77-9f61-088f159515bc.jpg/_ir_410x230_/" alt="[팩플] 카카오 준신위 &quot;계열사 인수합병도 본다&quot;...내외부 쇄신 속도내는 카카오">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25215669" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25215669" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] 카카오 준신위 "계열사 인수합병도 본다"...내외부 쇄신 속도내는 카카오
 </a>
 </h2>
@@ -497,13 +524,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25215624"/>
         <updated>2023-12-18T07:09:28.183Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25215624" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25215624" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/18/310282db-85d7-485b-859c-2a7267f8ecbf.jpg/_ir_410x230_/" alt="[팩플] 데이터의 보물창고 ‘건보’ 잡은 네이버...건보데이터에 AI 결합한다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25215624" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25215624" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] 데이터의 보물창고 ‘건보’ 잡은 네이버...건보데이터에 AI 결합한다
 </a>
 </h2>
@@ -524,13 +551,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25215613"/>
         <updated>2023-12-18T07:09:28.184Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25215613" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25215613" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/18/b5f70164-7310-4d74-b285-fafd8c4e09b3.jpg/_ir_410x230_/" alt="[팩플] 카카오모빌리티 이번엔 부당노동행위 논란…‘노조 과다 지원’ 고용부 조사">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25215613" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25215613" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] 카카오모빌리티 이번엔 부당노동행위 논란…‘노조 과다 지원’ 고용부 조사
 </a>
 </h2>
@@ -551,13 +578,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25215499"/>
         <updated>2023-12-18T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25215499" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25215499" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/18/71dedc44-2337-4438-ae80-39a4e0d91461.jpg/_ir_410x230_/" alt="5년새 매출 50배, 서울 왜 가요…20대 '디지털 사장' 지방 대박 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25215499" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25215499" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 5년새 매출 50배, 서울 왜 가요…20대 '디지털 사장' 지방 대박 [팩플]
 </a>
 </h2>
@@ -578,13 +605,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25215410"/>
         <updated>2023-12-17T10:09:26.990Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25215410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25215410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/17/4f1f5394-4d16-4d91-826e-fc5594f58cd0.jpg/_ir_410x230_/" alt="[팩플] 韓총선ㆍ美대선에 사이버 범죄도 대목…생성AI발 범죄 는다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25215410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25215410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 [팩플] 韓총선ㆍ美대선에 사이버 범죄도 대목…생성AI발 범죄 는다
 </a>
 </h2>
@@ -605,13 +632,13 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
         <link href="https://www.joongang.co.kr/article/25215135"/>
         <updated>2023-12-15T08:11:52.266Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25215135" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25215135" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/16/dd0a7f46-1054-43d4-b4f8-198d28da28ca.jpg/_ir_410x230_/" alt="&quot;배달라이더도 유급휴가 받는 피고용인&quot;…배민 긴장시킨 EU [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25215135" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25215135" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 "배달라이더도 유급휴가 받는 피고용인"…배민 긴장시킨 EU [팩플]
 </a>
 </h2>
@@ -621,33 +648,6 @@ KT가 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 �
 <div class="meta">
 <p class="date">2023.12.15 16:49</p>
 <button type="button" class="btn_bookmark" data-cid="25215135" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인과 통화, 한국어로 말해도 통하네…'AI 통역' 쏟아진다 [팩플]]]></title>
-        <id>https://www.joongang.co.kr/article/25214859</id>
-        <link href="https://www.joongang.co.kr/article/25214859"/>
-        <updated>2023-12-14T10:10:15.646Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25214859" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202312/14/21e3059f-be9b-4c9f-b6a7-5d580b574e11.jpg/_ir_410x230_/" alt="외국인과 통화, 한국어로 말해도 통하네…'AI 통역' 쏟아진다 [팩플]">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25214859" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-외국인과 통화, 한국어로 말해도 통하네…'AI 통역' 쏟아진다 [팩플]
-</a>
-</h2>
-<p class="description">
-SK텔레콤은 AI 기반으로 통화 중에 실시간으로 통역해주는 '에이닷 통역콜' 서비스를 출시한다고 14일 밝혔다. 사진 SKT &nbsp; 영어를 못 하는데 업무 차 해외에 전화해야 한다면? 일본어를 못하는데 영어가 통하지 않는 현지 스시 전문점에 예약을 문의하려면? 일상 생활에서 외국어 때문에 겪어야 했던 불편함을 인공지능(AI) 기술이 해결하고 있다. 전화 통화시 실시간으로 외국어를 통역해주는 서비스가 속속 나오면서다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; SK텔레콤은 통화 내용을 실시간으로 통역해주는 ‘에이닷(A.) 통역콜’ 서비스를 출시한다고 14일 밝혔다. 지원하는 언어는 한국어, 영어, 일본어, 중국어 4개다. SKT는 향후 11개 언어로 서비스를 확대할 계획이다. SKT는 “현재 진행 중인 애플 앱스토어(앱마켓) 심사가 끝나는대로 업데이트 기능이 배포될 것”이라며 “현재는 아이폰 사용자만 이용할 수 있지만, 안드로이드 앱 버전도 준비 중”이라고 말했다. &nbsp; SKT가 출시한 '에이닷 통역콜' 서비스 화면. 사진 SKT &nbsp;━&nbsp; 왜 중요해 &nbsp; 소비자들이 체감할 수 있는 AI 서비스 발굴 경쟁이 치열해지고 있다. 정보기술(IT) 업계에선 실시간 통역이 AI를 확산할 킬러 콘텐트가 될 수 있다고 본다. 유영상 SKT 대표는 지난 9월 글로벌 AI 컴퍼니 전략을 발표하며 “거대언어모델(LLM)을 통해 양방향 통역 전화 서비스를 내놓겠다”고 말했다. &nbsp; &nbsp; SKT는 실시간 통역 서비스를 디딤돌 삼아 에이닷을 ’AI 개인 비서‘로 확실히 각인시키려 한다. AI 개인 비서 시장이 LLM의 승부처라고 보기 때문. AI 수면 관리, 챗봇 등을 서비스하는 에이닷에 지난 10월에는 아이폰 통화녹음ㆍ요약 서비스를 추가했다. 유 대표는 ”향후 수년 안에 2차 AI 개인비서 전쟁이 발발할 것이고, 글로벌 선두권 기업들이 경쟁하는 격전지가 될 것“이라고 말했다. 현재 이용자 1명이 온라인 동영상 서비스(OTT)를 2∼3개씩 쓰듯, AI 개인 비서를 2∼3개씩 쓰는 시대가 온다는 것. &nbsp; &nbsp; &nbsp;━&nbsp; 갤럭시 사용자들은? &nbsp; 삼성전자는 다음달 앱 서비스에서 한 발 나아가, 스마트폰에서 바로 AI를 구동할 수 있는 ’온디바이스(On-Device) AI‘ 기기를 공개할 것으로 알려졌다. 현재 대부분의 AI 모델은 클라우드에서 대규모 연산을 통해 답을 도출해야 하는데, 온디바이스 AI는 인터넷 접속 없이 스마트폰과 같은 단말기 내에서 바로 연산과 추론을 처리한다. 삼성전자는 내년 출시될 갤럭시S24부터 AI 모델 ’가우스‘를 장착할 계획. &nbsp; 가우스를 바탕으로 갤럭시S24에선 실시간 통역 통화 'AI 라이브 통역 콜' 기능이 제공될 것으로 보인다. 기기에 AI 모델이 탑재돼 있기 때문에 별도 앱을 설치할 필요가 없다. 통화 내용이 클라우드 등 외부 나가지 않기 때문에 보안 측면에서도 안전하다는 게 삼성전자의 설명이다. 휴대전화에서 바로 구동되기 때문에 지연시간(latency)이 앱 서비스에 비해 적다는 것도 장점. &nbsp; &nbsp; &nbsp;━&nbsp; 에이닷 통역, 어떻게 쓸 수 있어 &nbsp; SKT가 개발한 에이닷 앱에 접속해 ’통역콜‘ 아이콘을 누르면 해당 기능을 이용할 수 있다. 통역이 필요한 언어를 선택하고 전화를 걸어 수신자가 받으면 바로 ”잠시만요, 지금부터 통역을 위해 통화내용이 번역기로 전달됩니다“라는 내용이 선택한 언어로 고지된다. &nbsp; &nbsp; 그 뒤에 한국어로 필요한 말을 하면, 음성을 인식해 통화 내용을 텍스트로 옮긴 후(STT) AI가 번역한다. 이 내용을 다시 해당 국가 언어로 말하도록(TTS) 음성을 합성해 수신자에게 전달하는 방식이다. 예를 들어 국내 이용자가 해외 식당이나 호텔의 예약을 변경할 때 에이닷 전화에 “예약을 변경하고 싶다”고 말하면, 수신자에게는 “I‘d like to change the reservation schedule”이라고 들리는 식이다. 통화 상대방이 아이폰을 쓰지 않거나 다른 통신사를 사용하더라도 통역 전화를 이용할 수 있다. &nbsp; &nbsp; 김영옥 기자 &nbsp; 에이닷 통역콜은 국내 거주 외국인이 한국인에게 전화를 걸 때도 유용하게 쓸 수 있다. 한국어가 서툰 외국인들이 국내 관공서나 병원에 전화할 때 통역콜의 도움을 받을 수 있다는 것. 김용훈 SKT AI서비스사업부장은 ”통신 기술과 AI를 접목해 언어 장벽 문제를 해결해 줄 수 있을 것으로 기대된다“며 ”에이닷이 AI 개인비서로 진화할 수 있도록 힘쓸 계획“이라고 말했다. &nbsp; 관련기사 아이폰 통화녹음 써보니…통화 중 말한 폰번호, 자동 저장됐다 [팩플] [팩플] SKT, 통신 특화 AI로 승부…‘실속있는 새우‘ 전략 통할까 [단독] SKT發 ‘아이폰 통화녹음’ 통신3사 확대? LG U+도 개발 | 팩플권유진 기자 kwen.yujin@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.12.14 18:32</p>
-<button type="button" class="btn_bookmark" data-cid="25214859" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
