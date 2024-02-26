@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2024-02-26T20:10:24.500Z</updated>
+    <updated>2024-02-26T21:10:28.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA["선거 망치는 딥페이크 잡자"…AI필터로 거르고 워터마크 넣는다 [팩플]]]></title>
+        <id>https://www.joongang.co.kr/article/25231412</id>
+        <link href="https://www.joongang.co.kr/article/25231412"/>
+        <updated>2024-02-27T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25231412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/27/33802024-26ae-4659-bbb6-0dd1c79d8c8a.jpg/_ir_410x230_/" alt="&quot;선거 망치는 딥페이크 잡자&quot;…AI필터로 거르고 워터마크 넣는다 [팩플]">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25231412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+"선거 망치는 딥페이크 잡자"…AI필터로 거르고 워터마크 넣는다 [팩플]
+</a>
+</h2>
+<p class="description">
+기술·플랫폼&nbsp;기업들이 딥페이크(AI 기술을 활용해 인물 등을 합성, 조작한 이미지‧영상)가 선거에 미치는 영향을 최소화하기 위한 본격 대응에 나섰다. &nbsp; 사진 셔터스톡 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 한국인터넷기업협회(인기협)는 구글코리아, 네이버, 메타, SK커뮤니케이션즈, 카카오, 바이트댄스(틱톡) 등 회원사들이 딥페이크에 대응하는 자율협의체를 구성했다고 26일 밝혔다. 오는 4월로 다가온 제22대 국회의원‧재보궐선거의 공정성·신뢰성을 제고하기 위해서다. 이들은 선거에 영향을 미치기 위해 악의적으로 제작·편집한 딥페이크 영상·음성·이미지에 대한 대응방안을 조만간 발표한다. &nbsp; 앞서 지난 23일 방송통신위원회는 국내외 플랫폼 사업자들과 딥페이크 허위 정보 대응 관련 자율규제 강화를 위한 회의를 열었다. 네이버, 카카오, 구글, 메타 등 플랫폼 기업 관계자들이 참석했다. 이날 회의는 딥페이크 기술 관련 사회적 문제가 대두되면서 기업 차원의 피해 예방 대책을 논의하기 위해 마련됐다. 방통위는 정부 규제가 아닌 사업자 자율규제로 딥페이크에 대응할 방침이다. 방통위 관계자는 “앞으로 계속 사업자들과 회의하면서 기술개발 현황, 정책 변경 상황 등을 확인할 것”이라고 전했다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; AI가 ‘선거의 해’를 뒤흔들 수 있다. 올해는 한국 포함 전 세계 76개국에서 대선, 총선 등 각종 선거가 치러지는 해다. 생성 AI 발전으로 AI 합성, 조작 기술을 다루는 게 쉬워지면서, 이를 이용해 선거를 교란시키는 악성 콘텐트가 다량 생산되고 있다. 세계경제포럼(WEF‧다보스포럼)이 펴낸 ‘글로벌 리스크 리포트 2024’에 따르면 ‘AI로 생성한 가짜 정보’는 기후위기에 이어 인류의 위협 요인으로 지목됐다. &nbsp; &nbsp;━&nbsp; 기업들은 뭐해 &nbsp; 딥페이크에 대한 우려가 커지면서 국내외 플랫폼 기업과 AI 기업들은 잇따라 대책을 내놓고 있다. ‧국내는: 네이버는 이용자가 딥페이크 관련 키워드를 검색할 경우 경고 문구를 노출할 예정이다. 이미 카페, 블로그에 이미지와 같은 콘텐트를 업로드할 때도 허위 정보를 포함한 딥페이크 영상에 대한 주의 문구를 이달부터 노출하고 있다. 거대언어모델(LLM)인 하이퍼클로바X 기반 챗봇 클로바X에도 안전 조치를 취했다. 클로바X에 얼굴 합성 등을 요청하면 답변을 제공하지 않는 방식이다. 네이버 관계자는 “AI 콘텐트 필터링 기술인 ‘그린아이’로 유해 딥페이크를 실시간 차단하고 있다”고 했다.&nbsp; 카카오는 이미지 생성 AI 모델인 칼로와 관련해 가시적 워터마크를 표시하고 있다. 카카오 관계자는 “칼로 이미지에 비가시적 워터마크를 넣는 연구를 하고 있으며, 실제 적용도 검토하고 있다”고 설명했다. &nbsp; ‧해외는: 오픈AI, 구글 등 20개 빅테크 기업은 지난 16일(현지시간) 독일 뮌헨안보회의(MSC)에서 딥페이크 콘텐트에 AI가 생성했다는 라벨을 붙이기로 한 내용의 합의문을 발표했다. 오픈AI는 이미지 생성 AI 달리가 만든 이미지에 C2PA(콘텐트 출처 및 진위 확인을 위한 연합) 워터마크를 부착한다. 구글 역시 자사 이미지 생성AI에 워터마크 기술 ‘신스ID’를 적용했다. 페이스북‧인스타그램‧스레드를 운영하는 메타는 자체 AI 도구인 메타 AI를 활용해 만든 이미지에 ‘이매진드 위드 AI’라는 라벨을 붙여왔다. 메타는 이 방식을 외부 AI 도구로 만든 콘텐트에도 적용하겠다는&nbsp; 입장이다. 박경민 기자 &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 기업들의 자정 노력에도 불구하고 딥페이크 관련 규제가 확산될 수 있다. 빅테크들의 자정 노력에 한계가 있다는 비판이 나오고 있어서다. 뮌헨 합의문에서도 딥페이크 콘텐트를 삭제해야 한다는 내용은 들어가지 않았다. &nbsp; 유럽연합(EU) 회원국들은 지난 2일 AI가 콘텐트를 생성했다는 워터마크를 강제하는 ‘AI법’을 만장일치로 통과시켰다. 미국에선 연방거래위원회(FTC)가 AI를 이용한 특정 인물이나 기업‧기관을 사칭하는 행위를 처벌할 것이라고 지난 15일 밝혔다. 한국은 지난해 12월 김승수 국민의힘 의원이 AI로 정보 제작 시 워터마크 삽입 의무화를 골자로 한 정보통신망법 개정안을 발의했다. &nbsp; 김명주 서울여대 정보보호학과 교수(바른AI연구센터장)는 “AI로 발생하는 진짜와 가짜 사이 혼돈을 막기 위해 할 수 있는 최소한의 기술적 조치가 워터마크”라며 “워터마크를 회피할 수 있는 기술도 있기에 완전히 막을 방법은 없지만, 만드는 이들에게 심리적으로 부담을 주는 효과는 있을 것이라고 본다”고 말했다. 김남영·여성국 기자 kim.namyoung3@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.02.27 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25231412" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이러다 죽지" 환자 바꾼다…쌀밥부터 먹으면 화내는 앱 [팩플 오리지널]]]></title>
         <id>https://www.joongang.co.kr/article/25231377</id>
         <link href="https://www.joongang.co.kr/article/25231377"/>
         <updated>2024-02-27T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25231377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/27/0452f499-dd41-4ed2-ae13-1e19d3344573.jpg/_ir_410x230_/" alt="&quot;이러다 죽지&quot; 환자 바꾼다…쌀밥부터 먹으면 화내는 앱 [팩플 오리지널]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25231377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 "이러다 죽지" 환자 바꾼다…쌀밥부터 먹으면 화내는 앱 [팩플 오리지널]
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25231283"/>
         <updated>2024-02-26T10:11:12.768Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25231283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/26/e4b27ab3-e019-44ac-9dc9-8cd6adef7be3.jpg/_ir_410x230_/" alt="&quot;절대반지, 말도 안되게 가벼워&quot;...갤럭시링 첫선, 최태원도 '오픈런' [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25231283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 "절대반지, 말도 안되게 가벼워"...갤럭시링 첫선, 최태원도 '오픈런' [팩플]
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25231277"/>
         <updated>2024-02-26T09:10:31.023Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231277" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25231277" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/26/e57985d9-2608-48ac-b1bd-10ef63dd8e3d.jpg/_ir_410x230_/" alt="[팩플] SK텔레콤 주도 글로벌 AI 동맹, 소프트뱅크 합류…생성 AI 만들 합작법인 설립">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231277" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25231277" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] SK텔레콤 주도 글로벌 AI 동맹, 소프트뱅크 합류…생성 AI 만들 합작법인 설립
 </a>
 </h2>
@@ -92,13 +119,13 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
         <link href="https://www.joongang.co.kr/article/25230974"/>
         <updated>2024-02-25T07:08:55.340Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25230974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/25/a789336c-5f8c-4720-b43a-0675f6b71db7.jpg/_ir_410x230_/" alt="손가락 끼면 놀라운 일…'절대반지' 갤럭시링, MWC서 첫 공개 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25230974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 손가락 끼면 놀라운 일…'절대반지' 갤럭시링, MWC서 첫 공개 [팩플]
 </a>
 </h2>
@@ -119,13 +146,13 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
         <link href="https://www.joongang.co.kr/article/25230724"/>
         <updated>2024-02-23T09:09:06.231Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230724" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25230724" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/23/9c4c13bc-43fd-4d21-b440-aadec5465bd5.jpg/_ir_410x230_/" alt="[팩플] ‘AI가 역사 왜곡?’…구글 제미나이 AI 이미지 기능 중단">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230724" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25230724" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [팩플] ‘AI가 역사 왜곡?’…구글 제미나이 AI 이미지 기능 중단
 </a>
 </h2>
@@ -146,13 +173,13 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
         <link href="https://www.joongang.co.kr/article/25230483"/>
         <updated>2024-02-22T09:10:22.053Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230483" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25230483" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/22/11c9861b-6026-45b6-baf1-38817c089169.jpg/_ir_410x230_/" alt="[팩플]우주산업 핵심 '위성'…농산물‧기름 가격 예측하고 돈 번다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230483" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25230483" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플]우주산업 핵심 '위성'…농산물‧기름 가격 예측하고 돈 번다
 </a>
 </h2>
@@ -173,13 +200,13 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
         <link href="https://www.joongang.co.kr/article/25230480"/>
         <updated>2024-02-22T09:10:22.054Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25230480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/22/fcda9167-89e9-4cb8-8397-6a3995e5b3ec.jpg/_ir_410x230_/" alt="[팩플] 이번엔 W, 확전하는 ‘리니지’ 전쟁…엔씨, 카카오게임즈에 표절 소송">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25230480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] 이번엔 W, 확전하는 ‘리니지’ 전쟁…엔씨, 카카오게임즈에 표절 소송
 </a>
 </h2>
@@ -200,13 +227,13 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
         <link href="https://www.joongang.co.kr/article/25230195"/>
         <updated>2024-02-21T09:10:58.279Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230195" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25230195" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/21/6648d39a-1600-4862-9480-2a6b49c3bbb8.jpg/_ir_410x230_/" alt="SKT, AI 데이터센터 시장 진출...GPU 클라우드 회사 ‘람다’와 손 잡았다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230195" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25230195" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 SKT, AI 데이터센터 시장 진출...GPU 클라우드 회사 ‘람다’와 손 잡았다
 </a>
 </h2>
@@ -227,13 +254,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25230164"/>
         <updated>2024-02-21T08:13:07.232Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230164" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25230164" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/21/722b8756-46cb-4c5f-98d4-f15dd5de1920.jpg/_ir_410x230_/" alt="[팩플] &quot;한국 간호사 윤리강령으로 옳은 것은?&quot; 한국판 AI 시험 만든 네이버">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230164" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25230164" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] "한국 간호사 윤리강령으로 옳은 것은?" 한국판 AI 시험 만든 네이버
 </a>
 </h2>
@@ -254,13 +281,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25229939"/>
         <updated>2024-02-20T09:09:37.707Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25229939" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25229939" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/20/75556fce-3124-4978-8e58-4c4078b71070.jpg/_ir_410x230_/" alt="&quot;모바일 퍼스트? 이젠 아니다&quot;…'알파고 아버지'도 찾는 MWC 2024 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25229939" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25229939" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 "모바일 퍼스트? 이젠 아니다"…'알파고 아버지'도 찾는 MWC 2024 [팩플]
 </a>
 </h2>
@@ -281,13 +308,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25229937"/>
         <updated>2024-02-20T09:09:37.708Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25229937" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25229937" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/20/5b31e3b9-5852-4366-99aa-57bb3afa7b3b.jpg/_ir_410x230_/" alt="[팩플] ‘컨트롤 타워 책임 강화’…카카오, 쪼개기·먹튀 비판 딛고 쇄신 가능할까">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25229937" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25229937" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] ‘컨트롤 타워 책임 강화’…카카오, 쪼개기·먹튀 비판 딛고 쇄신 가능할까
 </a>
 </h2>
@@ -308,13 +335,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25229667"/>
         <updated>2024-02-19T09:09:59.786Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25229667" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25229667" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/19/e2fa42a4-bdd7-4171-8ccd-c314df122eeb.jpg/_ir_410x230_/" alt="[팩플] “EU, 애플에 7200억 과징금 부과”…빅테크 독점 규제 본격화">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25229667" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25229667" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] “EU, 애플에 7200억 과징금 부과”…빅테크 독점 규제 본격화
 </a>
 </h2>
@@ -335,13 +362,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25229421"/>
         <updated>2024-02-18T09:09:17.832Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25229421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25229421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/18/c828fbaf-1327-4dae-9e8d-51b54aba4a11.jpg/_ir_410x230_/" alt="[팩플] MWC2024 키워드는 ‘AI’...빅테크·통신사가 선보이는 미래 기술은">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25229421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25229421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] MWC2024 키워드는 ‘AI’...빅테크·통신사가 선보이는 미래 기술은
 </a>
 </h2>
@@ -362,13 +389,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25229410"/>
         <updated>2024-02-18T09:09:17.832Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25229410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25229410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/18/06e6a37c-8b4e-42b8-8807-0df652bf65fa.jpg/_ir_410x230_/" alt="[팩플] &quot;엔비디아 잡아라&quot; 손정의, AI 반도체에 133조원 투자한다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25229410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25229410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] "엔비디아 잡아라" 손정의, AI 반도체에 133조원 투자한다
 </a>
 </h2>
@@ -389,13 +416,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25229174"/>
         <updated>2024-02-16T08:11:27.448Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25229174" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25229174" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/16/7e99eced-e018-4369-89f4-09e7af4ed3ea.jpg/_ir_410x230_/" alt="&quot;치마 입고 걸어라&quot; 명령에 영상 '뚝딱'…오픈AI 뜨거운 야심작 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25229174" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25229174" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 "치마 입고 걸어라" 명령에 영상 '뚝딱'…오픈AI 뜨거운 야심작 [팩플]
 </a>
 </h2>
@@ -416,13 +443,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25229085"/>
         <updated>2024-02-16T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25229085" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25229085" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/16/5812750f-e0e3-494e-9722-47ce3983f2f4.jpg/_ir_410x230_/" alt="구글에 광고수입 200조원 안겨준 '웹검색'…오픈AI의 도전장 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25229085" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25229085" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 구글에 광고수입 200조원 안겨준 '웹검색'…오픈AI의 도전장 [팩플]
 </a>
 </h2>
@@ -443,13 +470,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25228932"/>
         <updated>2024-02-15T09:11:30.902Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25228932" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25228932" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/15/998022aa-f89b-4859-b867-163386b543b6.jpg/_ir_410x230_/" alt="[팩플] ‘카톡’으로 버틴 카카오, 올해는 ‘카톡+AI’로 간다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25228932" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25228932" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 [팩플] ‘카톡’으로 버틴 카카오, 올해는 ‘카톡+AI’로 간다
 </a>
 </h2>
@@ -470,13 +497,13 @@ SK텔레콤이 인공지능(AI) 필수 인프라인 AI 데이터센터(DC)사업
         <link href="https://www.joongang.co.kr/article/25228830"/>
         <updated>2024-02-15T10:38:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25228830" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25228830" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/15/ebcdde5c-a39c-412e-9fec-8f3633566a63.jpg/_ir_410x230_/" alt="KT, 올해 최대 1000명 채용…&quot;AI인재 확보&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25228830" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25228830" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 KT, 올해 최대 1000명 채용…"AI인재 확보"
 </a>
 </h2>
@@ -497,13 +524,13 @@ KT가 인공지능(AI) 등 디지털 혁신 분야 전문 인재를 확보하기
         <link href="https://www.joongang.co.kr/article/25228801"/>
         <updated>2024-02-15T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25228801" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25228801" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/15/0b9d6aa0-6966-4af1-af9c-7e39f258dcdf.jpg/_ir_410x230_/" alt="&quot;당신 딸, 해파리 좋아하지&quot; 나보다 내 과거 잘 아는 비서 등장 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25228801" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25228801" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 "당신 딸, 해파리 좋아하지" 나보다 내 과거 잘 아는 비서 등장 [팩플]
 </a>
 </h2>
@@ -524,13 +551,13 @@ KT가 인공지능(AI) 등 디지털 혁신 분야 전문 인재를 확보하기
         <link href="https://www.joongang.co.kr/article/25228646"/>
         <updated>2024-02-14T08:11:49.737Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25228646" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25228646" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/14/6a8208d6-15d3-4bd2-97f6-d3275bd93acd.jpg/_ir_410x230_/" alt="&quot;미국선 공짜래&quot; 역차별 논란 부른 갤S24의 진실 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25228646" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25228646" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 "미국선 공짜래" 역차별 논란 부른 갤S24의 진실 [팩플]
 </a>
 </h2>
@@ -551,13 +578,13 @@ KT가 인공지능(AI) 등 디지털 혁신 분야 전문 인재를 확보하기
         <link href="https://www.joongang.co.kr/article/25228410"/>
         <updated>2024-02-13T10:09:17.537Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25228410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25228410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/13/570f6b1f-5ba8-490c-852c-ca1ce0d51f08.jpg/_ir_410x230_/" alt="[팩플] 카카오 컨트롤타워에 5개 위원회 신설…계열사 통제 강화 ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25228410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25228410" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] 카카오 컨트롤타워에 5개 위원회 신설…계열사 통제 강화
 </a>
 </h2>
@@ -578,13 +605,13 @@ KT가 인공지능(AI) 등 디지털 혁신 분야 전문 인재를 확보하기
         <link href="https://www.joongang.co.kr/article/25228077"/>
         <updated>2024-02-12T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25228077" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25228077" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/12/f0c06fba-2829-40de-abdf-50ce56df3183.jpg/_ir_410x230_/" alt="위메프보다 알리서 더 산다…‘싸구려 중국산’ 무서운 침공 [팩플 오리지널]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25228077" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25228077" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 위메프보다 알리서 더 산다…‘싸구려 중국산’ 무서운 침공 [팩플 오리지널]
 </a>
 </h2>
@@ -605,13 +632,13 @@ KT가 인공지능(AI) 등 디지털 혁신 분야 전문 인재를 확보하기
         <link href="https://www.joongang.co.kr/article/25227896"/>
         <updated>2024-02-09T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25227896" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25227896" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/09/dfa8303c-4950-4a2a-bd11-63e4dde1b489.jpg/_ir_410x230_/" alt="설 연휴에 강아지 어디 맡길까…중개 앱에 물어보세요 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25227896" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25227896" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 설 연휴에 강아지 어디 맡길까…중개 앱에 물어보세요 [팩플]
 </a>
 </h2>
@@ -621,33 +648,6 @@ KT가 인공지능(AI) 등 디지털 혁신 분야 전문 인재를 확보하기
 <div class="meta">
 <p class="date">2024.02.09 06:00</p>
 <button type="button" class="btn_bookmark" data-cid="25227896" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수학·물리학선 인간 이긴다…구글 AI '제미나이' 한국어도 지원 [팩플]]]></title>
-        <id>https://www.joongang.co.kr/article/25227889</id>
-        <link href="https://www.joongang.co.kr/article/25227889"/>
-        <updated>2024-02-09T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25227889" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/09/13117013-757c-4bef-b8f3-a158a6309f62.jpg/_ir_410x230_/" alt="수학·물리학선 인간 이긴다…구글 AI '제미나이' 한국어도 지원 [팩플]">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25227889" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-수학·물리학선 인간 이긴다…구글 AI '제미나이' 한국어도 지원 [팩플]
-</a>
-</h2>
-<p class="description">
-구글이 멀티모달 인공지능(AI) ‘제미나이(Gemini)’ 전용 앱을 출시하는 등 구글 서비스 전반에 AI 적용을 확대한다. 빅테크들 사이 AI 경쟁이 모델 고도화에서 생태계 구축으로 확장하고 있다. &nbsp; 구글의 멀티모달 인공지능(AI) 제미나이. 사진 구글 &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 8일(현지시간) 구글은 AI 챗봇의 명칭을 바드에서 제미나이로 변경한다고 발표했다. 구글 플레이스토어에서 제미나이 전용 안드로이드 모바일 앱도 출시한다. 애플의 iOS에선 구글 앱을 업데이트하면 제미나이를 쓸 수 있다. 앱은 150여개국에서 영어로 우선 제공하며, 다음주에는 한국어와 일본어도 서비스한다. 제미나이는 지난해 12월 오픈AI의 GPT-4에 맞서기 위해 구글이 내놓은 멀티모달 AI다. 텍스트·음성·이미지·영상 등 다양한 데이터를 받아들이고 처리할 수 있다.&nbsp;구글은 “스마트폰에서 펑크난 타이어 사진을 찍어 제미나이에게 대응방안 등 도움을 요청하거나, 파티 초대장을 위한 이미지를 생성할 수 있다”며 “진정한 AI 비서를 구축하기 위한 첫 단계”라고 했다. &nbsp; &nbsp;━&nbsp; 뭐가 달라져 &nbsp; ①드디어 나온 울트라:&nbsp;구글은 이날 제미나이 모델 중 가장 성능이 뛰어난 울트라 모델을 쓰는 ‘제미나이 어드밴스드’도 출시했다. 제미나이는 울트라·프로·나노 등 규모별 3개 모델로 나뉜다. 앞서 프로와 나노는 공개됐으나, 울트라는 이번에 처음 선보였다. 구글에 따르면 제미나이 울트라는 수학, 물리학, 역사 등 57개 주제에서 지식과 문제 해결 능력을 평가하는 MMLU(다중작업언어이해) 벤치마크에서 인간을 능가하는 것으로 나타났다. 잭 크로치크 구글 시니어 디렉터는 “울트라 1.0 모델이 적용된 제미나이 어드밴스드는 논리적 추론, 코딩, 창의적 협업과 같은 복잡한 작업에서 훨씬 더 뛰어난 성능을 발휘한다”고 설명했다. &nbsp; 제미나이 어드밴스드 기능은 구글의 구독 모델 ‘구글 원’을 월 19.99달러(약 2만6000원)에 구독하면 이용 가능하다. 챗GPT 유료 서비스인 ‘챗GPT 플러스’의 월 구독료(20달러)와 비슷한 가격이다. 구글 원 구독자는 지메일, 구글 독스, 화상회의 도구인 구글 미트 등에서 제미나이를 쓸 수 있다. &nbsp; 정근영 디자이너 &nbsp; ② 접근성 좋아진다: 기존 바드는 웹상으로 이용 가능했지만, 제미나이는 웹과 앱 둘 다 이용할 수 있게 됐다. AI 비서인 ‘구글 어시스턴트’를 통해서도 제미나이를 이용할 수 있다. 기업용 업무 AI인 ‘듀엣 AI’도 제미나이를 적용하고 이름도 ‘제미나이 포 구글 워크스페이스 앤드 구글 클라우드’로 바뀐다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; ①AI 생태계 강화하는 구글: 구글이 새로운 AI 모델을 모바일 앱부터 클라우드까지 적용하면서 AI 생태계를 강화하고 있다. 특히 제미나이라는 한 브랜드로 통합한 것이 특징이다. 오픈AI와 협업하고 있는 마이크로소프트(MS)가 운영체제(OS), 모바일 앱 등에서 코파일럿이라는 생성 AI 브랜드를 내세우고 있는 것과 유사하다. 오픈AI의 챗GPT 플러스와 같은 유료 구독 서비스를 내놓으면서 수익화도 본격적으로 시작했다. &nbsp; 김영옥 기자 ② 한국어 우선: 제미나이 모바일 앱은 영어에 이어 한국어‧일본어를 우선순위로 지원한다. 지난해 바드 출시 때도 영어 외 언어는 한국어‧일본어부터 제공했다. 하이퍼클로바X 기반의 AI 챗봇 ‘클로바X’를 내놓은 네이버에 위협이 될 수 있는 것.&nbsp;크로치크 시니어 디렉터는 제미나이의 한국어 지원 배경으로 “작년에 바드 운영 초기에 다양한 언어로 확장한다고 발표했을 때, 한국어와 일본어가 영어라는 언어가 보유하지 않은 다양성을 제공해준다는 걸 확인했다”며 “이후 한국어, 일본어 외 40개 이상 언어를 제공하기 시작하면서, 다양한 상황에서 AI 모델이 어떻게 행동하는지 조금씩 경험(build that playbook)을 쌓을 수 있었다”고 설명했다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 제미나이를 앞세운 구글의 AI 생태계는 계속 확장될 전망이다. 구글은 자사 스마트폰 픽셀에도 제미나이 나노를 탑재했다. 구글 클라우드에도 제미나이가 본격 적용되면서 MS의 클라우드 애저와도 맞붙을 것으로 보인다. 구글은 “제미나이와 관련된 구글 클라우드 발표가 곧 있을 것”이라고 밝혔다. 김남영 기자 kim.namyoung3@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.02.09 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25227889" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
