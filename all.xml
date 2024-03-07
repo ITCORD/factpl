@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-07T08:11:16.278Z</updated>
+    <updated>2024-03-07T09:08:35.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독] 카카오 내부 폭로∙욕설 파문…김정호 총괄 징계 수순  | 팩플 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -120,18 +120,45 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩플] “챗GPT, 저작권 침해 가장 심각”...풀기 어려운 AI저작권 침해 문제 (중앙일보 팩플 ─ 뉴스)]]></title>
+        <id>https://www.joongang.co.kr/article/25233601</id>
+        <link href="https://www.joongang.co.kr/article/25233601"/>
+        <updated>2024-03-07T09:07:52.107Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25233601" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202403/07/92ae262e-afb4-453d-97aa-297e2442b75e.jpg/_ir_410x230_/" alt="[팩플] “챗GPT, 저작권 침해 가장 심각”...풀기 어려운 AI저작권 침해 문제">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25233601" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] “챗GPT, 저작권 침해 가장 심각”...풀기 어려운 AI저작권 침해 문제
+</a>
+</h2>
+<p class="description">
+챗GPT 개발사 오픈AI의 대규모언어모델(LLM)인 GPT-4가 주요 인공지능(AI) 모델 중 저작권 보호에 가장 취약하다는 평가 결과가 나왔다. &nbsp; 챗GPT. AFP=연합뉴스 &nbsp;━&nbsp; 무슨 일이야 &nbsp; AI 모델 평가 스타트업인 미국 패트로너스AI는 6일(현지시간) 자체 솔루션을 통해 GPT-4(오픈AI), 클로드2(앤스로픽), 라마2(메타), 믹스트랄(미스트랄AI) 등 4개 LLM의 저작권 침해 정도를 분석해 발표했다. &nbsp; 분석은 100가지 명령어(프롬프트)를 입력해 AI모델의 답변을 평가하는 방식으로 진행됐다. 프롬프트는 미셸 오바마의『비커밍』, 조앤 롤링의&nbsp;『해리포터와 마법사의 돌』 등 유명 도서 첫 구절이 무엇인지 묻거나, 책에서 발췌한 내용을 일부 제시한 뒤 완성해 달라는 내용으로 구성됐다. &nbsp; 분석 결과 GPT-4는 44%의 프롬프트에서 책 내용을 정확하게 복제한 내용을 생성했다. 믹스트랄과 라마2는 각각 22%와 10%로 뒤를 이었고 클로드2는 8%에 그쳤다. 이 업체는 책 내용과 똑같은 문자가 100자 이상 포함됐을 경우 저작권을 침해한 것으로 판단했다. &nbsp; 신재민 기자 &nbsp;━&nbsp; 이게 왜 중요해&nbsp; &nbsp; 생성 AI모델 개발사와 콘텐트 공급자 간 저작권 갈등은 전 세계적 현상이다.&nbsp;관련 소송도 이어지고 있다. 뉴욕타임스(NYT)는 지난해 12월 자사 콘텐트를 챗GPT가 무단으로 학습에 사용했다며 오픈AI 등을 상대로 소송을 제기했다. 지난해 9월에도 드라마 ‘왕좌의 게임’ 원작자 등 베스트셀러 작가들이 챗GPT가 자신들의 창작물을 무단으로 사용했다며 집단 소송을 제기했다. &nbsp; &nbsp;━&nbsp; 풀기 힘든 ‘고차 방정식’&nbsp; &nbsp; 아직 명확한 기준이 없는 AI의 저작권 침해 논란을 해결하기 위해선 많은 쟁점과 이해 관계자들이 얽힌 ‘고차 방정식’을 풀어야 한다. &nbsp; ◦저작권 침해가 맞나: 가장 큰 쟁점은 생성 AI가 만든 결과물이 저작권을 침해했는지 여부다. 이번 패트로너스AI가 분석할 때 사용한 프롬프트도 LLM의 침해 수준을 검증하기 위해 다소 의도된 측면이 있다는 해석도 나온다. 질문 자체가&nbsp;첫 구절이 무엇인지 묻는 등 원문을 요구하기 때문이다.&nbsp;정상조 서울대 법학전문대학원 교수는 “일반 이용자들이 프롬프트를 입력했을 때 모든 결과물의 44%가 저작권 침해 가능성이 있다면 문제가 심각하지만, 의도를 가진 프롬프트에 따른 결과물로 저작권을 침해했다고 판단하기엔 섣부른 측면이 있다”고 말했다. &nbsp; ◦‘공정 이용’ 적용 가능한가:&nbsp;AI 개발사에 책임을 곧바로 묻기 어려운 측면도 있다. 저작권법상 ‘공정 이용(fair use)’ 조항이 명시돼 있어서다. 이 조항은 공공 이익에 부합할 경우 저작권자 허락없이 복제하거나 사용해도 저작권 침해에 해당하지 않는다고 보는 예외 조항이다. 생성 AI에도 이 조항을 적용할 수 있는지에 대해선 이견이 많다. 하지만 오픈AI 등 개발사들은 저작권 침해 주장에 이 조항을 거론하며 맞서고 있다. 조원희 법무법인 디라이트 변호사는 “비공개된 자료를 억지로 가져다 쓴 게 아닌 인터넷에 공개된 자료를 활용할 경우엔 공정한 이용에 해당할 수 있다는 법리를 활용하고 있다”고 말했다.&nbsp; &nbsp; ◦AI 발전 먼저? 보상한다면 어떻게: 가장 근본적인 쟁점은&nbsp;인류에게 도움이 될 AI 발전이 우선인지, 아니면 학습 데이터에 활용하는 저작물 보호가 우선인지 여부다. 절충방안으론 개발사가 저작권자에게 일정 보상을 제공하는 방식이 거론된다. 하지만 이 부분도 체계를 갖추려면 시간이 필요하다. 손승우 한국지식재산연구원장은 “AI 발전은 대세적 흐름이라 그 흐름을 막기는 어려울 것”이라면서 “저작권 보상 방식도&nbsp;보상의 대상이나 수준 등 각론으로 들어가면 이해 관계자별로 입장 차이가 매우 커 논의에 상당한 시간이 걸릴 것”이라고 말했다. &nbsp; &nbsp;━&nbsp; 더 알면 좋은 것들&nbsp; &nbsp; 한편 저작권 침해 문제에 이어 생성AI가 만들어내는 유해 콘텐트 문제도 논란이다. 지난 6일(현지시간) 마이크로소프트의 소프트웨어 엔지니어인 셰인 존스는&nbsp;미 연방거래위원회(FTC)에 자사의 AI 이미지 생성 도구인 ‘코파일럿 디자이너’의 폭력적인 콘텐트 생성을 우려하는 서한을 보내기도 했다. 강광우 기자 kang.kwangwoo@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.03.07 17:09</p>
+<button type="button" class="btn_bookmark" data-cid="25233601" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩플] 번호이동 위약금, 통신사가 최대 50만원 보전 가능해진다 (중앙일보 팩플 ─ 뉴스)]]></title>
         <id>https://www.joongang.co.kr/article/25233357</id>
         <link href="https://www.joongang.co.kr/article/25233357"/>
         <updated>2024-03-06T09:09:21.884Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25233357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25233357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202403/06/8f864a36-8efd-48e1-864f-062538cf2dca.jpg/_ir_410x230_/" alt="[팩플] 번호이동 위약금, 통신사가 최대 50만원 보전 가능해진다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25233357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25233357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] 번호이동 위약금, 통신사가 최대 50만원 보전 가능해진다
 </a>
 </h2>
@@ -152,13 +179,13 @@
         <link href="https://www.joongang.co.kr/article/25233212"/>
         <updated>2024-03-06T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25233212" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25233212" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202403/06/24e43fd8-19ed-48a1-a0d0-cc72b05e618b.jpg/_ir_410x230_/" alt="[단독] 카카오 내부 폭로∙욕설 파문…김정호 총괄 징계 수순 | 팩플 ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25233212" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25233212" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [단독] 카카오 내부 폭로∙욕설 파문…김정호 총괄 징계 수순 | 팩플
 </a>
 </h2>
@@ -179,13 +206,13 @@
         <link href="https://www.joongang.co.kr/article/25233112"/>
         <updated>2024-03-05T10:11:06.502Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25233112" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25233112" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202403/05/37a3dab5-3b1e-4e9c-8623-3a391be7c7fc.jpg/_ir_410x230_/" alt="[팩플] 네이버, 세계 최초 웹 플랫폼 로봇 OS ‘아크마인드’ 사우디서 공개">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25233112" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25233112" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] 네이버, 세계 최초 웹 플랫폼 로봇 OS ‘아크마인드’ 사우디서 공개
 </a>
 </h2>
@@ -206,13 +233,13 @@
         <link href="https://www.joongang.co.kr/article/25232801"/>
         <updated>2024-03-04T09:30:07.640Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25232801" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25232801" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202403/04/0b64f778-6e60-4c13-8052-b61f352e4894.jpg/_ir_410x230_/" alt="[팩플] 야구중계도 OTT시대…티빙, 3년간 KBO 중계 계약">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25232801" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25232801" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] 야구중계도 OTT시대…티빙, 3년간 KBO 중계 계약
 </a>
 </h2>
@@ -233,13 +260,13 @@
         <link href="https://www.joongang.co.kr/article/25232554"/>
         <updated>2024-03-03T09:09:11.530Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25232554" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25232554" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202403/03/b973d2d5-c13f-4b63-a2da-898be42ea530.jpg/_ir_410x230_/" alt="[팩플] &quot;오픈AI, MS 자회사 전락&quot;...머스크, 올트먼에 '선제 타격'">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25232554" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25232554" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [팩플] "오픈AI, MS 자회사 전락"...머스크, 올트먼에 '선제 타격'
 </a>
 </h2>
@@ -260,13 +287,13 @@
         <link href="https://www.joongang.co.kr/article/25232316"/>
         <updated>2024-03-01T09:10:57.241Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25232316" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25232316" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202403/01/90d0d225-015b-42a3-8c7a-d0841ef52beb.jpg/_ir_410x230_/" alt="[팩플] “주주들, 인내심 잃어”…AI 경쟁 밀린 애플, 변화 가능할까">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25232316" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25232316" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] “주주들, 인내심 잃어”…AI 경쟁 밀린 애플, 변화 가능할까
 </a>
 </h2>
@@ -287,13 +314,13 @@
         <link href="https://www.joongang.co.kr/article/25232238"/>
         <updated>2024-03-01T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25232238" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25232238" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202403/01/8a340713-872c-402a-93b0-8c0f9eaf4b71.jpg/_ir_410x230_/" alt="5G '다음'을 잡아라…미국은 6G 동맹, 중국은 5.5G 노린다 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25232238" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25232238" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 5G '다음'을 잡아라…미국은 6G 동맹, 중국은 5.5G 노린다 [팩플]
 </a>
 </h2>
@@ -314,13 +341,13 @@
         <link href="https://www.joongang.co.kr/article/25232134"/>
         <updated>2024-02-29T10:10:37.552Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25232134" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25232134" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/29/1ec3c851-26fb-452e-b31d-5aefa7e6776e.jpg/_ir_410x230_/" alt="[팩플] '국가경쟁력' 핵심기술 136개, 중국에 첫 역전">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25232134" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25232134" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] '국가경쟁력' 핵심기술 136개, 중국에 첫 역전
 </a>
 </h2>
@@ -341,13 +368,13 @@
         <link href="https://www.joongang.co.kr/article/25232094"/>
         <updated>2024-02-29T08:11:20.238Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25232094" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25232094" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/29/9d34b4f3-4899-40a8-9604-3a642695eeaa.jpg/_ir_410x230_/" alt="[팩플] MWC 2024에서 '통신+AI' 강조한 통신3사…AI와 결합 속도전">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25232094" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25232094" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] MWC 2024에서 '통신+AI' 강조한 통신3사…AI와 결합 속도전
 </a>
 </h2>
@@ -368,13 +395,13 @@
         <link href="https://www.joongang.co.kr/article/25231994"/>
         <updated>2024-02-29T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231994" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25231994" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/29/98215a84-ba1c-42a7-a2c2-951278d0333b.jpg/_ir_410x230_/" alt="&quot;파나마 운하 가뭄에 경기침체? 넉달 걸릴 보고서, AI 당장 썼다&quot; [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231994" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25231994" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 "파나마 운하 가뭄에 경기침체? 넉달 걸릴 보고서, AI 당장 썼다" [팩플]
 </a>
 </h2>
@@ -395,13 +422,13 @@
         <link href="https://www.joongang.co.kr/article/25231842"/>
         <updated>2024-02-28T10:10:11.030Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25231842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/28/0aa93c3b-7280-43bc-b4f9-29d1b7b688ff.jpg/_ir_410x230_/" alt="[팩플] 10년 공들인 ‘애플카’ 포기…애플도 못 뚫은 자율주행의 벽?">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25231842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 10년 공들인 ‘애플카’ 포기…애플도 못 뚫은 자율주행의 벽?
 </a>
 </h2>
@@ -422,13 +449,13 @@
         <link href="https://www.joongang.co.kr/article/25231734"/>
         <updated>2024-02-28T10:40:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25231734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/28/3494ccce-983c-4ee0-9ab2-eeea43d5520f.jpg/_ir_410x230_/" alt="김영섭 KT 대표 “통신 역량에 IT와 AI 더한 ‘AICT’ 회사로 거듭날 것”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25231734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 김영섭 KT 대표 “통신 역량에 IT와 AI 더한 ‘AICT’ 회사로 거듭날 것”
 </a>
 </h2>
@@ -449,13 +476,13 @@
         <link href="https://www.joongang.co.kr/article/25231546"/>
         <updated>2024-02-27T08:11:15.724Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231546" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25231546" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/27/da9f63a6-74e5-43e0-a399-94f17b925654.jpg/_ir_410x230_/" alt="유영상 SKT 대표 &quot;GTAA로 게임 체인저 도전&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231546" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25231546" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 유영상 SKT 대표 "GTAA로 게임 체인저 도전"
 </a>
 </h2>
@@ -476,13 +503,13 @@
         <link href="https://www.joongang.co.kr/article/25231529"/>
         <updated>2024-02-27T07:11:10.865Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25231529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/27/04192f0a-e489-46a6-947a-09d7b3966db4.jpg/_ir_410x230_/" alt="[팩플] “24시간 밀착 건강관리&quot; 갤럭시 링 하반기 출시">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25231529" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] “24시간 밀착 건강관리" 갤럭시 링 하반기 출시
 </a>
 </h2>
@@ -503,13 +530,13 @@
         <link href="https://www.joongang.co.kr/article/25231508"/>
         <updated>2024-02-27T07:11:10.866Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231508" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25231508" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/27/49d652ea-3770-4166-b2e4-3c32a849c363.jpg/_ir_410x230_/" alt="[팩플] 네이버, 총선 기간 지역 언론사 뉴스 제공 강화한다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231508" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25231508" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] 네이버, 총선 기간 지역 언론사 뉴스 제공 강화한다
 </a>
 </h2>
@@ -530,13 +557,13 @@
         <link href="https://www.joongang.co.kr/article/25231455"/>
         <updated>2024-02-27T11:30:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231455" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25231455" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/27/f040b397-6672-476f-9fbc-96dbdad82cab.jpg/_ir_410x230_/" alt="[팩플] 중국어 하냐 묻자 &quot;곧 배울 것&quot;…MWC서 확인한 AI 활용법">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231455" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25231455" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [팩플] 중국어 하냐 묻자 "곧 배울 것"…MWC서 확인한 AI 활용법
 </a>
 </h2>
@@ -557,13 +584,13 @@
         <link href="https://www.joongang.co.kr/article/25231412"/>
         <updated>2024-02-27T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25231412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/27/33802024-26ae-4659-bbb6-0dd1c79d8c8a.jpg/_ir_410x230_/" alt="&quot;선거 망치는 딥페이크 잡자&quot;…AI필터로 거르고 워터마크 넣는다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25231412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 "선거 망치는 딥페이크 잡자"…AI필터로 거르고 워터마크 넣는다 [팩플]
 </a>
 </h2>
@@ -584,13 +611,13 @@
         <link href="https://www.joongang.co.kr/article/25231377"/>
         <updated>2024-02-27T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25231377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/27/0452f499-dd41-4ed2-ae13-1e19d3344573.jpg/_ir_410x230_/" alt="&quot;당신은 물만 먹어도 살쪄&quot; 1만원이면 안다, 내 몸 사용설명서 [팩플 오리지널]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25231377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 "당신은 물만 먹어도 살쪄" 1만원이면 안다, 내 몸 사용설명서 [팩플 오리지널]
 </a>
 </h2>
@@ -611,13 +638,13 @@
         <link href="https://www.joongang.co.kr/article/25231283"/>
         <updated>2024-02-26T10:10:32.430Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25231283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/26/e4b27ab3-e019-44ac-9dc9-8cd6adef7be3.jpg/_ir_410x230_/" alt="&quot;절대반지, 말도 안되게 가벼워&quot;...갤럭시링 첫선, 최태원도 '오픈런' [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25231283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 "절대반지, 말도 안되게 가벼워"...갤럭시링 첫선, 최태원도 '오픈런' [팩플]
 </a>
 </h2>
@@ -638,13 +665,13 @@
         <link href="https://www.joongang.co.kr/article/25231277"/>
         <updated>2024-02-26T09:10:31.023Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25231277" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25231277" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/26/e57985d9-2608-48ac-b1bd-10ef63dd8e3d.jpg/_ir_410x230_/" alt="[팩플] SK텔레콤 주도 글로벌 AI 동맹, 소프트뱅크 합류…생성 AI 만들 합작법인 설립">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25231277" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25231277" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] SK텔레콤 주도 글로벌 AI 동맹, 소프트뱅크 합류…생성 AI 만들 합작법인 설립
 </a>
 </h2>
@@ -665,13 +692,13 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
         <link href="https://www.joongang.co.kr/article/25230974"/>
         <updated>2024-02-25T07:08:45.558Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25230974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/25/a789336c-5f8c-4720-b43a-0675f6b71db7.jpg/_ir_410x230_/" alt="손가락 끼면 놀라운 일…'절대반지' 갤럭시링, MWC서 첫 공개 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25230974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 손가락 끼면 놀라운 일…'절대반지' 갤럭시링, MWC서 첫 공개 [팩플]
 </a>
 </h2>
@@ -692,13 +719,13 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
         <link href="https://www.joongang.co.kr/article/25230724"/>
         <updated>2024-02-23T09:08:58.769Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230724" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25230724" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/23/9c4c13bc-43fd-4d21-b440-aadec5465bd5.jpg/_ir_410x230_/" alt="[팩플] ‘AI가 역사 왜곡?’…구글 제미나이 AI 이미지 기능 중단">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230724" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25230724" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 [팩플] ‘AI가 역사 왜곡?’…구글 제미나이 AI 이미지 기능 중단
 </a>
 </h2>
@@ -719,13 +746,13 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
         <link href="https://www.joongang.co.kr/article/25230483"/>
         <updated>2024-02-22T09:10:22.053Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230483" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25230483" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/22/11c9861b-6026-45b6-baf1-38817c089169.jpg/_ir_410x230_/" alt="[팩플]우주산업 핵심 '위성'…농산물‧기름 가격 예측하고 돈 번다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230483" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25230483" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플]우주산업 핵심 '위성'…농산물‧기름 가격 예측하고 돈 번다
 </a>
 </h2>
@@ -735,33 +762,6 @@ SK텔레콤은 26일(현지시각) 스페인 바르셀로나에서 열린 MWC202
 <div class="meta">
 <p class="date">2024.02.22 17:54</p>
 <button type="button" class="btn_bookmark" data-cid="25230483" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 이번엔 W, 확전하는 ‘리니지’ 전쟁…엔씨, 카카오게임즈에 표절 소송 (중앙일보 팩플 ─ 뉴스)]]></title>
-        <id>https://www.joongang.co.kr/article/25230480</id>
-        <link href="https://www.joongang.co.kr/article/25230480"/>
-        <updated>2024-02-22T09:10:22.054Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25230480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202402/22/fcda9167-89e9-4cb8-8397-6a3995e5b3ec.jpg/_ir_410x230_/" alt="[팩플] 이번엔 W, 확전하는 ‘리니지’ 전쟁…엔씨, 카카오게임즈에 표절 소송">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25230480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 이번엔 W, 확전하는 ‘리니지’ 전쟁…엔씨, 카카오게임즈에 표절 소송
-</a>
-</h2>
-<p class="description">
-엔씨소프트(이하 엔씨)가 리니지 라이크(like·같은) 게임에 대해 또 다시 칼을 빼들었다. 다중접속역할수행게임(MMORPG)라는 ‘장르적 유사성’을 감안하더라도 지나치게 핵심시스템을 모방한 게임에 대해선 법률적으로 대응한다는 계획이다. &nbsp; 오는 27일 출시를 앞둔 카카오게임즈와 레드랩게임즈의 신작 '롬'(ROM). 사진 레드랩게임즈 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 엔씨는 서울중앙지법에 카카오게임즈·레드랩게임즈를 상대로 저작권 침해 및 부정경쟁행위에 대한 손해배상 및 서비스 중지 청구 소송을 제기했다고 22일 밝혔다. 레드랩게임즈가 개발하고 카카오게임즈가 퍼블리싱(배급·유통)을 맡은 MMORPG ‘롬’이 엔씨의 게임 ‘리니지W’를 무단 도용했다는 판단에서다.&nbsp;롬은 오는 27일 한국을 비롯한 대만·일본·태국 등 글로벌 10개 지역에서 동시 출시를 앞두고 있다.&nbsp;엔씨는 롬에 대해 대만 지혜재산및상업법원에도 소장을 접수했다. 엔씨는 “MMORPG 장르가 갖는 공통적·일반적 특성을 감안하더라도 (롬은) 창작성을 인정하기 어려운 수준으로, 엔씨소프트의 지식재산권(IP)을 무단 도용하고 표절한 것이라 판단했다”고 밝혔다. 엔씨소프트가 공개한 엔씨 '리니지W'(좌)와 카카오게임즈 '롬'(우)의 저작권 침해 사례. 사진 엔씨소프트 &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 엔씨의 리니지 라이크 게임 저작권 소송은 이번이 세번째다.&nbsp;특정 게임 이름 뒤 붙이는 ‘라이크’는 하위 장르를 의미한다. 크게 인기를 끈 게임이 등장하고 이후 이 게임의 시스템, 문법을 따르는 게임이 이어질 때 붙인다. 2017년 엔씨의 리니지M 출시 이후 후속작인 리니지2M, 리니지W가 연이어 성공하면서 국내 게임업계에선 리니지 라이크가 크게 늘었다. 이에 엔씨도 IP보호를 위한 실력행사에 잇달아 나서고 있다.&nbsp; &nbsp; 2021년 6월 웹젠의 ‘R2M’이 리니지M과 유사하다며 낸 소송이 처음이었다. 1심은 엔씨가 승소했다. 서울중앙지법은 지난해 8월 엔씨에 10억원을 배상하고, R2M 서비스를 중지할 것을 웹젠에 명했다. 웹젠이 항소해 현재는 2심 진행 중이다. 두번째 소송은 카카오게임즈였다.&nbsp;지난해 4월 엔씨는 카카오게임즈와 엑스엘게임즈가 출시한 ‘아키에이지 워’가 리니지2M의 저작권을 침해했다며 소송을 냈다. 이&nbsp;소송은 아직 변론기일이 잡히지 않은 상태다. 그런 가운데 또 다시 카카오게임즈를 상대로 세번째 소송을 낸 것이다. &nbsp; 이번 소송에 대해 카카오게임즈는 별도 입장을 밝히지 않았다. 게임업계에서는 엔씨의 행보를 두고 앞으로 출시될 ‘리니지라이크’ 게임에 대한 경고로 해석하고 있다. 엔씨 관계자는 "기업이 장기간 연구개발한 성과물과 각 게임의 고유 콘텐트는 무분별한 표절과 무단 도용으로부터 보호 받아야 한다"고 말했다. &nbsp; &nbsp;━&nbsp; 더 알면 좋은 것&nbsp; &nbsp; 게임업계 경쟁이 치열해지면서 IP분쟁이 빈발하고 있다. 넥슨도 ‘다크앤다커’ 개발사 아이언메이스와 저작권 침해소송을 진행 중이다. 넥슨 소속이었던 직원이 게임 소스코드 등을 외부로 유출하고, 다른 팀원들과 아이언메이스로 함께 이직한 뒤 넥슨에서 개발하던 게임과 유사한 다크앤다커를 선보이면서 발생한 법정 공방이다. 이 사건을 심리 중인 수원지법은 지난달 25일 넥슨이 다크앤다커 배포를 중단해 달라며 낸 가처분 신청을 기각했다.&nbsp; 홍상지 기자 hongsam@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.02.22 17:46</p>
-<button type="button" class="btn_bookmark" data-cid="25230480" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
