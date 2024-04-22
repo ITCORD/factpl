@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2024-04-22T20:11:31.170Z</updated>
+    <updated>2024-04-22T21:09:53.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[바쁘죠? 대신 답장해줄게요…메타·틱톡·X까지 번졌다, AI전쟁 [팩플]]]></title>
+        <id>https://www.joongang.co.kr/article/25244438</id>
+        <link href="https://www.joongang.co.kr/article/25244438"/>
+        <updated>2024-04-23T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25244438" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/23/c3de3e14-8816-466b-82d3-3aac94d14357.jpg/_ir_410x230_/" alt="바쁘죠? 대신 답장해줄게요…메타·틱톡·X까지 번졌다, AI전쟁 [팩플]">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25244438" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+바쁘죠? 대신 답장해줄게요…메타·틱톡·X까지 번졌다, AI전쟁 [팩플]
+</a>
+</h2>
+<p class="description">
+인스타그램·틱톡·엑스(X·옛 트위터) 등 주요 소셜미디어(SNS)에 이용자 맞춤형 인공지능(AI) 서비스들이 속속 도입되고 있다. 빅테크 간 AI 경쟁이 전 세계 수십억 명이 쓰는 SNS 시장으로 확산하면서 변곡점을 맞고 있다. &nbsp; 메타의 최신 거대언어모델(LLM) 라마3를 적용한 챗봇 '메타 AI'. 메타 홈페이지 캡처 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 페이스북·인스타그램·왓츠앱 등 SNS 플랫폼을 보유한 메타는 지난 18일(현지시간) 각 SNS에 최신 거대언어모델(LLM) 라마3(Llama 3)를 기반으로 한 AI 챗봇 '메타 AI'를 탑재했다. 이용자들은 SNS 앱 내 검색 기능 등을 활용해 메타 AI에 휴가 계획이나 식당 추천 등의 도움을 받을 수 있다.&nbsp; &nbsp; 틱톡 운영사 바이트댄스도 최근 프롬프트(명령어)를 입력하면 ‘AI 인플루언서’를 생성해 주는 서비스를 개발 중이다. X는 지난달 프리미엄 가입자 전체를 대상으로 일론 머스크가 세운 AI 스타트업 xAI의 챗봇&nbsp;‘그록’(Grok)을 배포했다. 시장조사 기업 스태티스타에 따르면 지난해 4월 기준 X의 프리미엄 가입자 수는 약 64만 명이었다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 메타·바이트댄스·X 등 현재 SNS 시장의 주요 파이를 나눠 가지고 있는 빅테크들은 저마다 강화된 AI 서비스로 무장중이다. 사실상 포화 상태인 기존 SNS 시장서 점유율 확보를 위해 AI를 내세우는 모양새다. 지난해 페북·인스타·왓츠앱을 포함한 메타 운영 앱의 월간 활성 이용자수(MAU)는 39억 6000만 명. 틱톡은 약 17억 명, X도 약 5억5000만 명에 달한다. &nbsp; AI 비서 기능 커지고: 각 SNS 속 AI 기능들은 이용자의 ‘비서’ 역할을 자처한다. 메타 AI를 출시한 날 마크 저커버그 메타 최고경영자(CEO)는 인스타그램을 통해&nbsp;“메타 AI는 누구나 무료로 사용할 수 있는 가장 지능적인 AI 비서(assistant)”라고 강조했다. 이용자들은 SNS 피드를 보다가 가고 싶은 장소를 발견하면 메타 AI에 어딘지 물어보거나 ‘저렴한 항공권을 알아봐 달라’고 부탁할 수도 있다.지난 15일(현지시간) 뉴욕타임스(NYT) 보도에 따르면 인스타그램은 유명 인플루언서와 팬이 소통하는데 도움을 주는 AI 챗봇도 개발 중이다.&nbsp;‘크리에이터 AI’라는 이름이 붙은 이 챗봇은 인플루언서들이 수많은 다이렉트 메시지(DM)와 댓글에 대응할 시간을 줄여주는 것이 목표다. NYT는 내부 관계자 발언을 인용해 “AI가 인플루언서의 과거&nbsp; 게시글과 DM, 댓글 등을 분석해 답변을 제시하면 인플루언서가 이를 선택해 대답할 수 있다”며 “특정 질문에는 특정 대답을 하도록 지시할 수도 있다”고 설명했다. &nbsp; 김영옥 기자 &nbsp; 비즈니스 모델(BM)은 단단히: AI 기능은 수익 창출 모델로 적극 활용되기도 한다. 바이트댄스가 개발 중인 ‘AI 인플루언서’ 생성 기능은 광고주 맞춤 기능이다. 광고주가 프롬프트 창에 광고 소재와 원하는 콘셉트 등을 입력하면 동영상 광고 대본과 동영상에 출연할 AI 인플루언서를 만들어주는 식이다. 미국 IT전문매체 디 인포메이션은 11일(현지시간) 해당 내용을 보도하며&nbsp;“틱톡샵 판매자들도 AI 인플루언서 도구를 사용해 상품을 홍보할 수 있다”고 전했다. 비즈니스 SNS 링크드인도 틱톡 포맷과 유사한 ‘숏폼 영상 서비스’ 도입을 추진하며 ‘인플루언서 마케팅’ 시장에 본격 나설 계획이다. X가 유료 가입자인 프리미엄 가입자 대상으로 챗봇 서비스 그록을 제공하는 것도 이용자 수 반등을 위한 측면이 크다. 글로벌 앱 마켓 분석기업 센서타워에 따르면 지난 2월 X의 일일 활성 이용자 수는 1년 전보다 18% 줄었다. 당초 X는 월 16달러 유료 요금제인&nbsp;‘프리미엄 플러스’ 가입자들에 한해 그록을 제공해왔지만, 지난달부터는 ‘프리미엄 베이직’(월 3달러) 등&nbsp;모든 프리미엄 가입자를 대상으로 서비스를 확대했다. &nbsp; &nbsp;━&nbsp; 틈새 노리는 제3의 SNS들도 &nbsp; 기존 SNS에 피로감을 느끼는 이용자들을 타깃 삼아 개인화·감성 등 저마다의 무기로 틈새 시장을 노리는 제3의 SNS들도 있다. 최근 1020 세대 사이에서 유행하는 SNS ‘로켓 위젯’(Locket WIdget)은 스마트폰&nbsp;‘위젯’(바로가기 아이콘) 기능을 활용했다. 앱에 등록할 수 있는 친구가 최대 20명인 폐쇄형 SNS인 로켓위젯은 스마트폰 바탕화면에 위젯을 만들면 친구들이 올린 사진을 바로 볼 수 있다. &nbsp; 최근 1020 세대 사이에서 인기인 SNS '로켓 위젯'은 친구가 사진을 올리면 바탕화면 속 위젯에서 바로 친구의 사진을 확인할 수 있다. 사진 로켓위젯 &nbsp; 지난 1월 글로벌 AI 스타트업 ‘투플랫폼’이 개발한 생성 AI 기반 SNS ‘재피’(ZAPPY)는 일반적인 SNS 기능에 더해 다양한 페르소나를 지닌 AI 인플루언서를 팔로잉 하고 친구처럼 대화할 수 있는 서비스를 붙이며 차별화 하고 있다. 홍상지 기자 hongsam@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.04.23 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25244438" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] “로봇이 택배 찾아 커피 사서 책상까지”…카카오, ‘브링’ 출시]]></title>
         <id>https://www.joongang.co.kr/article/25244279</id>
         <link href="https://www.joongang.co.kr/article/25244279"/>
         <updated>2024-04-22T08:12:56.271Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25244279" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25244279" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/22/c2178266-727c-4d12-93d0-50b0a4a9abb2.jpg/_ir_410x230_/" alt="[팩플] “로봇이 택배 찾아 커피 사서 책상까지”…카카오, ‘브링’ 출시">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25244279" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25244279" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] “로봇이 택배 찾아 커피 사서 책상까지”…카카오, ‘브링’ 출시
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25244136"/>
         <updated>2024-04-22T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25244136" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25244136" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/22/30bb70ce-f292-46dc-9816-d11c819bd4df.jpg/_ir_410x230_/" alt="美 &quot;틱톡 팔아라&quot; 中 &quot;스레드 퇴출&quot;…SNS로 번진 국가안보 전쟁 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25244136" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25244136" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 美 "틱톡 팔아라" 中 "스레드 퇴출"…SNS로 번진 국가안보 전쟁 [팩플]
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25244038"/>
         <updated>2024-04-21T12:15:46.101Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25244038" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25244038" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/22/14c8aac6-ced1-44bf-a1b7-c68ab0087108.jpg/_ir_410x230_/" alt="60만원 다이슨 드라이기 베꼈는데…짝퉁 아니라는 이 회사 [팩플인터뷰]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25244038" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25244038" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 60만원 다이슨 드라이기 베꼈는데…짝퉁 아니라는 이 회사 [팩플인터뷰]
 </a>
 </h2>
@@ -92,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25243761"/>
         <updated>2024-04-19T12:15:59.486Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25243761" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25243761" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/19/f729c6d6-4737-4621-a0cc-2495b86d2c61.jpg/_ir_410x230_/" alt="[팩플] SNS 피드 보다가 &quot;여기 찾아줘&quot;…인스타·페북서 'AI 챗봇' 쓴다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25243761" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25243761" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] SNS 피드 보다가 "여기 찾아줘"…인스타·페북서 'AI 챗봇' 쓴다
 </a>
 </h2>
@@ -119,13 +146,13 @@
         <link href="https://www.joongang.co.kr/article/25243646"/>
         <updated>2024-04-19T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25243646" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25243646" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/19/7c2123ed-5b47-470f-9071-010adfd139ae.jpg/_ir_410x230_/" alt="네이버 '당일배송' 시작했다…탈쿠팡 고객 유혹, 구독료도 인하 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25243646" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25243646" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 네이버 '당일배송' 시작했다…탈쿠팡 고객 유혹, 구독료도 인하 [팩플]
 </a>
 </h2>
@@ -146,13 +173,13 @@
         <link href="https://www.joongang.co.kr/article/25243377"/>
         <updated>2024-04-18T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25243377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25243377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/18/f77b3c31-5d9c-44b2-8e71-6943935e603a.jpg/_ir_410x230_/" alt="AI '쩐의 전쟁'…MS 이어 구글도 &quot;1000억 달러 투자할 것&quot; [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25243377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25243377" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
 </a>
 </h2>
@@ -173,13 +200,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25243105"/>
         <updated>2024-04-17T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25243105" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25243105" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/17/fc0447ef-d475-46dd-bd2f-bf2a87b05d18.jpg/_ir_410x230_/" alt="&quot;밤에 출근할게요&quot; &quot;그러시죠&quot;…AI반도체 스타트업, 인재총력전 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25243105" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25243105" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 "밤에 출근할게요" "그러시죠"…AI반도체 스타트업, 인재총력전 [팩플]
 </a>
 </h2>
@@ -200,13 +227,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25242942"/>
         <updated>2024-04-16T08:12:53.708Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25242942" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25242942" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/16/22a58475-0f81-4484-b785-19500c49009d.jpg/_ir_410x230_/" alt="[팩플] 동영상 생성 AI 시장 삼파전…오픈AI·구글·어도비의 전략은">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25242942" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25242942" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] 동영상 생성 AI 시장 삼파전…오픈AI·구글·어도비의 전략은
 </a>
 </h2>
@@ -227,13 +254,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25242829"/>
         <updated>2024-04-16T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25242829" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25242829" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/16/e2c7e07b-eed7-4c8a-aef5-002be5fba70e.jpg/_ir_410x230_/" alt="[팩플] 쿠팡 멤버십 기습인상에 경쟁자들 '탈 쿠팡' 고객 공략">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25242829" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25242829" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] 쿠팡 멤버십 기습인상에 경쟁자들 '탈 쿠팡' 고객 공략
 </a>
 </h2>
@@ -254,13 +281,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25242446"/>
         <updated>2024-04-14T11:17:24.931Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25242446" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25242446" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/14/a6248f7f-ccbd-4220-8974-51b86fdf4300.jpg/_ir_410x230_/" alt="[팩플] AI가 내 검색 의도 파악한다...네이버, 생성AI 검색 첫 적용">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25242446" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25242446" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] AI가 내 검색 의도 파악한다...네이버, 생성AI 검색 첫 적용
 </a>
 </h2>
@@ -281,13 +308,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25242403"/>
         <updated>2024-04-14T05:56:34.225Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25242403" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25242403" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/14/5be72513-2974-42ce-ba51-38437c575f5e.jpg/_ir_410x230_/" alt="[팩플] 자체 개발 CPU 내놓은 구글…‘하드웨어’에 꽂힌 클라우드 기업들">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25242403" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25242403" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 자체 개발 CPU 내놓은 구글…‘하드웨어’에 꽂힌 클라우드 기업들
 </a>
 </h2>
@@ -308,13 +335,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25242308"/>
         <updated>2024-04-13T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25242308" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25242308" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/13/4ae5f0d5-1f3e-4f75-9e77-94c12ad414d5.jpg/_ir_410x230_/" alt="5조 투자유치 나섰다…'AI 경쟁' 반전 노리는 머스크의 카드 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25242308" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25242308" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 5조 투자유치 나섰다…'AI 경쟁' 반전 노리는 머스크의 카드 [팩플]
 </a>
 </h2>
@@ -335,13 +362,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25242125"/>
         <updated>2024-04-12T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25242125" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25242125" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/12/3fc3cf14-f161-457b-b1c6-787724a1b7fe.jpg/_ir_410x230_/" alt="&quot;웃는 영상, 만원에 살 것&quot; 어도비 AI 정공법…오픈AI에 맞선다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25242125" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25242125" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 "웃는 영상, 만원에 살 것" 어도비 AI 정공법…오픈AI에 맞선다 [팩플]
 </a>
 </h2>
@@ -362,13 +389,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25241780"/>
         <updated>2024-04-11T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25241780" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25241780" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/11/f0e0a512-d79c-4e46-a11d-35bffbf0319d.jpg/_ir_410x230_/" alt="&quot;유튜브서 본 셔츠 어디서 팔아?&quot; 구글 AI비서는 재고까지 찾았다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25241780" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25241780" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 "유튜브서 본 셔츠 어디서 팔아?" 구글 AI비서는 재고까지 찾았다 [팩플]
 </a>
 </h2>
@@ -389,13 +416,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25241407"/>
         <updated>2024-04-09T12:15:58.219Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25241407" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25241407" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/09/2749b6b9-df3b-4a0c-a47e-8d27ccfe68f2.jpg/_ir_410x230_/" alt="[팩플] '제미나이' 입은 구글 클라우드…'탈 인텔' 행보도 나서">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25241407" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25241407" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] '제미나이' 입은 구글 클라우드…'탈 인텔' 행보도 나서
 </a>
 </h2>
@@ -416,13 +443,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25241380"/>
         <updated>2024-04-09T09:10:32.083Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25241380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25241380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/09/5fa3449d-a288-4bc2-9edb-4d6d636ed2d0.jpg/_ir_410x230_/" alt="챗GPT에 &quot;애인해라&quot;…이 말 하면 벌어지는 일">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25241380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25241380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 챗GPT에 "애인해라"…이 말 하면 벌어지는 일
 </a>
 </h2>
@@ -443,13 +470,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25241376"/>
         <updated>2024-04-09T09:10:32.085Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25241376" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25241376" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/09/f95b0f2f-dd02-4696-9706-a0f915660878.jpg/_ir_410x230_/" alt="[팩플] “AI반도체 총력전” 정부, 3년간 9.4조 투자…‘반도체 메가 클러스터’ 속도">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25241376" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25241376" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 [팩플] “AI반도체 총력전” 정부, 3년간 9.4조 투자…‘반도체 메가 클러스터’ 속도
 </a>
 </h2>
@@ -470,13 +497,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25241069"/>
         <updated>2024-04-08T08:12:46.218Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25241069" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25241069" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/08/5eef0278-5ffa-4427-a7fc-05fc753e2309.jpg/_ir_410x230_/" alt="[팩플] 미국서 4분 26초 '검은 태양' 우주쇼… 지구-달-태양 한 줄 나란히">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25241069" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25241069" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] 미국서 4분 26초 '검은 태양' 우주쇼… 지구-달-태양 한 줄 나란히
 </a>
 </h2>
@@ -497,13 +524,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25241059"/>
         <updated>2024-04-08T08:12:46.219Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25241059" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25241059" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/08/539503eb-8b86-4500-b318-8f18252664fe.jpg/_ir_410x230_/" alt="[팩플] 통신사 AI비서 전쟁…LG유플러스 맞춤형 ‘AI 비서’ 출시">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25241059" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25241059" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] 통신사 AI비서 전쟁…LG유플러스 맞춤형 ‘AI 비서’ 출시
 </a>
 </h2>
@@ -524,13 +551,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25240840"/>
         <updated>2024-04-07T09:09:39.567Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25240840" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25240840" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/07/decf134d-15e1-4c64-a57a-7f92e4e4d6fa.jpg/_ir_410x230_/" alt="[팩플] MS “中, 생성 AI 선거 방해”…음성·동영상 AI시대, 더 큰 위협 온다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25240840" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25240840" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] MS “中, 생성 AI 선거 방해”…음성·동영상 AI시대, 더 큰 위협 온다
 </a>
 </h2>
@@ -551,13 +578,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25240753"/>
         <updated>2024-04-07T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25240753" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25240753" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/07/0035a3e3-7677-4de9-9f90-92268fb00064.jpg/_ir_410x230_/" alt="애플카 포기한 애플, 600명 해고…&quot;가정용 로봇 만든다&quot; 왜 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25240753" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25240753" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 애플카 포기한 애플, 600명 해고…"가정용 로봇 만든다" 왜 [팩플]
 </a>
 </h2>
@@ -578,13 +605,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25240488"/>
         <updated>2024-04-05T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25240488" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25240488" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/05/be3eea23-f2d2-4dcc-a673-9f27d7538996.jpg/_ir_410x230_/" alt="챗GPT에 235조 검색광고 날아갈 판…구글 &quot;AI 검색 돈 내야&quot; [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25240488" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25240488" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 챗GPT에 235조 검색광고 날아갈 판…구글 "AI 검색 돈 내야" [팩플]
 </a>
 </h2>
@@ -605,13 +632,13 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
         <link href="https://www.joongang.co.kr/article/25240332"/>
         <updated>2024-04-04T08:13:08.011Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25240332" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25240332" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/04/38dd417b-72ac-45f3-818c-13d74c1044cc.jpg/_ir_410x230_/" alt="[팩플] “AI로 자폐 조기 진단”…정부, AI 일상화에 7100억 투입">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25240332" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25240332" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플] “AI로 자폐 조기 진단”…정부, AI 일상화에 7100억 투입
 </a>
 </h2>
@@ -621,33 +648,6 @@ AI '쩐의 전쟁'…MS 이어 구글도 "1000억 달러 투자할 것" [팩플]
 <div class="meta">
 <p class="date">2024.04.04 17:00</p>
 <button type="button" class="btn_bookmark" data-cid="25240332" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] "모든 기술 분야 AI 도입 확대"...네이버 전문조직 중심 조직 개편]]></title>
-        <id>https://www.joongang.co.kr/article/25240080</id>
-        <link href="https://www.joongang.co.kr/article/25240080"/>
-        <updated>2024-04-03T10:10:32.067Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25240080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202404/03/7c2123ed-5b47-470f-9071-010adfd139ae.jpg/_ir_410x230_/" alt="[팩플] &quot;모든 기술 분야 AI 도입 확대&quot;...네이버 전문조직 중심 조직 개편">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25240080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] "모든 기술 분야 AI 도입 확대"...네이버 전문조직 중심 조직 개편
-</a>
-</h2>
-<p class="description">
-네이버가 인공지능(AI) 기반 신사업 기회 발굴을 위한 조직 개편에 착수했다. 네이버는 현재 5개인 CIC(사내독립기업) 조직을 개편해 12개 전문조직으로 세분화한다고 3일 밝혔다. &nbsp; 경기 성남시 분당구 네이버 사옥. 사진 연합뉴스 &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 이번 조직 개편은 생성 AI 시대 경쟁에 효과적으로 대응하기 위해 네이버의 모든 기술 분야에 AI를 도입하고, 세분된 전문조직의 역량 강화에 집중하기 위해서다. 지난달 14일 취임 3년 차에 접어든 최 대표가 주도한 대규모 조직 개편이란 의미도 있다.&nbsp; &nbsp; 현재 네이버의 5개 CIC는 비즈(광고)·서치(검색)·포레스트(쇼핑)·글레이스(지역 정보)·커뮤니티가 있다. 2017년에는 네이버웹툰이, 2019년에는 네이버페이가 CIC에서 분사했다. 최수연 네이버 대표는 이날 열린 전 직원 커뮤니케이션 창구 ‘컴패니언데이’를 통해 “AI를 중심으로 한 기술 패러다임 변화에 전사 차원으로 대응하기 위해선 지난 9년간 네이버를 성장시켜온 CIC 중심 체계 또한 변화가 필요했다”며 “다양한 인사이트가 터져 나올 수 있게 위계를 최소화하고 평평하게 펼친 조직구성으로 개편한 만큼, 활발한 토론과 다양한 협업이 더 중요해졌다”고 말했다.&nbsp;&nbsp; &nbsp; &nbsp;━&nbsp; 조직 개편 내용은 &nbsp; 최수연 네이버 최고경영자(CEO)가 지난해 8월 팀네이버 콘퍼런스 단23에서 ‘생성형 AI 시대, 모두를 위한 기술 경쟁력’의 주제로 기조연설을 하고 있다. 사진 뉴스1 새롭게 구성되는 전문 조직은 크게 3개 분야로 나뉜다. 사용자 경험과 기술 혁신을 위한 개발·설계 중심의 ‘프로덕트&amp;플랫폼’, 비즈니스 기회를 발굴하고 서비스 매력을 높이는 ‘비즈니스&amp;서비스’, 사용자 수요에 맞는 콘텐트를 개발하고 제공하는 ‘콘텐트’ 분야다. 여기에 속한 전문 조직 수는 총 12개로 구성될 예정이다. 네이버 측은 “프로덕트&amp;플랫폼 영역은 네이버의 새 기술 혁신 엔진 역할을 담당한다”면서 “치지직(게임 스트리밍), 밴드, 뮤직 서비스는 기민한 움직임으로 독립적 성장이 가능하도록 ‘셀’(Cell) 조직으로 운영되며 향후 CIC로 성장할 가능성은 열어놨다”고 설명했다. &nbsp; 아울러 네이버 성장을 견인할 혁신 프로젝트가 나올 수 있게 거버넌스(지배구조)도 강화한다. 네이버는 최 대표 직속으로 ‘글로벌 경영’, ‘프로덕트&amp;테크’, ‘임직원 성장’ 등 3개 위원회를 신설해 각 부문 간 시너지를 도모할 계획이다. 개편된 조직구조는 4월부터 반영되고, 세부적인 개편도 곧 이어질 예정이다. &nbsp; &nbsp;━&nbsp; 카카오는&nbsp;&nbsp; &nbsp; 카카오도 최근 신속한 의사결정을 위해 종전 5단계(부문장·실장·팀장·파트장·셀장) 관리자 직급을 2단계(성과리더·리더)로 개편했다. 임원급 중간관리자에게 ‘책임리더’ 지위를, 실무를 맡은 팀장 등에게 ‘리더’를 부여한다. 네이버와 비슷한 구조다. 급변하는 AI 기술 흐름과 경쟁 환경에서 의사결정 속도를 높이고, 조직 구조를 단순화해 책임과 권한을 명확하게 하기 위해서다. 여성국 기자 yu.sungkuk@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.04.03 18:11</p>
-<button type="button" class="btn_bookmark" data-cid="25240080" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
