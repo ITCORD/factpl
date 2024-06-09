@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2024-06-09T08:12:46.585Z</updated>
+    <updated>2024-06-09T09:11:20.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA["시리, 사진 좀 수정해줘"…애플표 AI, 드디어 베일 벗는다 [팩플]]]></title>
+        <id>https://www.joongang.co.kr/article/25255085</id>
+        <link href="https://www.joongang.co.kr/article/25255085"/>
+        <updated>2024-06-09T09:10:40.651Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25255085" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/09/845a81b2-216e-4146-8954-e169e38d4d9c.jpg/_ir_410x230_/" alt="&quot;시리, 사진 좀 수정해줘&quot;…애플표 AI, 드디어 베일 벗는다 [팩플] ">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25255085" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+"시리, 사진 좀 수정해줘"…애플표 AI, 드디어 베일 벗는다 [팩플]
+</a>
+</h2>
+<p class="description">
+애플이 ‘애플 인텔리전스(Apple Intelligence)’라는 새&nbsp;생성 인공지능(AI) 시스템을 선보인다.&nbsp;생성 인공지능(AI) 분야에서 뒤처진다는 평가를 받아온 애플이 경쟁자들을 따라 잡을 수 있을지 주목된다. &nbsp; 로이터=연합뉴스 &nbsp;━&nbsp; 무슨 일이야&nbsp; &nbsp; 8일(현지시간) 블룸버그와 더버지 등 외신에 따르면 애플은 오는 10일 미국 캘리포니아주 쿠퍼티노 본사에서 연례 세계 개발자 회의(WWDC)를 열고 새 AI 시스템 ‘애플 인텔리전스’를 공개한다. 이는 아이폰과 아이패드, 맥 등 애플 기기 전반에 적용될 예정이다. 애플은 시험 버전을 먼저 공개한 뒤 보완을 거쳐 본격적인 보급에 나설 전망이다. &nbsp; &nbsp;━&nbsp; 애플표 AI, 관전포인트 셋 &nbsp; ①화려함보단 실용성: 애플 인텔리전스는 이미지나 동영상 생성 같은 화려한 기능보다 실용적인 AI에 초점을 맞춘 기능일 것으로 예상된다. 회의나 강의에 쓸 수 있는 AI 기반 요약과 이메일과 문자 메시지에 자동으로 답변할 수 있는 기능, 웹브라우저인 사파리 내 웹페이지 요약, AI 사진 수정, 생성 AI를 활용한 맞춤형 이모티콘 생성 기능 등이다. 애플은 데이터 처리 효율을 높이기 위해 특정 작업을 기기 내에 온디바이스 형태로 처리할지, 아니면 클라우드 서버로 보낼지 판단하는 기능도 애플 인텔리전스에 탑재한 것으로 알려졌다. &nbsp; ②시리, ‘AI 비서’ 이름값 하나:&nbsp;음성 비서 시리도 자체 LLM(거대언어모델)의 힘을 빌려 업그레이드된다. 블룸버그에 따르면 시리는 사용자를 대신해 앱 작업을 할 수 있는 기능도 제공할 수 있게 된다.&nbsp;예를 들어, 사용자가 시리한테 이메일 삭제, 사진 편집, 뉴스 기사 요약 등을 지시할 수 있다. &nbsp; ③적과의 동침: 애플은 AI 경쟁력 강화를 위해 오픈AI와 파트너십을 발표할 것으로 알려졌다. 이에 따라 애플 기기들에 오픈AI의 자체 기술과 AI 도구가 탑재될 것으로 보인다. 애플은 구글의 멀티모달 AI인 제미나이도 적용하기 위해 구글과도 협상을 진행 중이다. &nbsp; &nbsp;━&nbsp; 내 기기에서 쓸 수 있나 &nbsp; 애플의 새 AI는 아이폰 운영체제 iOS 18 등에 탑재될 전망이다. 아이폰의 경우 지난해 하반기 출시한 아이폰15 프로, 프로맥스와 올해 출시 예정인 아이폰16 시리즈부터 가능할 것으로 보인다. 아이패드나 맥에서 사용하기 위해선 M1 칩 이상이 탑재된 기기여야 한다. 사용자가 원하지 않으면 AI 기능을 비활성화 할 수 있다. 개인정보 보호를 강조해 온 애플은 자신의 정보가 판매되거나 누군가에 의해 읽히고 있지 않다는 사실을 이용자들에게 알릴 예정이다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 혁신의 상징이었던 애플은 거듭된 신사업 부진으로 최근 어려움을 겪고 있다. 생성 AI 경쟁에서 뒤처지면서 주가도 하락세다. 장기간 세계 시가총액 1위 기업 지위를 유지했지만 지난 1월 마이크로소프트에 자리를 내줬고, 현재는 2위 자리를 두고 엔비디아와 치열한 순위다툼을 벌이고 있다. 지난 7일 뉴욕증시에서 애플은 1.24% 상승해 3조 달러대로 다시 복귀하며 엔비디아를 제치고 시총 2위로 다시 올라섰다. 애플의 AI 전략이 시장 기대를 얼마나 충족하냐에따라 기업가치의 향방도 결정될 전망이다. &nbsp; 지난 2월 서울 강남구 삼성 강남 스토어에서 고객들이 삼성전자의 최신 플래그십 스마트폰 갤럭시S24 시리즈를 살펴보고 있다. 뉴스1 &nbsp;━&nbsp; 앞으로는 &nbsp; 애플이 본격적으로 'AI 폰'을 위한 작업에 나서면서 삼성전자와의 경쟁도 한층 치열해질 전망이다. 시장조사업체 카운터포인트리서치에 따르면 지난 1분기 삼성전자는 AI 스마트폰 시장에서 점유율 58%로 우위를 점하고 있다. 샤오미, 비보 같은 중국 기업도 AI 폰 경쟁에 합류해 삼성전자를 추격하고 있다. 이를 의식해 애플은 아이폰16 시리즈를 한국에 1차 출시하려고 준비 중인 것으로 알려졌다. 그간 아이폰 신제품이 나올 때마다 한국은 대부분 2차 또는 그 이후 출시국으로 분류돼 왔는데, 한국에 1차 출시를 하면 삼성전자와 안방에서 ‘AI폰’ 맞대결을 하는 셈이다. &nbsp; &nbsp;━&nbsp; 더 알면 좋은 것 &nbsp; 이번 WWDC에선 사용자 비밀번호를 기억해뒀다가 접속 시 자동으로 입력해주는 ‘비밀번호’(Passwords) 앱도 나올 예정이다. 블룸버그에 따르면 이 앱을 사용하면 아이폰, 아이패드, 맥 사용자는 매번 비밀번호를 입력하지 않아도 돼 로그인 과정이 더 쉬워진다. &nbsp; ■ AI 에이전트, 어디까지 가나&nbsp;「 애플이 곧 공개할 똑똑한 인공지능(AI) 음성 비서 ‘시리’는 수많은 AI 에이전트 중 하나일 뿐. ‘난다 긴다’ 하는 주요 빅테크들의 최대 관심사는 AI 에이전트다. 처음부터 끝까지 내 일을 대신 해줄 비서, 과연 어디까지 와 있을까. 팩플이 2회에 걸쳐 AI 에이전트의 세계를 알아봤다.&nbsp;&nbsp; 오혜정 디자이너 &nbsp; “앗 내 실수” 인간적 AI 비서…빅테크가 돈 퍼붓는 이유다 https://www.joongang.co.kr/article/25253848 &nbsp; “KTX” 말하면 표도 끊어준다, 시리 밀어낼 ‘찐 AI 비서’ 온다 https://www.joongang.co.kr/article/25225358 」&nbsp;김남영 기자 kim.namyoung3@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.06.09 17:13</p>
+<button type="button" class="btn_bookmark" data-cid="25255085" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈 말라가는 스타트업? AI 투자는 345% 폭증, 정점 찍었나 [팩플]]]></title>
         <id>https://www.joongang.co.kr/article/25254951</id>
         <link href="https://www.joongang.co.kr/article/25254951"/>
         <updated>2024-06-08T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25254951" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25254951" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/08/e1f7c4ac-d69a-4fe6-bd75-ff4dbcafc101.jpg/_ir_410x230_/" alt="돈 말라가는 스타트업? AI 투자는 345% 폭증, 정점 찍었나 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25254951" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25254951" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 돈 말라가는 스타트업? AI 투자는 345% 폭증, 정점 찍었나 [팩플]
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25254861"/>
         <updated>2024-06-07T10:10:36.802Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25254861" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25254861" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/07/050873f7-e087-4676-8819-b6ead6f23e25.jpg/_ir_410x230_/" alt="[팩플] 반독점에 발목 잡히나…美 MS·엔비디아·오픈AI 조사 착수">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25254861" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25254861" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] 반독점에 발목 잡히나…美 MS·엔비디아·오픈AI 조사 착수
 </a>
 </h2>
@@ -65,13 +92,13 @@ AFP=연합뉴스 &nbsp; 인공지능(AI) 개발·판매에 앞장섰던 빅테�
         <link href="https://www.joongang.co.kr/article/25254651"/>
         <updated>2024-06-06T11:11:19.729Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25254651" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25254651" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/06/b6d67633-e338-4da3-8abe-7bd45cb3661f.jpg/_ir_410x230_/" alt="[팩플] 일론 머스크 전기작가도 쓰는 AI...구글 노트북LM 한국 온다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25254651" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25254651" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] 일론 머스크 전기작가도 쓰는 AI...구글 노트북LM 한국 온다
 </a>
 </h2>
@@ -92,13 +119,13 @@ AFP=연합뉴스 &nbsp; 인공지능(AI) 개발·판매에 앞장섰던 빅테�
         <link href="https://www.joongang.co.kr/article/25254598"/>
         <updated>2024-06-06T06:13:37.655Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25254598" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25254598" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/06/909b3f38-af14-4964-8f7f-f1413034c652.jpg/_ir_410x230_/" alt="IT 직무자가 꼽은 AI 전환 선도 기업 2위는 SK텔레콤, 1위는?">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25254598" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25254598" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 IT 직무자가 꼽은 AI 전환 선도 기업 2위는 SK텔레콤, 1위는?
 </a>
 </h2>
@@ -119,13 +146,13 @@ IT 직무자가 꼽은 AI 전환 선도 기업 2위는 SK텔레콤, 1위는?
         <link href="https://www.joongang.co.kr/article/25254556"/>
         <updated>2024-06-06T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25254556" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25254556" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/06/5c6eaa8c-0a49-4165-8640-2bd933cc6c13.jpg/_ir_410x230_/" alt="에어컨? 택도 없다…데이터센터 식히려, 이 나라는 바다에 건설 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25254556" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25254556" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 에어컨? 택도 없다…데이터센터 식히려, 이 나라는 바다에 건설 [팩플]
 </a>
 </h2>
@@ -146,13 +173,13 @@ IT 직무자가 꼽은 AI 전환 선도 기업 2위는 SK텔레콤, 1위는?
         <link href="https://www.joongang.co.kr/article/25254392"/>
         <updated>2024-06-05T07:09:33.892Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25254392" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25254392" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/05/728f8024-8d8c-45e1-a78c-6bb6db9321f4.jpg/_ir_410x230_/" alt="'엔비디아 타도' 인텔 &quot;AI전략 핵심은 네이버·삼성·SK와 협력&quot; [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25254392" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25254392" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 '엔비디아 타도' 인텔 "AI전략 핵심은 네이버·삼성·SK와 협력" [팩플]
 </a>
 </h2>
@@ -173,13 +200,13 @@ IT 직무자가 꼽은 AI 전환 선도 기업 2위는 SK텔레콤, 1위는?
         <link href="https://www.joongang.co.kr/article/25254168"/>
         <updated>2024-06-04T09:12:03.326Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25254168" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25254168" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/04/01c039a0-61c6-425d-91b8-0f0b4bbe84da.jpg/_ir_410x230_/" alt="[팩플] 'R&amp;D 예타' 폐지… 3년 →1년 기간 줄여 골든타임 잡는다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25254168" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25254168" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] 'R&amp;D 예타' 폐지… 3년 →1년 기간 줄여 골든타임 잡는다
 </a>
 </h2>
@@ -200,13 +227,13 @@ IT 직무자가 꼽은 AI 전환 선도 기업 2위는 SK텔레콤, 1위는?
         <link href="https://www.joongang.co.kr/article/25254159"/>
         <updated>2024-06-04T09:12:03.328Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25254159" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25254159" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/04/caf290ac-2a23-4c66-bbb0-88ef5d206f18.jpg/_ir_410x230_/" alt="MS, 한국 AI에도 투자한다…KT와 전략적 파트너십 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25254159" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25254159" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 MS, 한국 AI에도 투자한다…KT와 전략적 파트너십 [팩플]
 </a>
 </h2>
@@ -227,13 +254,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25253913"/>
         <updated>2024-06-03T12:18:24.793Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25253913" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25253913" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/04/cfea897d-6293-48b8-9ddc-163329f5cdc4.jpg/_ir_410x230_/" alt="강형욱처럼 내 메신저 봤을까? 이 앱은 영장 있어도 못 본다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25253913" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25253913" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 강형욱처럼 내 메신저 봤을까? 이 앱은 영장 있어도 못 본다
 </a>
 </h2>
@@ -254,13 +281,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25253612"/>
         <updated>2024-06-02T09:10:59.527Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25253612" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25253612" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/02/4629af4a-d973-48b1-8107-b3185e52792b.jpg/_ir_410x230_/" alt="배민 '포장 수수료' 발표에 뿔난 점주들 &quot;음식값 올려야하나&quot; [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25253612" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25253612" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 배민 '포장 수수료' 발표에 뿔난 점주들 "음식값 올려야하나" [팩플]
 </a>
 </h2>
@@ -281,13 +308,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25253337"/>
         <updated>2024-05-31T08:13:29.982Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25253337" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25253337" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/31/84d473f9-98f9-4858-a692-87c7dbf93c60.jpg/_ir_410x230_/" alt="[팩플] 오픈AI &quot;중국, 챗GPT 활용해 여론조작…리처드 기어 비난도&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25253337" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25253337" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 오픈AI "중국, 챗GPT 활용해 여론조작…리처드 기어 비난도"
 </a>
 </h2>
@@ -308,13 +335,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25253007"/>
         <updated>2024-05-30T07:10:58.664Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25253007" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25253007" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/30/b8311991-1f7c-460a-8f14-cb7ef64a3b76.jpg/_ir_410x230_/" alt="[팩플] 소송전 벌이다 손 잡은 SKB·넷플릭스...결합상품 출시">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25253007" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25253007" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] 소송전 벌이다 손 잡은 SKB·넷플릭스...결합상품 출시
 </a>
 </h2>
@@ -335,13 +362,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25252762"/>
         <updated>2024-05-29T09:12:05.791Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25252762" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25252762" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/29/6745a731-f938-48fe-a5a4-4d24f690281e.jpg/_ir_410x230_/" alt="[팩플] 제4이통사 스테이지엑스 출범 난항…정부 “자본금 확충 능력 입증하라”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25252762" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25252762" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] 제4이통사 스테이지엑스 출범 난항…정부 “자본금 확충 능력 입증하라”
 </a>
 </h2>
@@ -362,13 +389,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25252576"/>
         <updated>2024-05-29T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25252576" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25252576" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/29/ff4485d8-385b-4f81-8e7d-ac077ecd51d5.jpg/_ir_410x230_/" alt="쿠팡은 전국 VS 배민은 구독제…수천억 '무료 배달 전쟁' [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25252576" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25252576" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 쿠팡은 전국 VS 배민은 구독제…수천억 '무료 배달 전쟁' [팩플]
 </a>
 </h2>
@@ -389,13 +416,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25252450"/>
         <updated>2024-05-28T08:14:10.174Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25252450" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25252450" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/28/2c1ebf80-7371-4c5c-8cad-9de79e1fac8e.jpg/_ir_410x230_/" alt="[팩플] 일론 머스크의 xAI, 8조원 투자 유치…빅테크 AI 경쟁 진검승부">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25252450" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25252450" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] 일론 머스크의 xAI, 8조원 투자 유치…빅테크 AI 경쟁 진검승부
 </a>
 </h2>
@@ -416,13 +443,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25252362"/>
         <updated>2024-05-28T11:40:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25252362" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25252362" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/28/85499af7-48ba-4d93-92e8-59dc55f3f908.jpg/_ir_410x230_/" alt="[단독] UAE 대통령, 김택진·방시혁 만난다…게임·엔터 협력 논의 | 팩플">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25252362" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25252362" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [단독] UAE 대통령, 김택진·방시혁 만난다…게임·엔터 협력 논의 | 팩플
 </a>
 </h2>
@@ -443,13 +470,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25252266"/>
         <updated>2024-05-28T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25252266" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25252266" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/28/2edeab1b-a486-482b-b216-0bf196350c06.jpg/_ir_410x230_/" alt="시내버스 기사, 운전대도 안 잡는다…그 뒤엔 이통3사 이 기술 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25252266" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25252266" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 시내버스 기사, 운전대도 안 잡는다…그 뒤엔 이통3사 이 기술 [팩플]
 </a>
 </h2>
@@ -470,13 +497,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25252164"/>
         <updated>2024-05-27T12:17:49.873Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25252164" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25252164" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/28/e8077aef-a005-4be0-83e4-1e5b9ae4fbb9.jpg/_ir_410x230_/" alt="60만원 다이슨 베끼고 당당하다…'4만원 짝퉁'의 노림수">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25252164" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25252164" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 60만원 다이슨 베끼고 당당하다…'4만원 짝퉁'의 노림수
 </a>
 </h2>
@@ -497,13 +524,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25252003"/>
         <updated>2024-05-27T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25252003" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25252003" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/27/9cb422e1-2232-4fa7-8471-c6c28d94545d.jpg/_ir_410x230_/" alt="민간 주도 '뉴 스페이스 시대' 연다…오늘 사천서 'KASA' 출범 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25252003" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25252003" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 민간 주도 '뉴 스페이스 시대' 연다…오늘 사천서 'KASA' 출범 [팩플]
 </a>
 </h2>
@@ -524,13 +551,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25251871"/>
         <updated>2024-05-26T08:11:44.486Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25251871" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25251871" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/26/7b38da5e-60ec-4e02-af50-1c0c0c04ffcc.jpg/_ir_410x230_/" alt="&quot;오바마는 무슬림 대통령&quot;…구글 AI도 '환각'에 빠졌다 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25251871" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25251871" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 "오바마는 무슬림 대통령"…구글 AI도 '환각'에 빠졌다 [팩플]
 </a>
 </h2>
@@ -551,13 +578,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25251808"/>
         <updated>2024-05-26T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25251808" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25251808" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/26/7c9f6c25-a411-478d-9544-e1e12d4eb095.jpg/_ir_410x230_/" alt="하필 '그녀' 엮이자 사태 꼬였다…잘나가는 오픈AI에 닥친 일 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25251808" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25251808" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 하필 '그녀' 엮이자 사태 꼬였다…잘나가는 오픈AI에 닥친 일 [팩플]
 </a>
 </h2>
@@ -578,13 +605,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25251393"/>
         <updated>2024-05-23T09:12:09.179Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25251393" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25251393" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/23/39ed4923-d5a6-49de-9520-4d8997247dc8.jpg/_ir_410x230_/" alt="'기술 융합'으로 기술 경쟁력 확보… 과기정통부 올해 880억 투입 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25251393" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25251393" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 '기술 융합'으로 기술 경쟁력 확보… 과기정통부 올해 880억 투입 [팩플]
 </a>
 </h2>
@@ -605,13 +632,13 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
         <link href="https://www.joongang.co.kr/article/25251353"/>
         <updated>2024-05-23T07:10:04.056Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25251353" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25251353" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/23/771190f0-9232-486e-b6d6-fd7cd3d610d5.jpg/_ir_410x230_/" alt="챗GPT, 돈 내고 WSJ 기사 쓴다...뉴스코프에 3400억 지급 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25251353" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25251353" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 챗GPT, 돈 내고 WSJ 기사 쓴다...뉴스코프에 3400억 지급 [팩플]
 </a>
 </h2>
@@ -621,33 +648,6 @@ AFP=연합뉴스 자체 인공지능(AI) 모델 ‘믿음’을 개발했던 KT�
 <div class="meta">
 <p class="date">2024.05.23 15:56</p>
 <button type="button" class="btn_bookmark" data-cid="25251353" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AI 블랙박스' 첫 해독 성공…"AI 그럴싸한 거짓말 줄일 수 있다" [팩플]]]></title>
-        <id>https://www.joongang.co.kr/article/25251241</id>
-        <link href="https://www.joongang.co.kr/article/25251241"/>
-        <updated>2024-05-23T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25251241" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202405/23/5343102a-6dbe-4f0d-bbee-3a350bcc3a35.jpg/_ir_410x230_/" alt="'AI 블랙박스' 첫 해독 성공…&quot;AI 그럴싸한 거짓말 줄일 수 있다&quot; [팩플]">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25251241" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-'AI 블랙박스' 첫 해독 성공…"AI 그럴싸한 거짓말 줄일 수 있다" [팩플]
-</a>
-</h2>
-<p class="description">
-오픈AI의 대항마 앤스로픽이 인공지능(AI)의 ‘블랙박스’를 열었다. 그간 알기 어려웠던 AI 작동원리를 일부 파악해 보다 안전한 AI를 만들 수 있다는 연구결과를 발표하면서다. 생성AI의 치명적 약점으로 꼽혀온 할루시네이션(환각), 편향 문제를 해결할 수 있을지 관심을 모은다. &nbsp; 연합뉴스=로이터 &nbsp;━&nbsp; 무슨 일이야&nbsp;&nbsp; &nbsp; 앤스로픽은 21일(현지시간) 거대언어모델(LLM)이 작동하는 원리의 실마리를 찾았다는 내용을 담은 ‘LLM의 마인드 매핑’이란 제목의 연구를 자사 홈페이지에 공개했다. 앤스로픽은 오픈AI 창업 멤버인 다리오·다니엘라 애머데이 남매가 2021년 미국 샌프란시스코에 설립한 AI 기업이다. 다리오 애머데이 앤스로픽 최고경영자(CEO)와 여동생 다니엘라 애모데이 대표는 각각 오픈AI의 연구 부사장, 안전·정책 부사장 출신이다.&nbsp; &nbsp; 앤스로픽의 이번 연구 결과는 인간이 그동안 알 수 없었던 AI의 사고 과정, 즉 작동 원리 일부를 파악했다는 데 의미가 있다. 인간으로 비유하자면, AI의 ‘뇌 지도’ 일부를 파악한 셈이다. 이번 발표를 두고 제이콥 안드레아스 MIT 컴퓨터공학과 교수는 뉴욕타임스(NYT)에 “인간이 어떻게 작동하는지 이해하는 게 질병 치료에 도움이 되듯, AI 모델의 작동 방식을 이해하면 상황이 잘못될 때를 인식하고, 이를 통제하기 위해 더 나은 도구를 만들 수 있다”고 말했다.&nbsp; 김경진 기자 &nbsp; &nbsp;━&nbsp; 이게 왜 중요해&nbsp;&nbsp; &nbsp; AI의 작동 원리는 지금까지 ‘블랙박스’로 불려왔다. AI가 내놓는 답이 어떤 과정을 거쳐 나오는지 개발자도 구체적으로 알지 못했기 때문이다. 개발자가 AI의 작동 원리를 알아내면 유해한 결과물이 나오지 않도록 예방 조치를 취할 수 있다. 또 AI의 잠재적인 위험성을 미리 파악하고, 그럴싸하게 거짓말을 하는 할루시네이션(환각) 증상과 AI의 편견을 줄일 수 있을 것으로 예상된다. 앤스로픽은 “AI의 편견, 안전 위협, 자율성에 대한 우려를 해소할 수 있는 패턴을 발견했다”면서도 아직 문제를 완전히 해결한 단계는 아니라는 입장이다.&nbsp; &nbsp; &nbsp;━&nbsp; 블랙박스 속 뭐가 있나&nbsp; &nbsp; 앤스로픽은 “AI 모델의 내부 작동을 이해하는 데 있어 상당한 진전을 이루었다”면서 자사 LLM 중 하나인 클로드 소넷의 수백만 개의 개념이 어떻게 표현되는지 확인했다고 밝혔다. 이를 설명하기 위해 앤스로픽은 ‘딕셔너리 러닝(dictionary learning)’이란 기법을 통해 자사 LLM인 클로드 소넷 내부에서 수백만 개의 ‘특징’(feature)을 추출해 개념화한 지도를 만들었다. &nbsp; 금문교 언급에 AI 내부가 반응을 보이는 모습. 주황색은 해당 기능이 활성화된 것을 의미한다. 앤스로픽 &nbsp; 구체적으로 ‘Golden Bridge’라는 단어를 언급할 때 LLM 내부에서는 한국어 ‘금문교’나 ‘캘리포니아’ ‘현수교’ ‘샌프란시스코’ 등의 연관 단어나 단어의 일부가 활성화된다. AI 모델 내부 작동방식이 인간처럼 유사한 개념을 통해 해당 단어의 의미를 추론하는 것과 비슷한 면을 보여준다는 것이다. &nbsp; 앤스로픽 사무실 모습. 앤스로픽 홈페이지 &nbsp; 주목할 점은 앤스로픽이 AI 내부 특정한 특징을 인위적으로 키우거나 억제해 AI의 생성 결과를 바꿀 수 있다고 밝힌 점이다. 클로드에 “네 물리적 모양은 뭔가”라고 물으면 “나는 물리적 형태가 없는 AI 모델”이라고 답을 한다. 하지만 기술적으로 ‘Golden Gate Bridge’에 대한 편향을 키우면 “난 금문교다. 나의 물리적 형태는 상징적인 다리 그 자체”라고 답하는 식이다. 앤스로픽은 사기성 이메일을 써달라고 요청하면 거부하던 클로드 내부의 특정한 특징을 조작하면 사기 이메일 초안을 작성하도록 개입할 수 있다고도 밝혔다. 아울러 클로드에 ‘네 지혜는 의심할 여지가 없다’는 칭찬이 포함된 명령어를 입력하면 AI 내부의 아부와 칭찬과 관련한 특징이 활성화된다는 점도 발견했다. &nbsp; 전문가들은 이번 연구가 안전한 AI개발 차원에서 의미가 있다고 평가한다. LLM 내부 특징을 키우거나 억제해 AI가 생성해내는 값을 바꿀 수 있다는 차원에서다. 특히 이번 발표는 최근 오픈AI가 GPT-4o 공개 이후 안전 기술을 담당하던 수퍼얼라이먼트(superalignment·초정렬)팀을 해체한 가운데 나와 업계의 주목을 받고 있다.&nbsp;서영주 포항공대 AI 대학원 원장은 “블랙박스로 여겨진 LLM의 작동 원리 일부를 파악한 점 이외에도 AI 내부에 인위적인 ‘좋은 편향’을 주는 방식으로 윤리적인 답변을 유도할 수 있다는 점에서 의미가 있다”면서 “완벽한 것은 아니지만 안전한 AI, 윤리적인 AI의 실마리를 찾아낸 것”이라고 평가했다. 여성국 기자 yu.sungkuk@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.05.23 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25251241" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
