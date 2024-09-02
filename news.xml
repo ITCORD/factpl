@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2024-09-02T11:09:51.697Z</updated>
+    <updated>2024-09-02T12:21:44.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 혼자 야근하니? 5명중 1명이 쓰는 '직장의 신' 있다]]></title>
+        <id>https://www.joongang.co.kr/article/25274980</id>
+        <link href="https://www.joongang.co.kr/article/25274980"/>
+        <updated>2024-09-02T12:21:00.841Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25274980" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202409/02/d77558b7-e239-420c-99c5-664ce68a6ebe.jpg/_ir_410x230_/" alt="왜 혼자 야근하니? 5명중 1명이 쓰는 '직장의 신' 있다">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25274980" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+왜 혼자 야근하니? 5명중 1명이 쓰는 '직장의 신' 있다
+</a>
+</h2>
+<p class="description">
+&nbsp; ■ 추천! 더중플 - 책상 위 혁명, 오피스 AI 사용법&nbsp;「 요약해야 할 보고서는 산더미 같이 쌓이고, 외국인 고객에게 보내야 할 e메일만 수십통 밀려있는 당신. 사실상 오늘 밤 야근 확정인 직장인, 인공지능(AI)을 사용하면 달라질 수 있습니다. &nbsp; 오늘의 ‘추천! 더중플’에선 사무실에서 업무 생산성을 높이는 데 필요한 생성 AI들을 소개합니다. 팩플은&nbsp;소비자·투자자 입장에서 알아야 할 혁신 기술과 비즈니스에 대한 모든 것을 다룹니다. 일상과 업무에 필요한 AI가 무엇이 있는지, 어떻게 써야 생산성을 올릴 수 있는지 일목요연하게 정리해 드립니다. 더 자세한 내용은 더중앙플러스 구독 후 보실 수 있습니다. 」&nbsp; 오혜정 디자이너 &nbsp; 당장 내일까지 읽어야 할 보고서가 산더미고, 정리할 회의록이 수두룩하다면? 사무실 칸막이 책상에 앉아 매일 밤 야근하느라 머리를 싸매고 있는 직장인이라면 주목하자. 요즘은 인공지능(AI)이 서류도 요약하고 영어 이메일도 대신 써준다. 실제 국내 한 IT전문 매체가 진행한 ‘2023년 한국 기업의 AI 도입 및 활용 현황’ 설문에 따르면, 업무에서 AI 기술을 활용한다는 응답은 23.8%였다. 이미 5명 중 1명은 AI로 생산성을 높인다는 것. &nbsp; 수백장, 수천장 분량 보고서, 읽을 시간이 부족하다면 생성AI 도움을 받아보자. 보고서를 먼저 학습한 AI는 묻는 정보만 찾아서 대답해주는게 가능하다. 예컨대, 마이크로소프트(MS) 생성AI 서비스인 ‘MS 코파일럿’을 구독하고 있다면 MS 워드 프로그램 오른쪽 상단 메뉴 창에 영어로 ‘코파일럿(Copilot)’이라고 적힌 버튼을 눌러보자. 이후 표시되는 대화창에 궁금한 점을 물어보면 된다. 수십장 분량 기업 실적 관련 정보가 담긴 리포트나, 연간 실적 발표 콘퍼런스콜 녹취록 등이 담긴 워드 파일을 열고 “지난해 ○○ 부문 매출이 얼마야?”라고 물어보면 답을 주는 식이다. &nbsp; 생산성 소프트웨어(SW)인 노션도 온라인에 저장해 놓은 각종 문서를 내용을 AI 챗봇에 물어볼 수 있는 ‘Q&amp;A 기능’을 서비스한다. 예컨대, 노션 온라인 문서에 각종 신문 제목과 인터넷 주소를 스크랩한 문서를 저장해 놨다면&nbsp; AI 챗봇에 '○○○에 관련된 내용이 적힌 기사 제목을 찾아줘'라고 물어보면 찾아서 보여준다.&nbsp; &nbsp; 장문의 글을 요약하는 건 생성 AI의 주특기. 국내 대학교 학부생이 한 학기동안 공부하는 400페이지 국제관계학 논문이 담긴 PDF를 MS코파일럿은 8000자 수준으로 10분 만에 요약해줬다. 필요에 따라 주제를 알려주거나(해당 글은 ○○이라는 주제인데, 요약해줘), 길이를 제한(400자 이내로 요약해줘)하는 등의 방향성을 정해주면 더 명확한 결과물을 얻을 수 있다. 구글 제미나이, 챗 GPT도 가능하다. &nbsp; 보내는데 시간이 많이 드는 e메일도 대신 써줄 수 있다. 해외 비즈니스 파트너와 소통할 수 있는 영어 e메일도 문제없다. 그러나, 막상 생성AI를 실제 업무에 활용하려면 걱정부터 앞선다. 어떤 AI를 써야 내게 딱 맞는 도움을 받을 수 있을까. 명령어(프롬프트)에 따라 내놓는 결과도 확확 달라진다는데. 생성AI, 사무실에서 실제 활용하는 방법과 주의해야 할 점은 무엇일까. &nbsp; 📌더 자세한 기사 내용이 궁금하시다면, 기사 링크를 복사해 주소창에 붙여 넣어주세요. 월급 몇 만원 ‘최강 신입’ 떴다, 보고서 척척 ‘AI 막내’ 채용법 https://www.joongang.co.kr/article/25246663 &nbsp; &nbsp; ■ 추천! 더중플 - 책상 위 혁명, 오피스 AI 사용법&nbsp;「 ①&nbsp;내 일상이 확 달라질 걸? 당신도 된다 ‘AI 마스터’ 나 빼고 다 생성 AI 쓰는 것 같아 불안하다면? 챗GPT부터 이미지·오피스·영상·학술·음악·코딩까지 분야별 생성 AI 사용법을 싹 모았습니다. 지금 여기를 눌러 PDF를 다운로드 하세요! https://www.joongang.co.kr/pdf/1008 ②뭐하러 ‘PPT 노가다’ 합니까, “만들어줘” 한마디면 되는데 AI와 거리가 멀던 사무직도 AI 기술 활용법이 쏟아진다고 한다. 밤새 야근하며 만들었던 ‘파워포인트(PPT)’ 장표, 요즘은 AI가 모두 만들어준다고 하는데. AI가 변화시키는 ‘오피스 혁명’을 보고 싶다면 이 리포트에 주목. &nbsp; https://www.joongang.co.kr/article/25242664 &nbsp; ③당직표 왜 짜요? 코딩할게요…‘문송’ 신입의 AI 활용법 요즘 회사에선 코딩을 해야 ‘일 잘한다’ 소리 듣는다. 소싯적 코드 한 줄 배운 적 없는 문과생도 AI로 척척 코딩이 가능하다는데. 요즘 20대와 신입사원들이 쓰는 AI 사용법, 찐 경험을 모아봤다. &nbsp; https://www.joongang.co.kr/article/25269354 &nbsp; 」&nbsp; &nbsp; &nbsp; ■ &nbsp;「 또다른 AI 활용법 &nbsp; 19달러면 논문 통과 껌이다, ‘엑기스’ 뽑아주는 특급 조수 https://www.joongang.co.kr/article/25251343 &nbsp; 대본 넣으면 영상이 뚝딱…‘100% 무료’ AI툴 완전정복 https://www.joongang.co.kr/article/25249739 &nbsp; 요샌 챗GPT 쓰면 하수입니다…‘문송’도 엑셀 천재 만들 조수 https://www.joongang.co.kr/article/25262847 &nbsp; ‘똥손’도 1분 만에 디자이너…작품 만드는 챗GPT 활용법 &nbsp; https://www.joongang.co.kr/article/25245111 」&nbsp; &nbsp; 윤상언 기자 youn.sangun@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.09.02 21:01</p>
+<button type="button" class="btn_bookmark" data-cid="25274980" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고팍스 되파는 바이낸스 “이용자 보호 최우선…한국 시장 진출은 계속”]]></title>
         <id>https://www.joongang.co.kr/article/25274941</id>
         <link href="https://www.joongang.co.kr/article/25274941"/>
         <updated>2024-09-02T09:12:41.200Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25274941" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25274941" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202409/02/394cbf21-5f05-478e-9359-b515c59283d6.jpg/_ir_410x230_/" alt="고팍스 되파는 바이낸스 “이용자 보호 최우선…한국 시장 진출은 계속”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25274941" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25274941" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 고팍스 되파는 바이낸스 “이용자 보호 최우선…한국 시장 진출은 계속”
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25274901"/>
         <updated>2024-09-02T07:11:38.126Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25274901" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25274901" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202409/02/86e895b5-a14a-4eee-b983-9eb9fb4d9851.jpg/_ir_410x230_/" alt="넥슨 총수 일가, 상속세 납부 완료...&quot;경영안정이 최우선&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25274901" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25274901" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 넥슨 총수 일가, 상속세 납부 완료..."경영안정이 최우선"
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25274636"/>
         <updated>2024-09-01T09:11:33.873Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25274636" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25274636" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202409/01/86931993-4869-4e6a-91ac-ffd1bb373af7.jpg/_ir_410x230_/" alt="[팩플] 브라질서 차단당한 엑스…무법천지 SNS에 칼 빼든 각국 정부">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25274636" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25274636" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] 브라질서 차단당한 엑스…무법천지 SNS에 칼 빼든 각국 정부
 </a>
 </h2>
@@ -92,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25274502"/>
         <updated>2024-08-31T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25274502" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25274502" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/31/6aafe517-20fc-421c-99ac-48e26d65a347.jpg/_ir_410x230_/" alt="지각생 애플도, 잘나가는 엔비디아도 &quot;오픈AI 투자 검토&quot; [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25274502" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25274502" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 지각생 애플도, 잘나가는 엔비디아도 "오픈AI 투자 검토" [팩플]
 </a>
 </h2>
@@ -119,13 +146,13 @@
         <link href="https://www.joongang.co.kr/article/25274390"/>
         <updated>2024-08-30T09:12:36.315Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25274390" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25274390" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/30/c19f9773-f97e-4aec-9221-0c0dad3975fe.jpg/_ir_410x230_/" alt="[단독] 첫 방한 우버 CEO, 네이버·현대차 만났다…“한국은 우리 핵심 시장” | 팩플">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25274390" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25274390" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [단독] 첫 방한 우버 CEO, 네이버·현대차 만났다…“한국은 우리 핵심 시장” | 팩플
 </a>
 </h2>
@@ -146,13 +173,13 @@
         <link href="https://www.joongang.co.kr/article/25274259"/>
         <updated>2024-08-30T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25274259" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25274259" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/30/a425e831-7570-4251-a4d0-fd1518b94612.jpg/_ir_410x230_/" alt="'SB 1047' 이 법안에 AI 빅테크 떨고있다…EU 이어 미국까지?[팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25274259" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25274259" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 'SB 1047' 이 법안에 AI 빅테크 떨고있다…EU 이어 미국까지?[팩플]
 </a>
 </h2>
@@ -173,13 +200,13 @@
         <link href="https://www.joongang.co.kr/article/25273725"/>
         <updated>2024-08-28T08:13:57.401Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25273725" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25273725" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/28/4c448a6a-f84e-4c78-86e1-70a75c81ed6a.jpg/_ir_410x230_/" alt="[팩플] 토종 앱마켓의 글로벌 도전…대만‧유럽 잡겠다는 원스토어">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25273725" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25273725" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] 토종 앱마켓의 글로벌 도전…대만‧유럽 잡겠다는 원스토어
 </a>
 </h2>
@@ -200,13 +227,13 @@
         <link href="https://www.joongang.co.kr/article/25273605"/>
         <updated>2024-08-28T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25273605" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25273605" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/28/98509962-db46-4524-944f-8aedeb4407bd.jpg/_ir_410x230_/" alt="범죄에 오픈된 '오픈소스 AI'…딥페이크 막기 힘든 까닭 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25273605" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25273605" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 범죄에 오픈된 '오픈소스 AI'…딥페이크 막기 힘든 까닭 [팩플]
 </a>
 </h2>
@@ -227,13 +254,13 @@
         <link href="https://www.joongang.co.kr/article/25273188"/>
         <updated>2024-08-26T10:12:20.156Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25273188" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25273188" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/26/891eda3f-ba91-4c5e-9bb6-7aa5d8972ecf.jpg/_ir_410x230_/" alt="[팩플] 5년 간 국가전략기술에 30조 투자…기초연구는 빠진 청사진 ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25273188" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25273188" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] 5년 간 국가전략기술에 30조 투자…기초연구는 빠진 청사진
 </a>
 </h2>
@@ -254,13 +281,13 @@
         <link href="https://www.joongang.co.kr/article/25272950"/>
         <updated>2024-08-25T12:17:18.552Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25272950" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25272950" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/26/7d244a51-9e2a-4efd-9160-d8e69256262a.jpg/_ir_410x230_/" alt="부장님, PPT 왜 만들어요? 20대 직장인이 살아남는 법">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25272950" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25272950" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 부장님, PPT 왜 만들어요? 20대 직장인이 살아남는 법
 </a>
 </h2>
@@ -281,13 +308,13 @@
         <link href="https://www.joongang.co.kr/article/25272935"/>
         <updated>2024-08-25T09:10:00.009Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25272935" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25272935" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/25/d33a7cca-f710-47c8-86dc-299301bd3f9e.jpg/_ir_410x230_/" alt="[팩플] NASA, 우주비행사 복귀에 “보잉 대신 스페이스X”…체면 구긴 보잉">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25272935" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25272935" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] NASA, 우주비행사 복귀에 “보잉 대신 스페이스X”…체면 구긴 보잉
 </a>
 </h2>
@@ -308,13 +335,13 @@ NASA 관계자들이 24일(현지시간) 텍사스 휴스턴의 존슨 우주센
         <link href="https://www.joongang.co.kr/article/25272933"/>
         <updated>2024-08-25T09:10:00.019Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25272933" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25272933" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/25/45babc9b-5977-47f7-bf1d-ff7187624551.jpg/_ir_410x230_/" alt="[팩플] ‘각종 범죄 악용 방치했다’... 텔레그램 CEO 프랑스서 체포">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25272933" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25272933" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] ‘각종 범죄 악용 방치했다’... 텔레그램 CEO 프랑스서 체포
 </a>
 </h2>
@@ -335,13 +362,13 @@ NASA 관계자들이 24일(현지시간) 텍사스 휴스턴의 존슨 우주센
         <link href="https://www.joongang.co.kr/article/25272666"/>
         <updated>2024-08-23T08:14:09.936Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25272666" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25272666" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/23/f5684b36-6969-4b1e-9e2b-ea233e31e84a.jpg/_ir_410x230_/" alt="[팩플] 애플, 유럽에서 브라우저 선택권 준다…앱스토어도 삭제 가능">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25272666" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25272666" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] 애플, 유럽에서 브라우저 선택권 준다…앱스토어도 삭제 가능
 </a>
 </h2>
@@ -362,13 +389,13 @@ NASA 관계자들이 24일(현지시간) 텍사스 휴스턴의 존슨 우주센
         <link href="https://www.joongang.co.kr/article/25272424"/>
         <updated>2024-08-22T09:11:16.814Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25272424" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25272424" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/22/560c23de-5de0-4696-a9ce-5298f0744ed5.jpg/_ir_410x230_/" alt="[팩플] 네이버 하이퍼클로바X, 보고 듣고 말하기도 이제 잘한다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25272424" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25272424" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] 네이버 하이퍼클로바X, 보고 듣고 말하기도 이제 잘한다
 </a>
 </h2>
@@ -389,13 +416,13 @@ NASA 관계자들이 24일(현지시간) 텍사스 휴스턴의 존슨 우주센
         <link href="https://www.joongang.co.kr/article/25272080"/>
         <updated>2024-08-21T07:10:38.339Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25272080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25272080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/21/120b3cd1-ddff-4012-88aa-ff3c276b6039.jpg/_ir_410x230_/" alt="[팩플] 언론사 손 잡고, AI 검색 시장 노리는 오픈AI">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25272080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25272080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] 언론사 손 잡고, AI 검색 시장 노리는 오픈AI
 </a>
 </h2>
@@ -416,13 +443,13 @@ NASA 관계자들이 24일(현지시간) 텍사스 휴스턴의 존슨 우주센
         <link href="https://www.joongang.co.kr/article/25272052"/>
         <updated>2024-08-21T05:10:44.916Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25272052" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25272052" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/21/4e5f5c65-8574-43c4-a8e5-4e0d4158452c.jpg/_ir_410x230_/" alt="[팩플] SKT, 서울에 엔비디아 GPU기반 AI 데이터센터 연다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25272052" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25272052" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [팩플] SKT, 서울에 엔비디아 GPU기반 AI 데이터센터 연다
 </a>
 </h2>
@@ -443,13 +470,13 @@ SK텔레콤이 오는 12월 엔비디아 GPU(그래픽처리장치)를 배치한
         <link href="https://www.joongang.co.kr/article/25271849"/>
         <updated>2024-08-20T15:10:52.272Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25271849" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25271849" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/20/de30158c-5447-48d1-8c0c-b5693124a978.jpg/_ir_410x230_/" alt="[팩플] 아파트 임장 발품 안 팔아도 가능…네이버 ‘부동산 VR 매물’ 출시">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25271849" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25271849" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 [팩플] 아파트 임장 발품 안 팔아도 가능…네이버 ‘부동산 VR 매물’ 출시
 </a>
 </h2>
@@ -470,13 +497,13 @@ SK텔레콤이 오는 12월 엔비디아 GPU(그래픽처리장치)를 배치한
         <link href="https://www.joongang.co.kr/article/25271596"/>
         <updated>2024-08-20T15:10:52.275Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25271596" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25271596" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/19/aa72d96e-8e2c-47bc-b608-2a32f85d9f30.jpg/_ir_410x230_/" alt="&quot;기자양반, 잔머리 굴리지 마&quot;…'앱도사'에 직장운 물었더니">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25271596" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25271596" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 "기자양반, 잔머리 굴리지 마"…'앱도사'에 직장운 물었더니
 </a>
 </h2>
@@ -497,13 +524,13 @@ SK텔레콤이 오는 12월 엔비디아 GPU(그래픽처리장치)를 배치한
         <link href="https://www.joongang.co.kr/article/25271580"/>
         <updated>2024-08-20T15:10:52.276Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25271580" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25271580" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/19/2abf64e7-e5aa-465a-870d-9a0566050482.jpg/_ir_410x230_/" alt="[팩플] 넥슨 총수 일가, 상속세 위해 NXC에 6662억원 지분 매각">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25271580" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25271580" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] 넥슨 총수 일가, 상속세 위해 NXC에 6662억원 지분 매각
 </a>
 </h2>
@@ -524,13 +551,13 @@ SK텔레콤이 오는 12월 엔비디아 GPU(그래픽처리장치)를 배치한
         <link href="https://www.joongang.co.kr/article/25271292"/>
         <updated>2024-08-20T15:10:52.277Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25271292" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25271292" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/18/f281d00b-48fa-4f93-8833-4d68cf12e827.jpg/_ir_410x230_/" alt="[팩플] 사피온-리벨리온 합병 본계약 체결…AI 맞춤형 반도체 만든다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25271292" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25271292" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] 사피온-리벨리온 합병 본계약 체결…AI 맞춤형 반도체 만든다
 </a>
 </h2>
@@ -551,13 +578,13 @@ SK텔레콤이 오는 12월 엔비디아 GPU(그래픽처리장치)를 배치한
         <link href="https://www.joongang.co.kr/article/25271093"/>
         <updated>2024-08-20T15:10:52.278Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25271093" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25271093" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/16/cfbfd0fb-b9ad-4de2-b79d-08081b453cc3.jpg/_ir_410x230_/" alt="챗GPT 쓰면 하수입니다…&quot;문송&quot; 직장인이 쓴 엑셀 치트키">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25271093" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25271093" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 챗GPT 쓰면 하수입니다…"문송" 직장인이 쓴 엑셀 치트키
 </a>
 </h2>
@@ -578,13 +605,13 @@ SK텔레콤이 오는 12월 엔비디아 GPU(그래픽처리장치)를 배치한
         <link href="https://www.joongang.co.kr/article/25271072"/>
         <updated>2024-08-20T15:10:52.282Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25271072" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25271072" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/16/27d1eb78-5418-408a-b8b8-fcd197ce8b83.jpg/_ir_410x230_/" alt="총 든 트럼프, 마약하는 부시…&quot;재밌잖아&quot; 위험한 머스크식 AI [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25271072" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25271072" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 총 든 트럼프, 마약하는 부시…"재밌잖아" 위험한 머스크식 AI [팩플]
 </a>
 </h2>
@@ -605,13 +632,13 @@ SK텔레콤이 오는 12월 엔비디아 GPU(그래픽처리장치)를 배치한
         <link href="https://www.joongang.co.kr/article/25270658"/>
         <updated>2024-08-20T15:10:52.282Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25270658" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25270658" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/14/259742c5-0970-4c07-80e9-8e0a9e0b32c5.jpg/_ir_410x230_/" alt="[팩플] 플랫폼 규제 논의, 핵심 키워드로 떠오른 ‘뉴스’">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25270658" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25270658" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플] 플랫폼 규제 논의, 핵심 키워드로 떠오른 ‘뉴스’
 </a>
 </h2>
@@ -621,33 +648,6 @@ SK텔레콤이 오는 12월 엔비디아 GPU(그래픽처리장치)를 배치한
 <div class="meta">
 <p class="date">2024.08.14 17:19</p>
 <button type="button" class="btn_bookmark" data-cid="25270658" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 항우연·기초연 '치매 예방 물질' 우주 실험, 로켓 쏜다]]></title>
-        <id>https://www.joongang.co.kr/article/25270539</id>
-        <link href="https://www.joongang.co.kr/article/25270539"/>
-        <updated>2024-08-14T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25270539" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/14/d827c4da-c304-4566-83bf-d662f85a0866.jpg/_ir_410x230_/" alt="[단독] 항우연·기초연 '치매 예방 물질' 우주 실험, 로켓 쏜다 ">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25270539" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[단독] 항우연·기초연 '치매 예방 물질' 우주 실험, 로켓 쏜다
-</a>
-</h2>
-<p class="description">
-올 하반기 한국기초과학지원연구원과 한국항공우주연구원이 치매 예방 연구를 위해 실험용 로켓(사운딩 로켓)을 쏜다. 사진은 나사가 공개한 사운딩 로켓의 발사 장면으로 기사와 무관하다. 사진 나사 &nbsp; 우주 로켓에서 치매에 대한 해법을 찾을 수 있을까.&nbsp;한국 연구기관들이 우주에서 치매 예방 물질 연구를 시작한다. &nbsp; &nbsp;━&nbsp; 무슨 일이야&nbsp; &nbsp; 한국항공우주연구원(항우연)과 한국기초과학지원연구원(기초연)은 올 하반기 전라남도 고흥 나로우주센터 인근에서&nbsp;치매 예방 물질 연구를 위한 실험용 로켓(사운딩 로켓)을 발사한다.&nbsp;기초연 이영호 박사팀에 따르면, 연구팀은 항우연과 함께&nbsp;우주의 미세중력(무중력에 수렴하는 가장 약한 수준의 중력) 환경을 이용해 치매 등 노인성 뇌 질환과 다양한 퇴행성 질환을 예방할 수 있는 물질을 공동 연구하고 있다. 하반기 발사하는 실험용 로켓에 연구 중인 물질을 실어 본격 실험에 들어갈 계획이다. 우주를 향해 쏘아 올린 로켓이 바다나 지상으로 떨어질 때 만들어지는 약 15초가량의 미세중력 환경을 활용한다는 구상이다. &nbsp; 연구 물질은 2022년 설립된 민간 로켓 제조 스타트업 우나스텔라의 발사체에 실린다.&nbsp;높이 10m의 원통형 로켓 안에서 위치한 길이 0.5m 상당의 탑재체 공간에 실험 물질과 장치를 설치하는 방식이다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 정부 산하 연구기관과 민간 스타트업이 우주의학 분야에서 협업하는 첫 사례다. 박재홍 우나스텔라 대표는 “항우연·기초연뿐 아니라 한국생명공학연구원(생명연)·한국기계연구원(기계연) 등 5~6개 연구기관의 실험 장치도 함께 실을 것”이라고 말했다. 생명연은 단백질 합성 연구, 기계연은 유체(기체와 액체) 이송 실험을 위한 장치를 로켓에 싣는다. &nbsp; 우주의 무중력은 단백질 결정이 중력 방향으로 쏠리는 현상을 방지해 균일하고 결함 없는 상태로 합성이 가능하게돕는다. 특히 제약·바이오 분야에서는 의약 용액이 골고루 섞이면서 투입 자원 대비 수율(완성된 약품의 비율)이 올라간다는 강점이 있다. 지상에서는 무중력 구현이 불가능한 만큼 각 연구기관은 무중력에 수렴하는 가장 약한 수준의 중력, 즉 ‘미세 중력’ 환경을 구현하는 데 집중해 왔다. &nbsp; 업계 관계자는“이번 발사는 우주의학 분야에서 국내 시험 인프라를 확보한다는 의미를 가진다”며 “해외에 의존하지 않고 연구 독립성을 확보할 것을 기대한다”고 말했다. 이어 “뉴 스페이스 시대에 민간 스타트업도 의학·생명·제약 등 다 분야에서 발사체를 시험에 활용할 기회가 될 수 있을 것”이라고 덧붙였다. 하반기 실험용 로켓 발사가 성공하면 내년 중 우주 100~200㎞ 준·저궤도 공간에 실험용 소형 위성 발사체를 투입하는 방안도 논의할 전망이다. &nbsp; ■ 더중앙플러스: 뉴스페이스 시대 우주 비즈니스&nbsp;「 팩플 오리지널에선 지금 가장 뜨거운 산업 비즈니스, 그리고 IT 기업에 대해 놓치지 말아야 할 이야기를 쉽게 풀어드립니다. 우주 무중력 공간에서이뤄지는 암, 치매 등 난제 해결 시도 등 민간 주도로 이뤄지는 우주 비즈니스의 현재와 미래를 더 알고 싶으시다면&nbsp;링크를 복사해 주소창에 붙여넣으세요. &nbsp; 📌 ‘용각산’은 왜 우주로 가나…무중력서 벌어진 놀라운 일 https://www.joongang.co.kr/article/25270106 &nbsp; 📌 하늘에서 1335조 쏟아진다, 별도 달도 따주는 우주산업 https://www.joongang.co.kr/article/25229637 &nbsp; 📌 5월 우주에 용달차 쏩니다, 27세 청년의 ‘찐 로켓배송’ https://www.joongang.co.kr/article/25244817 &nbsp; &nbsp; &nbsp; 」&nbsp;어환희 기자 eo.hwanhee@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.08.14 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25270539" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
