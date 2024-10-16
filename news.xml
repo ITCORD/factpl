@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2024-10-16T04:15:48.535Z</updated>
+    <updated>2024-10-16T05:12:47.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] ‘으르렁’ 녹음이 영상 속 괴물 소리됐다…미래 AI 창작 엿본 ‘스닉스’]]></title>
+        <id>https://www.joongang.co.kr/article/25284702</id>
+        <link href="https://www.joongang.co.kr/article/25284702"/>
+        <updated>2024-10-16T05:12:05.144Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25284702" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/16/3d478c9e-5484-4713-941e-3bcbf84242f5.jpg/_ir_410x230_/" alt="[팩플] ‘으르렁’ 녹음이 영상 속 괴물 소리됐다…미래 AI 창작 엿본 ‘스닉스’">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25284702" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] ‘으르렁’ 녹음이 영상 속 괴물 소리됐다…미래 AI 창작 엿본 ‘스닉스’
+</a>
+</h2>
+<p class="description">
+15일(현지시간) 미국 플로리다주 마이애미에서 열린 어도비의 연례 컨퍼런스 ‘맥스(MAX) 2024’ 중 스닉스 행사. 사진 AP, 어도비 &nbsp; 이 기술이 마음에 들면 현장이나 소셜 미디어에서 열렬한 반응을 보여주세요. 여러분 관심에 따라 실제 출시될 수도 있습니다. 15일(현지시간) 미국 플로리다주 마이애미에서 열린 어도비의 연례 컨퍼런스 ‘맥스(MAX) 2024’. 1만 명이 넘는 창작자들의 가장 큰 관심은 단연 ‘스닉스(sneaks)’ 행사에 쏠렸다. 포토샵 등 디자인 소프트웨어를 개발하는 어도비의 새로운 기술과 아이디어를 말 그대로 ‘스닉할 수 있는’(엿볼 수 있는) 자리여서다. &nbsp; 단기적으로 상용화할 기술을 공개한 전날 키노트(기조)와 달리 스닉스에서 발표하는 기술은 실제 출시될 수도, 안 될 수도 있다. 어도비 기술개발팀 내에서 선정한 직원들이 직접 자신이 개발 중인 기술에 대해 5~8분가량 발표한다. 발표 직후 나타난 현장 반응을 토대로 기술의 출시 및 성공 가능성을 점칠 수 있다는 것이 어도비 측 설명이다. &nbsp; &nbsp;━&nbsp; AI 통해 오디오 생성…명령어 뭐 쓸지까지 알려준다 &nbsp; 올해 스닉스에서 발표한 총 9가지 신기술 중 가장 큰 호응을 얻었던 건 ‘수퍼소닉’(SuperSonic)이다. 영상에 어도비 자체 개발 생성AI인 파이어플라이를 통해 효과음·배경음악 등 적당한 오디오를 만들어 적절한 위치에 배치까지 해준다. 사용자가 영상에 어울리는 소리를 일일이 찾아 해당 장면에 맞게 한 땀 한 땀 배치해야 했던 기존 방식의 비효율성을 해결할 수 있다. AI 사운드 디자인 책임자이자 수퍼소닉을 개발하고 있는 저스틴 살라몬은 “단 몇 초 만에 최적의 사운드를 완성해 작업 시간을 아껴주는 기술”이라며 시현에 나섰다. AI에 원하는 효과음 관련 명령어(텍스트)를 입력하거나 창작자가 원하는 소리를 직접 녹음해 올리면 AI가 영상에 어울리게 구현하는 방식으로 작동한다. 두 괴물이 대치하는 영상에서 살라몬이 어색하게 ‘으르렁’ 소리를 녹음하자, AI는 단 몇 초 만에 실제 괴물이 내는 것처럼 들리는 효과음을 생성했다. &nbsp; AI에 효과음을 생성하도록 명령을 내릴 때 ‘프롬프트(명령창)에 뭐라고 쓰지’ 고민할 필요가 없다. 영상에서 오디오를 적용할 대상을 지정해 ‘개체 선택(subject selection)’을 누르면 명령어가 자동 생성된다. 살라몬은&nbsp;“우주선을 개체 선택하면, 우주선 관련 효과음을 생성해 달라는 명령어를 자동으로 입력할 수 있다. 수퍼소닉은 창작자의 영감까지 돕는 것”이라고 설명했다. &nbsp; &nbsp;━&nbsp; “3D·오디오 분야, AI 모델 연구 주력” &nbsp; 3D(차원) 디자인을 다루는 ‘시닉’(Scenic) 기술도 눈길을 끌었다. 생성AI를 통해 3D 이미지를 기존 2D를 다루는 방식으로 다룰 수 있게 설계한 도구다. 명령어를 입력하면 AI가 3D 결과물을 내놓고, 창작자는 위치를 수정하거나 카메라 앵글(각도)을 변경하는 등 직접 작업할 수 있다. 위에서 내려다보는 이른바&nbsp;‘항공샷’이나 옆에서 바라보는&nbsp;‘측면샷’ 등 다양한 각도로 작업할 수 있다. &nbsp; ’하이-파이’ 기술은 스케치나 도형 조합 수준의 콘텐트를 실시간으로 고품질 이미지로 변환한다. 사진 어환희 기자 &nbsp; ‘리믹스 어 랏’(Remix A Lot) 기술은 스케치를 완성된 디자인으로 바꿔주고,&nbsp;‘하이-파이’(Hi-Fi) 기술은 도형·개체를&nbsp;조합한 단순 이미지를 실시간으로 고품질 이미지로 변환한다.&nbsp; &nbsp; 합성·제거 등 기존에 흔히 사용하는 기능을 한층 더 발전시킨 기술도 소개됐다. ‘퍼펙트블렌드’(PerfectBlend) 기술은 채도·명도·그림자 등을 고려한 정교한 합성 결과물을 단 2~3초 만에 내놓았다. ‘클린머신’(CleanMachine) 기술은 사진에서 불꽃놀이 같은 플래시나 불필요한 개체를 완벽하게 제거한다. &nbsp; ‘퍼펙트블렌드’ 기술은 채도·명도·그림자 등을 고려한 정교한 합성 결과물을 단 2~3초 만에 내놓는다. 사진 어환희 기자 &nbsp; 파이어플라이가 핵심적으로 사용되냐 아니냐의 차이일 뿐&nbsp;이날 스닉스에서 공개된 모든 기술에는 AI가 적용됐다. 알렉산드루 코스틴 어도비 생성 AI 총괄 부사장은 이날 오전 진행한 언론 간담회에서&nbsp;“2023년 3월 파이어플라이 출시 이후 130억장 이상의 이미지가 생성됐고, 이중 70억장이 포토샵에서 편집된 이미지다. 생성 AI를 (어도비에서는) ‘생성 에디팅’이라 지칭할 만큼 고객들의 AI 활용은 편집에 집중되고 있다“고 말했다. 이어 “AI를 활용해 창작자들이 콘텐트를 빠르고 쉽게 만들 수 있는 방법을 계속해서 연구하고 있다”면서 “3D 생성 AI 모델과 오디오 AI 모델 연구에 주력하고 있다”고 강조했다. &nbsp; ■ 더중앙플러스 - AI로 콘텐트 만들기&nbsp;「 ①대본 넣으면 영상이 뚝딱…‘100% 무료’ AI툴 완전정복&nbsp;&nbsp; 회사에서 밑도 끝도 없이 “OO씨가 젊은 감각으로 영상 좀 만들어봐라!”라는 지시를 받았거나, 우리 가족 영상을 예쁘게 편집해 보관하고 싶거나, 개인적 만족을 넘어 유튜브나 인스타그램 릴스에 ‘찐’ 영상을 올리고 싶을 때가 있다. 한 가지 다행인 점. 한 땀 한 땀 작업해야 했던 과거와 달리 다행히 요즘엔 생성 AI가 초보자 티 안 나게 영상 만들기를 도와준다. https://www.joongang.co.kr/article/25249739 &nbsp; ②‘똥손’도 1분 만에 디자이너…작품 만드는 챗GPT 활용법&nbsp; “난 그림 보는 것만 좋아해.” 자칭타칭 ‘곰손’ 미술 포기자는 주목. 붓질 못해도 근사한 그림, 디자인을 만들 수 있는 시대가 왔다. ‘그려줘(draw)’라고 타이핑만 하면 된다고? 어느샌가 우후죽순 나타난 AI 화가들이 인스타·유튜브 섬네일부터 마케팅용 이미지까지 그려준다. 나에게 맞는 AI 화가 찾기부터 내 생각대로 찰떡같이 그리게 하는 법, 놓치면 안 될 주의사항까지. 이미지 AI의 모든 것! https://www.joongang.co.kr/article/25245111 &nbsp; ③ 나도 AI마스터 PDF북 나 빼고 다 생성 AI 쓰는 것 같아 불안하다면? 챗GPT부터 이미지·오피스·영상·학술·음악·코딩까지 분야별 생성 AI 사용법을 싹 모았다. https://www.joongang.co.kr/pdf/1008 」&nbsp;마이애미=어환희 기자 eo.hwanhee@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.10.16 14:08</p>
+<button type="button" class="btn_bookmark" data-cid="25284702" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] KT 이사회,자회사 세워 3800명 전출 의결…거세지는 노조 반발]]></title>
         <id>https://www.joongang.co.kr/article/25284492</id>
         <link href="https://www.joongang.co.kr/article/25284492"/>
         <updated>2024-10-15T10:13:45.616Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25284492" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25284492" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/15/c7a96418-aca6-4ad1-bce6-2334e54e42ba.jpg/_ir_410x230_/" alt="[팩플] KT 이사회,자회사 세워 3800명 전출 의결…거세지는 노조 반발">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25284492" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25284492" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] KT 이사회,자회사 세워 3800명 전출 의결…거세지는 노조 반발
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25284420"/>
         <updated>2024-10-15T07:11:30.283Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25284420" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25284420" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/15/c52d0139-f0de-432f-bca6-aadd77c3e07a.jpg/_ir_410x230_/" alt="[팩플] &quot;2초 부족한 영상, AI가 해결&quot;…동영상 생성 AI 선보인 어도비">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25284420" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25284420" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] "2초 부족한 영상, AI가 해결"…동영상 생성 AI 선보인 어도비
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25284100"/>
         <updated>2024-10-14T07:13:02.870Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25284100" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25284100" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/14/b4e79700-c96a-49f2-9fc3-a85f784edc18.jpg/_ir_410x230_/" alt="스페이스X가 돌아온 우주로켓을 '젓가락' 로봇 팔로 잡는 이유">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25284100" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25284100" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 스페이스X가 돌아온 우주로켓을 '젓가락' 로봇 팔로 잡는 이유
 </a>
 </h2>
@@ -92,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25284004"/>
         <updated>2024-10-14T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25284004" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25284004" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/14/a0fb596f-db20-49f7-9fa5-de42895a05e4.jpg/_ir_410x230_/" alt="불붙는 숏폼 전쟁…유튜브 쇼츠 1→3분 길어진다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25284004" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25284004" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 불붙는 숏폼 전쟁…유튜브 쇼츠 1→3분 길어진다 [팩플]
 </a>
 </h2>
@@ -119,13 +146,13 @@
         <link href="https://www.joongang.co.kr/article/25283919"/>
         <updated>2024-10-13T11:08:46.230Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25283919" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25283919" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/13/0993fbb0-ef25-4f25-a190-f5806654327b.jpg/_ir_410x230_/" alt="&quot;인류 재앙 어쩌면 좋나&quot;…올해 노벨상 탄 AI 대부의 경고">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25283919" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25283919" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 "인류 재앙 어쩌면 좋나"…올해 노벨상 탄 AI 대부의 경고
 </a>
 </h2>
@@ -146,13 +173,13 @@
         <link href="https://www.joongang.co.kr/article/25283674"/>
         <updated>2024-10-11T10:13:55.949Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25283674" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25283674" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/11/ee8031c0-a44a-4f88-a11b-75a1e7985b41.jpg/_ir_410x230_/" alt="운전대도, 페달도 없다…테슬라 첫 완전자율주행 '사이버캡' 보니 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25283674" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25283674" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 운전대도, 페달도 없다…테슬라 첫 완전자율주행 '사이버캡' 보니 [팩플]
 </a>
 </h2>
@@ -173,13 +200,13 @@
         <link href="https://www.joongang.co.kr/article/25283628"/>
         <updated>2024-10-11T07:12:03.421Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25283628" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25283628" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/11/0f463c67-a080-41a9-a60a-6922aa278616.jpg/_ir_410x230_/" alt="[팩플] 오픈AI도 2029년까지 적자... AI는 밑 빠진 독에 물 붓기?">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25283628" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25283628" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] 오픈AI도 2029년까지 적자... AI는 밑 빠진 독에 물 붓기?
 </a>
 </h2>
@@ -200,13 +227,13 @@
         <link href="https://www.joongang.co.kr/article/25283350"/>
         <updated>2024-10-10T08:14:46.072Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25283350" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25283350" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/10/0c59e508-5cd1-4403-946f-cda3c24d8afd.jpg/_ir_410x230_/" alt="[팩플] KT “MS와 AI·클라우드에 2.4조 투자”…내년까지 한국형 GPT-4o 만든다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25283350" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25283350" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] KT “MS와 AI·클라우드에 2.4조 투자”…내년까지 한국형 GPT-4o 만든다
 </a>
 </h2>
@@ -227,13 +254,13 @@
         <link href="https://www.joongang.co.kr/article/25283275"/>
         <updated>2024-10-10T11:22:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25283275" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25283275" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/10/ced6bb65-2d01-407f-a539-2493844ad9c7.jpg/_ir_410x230_/" alt="[팩플] AI 사용 권한, 창작자가 결정…어도비, 콘텐트 '자격 증명' 출시">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25283275" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25283275" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] AI 사용 권한, 창작자가 결정…어도비, 콘텐트 '자격 증명' 출시
 </a>
 </h2>
@@ -254,13 +281,13 @@
         <link href="https://www.joongang.co.kr/article/25283239"/>
         <updated>2024-10-10T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25283239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25283239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/10/b4bd2e05-dbd1-4c6f-9264-1c01cf869913.jpg/_ir_410x230_/" alt="[단독] &quot;다른 앱 수수료 왜 받나&quot; 공정위, 카카오택시 또 제재 추진">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25283239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25283239" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [단독] "다른 앱 수수료 왜 받나" 공정위, 카카오택시 또 제재 추진
 </a>
 </h2>
@@ -281,13 +308,13 @@
         <link href="https://www.joongang.co.kr/article/25282838"/>
         <updated>2024-10-08T06:16:10.226Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25282838" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25282838" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/08/c3e1ab77-5b68-4f28-a870-a445897a24c5.jpg/_ir_410x230_/" alt="KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발...&quot;신약 개발 속도 단축&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25282838" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25282838" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속도 단축"
 </a>
 </h2>
@@ -308,13 +335,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25282506"/>
         <updated>2024-10-07T11:30:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25282506" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25282506" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/07/d1f3f5d3-d867-49e6-a458-00cfc8daf7b7.jpg/_ir_410x230_/" alt="오픈AI·MS 등 빅테크 서울에 모인다…‘SK AI 서밋’ 개최">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25282506" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25282506" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 오픈AI·MS 등 빅테크 서울에 모인다…‘SK AI 서밋’ 개최
 </a>
 </h2>
@@ -335,13 +362,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25282365"/>
         <updated>2024-10-06T12:18:46.246Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25282365" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25282365" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/06/e0840dd7-dc63-425a-9fd2-f5c0ab5264b2.jpg/_ir_410x230_/" alt="월회비 7890원에도 '탈팡' 안했다…쿠팡 굳건한 뜻밖 이유 ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25282365" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25282365" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 월회비 7890원에도 '탈팡' 안했다…쿠팡 굳건한 뜻밖 이유
 </a>
 </h2>
@@ -362,13 +389,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25282352"/>
         <updated>2024-10-06T10:10:44.829Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25282352" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25282352" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/06/20ad77cf-2c83-456a-8168-a876f244d971.jpg/_ir_410x230_/" alt="&quot;혐오 웹툰 못 걸렀다&quot;…'퐁퐁남'에 난리난 플랫폼 책임론 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25282352" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25282352" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 "혐오 웹툰 못 걸렀다"…'퐁퐁남'에 난리난 플랫폼 책임론 [팩플]
 </a>
 </h2>
@@ -389,13 +416,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25282036"/>
         <updated>2024-10-04T11:23:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25282036" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25282036" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/04/b5cdad95-a582-469d-a6f6-039b967608f0.jpg/_ir_410x230_/" alt="카카오, 다음 포털 언론사 신규 입점절차 발표...&quot;100% 정량평가&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25282036" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25282036" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 카카오, 다음 포털 언론사 신규 입점절차 발표..."100% 정량평가"
 </a>
 </h2>
@@ -416,13 +443,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25282034"/>
         <updated>2024-10-04T11:18:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25282034" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25282034" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/04/47bb050f-961e-42fe-b565-a7870b2f786b.jpg/_ir_410x230_/" alt="[팩플]“영상 속 물고기 왜 떼지어 다녀?” 구글, 동영상 찍어 묻는 검색 출시">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25282034" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25282034" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [팩플]“영상 속 물고기 왜 떼지어 다녀?” 구글, 동영상 찍어 묻는 검색 출시
 </a>
 </h2>
@@ -443,13 +470,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25282010"/>
         <updated>2024-10-04T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25282010" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25282010" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/06/ff4dc0bf-38f7-4816-95e7-1afd6e3ce0d0.jpg/_ir_410x230_/" alt="&quot;미·중 로보택시, 모범택시만큼 안전&quot;…규제에 막힌 K자율주행 [넥스트 빅씽, 자율주행]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25282010" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25282010" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 "미·중 로보택시, 모범택시만큼 안전"…규제에 막힌 K자율주행 [넥스트 빅씽, 자율주행]
 </a>
 </h2>
@@ -470,13 +497,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25281872"/>
         <updated>2024-10-03T09:12:09.671Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25281872" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25281872" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/03/57e33d63-d99a-4e51-9212-0d5f07f377e9.jpg/_ir_410x230_/" alt="[팩플] 기업가치 200조 오픈AI, 영리기업 전환한다...내부 수습은 '숙제'">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25281872" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25281872" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] 기업가치 200조 오픈AI, 영리기업 전환한다...내부 수습은 '숙제'
 </a>
 </h2>
@@ -497,13 +524,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25281792"/>
         <updated>2024-10-03T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25281792" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25281792" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/03/83df368a-73e4-43fe-93fe-80592ff6e146.jpg/_ir_410x230_/" alt="택시만 자율주행? 화물차도 혼자 움직인다 &quot;사망사고 확 줄일 것&quot; [넥스트 빅씽, 자율주행]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25281792" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25281792" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 택시만 자율주행? 화물차도 혼자 움직인다 "사망사고 확 줄일 것" [넥스트 빅씽, 자율주행]
 </a>
 </h2>
@@ -524,13 +551,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25281793"/>
         <updated>2024-10-03T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25281793" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25281793" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/03/f7efc5e7-0477-48c2-8366-43fdf6f47893.jpg/_ir_410x230_/" alt="운전자 없이도 질주하는 미·중 택시…한국 단 한대도 없다, 왜 [넥스트 빅씽, 자율주행]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25281793" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25281793" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 운전자 없이도 질주하는 미·중 택시…한국 단 한대도 없다, 왜 [넥스트 빅씽, 자율주행]
 </a>
 </h2>
@@ -551,13 +578,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25281791"/>
         <updated>2024-10-03T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25281791" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25281791" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/03/1d2acd8a-36dc-46ba-beff-4e988e4c1c93.jpg/_ir_410x230_/" alt="무인카트가 동네 돌아다닌다…일본 고령화 마을 살린 자율주행 [넥스트 빅씽, 자율주행]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25281791" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25281791" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 무인카트가 동네 돌아다닌다…일본 고령화 마을 살린 자율주행 [넥스트 빅씽, 자율주행]
 </a>
 </h2>
@@ -578,13 +605,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25281663"/>
         <updated>2024-10-02T09:12:51.989Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25281663" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25281663" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/02/d1e4a0b3-f490-489a-8680-486237feadcf.jpg/_ir_410x230_/" alt="“애플도 이용자 데이터 못 본다”…프라이버시 앞세운 애플의 AI [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25281663" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25281663" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 “애플도 이용자 데이터 못 본다”…프라이버시 앞세운 애플의 AI [팩플]
 </a>
 </h2>
@@ -605,13 +632,13 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
         <link href="https://www.joongang.co.kr/article/25281426"/>
         <updated>2024-10-01T11:10:06.370Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25281426" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25281426" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/01/a54bd2cd-c3ac-4ffd-9b3a-269a7a36606c.jpg/_ir_410x230_/" alt="직장 동료 모르게 1억 번다…얼굴 안 까고 투잡하는 법">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25281426" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25281426" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 직장 동료 모르게 1억 번다…얼굴 안 까고 투잡하는 법
 </a>
 </h2>
@@ -621,33 +648,6 @@ KAIST, 빛으로 ‘단일 원자 편집’ 기술 개발..."신약 개발 속�
 <div class="meta">
 <p class="date">2024.10.01 20:00</p>
 <button type="button" class="btn_bookmark" data-cid="25281426" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽게임즈, 삼성에 반독점 소송…삼성 “에픽 주장 사실 아냐”[팩플]]]></title>
-        <id>https://www.joongang.co.kr/article/25281224</id>
-        <link href="https://www.joongang.co.kr/article/25281224"/>
-        <updated>2024-09-30T11:09:58.894Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25281224" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202409/30/adf98702-6307-4639-b338-7174381cb6cc.jpg/_ir_410x230_/" alt="에픽게임즈, 삼성에 반독점 소송…삼성 “에픽 주장 사실 아냐”[팩플]">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25281224" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-에픽게임즈, 삼성에 반독점 소송…삼성 “에픽 주장 사실 아냐”[팩플]
-</a>
-</h2>
-<p class="description">
-게임 포트나이트 개발사인 에픽게임즈(에픽)가 미국에서 삼성전자를 상대로 반독점법 위반 소송을 제기한다. 구글 역시 소송 대상에 포함될 예정이다. 삼성전자는&nbsp;“(에픽게임즈 주장이) 사실과 다르다”며 반박했다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 30일 에픽게임즈는 온라인 기자 간담회를 갖고&nbsp;“삼성이 스마트폰 기본 기능을 이용해 구글 외 다른 경쟁 앱 스토어 회사들의 성장을 가로막았다”며 “반독점 소송을 제기하겠다”고 밝혔다.&nbsp;에픽 측이 문제삼은 건 삼성 갤럭시 스마트폰 보안 기능 중 하나인 ‘오토 블로커(auto blocker·보안 위험 자동 차단)’다. 이는 공식 앱 스토어인 구글 플레이스토어나 삼성 갤럭시스토어 등이 아닌 다른 경로로 앱을 설치하는 ‘사이드로딩’을 막는 기능이다.&nbsp;삼성이 지난해 11월 갤럭시 스마트폰에 오토 블로커를 추가할 당시엔 이용자가 직접 기능을 활성화해야 적용됐다. 하지만 에픽은 “삼성이 지난 7월 출시한 ‘갤럭시Z 폴드6’와 ‘갤럭시Z 플립6’ 시리즈부터는 출고 때 오토 블로커 기능이 활성화된 상태를 기본값이 되게 했다”며 문제를 제기했다. &nbsp; 에픽게임즈의 대표 게임 포트나이트가 영화 듄과 콜라보레이션을진행한 이미지. 포트나이트 누적 이용자는 5억명이 넘는다.[사진 에픽게임즈] &nbsp; &nbsp;━&nbsp; 에픽의 입장은&nbsp;&nbsp; &nbsp; 삼성은 오토 블로커 추가 당시 “기능이 활성화하면 악성 앱 설치를 즉시 감지하고 차단한다”며 “오토 블로커로 장벽을 세우지 않고도 경계를 지킬 수 있다”(신승원 삼성전자 모바일경험 사업부 시큐리티팀장)고 설명했다. 그러나 에픽은 오토 블로커 기능이 기본 탑재되는 게 장벽이라고 주장했다. 갤럭시 스마트폰에서 ‘에픽게임즈 스토어’를 다운로드 받아 설치하려면 21단계의 과정을 거쳐 오토 블로커 기능을 비활성화 해야만 해, 이용자 다수가 설치를 포기할 수 있다는게 에픽의 설명이다. &nbsp; 팀 스위니 에픽 최고경영자(CEO)는 이날 기자 간담회에서 “이 기능이 활성화 되는게 ‘기본 상태’가 되면서 이용자들이 어려움을 겪고 있다. 삼성은 우리의 중요하고 좋은 파트너기 때문에 이런 상황을 개선할 것을 수차례 요청했지만 이뤄지지 않아 소송을 할 수밖에 없게 됐다”고 말했다. 에픽은 지난 7월 항의 표시로 갤럭시 스토어에서 자사 대표 게임인 포트나이트를 삭제하기도 했다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 이번 소송은 삼성과 에픽의 싸움이기도 하지만, 장기간 이어진 에픽과 구글 사이 소송전의 연장선이기도 하다. 또 나아가 미국·유럽 등에서 계속 논란이 되고 있는 구글·애플 등 빅테크들의 ‘반독점법 위반’ 이슈에도 영향을 미칠 수 있다. 에픽은 앞서 구글 플레이스토어가 게임 이용자들의 유료 결제액의 15~30% 가량을 수수료로 떼가는 것에 반발하며 자체 결제 서비스를 도입했다. 이에 구글은 포트나이트 등을 플레이스토어에서 퇴출했고 에픽은 이들이 반독점법을 위반했다며 소송을 제기했다. 미국 캘리포니아주 샌프란시스코 연방법원은 지난해 12월 이 소송 1심에서 “구글이 플레이스토어 및 결제 서비스를 불법적으로 독점 운영했다”며 에픽의 손을 들어줬다. &nbsp; 에픽게임즈 측은 삼성 갤럭시 휴대전화에서 에픽게임즈 스토어 앱을 다운로드 받아 설치하려면, 총 21단계를 거쳐가며 오토 블로커 기능을 비활성화 시켜야만 한다고 주장했다. 에픽게임즈 스토어 앱을 다운로드 받는 과정을 캡처한 사진 중 일부. 사진 에픽게임즈 &nbsp; 에픽은 이번 소송에도 구글을 포함시켰다. 스위니 CEO는 “삼성이 이렇게 하도록 만든건 구글이라고 생각한다. 구글이 개입돼 있고, 소송을 통해 삼성·구글 모두와 싸우게 될 것”이라고 말했다. &nbsp; &nbsp;━&nbsp; 삼성 입장은 &nbsp; 삼성전자는 에픽의 주장에 대해 “(오토 블로커 기능은) 사용자의 프라이버시와 보안 문제를 위해 만든 기능이고, 분명하게 사용 여부에 대한 선택권을 주고 있다. 에픽의 주장은 사실과 다르다”고 반박했다.&nbsp;삼성전자 관계자는 “오토 블로커 기능은 기본적으로 비활성화 상태로 설정돼 있다가 최근 업데이트를 통해 기기 초기 설정 단계에서 이용자들에게 사용 여부를 묻는 방식으로 바뀌었다”면서 “만약 해당 기능을 활성화했다 하더라도 사용 중 언제든지 이를 끄는 것이 가능하다”고 주장했다. 악성 앱을 설치하도록 유도하는 사이버 위협이 커지는 상황에서 스마트폰 제조사인 삼성전자가 갤럭시 이용자들에게 보안 기능을 사용할 수 있도록 선택권을 준 것일 뿐이라는 설명이다. &nbsp; 관련기사 [팩플] 토종 앱마켓의 글로벌 도전…대만‧유럽 잡겠다는 원스토어 28조 돈맥 끊기나…구글 독점 판결 그후, 애플 덮친 '머니쇼크' EU 압박 속 애플, 유럽서 개임사 에픽게임즈 앱마켓 허용 [팩플] 앱스토어 왕국 흔들린다…美 법원 “애플, 외부결제 허용하라” [팩플] 애플과 달랐다...구글, 에픽게임즈와 반독점소송서 패소 이유는 &nbsp; 윤정민ㆍ이희권 기자 yunjm@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.09.30 20:00</p>
-<button type="button" class="btn_bookmark" data-cid="25281224" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
