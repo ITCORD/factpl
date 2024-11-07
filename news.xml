@@ -2,22 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2024-11-07T07:11:55.670Z</updated>
+    <updated>2024-11-07T08:16:10.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[LG유플러스 '익시오', "계좌 비밀번호 입력" 꼬드김에 "보이스피싱" 경고]]></title>
+        <id>https://www.joongang.co.kr/article/25290360</id>
+        <link href="https://www.joongang.co.kr/article/25290360"/>
+        <updated>2024-11-07T08:15:29.447Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25290360" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/07/9694452a-eadf-47ef-bc79-5b771e573368.jpg/_ir_410x230_/" alt="LG유플러스 '익시오', &quot;계좌 비밀번호 입력&quot; 꼬드김에 &quot;보이스피싱&quot; 경고">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25290360" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+LG유플러스 '익시오', "계좌 비밀번호 입력" 꼬드김에 "보이스피싱" 경고
+</a>
+</h2>
+<p class="description">
+황현식 LG유플러스 대표가 7일 오전 서울 용산사옥에서 열린 'AX 전략 발표 기자간담회'에서 AX(AI 전환) 컴퍼니로 성장하기 위한 전략을 공개하고 있다. 뉴스1 &nbsp; LG유플러스가 통화 내용을 인공지능(AI)이 실시간으로 파악해 보이스피싱일 경우 즉시 차단하는 등 통신에 특화된 AI 에이전트(비서) 서비스를 선보였다. 2028년까지 최대 3조원을 AI에 투자할 계획도 공개했다. &nbsp; LG유플러스는 7일 서울 용산구 사옥에서 기자간담회를 열고 “AI 통화 에이전트 익시오(ixi-O)를 출시했다”고 밝혔다. 익시오는 LG유플러스가 자체 개발한 AI 통화 서비스다. 익시오 앱을 다운 받으면 LG유플러스에 가입한 아이폰 사용자들도 통화 녹음을 할 수 있다. AI가 음성을 녹음하고 통화 주요 내용을 요약해준다. 황현식 LG유플러스 대표는 “통신사의 근간인 통화 영역에서 익시오가 독자적인 가치를 만들 것”이라고 말했다. &nbsp; &nbsp;━&nbsp; “계좌 불법 개설” 멘트에 “보이스피싱 의심 전화” 알림 &nbsp; LG유플러스는 익시오만의 차별적인 기능으로 ‘실시간 보이스피싱 탐지 기능’을 꼽았다. AI가 통화 내용을 분석해 보이스피싱 위험이 있다고 판단할 경우 통화를 종료하도록 경고한다. 기존 통신사의 보이스피싱 차단 서비스는 주로 스팸으로 등록된 번호를 차단하는 방식이 많았다. 반면 익시오는 대화 중 보이스피싱이라고 의심되는 단어나 문장이 나오면 ‘보이스피싱 위험 알림’이라고 경고 메시지를 보낸다. 예를 들어 “경찰서인데 본인 명의로 다수의 불법 개설 계좌가 확인됐고, 계좌가 지급 정지될 수 있다”고 상대가 말하면 ‘불법 개설 계좌’, ‘경찰’ 등의 말을 인지해 경고를 보낸다. LG유플러스는 한 달에 한 번 경찰청에서 보이스피싱 키워드를 받아 익시오 학습에 활용하고 있다. 이상엽 LG유플러스 최고기술책임자(CTO)는 “딥보이스(AI를 활용해 특정인의 목소리를 흉내내는 기술)를 탐지하는 기술도 갖고 있다”며 “향후 익시오 업그레이드 버전에는 키워드 기반 보이스피싱 탐지 뿐 아니라 딥보이스를 잡아내는 기술도 들어갈 것”이라고 말했다. &nbsp; 익시오가 통화 중 보이스피싱이 의심되는 내용을 탐지해 경고 알림을 보내는 모습. 권유진 기자 &nbsp; 익시오의 보이스피싱 탐지 기능은 온디바이스 AI(클라우드에 연결하지 않고도 AI 서비스를 사용할 수 있는 것)로 구현된다. 데이터를 서버로 전송하지 않고 기기 안에서 처리하기 때문에 데이터 유출이나 AI 학습에 쓰이는 것에 대한 우려가 해소될 수 있다. &nbsp; 익시오에는 ‘전화 대신받기’ 기능도 추가됐다. 사용자가 전화를 받을 수 없을 때 AI가 전화를 받아 상대방과 대화를 이어가는 기능이다. 상대방에게 “지금 부재중이라 AI 비서가 대신 받았다”고 알려준 뒤 통화하고, 내용을 저장해 사용자에게 알려준다. 현재 익시오는 애플 아이폰14 시리즈 이후 모델부터 사용할 수 있다. 안드로이드 버전은 내년 1분기 출시할 계획이다. &nbsp; &nbsp;━&nbsp; “퍼스널 AI 에이전트 생태계 완성할 것” &nbsp; &nbsp; LG유플러스는 익시오를 중심으로 AI 에이전트 생태계를 구축할 계획이다. 인터넷TV(IPTV) 등 미디어 서비스에 적용되는 미디어 에이전트, 집안 내 가전 등에 적용되는 싱스(Things) 에이전트 등을 연결해 ‘홈 에이전트’까지 나아간다는 구상이다. 황 대표는 “향후 실질적인 행위까지 할 수 있는(actionable) 에이전트로 발전시킬 것”이라며 “대화 내용 기반으로 필요한 정보를 알아서 검색해주고, 추천 및 예약까지 해줄 수 있다”고 말했다. &nbsp; 홈 에이전트와 관련해선 구글을 비롯한 빅테크들과 협업도 확대한다. 정수헌 LG유플러스 컨슈머부문장은 “우리가 독자적으로 갖고 있는 기술과 구글이 보유한 AI 능력이 잘 접목되면 파급력이 클 것이라는 데 양사가 공감했다”고 말했다. LG유플러스는 이를 위해 AI 투자도 계속해서 늘린다. 황현식 대표는 “1년에 4000억~5000억원가량을 AI 기술에 투자할 것”이라며 “2028년에는 누적 투자액 2조~3조원이 될 것으로 예상한다”고 말했다. 권유진 기자 kwen.yujin@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.11.07 16:45</p>
+<button type="button" class="btn_bookmark" data-cid="25290360" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 카카오, 매출 4% 감소하며 주춤…내년 1분기 '카나나' 시범서비스]]></title>
+        <id>https://www.joongang.co.kr/article/25290344</id>
+        <link href="https://www.joongang.co.kr/article/25290344"/>
+        <updated>2024-11-07T08:15:29.449Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25290344" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/07/9b4274fe-07e6-4cfb-9506-b36ec41da553.jpg/_ir_410x230_/" alt="[팩플] 카카오, 매출 4% 감소하며 주춤…내년 1분기 '카나나' 시범서비스">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25290344" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+[팩플] 카카오, 매출 4% 감소하며 주춤…내년 1분기 '카나나' 시범서비스
+</a>
+</h2>
+<p class="description">
+카카오는 7일 지난 3분기 실적발표 후 컨퍼런스콜에서 내년 1분기 일부 이용자를 대상으로 인공지능(AI) 서비스인 카나나의 비공개 베타테스트(CBT)에 나서겠다는 계획을 내놨다. 사진은 지난달 카카오의 개발자 컨퍼런스 '이프카카오 AI 2024'에서 정신아 카카오 대표가 카나나를 공개하는 모습. 사진 카카오 카카오가 게임·엔터테인먼트 사업 등이 포함된 콘텐트 부문 부진으로 주춤한 실적을 발표했다. 위기 돌파의 ‘핵심 열쇠’로 지목되는 인공지능(AI) 서비스 ‘카나나’는 내년 1분기 일부 이용자 대상으로 비공개 시범테스트(CBT)에 나선다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 카카오는 지난 3분기 연결기준 매출이 1조 9214억원으로 전년 동기(2조 114억원)대비 4% 감소했다고 7일 공시했다. 영업이익은 1305억원으로 같은 기간 5% 늘었다. 3분기 매출이 감소한 건 카카오게임즈, 카카오엔터테인먼트 등의 실적이 포함된 ‘콘텐트 부문’ 매출이 전년 동기대비 14% 줄어서다. 카카오게임즈의 모바일게임, PC게임 등 실적이 포함된 ‘게임 부문(-11%)’과 SM엔터테인먼트 등의 실적을 집계한 ‘뮤직 부문(-8%)’ 매출이 일제히 주저앉았다. 영상제작과 매니지먼트 사업이 포함된 미디어 부문(-49%)도 매출 감소폭이 컸다.&nbsp; 신종환 카카오 최고재무책임자(CFO)는 “(지난해 호실적에 따른) 기저효과와 직전 분기에 주요 소속 아티스트의 앨범 활동이 집중됐기 때문”이라며 “미디어 부문도 작년 하반기에 제작 라인업이 집중됐고, 미디어 방송 광고 시장이 부진했다”고 설명했다. &nbsp; 김주원 기자 플랫폼 부문 매출은 성장했다. 3분기 매출 9430억원으로 전년 동기대비 7% 증가했다. 카카오모빌리티, 카카오페이의 서비스가 포함된 ‘플랫폼 기타’ 부문도&nbsp; 매출이 전년 동기대비 13% 늘었고, 톡비즈(카카오톡 비즈니스) 부문도 같은 기간 매출이 6% 늘었다. &nbsp; 4분기 전망은 밝지 않다. 광고 시장 업황이 나쁜 탓에 플랫폼 부문 매출 부진이 예상되고, 카카오엔터테인먼트 소속 주요 아티스트의 신규 활동이나 카카오게임즈의 신작 출시가 없어 콘텐트 부문 매출도 낮을 것으로 내다봤기 때문이다. 신 CFO는 “비용 효율화에 집중하면서, 내년에 카카오톡과 AI를 중심으로 성장 재가속을 위한 기반과 성장동력을 마련할 것”이라고 말했다. 김주원 기자 &nbsp; &nbsp;━&nbsp; 성장동력 카나나, 구독형 모델로 &nbsp; 카카오는 이날 핵심 성장동력인 AI 서비스 ‘카나나’의 출시 계획을 발표했다. 카나나는 지난달 카카오가 공개한 ‘초개인화’ AI 서비스다. 정신아 카카오 대표는 “카나나는 사내 CBT 운영 후, 내년 1분기 중 일반 이용자에게 CBT 운영을 시작할 것”이라며 “기본적인 수익화 방향은 구독형 모델을 기반으로 할 것으로 예상하지만, 구체적 방안은 검토 중”이라고 말했다. &nbsp; 카나나가 카카오톡과 별도 앱으로 출시되는 것에 대한 카니발리제이션(자기잠식) 우려에 대해서 정신아 대표는 “AI를 활용한 신규서비스 영역 확장에 대한 기대감이 더 크다”고 말했다. 이들이 주목한 사례는 소셜미디어 페이스북 운영사인 메타다. 메타는 소셜미디어인 페이스북과 인스타그램 모두 이용자 간 채팅 서비스가 있지만, 별도의 채팅 서비스인 ‘왓츠앱(Whatsapp)’도 함께 운영하고 있다. 정신아 대표는 “(메타의 사례에서도) 커뮤니케이션의 세분화로 서비스의 중복이 있긴 하지만, 메타 생태계의 충성 이용자 규모는 확장되고 있다”며 “카카오도 생태계 내 충성 이용자의 규모를 확장해나갈 것으로 기대한다”고 말했다. 이상호 카나나엑스 성과리더가 지난달 경기도 성남시에서 개최된 카카오 개발자 컨퍼런스 ‘이프카카오(if kakao) AI 2024’에서 AI 서비스 카나나를 소개하고 있다. 사진 카카오 &nbsp; 또 카카오는 이날 자체 대규모언어모델(LLM)인 ‘카카나 나노’와 ‘에센스’ 등을 개발해 활용하고 있다고 언급했다. LLM은 오픈AI의 ‘GPT-4’나 구글의 ‘제미나이’ 등 생성AI 서비스의 근간이 되는 기술이다. 다만, 정신아 대표는 이날 “서비스 구축 시에는 자체 언어모델만을 고집하지 않을 것”이라고 밝혔다. 예컨대, 기술 수준이 낮은 서비스는 비용이 적게 들어가는 자체 LLM을 쓰고, 높은 AI 기술 수준이 필요하면 구글이나 오픈AI가 개발한 LLM등을 사용한다는 것이다. &nbsp; AI 외에 기존 핵심 서비스인 카카오톡 서비스 개선에도 나선다. 카카오톡의 핵심 기능인 채팅 서비스 외에 이용자를 끌어들일 수 있는 기능을 강화한다는 전략이다. 정신아 대표는 “이용자들이 (채팅 외에) 뚜렷한 목적 없어도 카카오톡 내 모든 탭을 고루 탐색할 만한 이유를 만들고자 한다”며 “내년에는 카카오톡 이용자의 서비스 참여를 확대할 것”이라고 말했다. &nbsp; &nbsp;━&nbsp; 더 알면 좋은 것 &nbsp; 카카오는 향후 안정적인 매출과 영업이익을 올리기 위한 구독형 사업모델을 내년부터 확장할 것이라고 예고했다. 경기 불황 등의 외부 상황에 따라 출렁이는 광고 수익 비중을 낮추고, 꾸준히 매출을 올릴 수 있는 수익원을 늘리겠다는 전략으로 풀이된다. 현재 카카오가 보유한 구독형 상품은 ‘이모티콘’을 구독하는 ‘이모티콘 플러스’와 클라우드 서비스인&nbsp;‘톡서랍 플러스’ 등이다. 정신아 대표는 “구독 관련 매출의 절대적인 매출 규모는 작지만, 경기 민감도가 낮고 안정적으로 성장할 수 있는 비즈니스라고 생각하기 때문에 성장에 더욱 집중할 계획”이라고 말했다. 윤상언 기자 youn.sangun@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.11.07 16:14</p>
+<button type="button" class="btn_bookmark" data-cid="25290344" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 태양 보며 '우주날씨' 예측…한·미 공동 개발한 망원경 ISS 도착]]></title>
         <id>https://www.joongang.co.kr/article/25289987</id>
         <link href="https://www.joongang.co.kr/article/25289987"/>
         <updated>2024-11-06T06:15:44.679Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25289987" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25289987" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/06/9dfaca5d-467a-4d66-936d-4efa8b8433a4.jpg/_ir_410x230_/" alt="[팩플] 태양 보며 '우주날씨' 예측…한·미 공동 개발한 망원경 ISS 도착">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25289987" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25289987" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] 태양 보며 '우주날씨' 예측…한·미 공동 개발한 망원경 ISS 도착
 </a>
 </h2>
@@ -38,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25289947"/>
         <updated>2024-11-06T11:32:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25289947" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25289947" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/06/765477fb-134c-458b-b53c-ec787041d0dd.jpg/_ir_410x230_/" alt="&quot;플랫폼 활용하면 폐업률도 낮다&quot;... 과기부, 플랫폼 상생·협력 간담회 개최">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25289947" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25289947" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 "플랫폼 활용하면 폐업률도 낮다"... 과기부, 플랫폼 상생·협력 간담회 개최
 </a>
 </h2>
@@ -65,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25289853"/>
         <updated>2024-11-06T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25289853" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25289853" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/06/6514565d-4eb8-4977-8dd8-a27f2a2efc2d.jpg/_ir_410x230_/" alt="혁신이었던 '카카오T블루'가 위기 자초했다…검찰로 넘어간 '카모' [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25289853" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25289853" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 혁신이었던 '카카오T블루'가 위기 자초했다…검찰로 넘어간 '카모' [팩플]
 </a>
 </h2>
@@ -92,13 +146,13 @@
         <link href="https://www.joongang.co.kr/article/25289656"/>
         <updated>2024-11-05T06:15:45.434Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25289656" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25289656" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/05/2fd0c958-eda5-459d-8ec8-5a4d531a72d3.jpg/_ir_410x230_/" alt="&quot;'옥순'만 보여줘&quot;도 된다…KT, AI 기술 더한 세계 최초 8K IPTV 공개 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25289656" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25289656" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 "'옥순'만 보여줘"도 된다…KT, AI 기술 더한 세계 최초 8K IPTV 공개 [팩플]
 </a>
 </h2>
@@ -119,13 +173,13 @@ KT가 세계 최초로 8K 화질을 지원하는 인공지능(AI) 인터넷TV(IP
         <link href="https://www.joongang.co.kr/article/25289405"/>
         <updated>2024-11-04T09:13:34.087Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25289405" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25289405" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/04/db592914-0a62-45a9-b450-2ec497051022.jpg/_ir_410x230_/" alt="[팩플] AGI 향해 가는 오픈AI, 손잡은 SK…“글로벌 파트너들과 협업해 AI 혁신 가속화”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25289405" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25289405" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] AGI 향해 가는 오픈AI, 손잡은 SK…“글로벌 파트너들과 협업해 AI 혁신 가속화”
 </a>
 </h2>
@@ -146,13 +200,13 @@ KT가 세계 최초로 8K 화질을 지원하는 인공지능(AI) 인터넷TV(IP
         <link href="https://www.joongang.co.kr/article/25289147"/>
         <updated>2024-11-03T08:14:38.101Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25289147" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25289147" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/03/a48cb198-9e20-4e20-84f2-0916a90badf2.jpg/_ir_410x230_/" alt="[팩플] 중국, 메타 AI로 군사용 AI 개발…커지는 오픈소스 AI發 위협">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25289147" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25289147" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] 중국, 메타 AI로 군사용 AI 개발…커지는 오픈소스 AI發 위협
 </a>
 </h2>
@@ -173,13 +227,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25289063"/>
         <updated>2024-11-02T12:19:17.329Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25289063" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25289063" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/07/4c6d2e67-8a50-42cd-8b79-8ceadf314f21.jpg/_ir_410x230_/" alt="앱 안 깔아도 카카오T 온다…부모님에 알려드릴 '이 번호'">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25289063" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25289063" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 앱 안 깔아도 카카오T 온다…부모님에 알려드릴 '이 번호'
 </a>
 </h2>
@@ -200,13 +254,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25288888"/>
         <updated>2024-11-01T07:12:09.759Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25288888" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25288888" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202411/02/958b8605-ad80-4704-bf79-ec74496d5a82.jpg/_ir_410x230_/" alt="&quot;나솔 정숙 논란 뭐야?&quot; 키워드 대신 대화로…오픈AI, 구글에 도전장 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25288888" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25288888" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 "나솔 정숙 논란 뭐야?" 키워드 대신 대화로…오픈AI, 구글에 도전장 [팩플]
 </a>
 </h2>
@@ -227,13 +281,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25288636"/>
         <updated>2024-10-31T07:12:05.816Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25288636" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25288636" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/31/af4462a0-fdec-4efc-b7d7-e488f655e0d8.jpg/_ir_410x230_/" alt="[팩플] AI로 돈 번 MS‧메타…‘AI 투자’ 계속 간다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25288636" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25288636" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] AI로 돈 번 MS‧메타…‘AI 투자’ 계속 간다
 </a>
 </h2>
@@ -254,13 +308,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25288325"/>
         <updated>2024-10-30T09:13:14.397Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25288325" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25288325" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/30/7792a8a9-0fb6-4ab0-8209-0ab8a582708e.jpg/_ir_410x230_/" alt="[팩플] “프랜차이즈 IP로 매출 7조원 간다” 넥슨, 미래 전략 발표…신작 12종 출격 대기">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25288325" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25288325" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] “프랜차이즈 IP로 매출 7조원 간다” 넥슨, 미래 전략 발표…신작 12종 출격 대기
 </a>
 </h2>
@@ -281,13 +335,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25288317"/>
         <updated>2024-10-30T09:13:14.398Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25288317" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25288317" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/30/11c52c40-b559-4fa4-8e9b-cf9af36c9048.jpg/_ir_410x230_/" alt="[팩플] 구름 위 걷는 실적발표에도…구글이 누르지 못한 리스크 둘">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25288317" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25288317" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] 구름 위 걷는 실적발표에도…구글이 누르지 못한 리스크 둘
 </a>
 </h2>
@@ -308,13 +362,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25288292"/>
         <updated>2024-10-30T08:15:57.500Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25288292" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25288292" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/30/eaae1185-6537-411f-8345-a15097b9c6ca.jpg/_ir_410x230_/" alt="쿠폰 버튼 눌렀더니, 회비 결제?…방통위, 알리에 과징금 추진">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25288292" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25288292" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 쿠폰 버튼 눌렀더니, 회비 결제?…방통위, 알리에 과징금 추진
 </a>
 </h2>
@@ -335,13 +389,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25288240"/>
         <updated>2024-10-30T05:12:57.878Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25288240" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25288240" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/30/252358d8-8a9f-40e0-9f12-8ed7a38e9756.jpg/_ir_410x230_/" alt="우주항공청, 나사와 달 탐사 공동 연구…세계 5번째 아르테미스 연구협약 체결">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25288240" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25288240" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 우주항공청, 나사와 달 탐사 공동 연구…세계 5번째 아르테미스 연구협약 체결
 </a>
 </h2>
@@ -362,13 +416,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25287977"/>
         <updated>2024-10-29T08:16:16.805Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25287977" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25287977" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/29/881654b9-1818-4fab-b15f-c0619f7a767b.jpg/_ir_410x230_/" alt="&quot;내 글, 전문가처럼 고쳐줘&quot;…애플의 첫 AI, 직접 써보니 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25287977" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25287977" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 "내 글, 전문가처럼 고쳐줘"…애플의 첫 AI, 직접 써보니 [팩플]
 </a>
 </h2>
@@ -389,13 +443,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25287927"/>
         <updated>2024-10-29T06:16:45.574Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25287927" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25287927" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/29/264c6a95-4d8a-4ccb-b24c-04d00fc777f0.jpg/_ir_410x230_/" alt="“태풍·불꽃축제 비상상황 실시간 대응&quot;...LG유플 통합관제센터 공개">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25287927" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25287927" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 “태풍·불꽃축제 비상상황 실시간 대응"...LG유플 통합관제센터 공개
 </a>
 </h2>
@@ -416,13 +470,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25287568"/>
         <updated>2024-10-28T11:28:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25287568" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25287568" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/28/0058829e-260b-4d48-8ab8-1c631197c607.jpg/_ir_410x230_/" alt="국제사이보그올림픽 접수한 한국…카이스트, 웨어러블 로봇 부문 2연패">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25287568" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25287568" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 국제사이보그올림픽 접수한 한국…카이스트, 웨어러블 로봇 부문 2연패
 </a>
 </h2>
@@ -443,13 +497,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25287387"/>
         <updated>2024-10-27T07:10:26.758Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25287387" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25287387" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/27/7c369332-74f2-4637-8891-6bb8a78cfb5d.jpg/_ir_410x230_/" alt="[팩플] 아이언맨 돕던 그 자비스 만드나?... AI 비서 진검승부">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25287387" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25287387" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] 아이언맨 돕던 그 자비스 만드나?... AI 비서 진검승부
 </a>
 </h2>
@@ -470,13 +524,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25287310"/>
         <updated>2024-10-26T12:19:19.484Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25287310" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25287310" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/26/17c3b361-ebc1-4654-94aa-56ba32f1a6b1.jpg/_ir_410x230_/" alt="로제의 &quot;아~파트 아파트&quot;…나도 술게임 노래로 만들어볼까">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25287310" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25287310" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 로제의 "아~파트 아파트"…나도 술게임 노래로 만들어볼까
 </a>
 </h2>
@@ -497,13 +551,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25286853"/>
         <updated>2024-10-24T09:13:19.564Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25286853" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25286853" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/24/380f0634-fe42-4b7d-bbda-2f12980faaa0.jpg/_ir_410x230_/" alt="[팩플] 휠체어에서 바로 걷는다…카이스트 공개한 '로봇 다리' ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25286853" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25286853" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] 휠체어에서 바로 걷는다…카이스트 공개한 '로봇 다리'
 </a>
 </h2>
@@ -524,13 +578,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25286847"/>
         <updated>2024-10-24T08:15:21.271Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25286847" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25286847" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/24/f0cf95b6-d0c1-4840-9f6f-ebfda906924f.jpg/_ir_410x230_/" alt="[팩플] &quot;뻔뻔한 무임승차&quot;…AI 저작권 분쟁, 검색 서비스로 전선 확장">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25286847" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25286847" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] "뻔뻔한 무임승차"…AI 저작권 분쟁, 검색 서비스로 전선 확장
 </a>
 </h2>
@@ -551,13 +605,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25286370"/>
         <updated>2024-10-23T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25286370" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25286370" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/23/feb41ebd-8b7b-425d-9275-bd5d5e11d696.jpg/_ir_410x230_/" alt="&quot;AI 경쟁, 지금이 골든타임&quot;…'유오성 형' 장관이 제시한 해답은 ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25286370" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25286370" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 "AI 경쟁, 지금이 골든타임"…'유오성 형' 장관이 제시한 해답은
 </a>
 </h2>
@@ -578,13 +632,13 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
         <link href="https://www.joongang.co.kr/article/25286127"/>
         <updated>2024-10-22T07:13:02.953Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25286127" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25286127" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/22/91db5030-21bf-412c-a7ff-76c87086298f.jpg/_ir_410x230_/" alt="[팩플] 대화 기억하고 내 취향·감정도 아는 AI 친구, 카카오 ‘카나나’ 첫 공개">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25286127" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25286127" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플] 대화 기억하고 내 취향·감정도 아는 AI 친구, 카카오 ‘카나나’ 첫 공개
 </a>
 </h2>
@@ -594,60 +648,6 @@ AP=연합뉴스 &nbsp; 중국이 메타의 오픈소스 인공지능(AI) 모델�
 <div class="meta">
 <p class="date">2024.10.22 15:34</p>
 <button type="button" class="btn_bookmark" data-cid="25286127" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT, PC에서도 AI 골라쓰게 한다…‘멀티 LLM 에이전트’ PC버전 출시]]></title>
-        <id>https://www.joongang.co.kr/article/25286077</id>
-        <link href="https://www.joongang.co.kr/article/25286077"/>
-        <updated>2024-10-22T11:41:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25286077" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/22/d85e9a32-811c-46d2-b982-41ad78f58353.jpg/_ir_410x230_/" alt="SKT, PC에서도 AI 골라쓰게 한다…‘멀티 LLM 에이전트’ PC버전 출시">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25286077" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
-SKT, PC에서도 AI 골라쓰게 한다…‘멀티 LLM 에이전트’ PC버전 출시
-</a>
-</h2>
-<p class="description">
-SK텔레콤이 AI개인비서 서비스 ‘에이닷’을 웹 브라우저에서도 이용할 수 있는 PC 버전 ‘멀티 LLM 에이전트’를 22일 공개했다. 사진 SK텔레콤 &nbsp; SK텔레콤이 AI(인공지능) 개인비서 서비스&nbsp;‘에이닷’의 ‘멀티 LLM(거대언어모델) 에이전트’ 서비스를 22일 PC 버전으로 출시했다. PC 또는 태블릿에서&nbsp;챗GPT·클로드·퍼플렉시티 등 대화형 AI 서비스를 골라 쓰며 비교할 수 있게 됐다. &nbsp; SKT는 지난 8월 모바일 서비스를 개편하며, 최신 AI 모델을 한데 모은 멀티 LLM 에이전트 기능을 선보인 바 있다. 목적에 따라 AI 모델을 선택해 질문할 수 있고, 같은 질문을 여러 모델에 동시에 던져 비교하는 것도 가능하다.&nbsp;후속 대화를 진행할 때 모델을 변경하면, 이전 대화 맥락을 반영해 자연스럽게 이어지는 교차 대화를 할 수도 있다. &nbsp; 이번에 출시한 PC 버전은 이런 모바일 상에서 가능했던 기능들을&nbsp;크롬·사파리 등 웹 브라우저에서도 이용할 수 있게 그대로 가져왔다.&nbsp;사용자는 ‘맞춤 답변’ 설정을 통해 본인의 정보를 참고한 답변을 받거나 3줄 요약 등 형식을 자유롭게 지정할 수 있다. 또&nbsp;‘추가 설정’ 메뉴에서는 ‘항상 한국어 표기’ 등 개인 선호에 맞는 답변의 형식을 설정할 수도 있다. 여러 웹을 오가며 사용하거나 문서 작업 등에서 편의가 높아질 것으로 SKT 측은 기대했다. &nbsp; 멀티 LLM 에이전트는 챗GPT, 클로드, 퍼플렉시티, 에이닷엑스 등 총 8종의 AI 모델을 지원한다. 사진 SK텔레콤 &nbsp; 지원 모델은 기존 7종에 ‘챗GPT-4o(포오) 미니’가 추가됐다. 챗GPT 3종(챗GPT-4o·챗GPT-4o 미니·챗GPT 3.5 터보), 클로드 3종(3.5 소네트·3 하이쿠·3 오푸스), 대화형 검색 서비스 퍼플렉시티, 그리고 SK텔레콤의 자체 LLM인 에이닷엑스(A.X) 등 총 8종을 지원한다. 챗GPT-4o, 클로드 오푸스 등 구독 기반의 유료 모델도 당분간 무료로 사용할 수 있다. &nbsp; 다만, 하루 지급되는 5000포인트 한도 내에서 사용 가능하다. 모델 별로 질문 하나당 30~500포인트의 횟수 차감이 이뤄지고, 하루에 10~160회가량 질문이 가능하다. SKT는 8종 모델 외에도 구글 제미나이 등&nbsp;최신 AI 모델을&nbsp;추가하는 것을 검토하고 있다. &nbsp; &nbsp; 어환희 기자 eo.hwanhee@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.10.22 11:41</p>
-<button type="button" class="btn_bookmark" data-cid="25286077" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 엔씨, 4개 자회사 물적분할…스튜디오 체제로 활로 찾는다]]></title>
-        <id>https://www.joongang.co.kr/article/25286006</id>
-        <link href="https://www.joongang.co.kr/article/25286006"/>
-        <updated>2024-10-22T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25286006" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/22/18da3996-2cc0-43ad-a0af-25f51285b6f4.jpg/_ir_410x230_/" alt="[팩플] 엔씨, 4개 자회사 물적분할…스튜디오 체제로 활로 찾는다">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25286006" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 엔씨, 4개 자회사 물적분할…스튜디오 체제로 활로 찾는다
-</a>
-</h2>
-<p class="description">
-엔씨소프트 판교 R&amp;D 센터. [엔씨소프트] &nbsp; 실적 악화에 따라 구조조정 작업에 나선 엔씨소프트(이하 엔씨)가 회사 체계를 전면적으로 바꾼다. 창사 이후 지금까지 유지해왔던 단일 법인 기조 대신 물적 분할을 통해 주요 신작 게임 지식재산권(IP) 기반 자회사를 여러개 만드는 스튜디오 체제로 변경한다. 12년 만에 희망퇴직을 실시하는 등 인력 감축도 동반한다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 엔씨는 21일 임시 이사회를 열어 물적 분할을 통해 4개 자회사를 신설하기로 결정했다. 엔씨는 이날 회사분할 결정공시를 통해 “TL(쓰론 앤 리버티), LLL, TACTAN(택탄), AI서비스연구 사업부문을 각 분할해 신설회사를 설립한다”고 밝혔다. 엔씨는 내달&nbsp;28일 임시 주주총회를 개최해 회사 분할 및 신설 회사 설립을 확정할 방침이다. 각 신설 회사는 내년 2월 1일 설립을 목표로 한다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; &nbsp; 리니지M 이미지. 엔씨소프트 2022년만 해도 역대 최대 매출을 올렸던 엔씨소프트의 성장곡선은 지난해 급격히 꺾였다. 지난해 연결 기준 영업이익은 전년 대비 75.4% 급감했다. 올해도 상황은 마찬가지. 2분기 영업이익(88억원)도 지난해 동기 대비 75%나 감소할 정도로 위기가 현실화했다. 리니지M 등 모바일 리니지 시리즈 흥행에 힘 입어 급성장했지만 과도한 확률형 아이템 사업모델(BM)에 대한 사회적 피로감 및 반발, 리니지 시리즈 외 흥행 신작의 부재 등이 겹치면서 상황이 어려워졌다. &nbsp; 지난해 말 선임된 박병무 공동대표는 본격적인 구조조정을 통한 활로를 모색하고 있다. 지난 1월 자회사 엔트리브소프트를 폐업했고, 4월 비개발·지원 부서 직원 중심 권고사직을 실시했다. 품질보증(QA) 및 시스템통합(SI) 부문은 지난 2일 각각 엔씨큐에이·엔씨아이디에스라는 이름으로 분할했다. 이번 대규모 물적 분할은 이 같은 작업의 연장선상이자, 본업인 게임 분야에서도 강도높은 체질 변화를 시도한다는 것을 의미한다. &nbsp; &nbsp;━&nbsp; 어떻게 바꾸나 &nbsp; &nbsp; ①단일법인→스튜디오 체제= 그간 엔씨는 일부 합병 자회사가 있긴 했지만, 본사 중심 통합 체계를 유지해왔다. 하지만 빠르게 변하는 게임산업 환경에 대응하기가 어렵다는 문제제기가 이어졌고, 이번에 물적분할로 스튜디오 체제로 바꾸기로 했다. 각각의 신작 IP를 중심으로 스튜디오를 꾸리고 이들은 독립적으로 사업 결정을 내리게 된다. &nbsp; 기대작 TL은 지난 1일 글로벌 론칭 후 최대 동시접속자 32만6000명을 기록하는 등 기대 이상의 성과를 올린 다중접속역할수행게임(MMORPG)이다. 다중접속(MMO) 슈팅 게임 LLL과 실시간 전략 시뮬레이션(RTS) 택탄도 내년 출시를 목표로 개발 중인 기대작이다. 회사 관계자는 “각 스튜디오는 가칭 X(TL)·Y(LLL)·Z(택탄)로 새롭게 출범한다”며 “신속하고 전문적인 독립 스튜디오 체제를 통해 글로벌 IP로 성장해 나가고, 해당 장르의 개발력과 전문성 강화에 집중할 것”이라고 밝혔다. &nbsp; 엔씨소프트 신작게임 TL. 엔씨소프트 ②안 되는 IP는 정리= 기존 게임 중 사업성 떨어지는 IP는 사실상 정리 수순에 들어간다. 아이온, 블레이드 &amp; 소울, 호연, 배틀크러쉬 등 흥행 실적이 저조했던 비(非) 리니지 IP들은 분사 대상에서 제외돼 본사에 남는다. 엔씨 측은 이날 보도자료에서 “회사 자원의 효율적 활용을 위한 선택과 집중 전략으로 일부 개발 프로젝트와 지원 기능을 종료 및 축소한다”고 밝혔다. &nbsp; ③인력 재조정= 이런 체제 변동 과정에서 인력 감축 작업도 병행한다. 엔씨는 이날 희망퇴직 프로그램을 시행하겠다고도 밝혔는데 이는 2012년 이후 12년 만이다. 김택진·박병무 공동대표는 이날 회사 내부에 공유한 편지를 통해 “(이번 개편은) 불가피하게 발생하게 될 인력 감축을 포함하고 있다”며 “이 과정에서 영향을 받게 되는 분들께는 적극적인 지원과 보상을 약속드린다”고 밝혔다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; (왼쪽부터) 김택진, 박병무 엔씨소프트 공동대표. 엔씨 &nbsp; 과도한 확률형 아이템 과금 문제 등으로 회사 이미지가 추락하고, 신작 흥행에 잇달아 실패했던 상황에서 얼마나 빠르게 반전을 만들어낼 수 있을지가 관건이다. 김택진·박병무 공동대표는 이날 편지에서 “엔씨가 여기서 주저앉을 수는 없다는 절박한 심정으로 엔씨 본래의 모습으로 돌아갈 수 있는 방안을 오랜 기간 걸쳐 숙고하고 또 숙고했다”며 “엔씨가 본연의 창의성과 진취성을 가진 기업으로 체질을 개선하고 재도약 하기 위해서는 피할 수 없는 길”이라고 말했다. &nbsp; 시장은 긍정적으로 반응하고 있다. NH투자증권 안재민 연구원은 이날 보고서에서 “분할되는 신설 자회사의 성과가 좋을 경우, 자회사 직원들의 보상 체계가 명확하게 이루어질 수 있고, 리니지 개발팀에도 자극이 될 수 있는 등 긍정적 효과가 더욱 많을 것으로 판단한다”며 “유연해진 조직 구조로 인해 비용 절감 노력이 더해지면 엔씨소프트의 실적 개선과 기업가치 상승이 동반해서 나타날 전망”이라고 밝혔다. 이날 유가증권 시장에서 엔씨 주가는 전날보다 3.83% 오른 20만500원으로 마감했다. &nbsp; ■ 🎮 더중앙플러스-격동의 K게임 산업&nbsp;「 한국 게임산업 변화의 생생한 현장이 궁금하다면, 링크를 복사해 주소창에 붙여넣으세요. &nbsp; 20년차 ‘노장’들이 버텼다, 넥슨을 지옥에서 구한 그들 [넥슨연구①]&nbsp; https://www.joongang.co.kr/article/25284136 &nbsp; “‘18세 청불’ 벗어볼게요” 주가 폭락한 엔씨의 전략 https://www.joongang.co.kr/article/25238643 &nbsp; 주가 반토막 어쩔 거냐고? ‘배그’ 그 회사가 믿는 구석 https://www.joongang.co.kr/article/25236591 &nbsp; 모두 “리니지 라이크” 외칠 때…혼자 ‘P의 거짓’ 콘솔로 간 남자 https://www.joongang.co.kr/article/25209263 &nbsp; &nbsp; &nbsp; 」&nbsp;정용환 기자 jeong.yonghwan1@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.10.22 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25286006" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
