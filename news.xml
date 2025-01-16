@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2025-01-16T07:11:36.308Z</updated>
+    <updated>2025-01-16T08:15:31.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 언론사와 상생 나선 오픈AI…악시오스에 첫 자금지원]]></title>
+        <id>https://www.joongang.co.kr/article/25308015</id>
+        <link href="https://www.joongang.co.kr/article/25308015"/>
+        <updated>2025-01-16T08:14:49.587Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25308015" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/16/4059b78b-ad29-4fd5-8d0e-37f7d2598825.jpg/_ir_410x230_/" alt="[팩플] 언론사와 상생 나선 오픈AI…악시오스에 첫 자금지원">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25308015" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] 언론사와 상생 나선 오픈AI…악시오스에 첫 자금지원
+</a>
+</h2>
+<p class="description">
+오픈AI 로고. AFP=연합뉴스 &nbsp; 오픈AI가 처음으로 미국 언론사에 자금을 지원한다. 생성 인공지능(AI) 학습 데이터를 두고 국내외 빅테크와 언론사 간 AI 저작권 침해 소송이 늘고 있는 가운데, 언론사와의 파트너십을 통해 법적 부담을 피해가려는 모양새다. &nbsp; &nbsp;━&nbsp; 무슨일이야 &nbsp; 미국 매체 악시오스(AXIOS)는 15일(현지시간) 오픈AI가 3년 간 악시오스에 자금을 지원하기로 했다고 보도했다. 악시오스는 현재 미국 내 30개의 도시에서 지역 기자가 작성한 뉴스레터를 발행하고 있는데, 오픈AI의 자금 지원으로 발행 도시를 4개 더 추가할 계획이다. 구체적인 지원 금액은 공개되지 않았다. &nbsp; 이번 계약으로 챗GPT는 악시오스의 기사 데이터를 인용해 사용자 질문에 답변하고, 악시오스는 오픈AI의 기술을 적용해 뉴스 제작·배포 시스템을 구축할 수 있게 됐다. 앨리슨 머피 악시오스 최고운영책임자(COO)는 “(지원 자금은) 저널리즘의 창작, 배포, 수익화를 위한 시스템을 구축하는 데 사용할 것”이라고 설명했다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 현재 전 세계적으로는 뉴스 저작권 침해 여부를 두고 AI를 개발 중인 빅테크와 콘텐트 저작권을 쥔 언론사 간 갈등이 첨예한 상황이다. 오픈AI 역시 지난 2023년부터 뉴욕타임스(NYT)와 몬텐트 무단 사용을 두고 소송 중이다. 하지만 이후 뉴스코프, 악셀스프링어, AP통신 등 20개 언론사와는 갈등 대신 협력을 택했다. 언론사에 대가를 지불하되, 답변에 대한 명확한 근거와 원본 기사에 접근할 수 있는 링크를 사용자에게 제공해 신뢰도를 높이는 게 더 낫다는 판단에서였다. 이번 악시오스와의 파트너십은 그 중에서도 오픈AI가 언론사에 현금 지원을 한 첫 사례다. &nbsp; 업계 선두 주자인 오픈AI의 행보는 다른 AI 모델 개발사들의 기준점이 되고 있다. 오픈소스 모델을 개발 중인 메타도 지난해 로이터와 파트너십을 맺고 AI 챗봇이 로이터의 기사를 근거로 답변할 수 있게 했다. &nbsp; 오픈AI와 파트너십을 맺은 언론사들은 오픈AI의 거대언어모델(LLM)을 바탕으로 새로운 뉴스 제작 시스템을 만들고 있다. AP통신은 AI를 활용해 기사 제목을 제작하거나 번역 기사를 늘리고 있다. 애틀랜틱은 167년 간 쌓인 자사 보도 내용에 접근할 수 있는 챗봇을 개발했고, 악셀스프링어는 생성 AI 뉴스 서비스인 ‘Hey_’를 개발해 사용자 맞춤형 뉴스를 제공하고 있다. &nbsp; &nbsp;━&nbsp; 국내 상황은 &nbsp; 네이버가 자체 생성 AI ‘하이퍼클로바’ 및 ‘하이퍼클로바X’ 모델을 개발하면서, 오랫동안 포털에 뉴스를 노출해온 국내 언론사들은 네이버에 ”학습 데이터를 공개하라“는 요구를 하고 있다. 요구가 받아 들여지지 않자 지난 13일 지상파 방송 3사(KBS·MBC·SBS)는 네이버를 상대로 저작권 침해 및 부정경쟁방지법 위반으로 인한 손해배상 청구와 학습금지 등을 청구하는 소송을 제기했다고 밝혔다. 국내에서는 생성 AI를 개발하는 기업을 대상으로 한 첫 뉴스 데이터 저작권 소송이다. &nbsp; &nbsp; 업계는 네이버가 해외 빅테크처럼 뉴스 이용에 관한 합의를 할지 혹은 법정 싸움을 벌이게 될지 주목하고 있다. 저작권 다툼이 네이버 외 다른 기업들까지 번질 수 있어서다. 방송협회 AI TF 관계자는 “네이버를 시작으로 뉴스데이터를 허가 없이 이용한 빅테크 기업에 순차적으로 소송을 제기해 강경 대응하겠다”고 말했다. 권유진 기자 kwen.yujin@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2025.01.16 16:24</p>
+<button type="button" class="btn_bookmark" data-cid="25308015" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["트위터 지분 확보 늦장 공개"…SEC '트럼프 실세' 머스크 제소 [팩플]]]></title>
         <id>https://www.joongang.co.kr/article/25307763</id>
         <link href="https://www.joongang.co.kr/article/25307763"/>
         <updated>2025-01-15T09:11:37.359Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25307763" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25307763" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/15/4a0321a5-3ebb-4753-8da6-7f5c2a7edff6.jpg/_ir_410x230_/" alt="&quot;트위터 지분 확보 늦장 공개&quot;…SEC '트럼프 실세' 머스크 제소 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25307763" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25307763" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 "트위터 지분 확보 늦장 공개"…SEC '트럼프 실세' 머스크 제소 [팩플]
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25307755"/>
         <updated>2025-01-15T08:14:43.022Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25307755" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25307755" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/15/f2549900-dca3-4d13-9cd6-f3de66f3480a.jpg/_ir_410x230_/" alt="[팩플] &quot;IPO 때 주주 보호…경영진 배상책임도 부과&quot; 카카오 바뀐다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25307755" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25307755" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] "IPO 때 주주 보호…경영진 배상책임도 부과" 카카오 바뀐다
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25307736"/>
         <updated>2025-01-15T08:14:43.028Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25307736" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25307736" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/15/77726b8a-24b3-4bff-b52e-10383fbdd82d.jpg/_ir_410x230_/" alt="[팩플] 1만원대 5G 요금제?…정부, 알뜰폰 시장 체질 바꾼다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25307736" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25307736" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] 1만원대 5G 요금제?…정부, 알뜰폰 시장 체질 바꾼다
 </a>
 </h2>
@@ -92,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25307421"/>
         <updated>2025-01-14T07:11:03.895Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25307421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25307421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/14/ff72c39d-5a9b-4950-ac4d-904b26243cc5.jpg/_ir_410x230_/" alt="[팩플] “AI 경쟁, 중국 맞서 반드시 이겨야”...트럼프 취임 앞둔 오픈AI의 청사진">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25307421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25307421" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 [팩플] “AI 경쟁, 중국 맞서 반드시 이겨야”...트럼프 취임 앞둔 오픈AI의 청사진
 </a>
 </h2>
@@ -119,13 +146,13 @@
         <link href="https://www.joongang.co.kr/article/25307194"/>
         <updated>2025-01-13T11:10:52.602Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25307194" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25307194" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/13/bf31ef48-f3d8-4c6a-b7a7-19a07e223fe1.jpg/_ir_410x230_/" alt="[팩플] “AI 학습 안돼” 방송 3사, 네이버에 뉴스 저작권 침해 소송">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25307194" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25307194" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [팩플] “AI 학습 안돼” 방송 3사, 네이버에 뉴스 저작권 침해 소송
 </a>
 </h2>
@@ -146,13 +173,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25307129"/>
         <updated>2025-01-13T07:12:51.358Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25307129" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25307129" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/13/bfd6d874-928e-4773-ba78-9358b5cdd78c.jpg/_ir_410x230_/" alt="카카오, '다음' 앱 전면 개편...9년 만에 로고도 바꾼다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25307129" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25307129" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 카카오, '다음' 앱 전면 개편...9년 만에 로고도 바꾼다
 </a>
 </h2>
@@ -173,13 +200,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25307126"/>
         <updated>2025-01-13T07:12:51.369Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25307126" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25307126" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/13/1d1d7e73-6b51-4f0c-8ba3-dc3ae49bf0aa.jpg/_ir_410x230_/" alt="1조원 AGI‧1000큐비트 양자컴 개발…과기정통부, AI‧양자 기반 다진다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25307126" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25307126" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 1조원 AGI‧1000큐비트 양자컴 개발…과기정통부, AI‧양자 기반 다진다
 </a>
 </h2>
@@ -200,13 +227,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25307094"/>
         <updated>2025-01-13T06:17:00.090Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25307094" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25307094" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/13/06a6aa57-98ce-430a-b1f4-cc9d7916bc26.jpg/_ir_410x230_/" alt="[팩플] SKT, 엔비디아 GPU로 클라우드 서비스 출시...“AI 인프라 시장 공략”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25307094" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25307094" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] SKT, 엔비디아 GPU로 클라우드 서비스 출시...“AI 인프라 시장 공략”
 </a>
 </h2>
@@ -227,13 +254,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25306916"/>
         <updated>2025-01-12T12:19:26.930Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25306916" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25306916" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/12/ce8526ec-2b73-4a99-9e0a-b653ba2bf7aa.jpg/_ir_410x230_/" alt="&quot;네 답변은 10점 만점에 4점&quot; 똑똑한 챗GPT 만들 조련법">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25306916" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25306916" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 "네 답변은 10점 만점에 4점" 똑똑한 챗GPT 만들 조련법
 </a>
 </h2>
@@ -254,13 +281,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25306889"/>
         <updated>2025-01-12T08:14:12.726Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25306889" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25306889" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/12/8f99aa63-da33-41ef-b1f3-6e7aed0ba119.jpg/_ir_410x230_/" alt="[팩플] 퇴출 기로에 선 틱톡...美대법관들은 '국가 안보' 무게">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25306889" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25306889" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] 퇴출 기로에 선 틱톡...美대법관들은 '국가 안보' 무게
 </a>
 </h2>
@@ -281,13 +308,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25306876"/>
         <updated>2025-01-12T07:10:35.051Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25306876" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25306876" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/12/58a0084f-5349-498a-9b9c-bbdebf9c948e.jpg/_ir_410x230_/" alt="[팩플] 트럼프 눈치보기? 메타·아마존 등 ‘다양성 정책’ 줄줄이 폐기">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25306876" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25306876" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 트럼프 눈치보기? 메타·아마존 등 ‘다양성 정책’ 줄줄이 폐기
 </a>
 </h2>
@@ -308,13 +335,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25306633"/>
         <updated>2025-01-10T06:17:00.645Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25306633" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25306633" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/10/63806ea5-ba1e-4de1-ad4d-e61c171d4670.jpg/_ir_410x230_/" alt="[팩플] “날것 그대로 답변” 머스크 성향 닮은 생성 AI 앱 출시…챗GPT에 도전장">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25306633" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25306633" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] “날것 그대로 답변” 머스크 성향 닮은 생성 AI 앱 출시…챗GPT에 도전장
 </a>
 </h2>
@@ -335,13 +362,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25306408"/>
         <updated>2025-01-09T09:12:26.787Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25306408" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25306408" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/09/2dcdb194-ffee-47fc-9763-0326aaae444a.jpg/_ir_410x230_/" alt="[팩플] AI 캐릭터 챗봇으로 돈 번다는데…성착취 대화 논란 커진다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25306408" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25306408" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] AI 캐릭터 챗봇으로 돈 번다는데…성착취 대화 논란 커진다
 </a>
 </h2>
@@ -362,13 +389,13 @@ KBS·MBC·SBS 지상파 방송 3사가 네이버를 상대로 뉴스 데이터 �
         <link href="https://www.joongang.co.kr/article/25306103"/>
         <updated>2025-01-08T08:15:12.918Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25306103" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25306103" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/08/968f9f3a-2834-4994-bfa7-50a245b5f2a5.jpg/_ir_410x230_/" alt="CES에서 기술 ‘열공’한 유영상·김영섭…재계 리더들도 대거 참석[CES 2025]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25306103" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25306103" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 CES에서 기술 ‘열공’한 유영상·김영섭…재계 리더들도 대거 참석[CES 2025]
 </a>
 </h2>
@@ -389,13 +416,13 @@ CES에서 기술 ‘열공’한 유영상·김영섭…재계 리더들도 대�
         <link href="https://www.joongang.co.kr/article/25306018"/>
         <updated>2025-01-08T05:11:51.601Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25306018" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25306018" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/08/2791d100-8f07-43d7-99bf-0c986f8f5472.jpg/_ir_410x230_/" alt="[팩플] 파킨슨 병 치료제로 ‘작심삼일’ 금연 막을 수 있을까">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25306018" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25306018" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 [팩플] 파킨슨 병 치료제로 ‘작심삼일’ 금연 막을 수 있을까
 </a>
 </h2>
@@ -416,13 +443,13 @@ CES에서 기술 ‘열공’한 유영상·김영섭…재계 리더들도 대�
         <link href="https://www.joongang.co.kr/article/25306000"/>
         <updated>2025-01-08T11:31:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25306000" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25306000" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/08/6978d7ce-14d7-4e8f-b4cf-b5aef79c351e.jpg/_ir_410x230_/" alt="SKT, 글로벌 'AI 비서' 에스터 공개…3월 북미 시장에서 테스트">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25306000" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25306000" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 SKT, 글로벌 'AI 비서' 에스터 공개…3월 북미 시장에서 테스트
 </a>
 </h2>
@@ -443,13 +470,13 @@ SK텔레콤이 7일(현지시간) 미국 라스베이거스에서 개막한 ‘C
         <link href="https://www.joongang.co.kr/article/25305978"/>
         <updated>2025-01-08T11:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25305978" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25305978" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/08/16dfaa97-2e7c-4a07-86d6-b1542ba578c7.jpg/_ir_410x230_/" alt="[팩플] 공짜폰에 페이백까지…단통법 폐지에 보조금 시장 '꿈틀'">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25305978" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25305978" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 [팩플] 공짜폰에 페이백까지…단통법 폐지에 보조금 시장 '꿈틀'
 </a>
 </h2>
@@ -470,13 +497,13 @@ SK텔레콤이 7일(현지시간) 미국 라스베이거스에서 개막한 ‘C
         <link href="https://www.joongang.co.kr/article/25305820"/>
         <updated>2025-01-08T02:13:51.723Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25305820" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25305820" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/08/2269aa11-5dbf-45e5-b9ce-312380e9e1df.jpg/_ir_410x230_/" alt="뇌파 분석해 졸음운전 경고하고, 에어택시로 오간다…모빌리티의 달라진 미래 [CES 2025]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25305820" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25305820" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 뇌파 분석해 졸음운전 경고하고, 에어택시로 오간다…모빌리티의 달라진 미래 [CES 2025]
 </a>
 </h2>
@@ -497,13 +524,13 @@ SK텔레콤이 7일(현지시간) 미국 라스베이거스에서 개막한 ‘C
         <link href="https://www.joongang.co.kr/article/25305211"/>
         <updated>2025-01-05T08:13:39.542Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25305211" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25305211" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/05/a4ba071b-2b0e-4fc3-a6b1-a25047dc02c3.jpg/_ir_410x230_/" alt="[팩플] “짧아야 산다”…숏폼 정조준하는 K플랫폼 속사정">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25305211" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25305211" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] “짧아야 산다”…숏폼 정조준하는 K플랫폼 속사정
 </a>
 </h2>
@@ -524,13 +551,13 @@ SK텔레콤이 7일(현지시간) 미국 라스베이거스에서 개막한 ‘C
         <link href="https://www.joongang.co.kr/article/25304817"/>
         <updated>2025-01-03T04:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25304817" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25304817" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/03/b5a1549e-c94b-4a04-8aa8-a8a51d4df750.jpg/_ir_410x230_/" alt="페트병, 완벽한 재활용 길 열렸다…국내서 바이오촉매 개발">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25304817" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25304817" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 페트병, 완벽한 재활용 길 열렸다…국내서 바이오촉매 개발
 </a>
 </h2>
@@ -551,13 +578,13 @@ SK텔레콤이 7일(현지시간) 미국 라스베이거스에서 개막한 ‘C
         <link href="https://www.joongang.co.kr/article/25304688"/>
         <updated>2025-01-02T08:14:42.547Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25304688" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25304688" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/02/9e34ac49-4c09-4b94-aaa7-6c1c4ac57a94.jpg/_ir_410x230_/" alt="[팩플] 안되는 사업 접고 AI로 힘 모으는 통신3사… “AI 성과 낼 것”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25304688" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25304688" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] 안되는 사업 접고 AI로 힘 모으는 통신3사… “AI 성과 낼 것”
 </a>
 </h2>
@@ -578,13 +605,13 @@ SK텔레콤이 7일(현지시간) 미국 라스베이거스에서 개막한 ‘C
         <link href="https://www.joongang.co.kr/article/25304447"/>
         <updated>2025-01-01T07:12:14.640Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25304447" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25304447" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/01/faf2ec2c-f84d-483c-9463-5e39a40baa1d.jpg/_ir_410x230_/" alt="을사년에도 이어지는 AI 열풍…AI 대중화, 국내에선 누가 선점할까">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25304447" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25304447" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 을사년에도 이어지는 AI 열풍…AI 대중화, 국내에선 누가 선점할까
 </a>
 </h2>
@@ -605,13 +632,13 @@ SK텔레콤이 7일(현지시간) 미국 라스베이거스에서 개막한 ‘C
         <link href="https://www.joongang.co.kr/article/25304435"/>
         <updated>2025-01-01T20:13:56.329Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25304435" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25304435" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/01/e8e5fcb3-e2e4-483c-b165-6069ed1746a9.jpg/_ir_410x230_/" alt="트럼프·탄핵뿐만이 아니다…“전멸 위기” IT업계 4가지 악몽">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25304435" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25304435" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 트럼프·탄핵뿐만이 아니다…“전멸 위기” IT업계 4가지 악몽
 </a>
 <strong class="badge_plus"><span class="visually_hidden">유료 전용</span></strong>
@@ -622,33 +649,6 @@ Today’s Topic,트럼프부터 탄핵까지IT업계 새해를 덮친 내우외�
 <div class="meta">
 <p class="date">2025.01.01 15:16</p>
 <button type="button" class="btn_bookmark" data-cid="25304435" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 오픈AI부터 엔비디아까지 꽂힌 휴머노이드…미·중 독주에 국내 스타트업도 가세]]></title>
-        <id>https://www.joongang.co.kr/article/25304252</id>
-        <link href="https://www.joongang.co.kr/article/25304252"/>
-        <updated>2024-12-31T08:15:51.118Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25304252" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202412/31/8061d147-bcc5-4528-8fff-3f09ff0db2a6.jpg/_ir_410x230_/" alt="[팩플] 오픈AI부터 엔비디아까지 꽂힌 휴머노이드…미·중 독주에 국내 스타트업도 가세">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25304252" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 오픈AI부터 엔비디아까지 꽂힌 휴머노이드…미·중 독주에 국내 스타트업도 가세
-</a>
-</h2>
-<p class="description">
-지난 10월 파리 오토쇼에 전시된 테슬라의 휴머노이드 로봇 옵티머스. 로이터=연합뉴스 &nbsp; 휴머노이드(인간형) 로봇이 차세대 인공지능(AI) 격전지로 떠오르고 있다.&nbsp;단순 노동을 대신하는 수준을 넘어 현실 세계 데이터를 학습할 수 있는 매개체로 휴머노이드 로봇이 각광받으면서, 빅테크부터 스타트업까지 시장 선점을 위한 경쟁이 치열해지고 있다. &nbsp; &nbsp;━&nbsp; 무슨일이야 &nbsp; 파이낸셜타임스(FT)는 엔비디아가 내년 상반기 휴머노이드 로봇용 소형 컴퓨터인 ‘젯슨 토르’의 최신 버전을 출시한다고 29일(현지시간) 보도했다. 젯슨 토르는 로봇, 자율주행차 등에서 AI 연산과 컴퓨팅을 지원하는 고성능 플랫폼이다. 앞서 오픈AI도 휴머노이드 로봇 개발을 고려중이라는 소식이 보도됐다. 오픈AI는 올해 초 로봇 스타트업 피규어 AI, 1X 테크놀로지 등에 투자하며 휴머노이드 로봇 개발에 대한 관심을 이어가고 있다. &nbsp; 중국 업체들은 가격을 낮춘 보급형 제품까지 양산하며 휴머노이드 시장을 선점하려고 하고 있다. 중국 로봇 기업 유니트리는 지난 8월 가격 문턱을 낮춘 9만9000 위안의 휴머노이드 로봇 ‘G1’을 출시했다. 중국 로봇 기업 애지봇도 지난 10월 생산에 돌입해 12월 15일 기준 이미 962대의 휴머노이드 로봇을 생산했다고 밝혔다. &nbsp; 로이터=연합누스 &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 미국과 중국이 휴머노이드 로봇 시장을 선점하려는 이유는 휴머노이드가 일반인공지능(AGI) 개발을 앞당길 도약대가 될 수 있다 보기 때문이다. AGI는 일반적으로 인간과 유사하거나 인간을 뛰어 넘는 AI 시스템을 말한다. 생성 AI가 나온 후 비약적인 기술 발전이 이뤄지고 있지만, AI가 정말 사람과 유사한 기능을 하기엔 한계가 있었다. 실제 현실에서 작동하는 동작이나 힘에 대한 데이터가 부족해서다.&nbsp; &nbsp; 이 때문에 AI 기업들은 휴머노이드 로봇을 통해 행동 데이터를 쌓고, 로봇 움직임에 대한 데이터를 축적해 점점 자연스럽게 행동할 수 있게 만들려 하고 있다. 인간이 경험을 통해 체득하는 것과 유사하게, 로봇을 위한 데이터를 수집하는 것이다. 전문가들은 거대언어모델(LLM)을 넘어 물리적인 실체가 AI와 결합한 ‘피지컬 AI’로 패러다임이 서서히 바뀔 것으로 보고 있다. 한재권 한양대 에리카 로봇공학과 교수(에이로봇 최고기술책임자)는 “로봇이 실전에서 체득한 행동 데이터를 모으는 경쟁을 휴머노이드 기업들이 하고 있다”며 “휴머노이드 로봇을 통해, AGI에 이르는 길을 앞당기려하는 경쟁”이라고 말했다. &nbsp; 오픈AI가 투자한 휴머노이드 로봇 스타트업 피규어AI의 로봇. 사진 피규어AI &nbsp;━&nbsp; 국내는 어때 &nbsp; 휴머노이드 로봇 분야는 국내에선 다른 로봇 기술 분야에 비해 아직 관심이 덜한 상태다. 당장 제조업 분야 수요가 확실한 산업용 로봇과 달리 수익을 낼 방법이 마땅치 않아서다. 그러나 최근 스타트업 중심으로 휴머노이드를 개발하려는 회사들이 잇달아 나오고 있다. &nbsp; 지난 5월 시드 투자를 받은 국내 스타트업 에이로봇은 로봇의 근육 역할을 할 ‘액추에이터’ 등 하드웨어 중심으로 제품을 개발하고 있다. 지난 8월 175억원의 시드 투자를 받은 홀리데이로보틱스도 범용 휴머노이드 로봇을 개발 중이다. 한재권 교수는 “휴머노이드는 범용 로봇이 기본”이라며 “특정 산업에 쓰인다기 보다는 일손이 부족한 곳이면 어디든 적용해 행동 데이터를 쌓을 수 있다”고 말했다. &nbsp; 다만 아직 로봇 안에 들어가는 AI는 메타의 라마 등 오픈소스 AI를 기반으로 로봇에 맞게 적용해 사용하고 있다. 휴머노이드 로봇에서 하드웨어가 중요한 건 맞지만, 소프트웨어인 로봇용 파운데이션모델(기반모델)까지 직접 만들어야한다는 주장도 나온다. 국내 로봇 스타트업 엔젤로보틱스 공경철 대표는 “과거 스마트폰을 만들 때처럼 ‘하드웨어만 만들고 소프트웨어는 가져다 쓰자’는 전략은 로봇에선 더 이상 통하지 않을 수 있다”며 “그렇게 되면 휴머노이드에서 수집되는 모든 데이터가 해외로 유출될 수도 있고, 국가 안보 문제까지 영향을 미칠 수 있다”고 말했다. &nbsp; &nbsp; ■ 더중앙플러스 : 팩플&nbsp;「 더 자세한 내용이 궁금하시다면 링크를 복사해 주소창에 붙여넣으세요. &nbsp; 실버타운·헬스장 다 통한다, ‘한국판 아이언맨’ 노림수 https://www.joongang.co.kr/article/25292851 &nbsp; 무인 전쟁이 무한 전쟁 된다…‘55만원 터미네이터’의 등장 https://www.joongang.co.kr/article/25293488 &nbsp; &nbsp; &nbsp; 」&nbsp;권유진 기자 kwen.yujin@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.12.31 16:42</p>
-<button type="button" class="btn_bookmark" data-cid="25304252" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
