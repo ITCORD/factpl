@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2025-02-06T11:11:17.341Z</updated>
+    <updated>2025-02-06T12:22:49.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[딥시크 쇼크? 4대천왕 더 있다…中 10년간의 ‘치밀한 빌드업’]]></title>
+        <id>https://www.joongang.co.kr/article/25312211</id>
+        <link href="https://www.joongang.co.kr/article/25312211"/>
+        <updated>2025-02-06T12:22:07.975Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25312211" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/06/b5588c75-ab15-48da-9b26-8ae48699cab2.jpg/_ir_410x230_/" alt="딥시크 쇼크? 4대천왕 더 있다…中 10년간의 ‘치밀한 빌드업’">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25312211" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+딥시크 쇼크? 4대천왕 더 있다…中 10년간의 ‘치밀한 빌드업’
+</a>
+</h2>
+<p class="description">
+&nbsp; ■ 추천! 더중플 - 딥시크 스톰&nbsp;「 중국산 인공지능(AI)&nbsp;‘딥시크’로 AI 생태계가 들썩이고 있습니다. 출발도 늦었고, 돈도 적게 썼는데 챗GPT과 성능은 엇비슷하다고 하니 미 실리콘밸리부터 국내 AI기업까지 중국에서 온 AI 신입생을 눈에 불을 켜고 들여다보는 중입니다. ‘어마어마한 자본을 투입하면 더 나은 AI를 만들 수 있다’는 상식이 흔들리고 있습니다. &nbsp; 오늘의&nbsp;‘추천! 더중플’에선 딥시크 탄생 배경부터 ‘딥시크 쇼크’ 이후의 AI 세계까지 분석한 콘텐트를 모았습니다. 딥시크가 만들어지기까지 중국에서 무슨 일이 벌어졌는지, 딥시크 이후 실리콘밸리가 어떻게 대응하고 있는지, 앞으로 AI 산업 판도는 어떻게 흘러갈지, 한국 AI 업계의 미래까지 한번에 정리 가능합니다.&nbsp;팩플은 소비자·투자자 입장에서 알아야 할 혁신 기술과 비즈니스에 대한 모든 것을 다룹니다. 더 자세한 내용은 더중앙플러스 구독 후 보실 수 있습니다. 」&nbsp; 김혜미 디자이너 맛집 비밀 레시피가 공개된 셈이다.” &nbsp; 딥시크의 오픈소스 AI 모델 ‘R1’이 흔들어 놓은 AI 생태계를 비유한 업계 관계자 말이다. 방대한 데이터를 인간이 학습시키는 걸 넘어 AI 스스로 추론하게끔 만드는 ‘추론형 AI’&nbsp;모델 맛집은 그간 오픈AI 였다. 이 맛집은 레시피를 절대 공개하지 않았다. 근데 딥시크가 R1을 만들어 이 레시피를 공개(오픈소스)하면서 만드는 방법은 물론, 생각보다 적은 자원으로 추론형 모델을 만들 수 있다는 가능성까지 보여줬다. 지난 4일 방한한 샘 올트먼 오픈AI 최고경영자(CEO)가 발 바닥에 땀이 나도록 기업인들을 만나고 다닌 이유를 짐작해 볼 수 있다. &nbsp; 딥시크의 등장은 미국에도 큰 충격을 안겼다. AI 산업 3요소로 꼽히는&nbsp;‘데이터, 알고리즘, 인프라’ 중 미국이 중국을 압도할 수 있는 건 그래픽처리장치(GPU), 고대역폭메모리(HBM) 등을 포함한 인프라다. 미국이 2022년부터 첨단 컴퓨팅 칩과 반도체 장비의 중국 수출을 통제하고 있는 것도 인프라를 틀어쥐고 중국의 성장을 막겠다는 계획. 그런데 딥시크가 나머지 두 요소에 집중하며 인프라 열세를 극복한 것이다.&nbsp; &nbsp; 문제는 중국에 딥시크만 있는 게 아니라는 점. 2023년 기준 중국 내 AI 기업은 4400개가 넘고, 그 중 생성AI 기술을 채택해 연구·개발하는 기업 비중은 15%(약 700개)에 달한다.&nbsp;문샷AI는 수학·코딩·멀티모달 추론 등 주요 벤치마크에서 GPT-4o 수준에 도달했다는 평가를 받는 ‘키미 k1.5(Kimi-k1.5)’를 최근 출시했다. 지난해 8월 이 회사는 33억 달러 기업가치를 인정받았다. 즈푸AI(28억 달러), 바이촨(28억 달러), 미니맥스(25억 달러)까지 이들은 ‘신(新) AI 4대 천왕’으로 꼽힌다. &nbsp; 물론 딥시크에는 검증해야 할 요소들이 많다. 오픈AI GPT-4 개발 추정 비용의 18분의 1 수준인 557만6000달러(약 80억원)에 AI 모델을 개발했다고는 하나, 이는 최종 모델 훈련에 든 비용일 뿐 사전 연구와 데이터 수집 비용 등은 담겨 있지 않다. 개발에 사용된 AI칩도 엔비디아의 중국 수출용 저사양 칩인 H800만 썼다고 주장하지만, 여러 의혹들이 제기되고 있다. 딥시크 뒤에 있는 중국 정부의 검열 문제와 데이터 유출 등 보안 문제 또한 한계로 지적된다. &nbsp; 그럼에도 불구하고 AI 업계 상식을 기술로 깬 딥시크의 등장으로 글로벌 AI 산업은 전환점 앞에 서 있다. 레시피를 감춰온 오픈AI가 위협을 느끼는 사이, 자타공인 오픈소스 AI 진영 대장이던&nbsp;메타는 웃을까?&nbsp;‘가성비 AI’ 등장으로 엔비디아는 위기에 빠질까? 딥시크의 뒤를 이을 중국 AI회사는?&nbsp;누군가에게는 기회, 누군가에게는 위기가 될 이 전환점에서 기업들은 어떻게 대응하고 있는지, 미·중 고래싸움 속 한국은 어떤 길을 가야 할지 등 ‘딥시크 스톰’ 이후의 AI를 2회에 걸쳐 넓고, 깊게 짚었다. &nbsp; 📌더 자세한 기사 내용이 궁금하시다면, 기사 링크를 복사해 주소창에 붙여넣으세요.&nbsp; 딥시크 쇼크? 4대천왕 더 있다…中 10년간의 ‘치밀한 빌드업’ [딥시크 스톰①] 딥시크의 a to z, 성능과 비용을 둘러싼 팩트체크, 10년 동안 치밀하게 AI 전열을 가다듬은 중국의 AI 굴기 등을 담았다.&nbsp; https://www.joongang.co.kr/article/25311292&nbsp; &nbsp; AI 미래는 ‘추론 맛집’ 경쟁…‘전성비’ 칩 회사들 돈 번다 [딥시크 스톰②] 딥시크가 불러온 태풍을 미국 빅테크가 어떻게 받아들일지, AI 세계 판도는 어떻게 변하는지, 한국은 어떤 방향으로 가야하는지 분석했다. https://www.joongang.co.kr/article/25311842 &nbsp; &nbsp; ■ Future of AI, 미래를 보다 2025&nbsp;「 10년이면 강산이 변한다는데, 10일이면 AI가 변합니다. 연초부터 미국의 스타게이트 프로젝트, 중국의 딥시크 등 쏟아지는 새 AI 트렌드 속에 길 잃고 헤매셨다면? AI 에이전트, AI 검색…, 올해 꼭 알아야 할 핵심 트렌드, PDF 북 한권에 정리해 드립니다. AI 용어 가이드북, AI 석학 앤드루 응 스탠퍼드대 교수 독점 인터뷰 전문도 함께 담았습니다. &nbsp; Future of AI, 미래를 보다 2025&nbsp;&nbsp; https://www.joongang.co.kr/pdf/1011 팩플 PDF북 'Future of AI, 미래를 보다 2025'. 중앙일보 &nbsp; 도전! 나도 AI 마스터 옆 자리 김 대리, 이렇게 일을 잘했었나? 어느 날 갑자기 높아진 그의 생산성 향상의 비밀, 바로 AI라는데. 나 빼고 다 생성 AI 쓰는 것 같아 불안하다면? ‘나도 AI마스터’ PDF북은 챗GPT부터 이미지·오피스·영상·학술·음악·코딩까지 분야별 생성 AI 사용법을 한권에 모았다. https://www.joongang.co.kr/pdf/1008 &nbsp; 」&nbsp;홍상지 기자 hongsam@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2025.02.06 21:00</p>
+<button type="button" class="btn_bookmark" data-cid="25312211" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7년만에 네이버 사내이사로 돌아오는 이해진…딥시크 대응 나선다]]></title>
         <id>https://www.joongang.co.kr/article/25312184</id>
         <link href="https://www.joongang.co.kr/article/25312184"/>
         <updated>2025-02-06T09:12:48.719Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25312184" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25312184" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/06/afd528ca-6282-4423-85d2-d6e408d008cc.jpg/_ir_410x230_/" alt="7년만에 네이버 사내이사로 돌아오는 이해진…딥시크 대응 나선다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25312184" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25312184" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 7년만에 네이버 사내이사로 돌아오는 이해진…딥시크 대응 나선다
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25312177"/>
         <updated>2025-02-06T09:12:48.720Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25312177" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25312177" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/06/2f029694-4b4c-43b1-8c19-3ec5d0bb86d4.jpg/_ir_410x230_/" alt="[팩플]‘정보 수집 거부’ 선택권도 없다…딥시크가 챗GPT보다 위험한 이유 셋">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25312177" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25312177" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플]‘정보 수집 거부’ 선택권도 없다…딥시크가 챗GPT보다 위험한 이유 셋
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25312160"/>
         <updated>2025-02-06T08:16:03.388Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25312160" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25312160" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/06/5c2748d9-8d3e-41e3-b28e-0fda2e6d46a2.jpg/_ir_410x230_/" alt="韓 AI 회사 &quot;지금이 오히려 기회…딥시크 10개 만들 방법 있다&quot; [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25312160" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25312160" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 韓 AI 회사 "지금이 오히려 기회…딥시크 10개 만들 방법 있다" [팩플]
 </a>
 </h2>
@@ -92,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25311793"/>
         <updated>2025-02-05T11:40:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311793" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25311793" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/05/79e60132-e04d-4c7a-b17c-fddfca74dcfd.jpg/_ir_410x230_/" alt="AI 경쟁력 위기감? 이해진, 7년 만에 네이버 사내이사 복귀">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311793" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25311793" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 AI 경쟁력 위기감? 이해진, 7년 만에 네이버 사내이사 복귀
 </a>
 </h2>
@@ -119,13 +146,13 @@ AI 경쟁력 위기감? 이해진, 7년 만에 네이버 사내이사 복귀
         <link href="https://www.joongang.co.kr/article/25311734"/>
         <updated>2025-02-05T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25311734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/05/419340c7-7879-491e-b85c-f7a6b5f2e1af.jpg/_ir_410x230_/" alt="[단독] 카카오∙토스 한판 붙나…이벤트 공유 제한 논란 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25311734" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [단독] 카카오∙토스 한판 붙나…이벤트 공유 제한 논란 [팩플]
 </a>
 </h2>
@@ -146,13 +173,13 @@ AI 경쟁력 위기감? 이해진, 7년 만에 네이버 사내이사 복귀
         <link href="https://www.joongang.co.kr/article/25311606"/>
         <updated>2025-02-04T09:12:46.703Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311606" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25311606" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/04/eade861e-e1dd-41ea-8228-e78f89a8e37d.jpg/_ir_410x230_/" alt="&quot;오픈AI 새 모델, 딥시크보다 2.7배 정확&quot;…실리콘밸리의 반격 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311606" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25311606" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 "오픈AI 새 모델, 딥시크보다 2.7배 정확"…실리콘밸리의 반격 [팩플]
 </a>
 </h2>
@@ -173,13 +200,13 @@ AI 경쟁력 위기감? 이해진, 7년 만에 네이버 사내이사 복귀
         <link href="https://www.joongang.co.kr/article/25311575"/>
         <updated>2025-02-04T08:15:09.362Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311575" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25311575" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/04/8a650db1-8569-4769-9862-e2329c2f3e20.jpg/_ir_410x230_/" alt="유상임 장관 “연내 GPU 1만5000장 확보”...AI 인프라 확보에 총력">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311575" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25311575" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 유상임 장관 “연내 GPU 1만5000장 확보”...AI 인프라 확보에 총력
 </a>
 </h2>
@@ -200,13 +227,13 @@ AI 경쟁력 위기감? 이해진, 7년 만에 네이버 사내이사 복귀
         <link href="https://www.joongang.co.kr/article/25311569"/>
         <updated>2025-02-04T08:15:09.363Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311569" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25311569" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/04/7599c84d-12e2-415f-82fc-66fecdcebb95.jpg/_ir_410x230_/" alt="[팩플] 오픈AI 샘 올트먼 &quot;최신 AI모델, 캄브리아기 대폭발 도달&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311569" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25311569" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] 오픈AI 샘 올트먼 "최신 AI모델, 캄브리아기 대폭발 도달"
 </a>
 </h2>
@@ -227,13 +254,13 @@ AI 경쟁력 위기감? 이해진, 7년 만에 네이버 사내이사 복귀
         <link href="https://www.joongang.co.kr/article/25311516"/>
         <updated>2025-02-04T04:13:55.783Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311516" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25311516" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/04/136c7011-5a11-45ec-9536-592a92b1a720.jpg/_ir_410x230_/" alt="카카오·오픈AI 샘 올트먼 손잡았다…&quot;AI 제품 공동 개발&quot; [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311516" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25311516" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 카카오·오픈AI 샘 올트먼 손잡았다…"AI 제품 공동 개발" [팩플]
 </a>
 </h2>
@@ -254,13 +281,13 @@ AI 경쟁력 위기감? 이해진, 7년 만에 네이버 사내이사 복귀
         <link href="https://www.joongang.co.kr/article/25311480"/>
         <updated>2025-02-04T10:31:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25311480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/04/3d43fbc2-175a-49ee-81a9-1521d83d2f11.jpg/_ir_410x230_/" alt="SKT, MIT와 AI 동맹…오픈AI·코카콜라와 '생성 AI 컨소시엄' 참여">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25311480" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 SKT, MIT와 AI 동맹…오픈AI·코카콜라와 '생성 AI 컨소시엄' 참여
 </a>
 </h2>
@@ -281,13 +308,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25311283"/>
         <updated>2025-02-03T08:15:54.387Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25311283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/03/0f463c67-a080-41a9-a60a-6922aa278616.jpg/_ir_410x230_/" alt="오픈AI 샘 올트먼 &quot;AI 전용 단말기 개발 중…中딥시크 새롭지 않다&quot; [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25311283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 오픈AI 샘 올트먼 "AI 전용 단말기 개발 중…中딥시크 새롭지 않다" [팩플]
 </a>
 </h2>
@@ -308,13 +335,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25311248"/>
         <updated>2025-02-03T06:16:00.955Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311248" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25311248" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/03/da49dbfb-d514-4db5-b454-2151649abe3e.jpg/_ir_410x230_/" alt="'AI 지각생' 카카오 승부수…내일 샘 올트먼과 'AI동맹 계획' 밝힌다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311248" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25311248" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 'AI 지각생' 카카오 승부수…내일 샘 올트먼과 'AI동맹 계획' 밝힌다
 </a>
 </h2>
@@ -335,13 +362,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25311063"/>
         <updated>2025-02-02T09:10:50.505Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311063" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25311063" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/02/6a60202f-00a3-43f4-a994-f80a8ae56f36.jpg/_ir_410x230_/" alt="딥시크 같은 기업, 중국엔 4000개 있다…충격의 中 AI 실력 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311063" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25311063" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 딥시크 같은 기업, 중국엔 4000개 있다…충격의 中 AI 실력 [팩플]
 </a>
 </h2>
@@ -362,13 +389,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25311037"/>
         <updated>2025-02-02T07:10:04.008Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25311037" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25311037" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/02/5755049e-a1a0-4ed9-bf02-80ea960c124c.jpg/_ir_410x230_/" alt="[팩플] ‘中 딥시크’ 보란 듯…오픈AI, 추론 모델 'o3 미니' 무료 배포 ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25311037" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25311037" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] ‘中 딥시크’ 보란 듯…오픈AI, 추론 모델 'o3 미니' 무료 배포
 </a>
 </h2>
@@ -389,13 +416,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25310810"/>
         <updated>2025-01-31T08:14:19.799Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25310810" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25310810" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/31/60a89fd6-82d5-4ef3-843c-277fce43a7c6.jpg/_ir_410x230_/" alt="&quot;정말 18분의 1 비용 맞아?&quot;…딥시크 향한 3가지 의문 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25310810" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25310810" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 "정말 18분의 1 비용 맞아?"…딥시크 향한 3가지 의문 [팩플]
 </a>
 </h2>
@@ -416,13 +443,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25310616"/>
         <updated>2025-01-30T10:11:52.592Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25310616" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25310616" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/30/f601bd79-b98f-442f-9c4b-b79c56ba562d.jpg/_ir_410x230_/" alt="오픈AI 최대주주 바뀌나…소프트뱅크 &quot;최대 36조원 투자 논의&quot; [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25310616" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25310616" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 오픈AI 최대주주 바뀌나…소프트뱅크 "최대 36조원 투자 논의" [팩플]
 </a>
 </h2>
@@ -443,13 +470,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25310599"/>
         <updated>2025-01-30T08:14:54.823Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25310599" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25310599" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/31/a8f3246c-dddd-462e-bd14-1e9b452c965f.jpg/_ir_410x230_/" alt="‘딥시크’ 고래 등장에 요동치는 글로벌 AI 패권전쟁 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25310599" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25310599" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 ‘딥시크’ 고래 등장에 요동치는 글로벌 AI 패권전쟁 [팩플]
 </a>
 </h2>
@@ -470,13 +497,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25310587"/>
         <updated>2025-01-30T07:11:44.763Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25310587" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25310587" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/30/8ba138ad-1892-4e0d-aaac-9321f9b12ddf.jpg/_ir_410x230_/" alt="[팩플] 韓 연구진, 차세대 반도체 핵심될 '상온 양자역학 현상' 세계 최초 발견">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25310587" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25310587" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] 韓 연구진, 차세대 반도체 핵심될 '상온 양자역학 현상' 세계 최초 발견
 </a>
 </h2>
@@ -497,13 +524,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25310443"/>
         <updated>2025-01-28T08:15:10.470Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25310443" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25310443" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/28/cd651968-ae08-430d-8e1c-4b12271fede6.jpg/_ir_410x230_/" alt="날 사랑한 주민1, 공략법 안 통하는 보스…올해 ‘찐 AI 게임’ 시대 열린다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25310443" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25310443" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 날 사랑한 주민1, 공략법 안 통하는 보스…올해 ‘찐 AI 게임’ 시대 열린다
 </a>
 </h2>
@@ -524,13 +551,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25310245"/>
         <updated>2025-01-26T08:13:03.938Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25310245" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25310245" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/26/76b0e136-636e-437d-a80e-9b76883e9fb4.jpg/_ir_410x230_/" alt="[팩플] 챗GPT 위협하는 中 딥시크…중국 AI, '가성비' 경쟁력 될까">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25310245" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25310245" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] 챗GPT 위협하는 中 딥시크…중국 AI, '가성비' 경쟁력 될까
 </a>
 </h2>
@@ -551,13 +578,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25310190"/>
         <updated>2025-01-26T10:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25310190" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25310190" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/26/0f5c3942-c78f-4847-87f1-182a7f7a0a0a.jpg/_ir_410x230_/" alt="그 비밀번호는 안돼…‘월레스와 그로밋’으로 본 생활 속 IT [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25310190" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25310190" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 그 비밀번호는 안돼…‘월레스와 그로밋’으로 본 생활 속 IT [팩플]
 </a>
 </h2>
@@ -578,13 +605,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25310163"/>
         <updated>2025-01-25T12:17:56.305Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25310163" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25310163" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/25/40c591f4-d91d-4194-94e3-46f66354040f.jpg/_ir_410x230_/" alt="&quot;너 AI 아니거든?&quot;…20년차 전문 변호사 부려먹는 꿀팁">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25310163" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25310163" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 "너 AI 아니거든?"…20년차 전문 변호사 부려먹는 꿀팁
 </a>
 </h2>
@@ -605,13 +632,13 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
         <link href="https://www.joongang.co.kr/article/25309991"/>
         <updated>2025-01-24T08:15:06.612Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25309991" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25309991" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/24/93b34678-7dcc-4b4f-862a-5125a9a14e05.jpg/_ir_410x230_/" alt="[팩플] AWS “클라우드로 다양한 양자컴 이용&quot;...빅테크 다음 전장은 '양자'">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25309991" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25309991" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [팩플] AWS “클라우드로 다양한 양자컴 이용"...빅테크 다음 전장은 '양자'
 </a>
 </h2>
@@ -621,33 +648,6 @@ SK텔레콤은 미국 매사추세츠공과대학(MIT)이 생성 AI 연구를 �
 <div class="meta">
 <p class="date">2025.01.24 16:17</p>
 <button type="button" class="btn_bookmark" data-cid="25309991" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 숙박·쇼핑 대신 해준다…오픈AI, AI 에이전트 ‘오퍼레이터’ 공개]]></title>
-        <id>https://www.joongang.co.kr/article/25309976</id>
-        <link href="https://www.joongang.co.kr/article/25309976"/>
-        <updated>2025-01-24T07:11:15.989Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25309976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202501/24/499b79fe-6626-4578-925d-f87d971879a9.jpg/_ir_410x230_/" alt="[팩플] 숙박·쇼핑 대신 해준다…오픈AI, AI 에이전트 ‘오퍼레이터’ 공개">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25309976" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 숙박·쇼핑 대신 해준다…오픈AI, AI 에이전트 ‘오퍼레이터’ 공개
-</a>
-</h2>
-<p class="description">
-오픈AI가 인공지능(AI) 에이전트 ‘오퍼레이터(Operator)’를 23일(현지시간) 공개했다. AI가 비서처럼 사람을 대신해 숙박 예약·쇼핑 등 다양한 일을 수행하는 서비스다. 테스트용으로 우선 출시돼 구독료 월 200달러인 챗GPT프로를 이용하는 미국 내 구독자에게 먼저 제공될 예정이다. &nbsp; 오픈AI 로고. 로이터 &nbsp; &nbsp;━&nbsp; 뭐가 다른데 &nbsp; 오퍼레이터는 기존 생성 AI와 달리 웹브라우저 상에서 여러 복잡한 명령을 파악해 실행할 수 있다. 예를 들어 사용자가 “계란, 닭다리살” 등 장보기 메모 사진을 찍어 올린 뒤 “이 식료품들 좀 사다 줘”라고 음성이나 문자로 명령을 입력한다. 그러면 오퍼레이터가 미국 온라인 식료품 배송앱 ‘인스타카트’에서 키보드와 마우스를 움직여 장바구니에 담아 주문하는 식이다. 레스토랑 검색·예약, 여행지 항공권과 호텔 예약, 우버 호출 등도 대신할 수 있다. &nbsp; &nbsp;━&nbsp; 사람이 할 일은 &nbsp; 로그인이나 결제 등 민감한 정보를 입력할 때는 사람이 직접 해야 한다. 이때 오퍼레이터는 사용자가 입력한 정보를 수집하지 않는다. 오퍼레이터는 기존 GPT-4o의 비전 인식 기능을 변용한 ‘CUA(컴퓨터 사용 에이전트 모델·Computer-Using Agent)’ 모델로 구동된다. 문제가 발생하면 추론 능력을 발휘해 스스로 해결을 시도하지만, 끝내 문제가 해결되지 않으면 사용자를 호출한다. &nbsp; 챗GPT '오퍼레이터' 사용 시연. 사진 오픈AI &nbsp;━&nbsp; 앞으로는 &nbsp; 오퍼레이터 서비스는 챗GPT와 별개 페이지에서 제공되지만 장기적으로는 챗GPT 안으로 통합될 예정이다. 서비스 지역은 미국에서 우선 시작해 적용 범위를 늘려나간다. 미국 내에서 테스트 버전을 이용하려면 구독료 월 200달러인 챗GPT 프로를 구독하면서 실험실 기능을 신청하면 된다. 오픈AI는 향후 CUA 앱인터페이스(API)를 개방해 외부 앱 접근성을 높일 계획이다. &nbsp; &nbsp;━&nbsp; 업계 전망은 &nbsp; 빅테크 간 AI 에이전트 대중화 경쟁에는 한층 더 속도가 붙을 전망이다. 앞서 경쟁사인 앤트로픽은 지난해 10월 오픈AI보다 먼저 AI 에이전트 ‘컴퓨터 유즈(Computer Use)’를 공개했다. 컴퓨터 유즈는 오퍼레이터와 유사하게 AI가 화면을 보고 마우스 커서를 움직여 버튼 클릭, 텍스트 입력 등 사람처럼 컴퓨터를 조작한다. 구글과 마이크로소프트 등 빅테크 기업도 AI 에이전트 개발을 진행 중이다. 문상혁 기자 moon.sanghyeok@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2025.01.24 15:33</p>
-<button type="button" class="btn_bookmark" data-cid="25309976" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
