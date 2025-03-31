@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2025-03-31T19:11:51.476Z</updated>
+    <updated>2025-03-31T20:14:59.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]"출장 잡아줘" 말에…AI실장, AI비서에 일 시킨다 [MS 본사 르포]]]></title>
+        <id>https://www.joongang.co.kr/article/25325148</id>
+        <link href="https://www.joongang.co.kr/article/25325148"/>
+        <updated>2025-04-01T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25325148" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202504/01/8bc62ed7-5519-45b9-b2e9-ac92b704a6ce.jpg/_ir_410x230_/" alt="[단독]&quot;출장 잡아줘&quot; 말에…AI실장, AI비서에 일 시킨다 [MS 본사 르포]">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25325148" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[단독]"출장 잡아줘" 말에…AI실장, AI비서에 일 시킨다 [MS 본사 르포]
+</a>
+</h2>
+<p class="description">
+MS 본사 하드웨어 랩에 있는 무반향실(anechoic chamber). 일반적인 환경의 소음은 약 60 데시벨(dB), 속삭임은 약 30 dB 정도인데, 무반향실에서는 이를 22.3 dB까지 낮췄다. 권유진 기자 &nbsp; “이 곳은 세상에서 제일 조용한 공간입니다. 30초만 지나도 위장이 요동치는 소리가 아주 크게 들릴겁니다.” &nbsp; 지난달 18일(현지시간) 미국 워싱턴주 시애틀 레드몬드에 위치한 마이크로소프트(MS) 본사. 회사 관계자는 하드웨어 디자인 연구소 깊숙한 곳에 위치한 무반향실(Anechoic Chamber)을 보여줬다. 무반향실은 소리의 반사를 최소화하도록 설계한 특수한 실험실이다. 소프트웨어 뿐 아니라 노트북과 태블릿, 키보드 등 하드웨어도 만드는 MS는 하드웨어에서 나는 소리를 정확히 측정하고 개선하기 위해 이 공간을 만들었다. &nbsp; 사방이 뾰족한 흡음재로 둘러싸인 이 곳의 소음 정도는 22.3 데시벨(dB). 초저소음 기네스 기록까지 갖고 있다. 일반적 환경의 소음은 약 60 dB, 속삭임은 약 30 dB 정도다. “10분만 지나면 혈액이 뇌로 흐르는 소리까지 들린다”는 게 MS 측의 설명이다. 소리조차 사용자 경험의 일부로 여기고 치밀하게 설계하는 모습이었다. &nbsp; 마이크로소프트 레드몬드 캠퍼스 전경. 권유진 기자 &nbsp; 올해 창립 50주년을 맞은 MS는 지난달 18~20일(현지시간) ‘이노베이션 캠퍼스 투어’를 열고 글로벌 언론 20여 곳 기자들을 초청해 내부 시설을 공개했다. 이날 방문한 MS 본사의 넓이는 약 210만㎡로, 한강 둔치를 포함한 여의도 면적의 절반 정도였다. 영국 BBC, 일본 니혼게이자이 신문 등이 참석했고 한국에서는 중앙일보만 초청받았다. &nbsp; 이날 둘러본 MS 캠퍼스 곳곳엔 ‘벌 호텔’이라고 부르는 상자 10개도 설치돼 있었다. 식물 꽃가루를 옮기는 역할을 하는 벌은 생태계 건강상태 가늠자로 꼽힌다. MS는 캠퍼스 내 생태계를 건강하게 유지하기 위해 봄, 여름, 가을마다 꿀 샘플을 체취해 DNA 분석을 한다. 1년에 벌에서 얻어지는 꿀만 총 27~54㎏. MS 관계자는 “레드몬드 캠퍼스는 도시 숲으로 분류될 만큼 녹지가 많다”고 말했다. &nbsp; &nbsp;━&nbsp; “그 파일 뭐더라” AI의 독심술 &nbsp; 윈도(Window)와 엑셀·워드 같은 오피스 제품을 통해 개인용 PC 시대를 연 MS는 AI 시대에도 일상과 업무에 자연스럽게 스며드는 AI 플랫폼을 만들려고 한다. 모든 사람들이 윈도 처럼 MS가 만든 코파일럿(Copilot)을 가지고, 다시 이 코파일럿이 수많은 AI 에이전트(비서)들을 관리하는 것. 이게 MS가 그리는 AI 시대의 모습이다. 코파일럿은 MS가 2023년 발표한 AI 기반 맞춤형 도우미다. AI 에이전트가 각각 청소, 설거지, 빨래 등 기능에 특화된 직원이라면&nbsp;코파일럿은 이들을 총괄 관리하는 비서실장이라고 볼 수 있다. 리처드 라일리 MS 로우 코드-에이전트 플랫폼 총괄 책임자는 “코파일럿이 다른 에이전트를 호출하는 식으로 작업 전체를 처음부터 끝까지 수행할 수 있다”고 말했다. &nbsp; MS는 이런 미래를 ‘에이전트 웹(Agentic Web) 시대’로 정의했다. 지금처럼 계좌이체 할 때 금융 앱을 열고, 쇼핑할 때 별도 쇼핑 앱을 여는 것과는 다를 거라는 게 MS의 설명이다. 사용자가 앱을 하나하나 열 필요 없이 AI 에이전트가 의도를 파악해 필요한 작업을 대신 연결하고 수행해준다. 예를들어 “다음 주 출장 일정 잡아줘”라 말하면 에이전트가 캘린더를 확인하고 항공권을 검색한 뒤 예약하고 결제까지 처리하는 식이다. 항공권 검색, 예약, 결제까지 각각 에이전트들이 존재하고, 이 에이전트들이 유기적으로 움직일 수 있게 코파일럿이 관리할 수 있다는 것. &nbsp; 지난달 18일(현지시간) 미국 워싱턴주 시애틀 마이크로소프트 본사에서 한 직원이 M365 코파일럿을 시연하고 있다. 권유진 기자 &nbsp; 특히 코파일럿을 업무 시스템에 적용한 ‘M365 코파일럿’은 이메일, 캘린더, 문서, 회의 내용 등 사용자의 업무 데이터를 유기적으로 연결해 맞춤형 서비스를 제공한다. 이날 공개한 시연에서 사용자가 “출장에 다녀왔더니 메일이 쌓여 있는데, 뭐부터 봐야 할지 모르겠다”고 하자 코파일럿은 조직 내 상사나 주요 프로젝트 관련자에게서 온 메일, 마감 일정이 임박한 메일 등을 상단에 자동 정렬했다. 고객에게 온 메일에 답장하기를 누르니 어떤식으로 쓰면 좋을지 초안도 잡아줬다. &nbsp; 신경망처리장치(NPU)가 내장된 ‘코파일럿 +PC’를 이용하면 코파일럿 기능을 인터넷 연결 없이 노트북에서 바로 실행할 수 있다. “최근에 편집한 그 프레젠테이션 파일, 어디에 저장했더라” 시연자가 중얼거리듯 말하자 마음을 읽은 듯 코파일럿 PC에서 리콜(Recall) 기능이 즉시 실행됐다. 단순한 파일명 검색이 아니라, 사용자가 최근 열어봤던 문서와 앱, 웹페이지를 시간순으로 보여줬다. 사용자가 기억한 단서는 단 하나, “슬라이드에 손글씨가 있었던 것 같다”는 것. 이를 얘기해주자 리콜은 문서 내 필기체를 분석해 해당 슬라이드를 포함한 문서를 정확히 띄워줬다. &nbsp; 지난달 18일(현지시간) 방문한 미국 워싱턴주 시애틀에 위치한 마이크로소프트 본사. 50주년 기념 슬로건이 곳곳에 걸려있었다. 사진 마이크로소프트 &nbsp; &nbsp;━&nbsp; 자체 칩 개발 한창&nbsp;&nbsp; &nbsp; 이날 방문한 MS 캠퍼스 내 50번 건물 ‘실리콘 랩’에서는 MS가 2023년 공개한 자체 AI 칩 ‘마야’와 ‘코발트’ 개발이 한창이었다. 제품 불량을 검사하고, 실제 기기에서 제대로 작동하는지 확인하는 과정이 실시간으로 이뤄지고 있었다.&nbsp;로봇 팔이 자동으로 움직이며 ‘코발트 100’ 칩을 집어 올리고 테스트하고 있었다. MS 관계자는 “칩 테스트 및 설계 검증을 우리가 한 뒤, 대량 생산은 TSMC가 담당한다”며 “패키징을 담당하는 파트너는 한국 회사”라고 말했다. 시애틀(미국)=권유진 기자 kwen.yujin@joongang.co.kr &nbsp; &nbsp; &nbsp; &nbsp; ■ 팩플-더 자세한 내용은 더중앙플러스에서 확인할 수 있습니다.&nbsp;「 뇌에 피 흐르는 소리도 들린다…MS 본사 ‘무반향실’의 비밀 https://www.joongang.co.kr/article/25324059 &nbsp; “AI판 통째 뒤집을 혁신 온다” 나델라 MS CEO 단독인터뷰 https://www.joongang.co.kr/article/25323673&nbsp; 김혜미 디자이너 &nbsp; 」&nbsp;시애틀(미국)=권유진 기자 kwen.yujin@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2025.04.01 05:00</p>
+<button type="button" class="btn_bookmark" data-cid="25325148" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] “창의적 자유 극대화” 제한 풀고 이미지 AI 공세 펴는 오픈AI]]></title>
         <id>https://www.joongang.co.kr/article/25324974</id>
         <link href="https://www.joongang.co.kr/article/25324974"/>
         <updated>2025-03-31T07:13:28.561Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25324974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25324974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/31/e8bc81c3-86fe-49f5-9c0a-6734605eeb5f.jpg/_ir_410x230_/" alt="[팩플] “창의적 자유 극대화” 제한 풀고 이미지 AI 공세 펴는 오픈AI">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25324974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25324974" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] “창의적 자유 극대화” 제한 풀고 이미지 AI 공세 펴는 오픈AI
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25324670"/>
         <updated>2025-03-30T08:14:19.037Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25324670" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25324670" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/30/56ef9d07-651c-404c-982a-5e391d178c65.jpg/_ir_410x230_/" alt="[팩플] SNS와 AI 통합한 머스크 “엄청난 잠재력”…프라이버시 문제는?">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25324670" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25324670" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플] SNS와 AI 통합한 머스크 “엄청난 잠재력”…프라이버시 문제는?
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25324386"/>
         <updated>2025-03-28T07:12:58.505Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25324386" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25324386" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/28/805dde80-00ec-45ee-a430-4d670f2c24ad.jpg/_ir_410x230_/" alt="[팩플] “GPU 녹아내리는 중”…챗GPT 서버 과부하 가져온 이 기능">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25324386" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25324386" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] “GPU 녹아내리는 중”…챗GPT 서버 과부하 가져온 이 기능
 </a>
 </h2>
@@ -92,13 +119,13 @@
         <link href="https://www.joongang.co.kr/article/25324350"/>
         <updated>2025-03-28T05:12:50.489Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25324350" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25324350" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/28/d2810cdb-faa2-419d-bb90-accffb600a28.jpg/_ir_410x230_/" alt="일론 머스크의 스타링크 국내 진출 임박…상반기 내 서비스 예상">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25324350" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25324350" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 일론 머스크의 스타링크 국내 진출 임박…상반기 내 서비스 예상
 </a>
 </h2>
@@ -119,13 +146,13 @@
         <link href="https://www.joongang.co.kr/article/25324283"/>
         <updated>2025-03-28T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25324283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25324283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/28/433226d8-4a4b-4c7a-bf4d-f881bb8d0e8d.jpg/_ir_410x230_/" alt="[단독] 국토장관 車도 1분만에 당했다…‘허위 매물 방지법’ 발의">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25324283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25324283" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [단독] 국토장관 車도 1분만에 당했다…‘허위 매물 방지법’ 발의
 </a>
 </h2>
@@ -146,13 +173,13 @@
         <link href="https://www.joongang.co.kr/article/25324080"/>
         <updated>2025-03-27T09:14:15.061Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25324080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25324080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/27/f38c367a-1a2c-4710-a82f-fd4db23847df.jpg/_ir_410x230_/" alt="[팩플] “웹젠, 169억원 배상해야” 리니지M 저작권 소송 2심도 엔씨 승리">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25324080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25324080" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] “웹젠, 169억원 배상해야” 리니지M 저작권 소송 2심도 엔씨 승리
 </a>
 </h2>
@@ -173,13 +200,13 @@
         <link href="https://www.joongang.co.kr/article/25323692"/>
         <updated>2025-03-26T07:12:56.674Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25323692" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25323692" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/26/3bed2dd3-7a70-4de6-a26d-8faf19a85df0.jpg/_ir_410x230_/" alt="[팩플] 돌아온 네이버 이해진 ”25년간 빅테크에 맞서...위기, 기회로 만들 것”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25323692" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25323692" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] 돌아온 네이버 이해진 ”25년간 빅테크에 맞서...위기, 기회로 만들 것”
 </a>
 </h2>
@@ -200,13 +227,13 @@
         <link href="https://www.joongang.co.kr/article/25323663"/>
         <updated>2025-03-26T06:17:12.725Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25323663" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25323663" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/26/e33fbff8-bc5a-4840-be2e-e9a7eb9e8c9f.jpg/_ir_410x230_/" alt="KT·LG전자·HD현대 등 만난 나델라…韓-MS ‘AI 연합 생태계’ 키운다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25323663" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25323663" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 KT·LG전자·HD현대 등 만난 나델라…韓-MS ‘AI 연합 생태계’ 키운다
 </a>
 </h2>
@@ -227,13 +254,13 @@ KT·LG전자·HD현대 등 만난 나델라…韓-MS ‘AI 연합 생태계’ �
         <link href="https://www.joongang.co.kr/article/25323394"/>
         <updated>2025-03-25T09:13:30.301Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25323394" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25323394" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/25/b248acf4-8250-406f-b4c5-17b6565054c1.jpg/_ir_410x230_/" alt="[팩플] 제이슨 권 오픈AI CSO “AI 인프라=경제 성장 기둥” ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25323394" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25323394" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] 제이슨 권 오픈AI CSO “AI 인프라=경제 성장 기둥”
 </a>
 </h2>
@@ -254,13 +281,13 @@ KT·LG전자·HD현대 등 만난 나델라…韓-MS ‘AI 연합 생태계’ �
         <link href="https://www.joongang.co.kr/article/25323384"/>
         <updated>2025-03-25T08:17:19.907Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25323384" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25323384" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/25/023c3ecd-1f59-4a8e-bb36-1d1e13b42299.jpg/_ir_410x230_/" alt="[팩플] ‘오픈AI 마피아’가 만드는 탈(脫) 오픈AI 생태계 커진다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25323384" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25323384" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] ‘오픈AI 마피아’가 만드는 탈(脫) 오픈AI 생태계 커진다
 </a>
 </h2>
@@ -281,13 +308,13 @@ KT·LG전자·HD현대 등 만난 나델라…韓-MS ‘AI 연합 생태계’ �
         <link href="https://www.joongang.co.kr/article/25323035"/>
         <updated>2025-03-24T10:14:30.273Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25323035" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25323035" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/24/901a85fe-2a04-49f9-a53c-1073139f9801.jpg/_ir_410x230_/" alt="[팩플] 노사 갈등 심화하는 카카오...노조는 총파업 예고까지">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25323035" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25323035" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 노사 갈등 심화하는 카카오...노조는 총파업 예고까지
 </a>
 </h2>
@@ -308,13 +335,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25323011"/>
         <updated>2025-03-24T09:14:12.521Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25323011" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25323011" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/24/1088999e-010f-4c5a-ab23-48fcbe2413d0.jpg/_ir_410x230_/" alt="[팩플] 구글 추격 막기 위한 검색왕 네이버의 승부수, 검색에 AI 붙인다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25323011" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25323011" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] 구글 추격 막기 위한 검색왕 네이버의 승부수, 검색에 AI 붙인다
 </a>
 </h2>
@@ -335,13 +362,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25322412"/>
         <updated>2025-03-21T07:12:56.356Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25322412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25322412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/21/b82fa18b-4a79-4239-a82a-c2cefb5e56fc.jpg/_ir_410x230_/" alt="[팩플] 네이버, 엔비디아와 동남아 소버린 AI 공략한다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25322412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25322412" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] 네이버, 엔비디아와 동남아 소버린 AI 공략한다
 </a>
 </h2>
@@ -362,13 +389,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25322127"/>
         <updated>2025-03-20T07:12:24.148Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25322127" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25322127" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/20/d50959e6-548b-4421-b582-f12140140ff3.jpg/_ir_410x230_/" alt="[팩플] 美 트럼프 위협에도..EU, 구글·애플에 “불공정 행위 시정해야”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25322127" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25322127" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] 美 트럼프 위협에도..EU, 구글·애플에 “불공정 행위 시정해야”
 </a>
 </h2>
@@ -389,13 +416,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25321842"/>
         <updated>2025-03-19T09:14:16.073Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25321842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25321842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/19/676b0eb3-3fc9-4587-8079-d8fb5eee2bdb.jpg/_ir_410x230_/" alt="글로벌 우주 경쟁 뛰어들 인재 연 300명→1500명으로 늘린다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25321842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25321842" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 글로벌 우주 경쟁 뛰어들 인재 연 300명→1500명으로 늘린다
 </a>
 </h2>
@@ -416,13 +443,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25321827"/>
         <updated>2025-03-19T08:16:10.437Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25321827" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25321827" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/19/48cff669-d242-496f-9ec8-58eaf30acfba.jpg/_ir_410x230_/" alt="“北 해커 제조업·방산 노려”…구글, 사이버 공격 트렌드 발표">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25321827" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25321827" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 “北 해커 제조업·방산 노려”…구글, 사이버 공격 트렌드 발표
 </a>
 </h2>
@@ -443,13 +470,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25321806"/>
         <updated>2025-03-19T08:16:10.440Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25321806" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25321806" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/19/e967fa44-46ce-4ef5-9c5c-11b25e6c8ffc.jpg/_ir_410x230_/" alt="'46조원 역대급 인수'…구글, 보안기업 위즈 품었다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25321806" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25321806" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 '46조원 역대급 인수'…구글, 보안기업 위즈 품었다 [팩플]
 </a>
 </h2>
@@ -470,13 +497,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25321788"/>
         <updated>2025-03-19T20:13:49.228Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25321788" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25321788" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/20/a148d2d9-b969-4b33-9a3a-641f1b9ec3cb.jpg/_ir_410x230_/" alt="구글맵, 또 한반도 털러왔다…골목노포 찍는 토종맵 당할까">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25321788" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25321788" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 구글맵, 또 한반도 털러왔다…골목노포 찍는 토종맵 당할까
 </a>
 <strong class="badge_plus"><span class="visually_hidden">유료 전용</span></strong>
@@ -498,13 +525,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25321571"/>
         <updated>2025-03-18T12:22:32.627Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25321571" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25321571" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/19/abfb01a6-df35-4de5-b478-5ec95de4be31.jpg/_ir_410x230_/" alt="&quot;당뇨병 사과 검색뒤 놀랄 것&quot; 카카오 떠난 88년생 CEO의 AI">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25321571" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25321571" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 "당뇨병 사과 검색뒤 놀랄 것" 카카오 떠난 88년생 CEO의 AI
 </a>
 </h2>
@@ -525,13 +552,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25321562"/>
         <updated>2025-03-18T11:11:26.860Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25321562" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25321562" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/18/4ef7a8af-a39d-4c17-8f38-9046a0c4c7f2.jpg/_ir_410x230_/" alt="[팩플] 네이버·카카오 지난해 연봉 1위는 홍은택 전 카카오 대표 30.9억">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25321562" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25321562" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 [팩플] 네이버·카카오 지난해 연봉 1위는 홍은택 전 카카오 대표 30.9억
 </a>
 </h2>
@@ -552,13 +579,13 @@ AI 시대로 전환을 앞두고 핵심 사업 위주로 사업부문을 재편 
         <link href="https://www.joongang.co.kr/article/25321548"/>
         <updated>2025-03-18T09:14:27.732Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25321548" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25321548" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/18/8a39c565-6630-4a16-80ea-fea2bb9582b1.jpg/_ir_410x230_/" alt="[팩플] LG가 내놨다…수능 수학 94.5점 추론 AI">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25321548" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25321548" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] LG가 내놨다…수능 수학 94.5점 추론 AI
 </a>
 </h2>
@@ -579,13 +606,13 @@ LG AI연구원이 국내 첫 추론 인공지능(AI) 모델 ‘엑사원 딥’�
         <link href="https://www.joongang.co.kr/article/25321212"/>
         <updated>2025-03-17T08:17:02.077Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25321212" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25321212" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/17/a30b0825-e097-4da6-add0-abcaae8ff4c0.jpg/_ir_410x230_/" alt="논란의 위믹스…코인 90억원 해킹 당하자 “260억원 시장 매수하고 보안 개선”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25321212" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25321212" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 논란의 위믹스…코인 90억원 해킹 당하자 “260억원 시장 매수하고 보안 개선”
 </a>
 </h2>
@@ -606,13 +633,13 @@ LG AI연구원이 국내 첫 추론 인공지능(AI) 모델 ‘엑사원 딥’�
         <link href="https://www.joongang.co.kr/article/25320949"/>
         <updated>2025-03-16T07:10:46.783Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25320949" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25320949" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/16/21d47cee-7b64-402c-bf8d-ddd0c621ba5a.jpg/_ir_410x230_/" alt="&quot;당신은 고급스러운 로렌펌 어울려요&quot; 헤어컨설팅도 AI시대 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25320949" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25320949" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 "당신은 고급스러운 로렌펌 어울려요" 헤어컨설팅도 AI시대 [팩플]
 </a>
 </h2>
@@ -622,33 +649,6 @@ LG AI연구원이 국내 첫 추론 인공지능(AI) 모델 ‘엑사원 딥’�
 <div class="meta">
 <p class="date">2025.03.16 15:50</p>
 <button type="button" class="btn_bookmark" data-cid="25320949" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 악성코드 31만 개 잡는 ‘사이버 방패’…30살 안랩 "1조 기업 될 것"]]></title>
-        <id>https://www.joongang.co.kr/article/25320936</id>
-        <link href="https://www.joongang.co.kr/article/25320936"/>
-        <updated>2025-03-16T07:10:46.785Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25320936" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/16/97e85234-aef9-4ce8-b135-5d18d5e1dcab.jpg/_ir_410x230_/" alt="매일 악성코드 31만 개 잡는 ‘사이버 방패’…30살 안랩 &quot;1조 기업 될 것&quot;">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25320936" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-매일 악성코드 31만 개 잡는 ‘사이버 방패’…30살 안랩 "1조 기업 될 것"
-</a>
-</h2>
-<p class="description">
-그동안 탐지한 악성코드 약 12억6100만 건, 하루 평균 약 31만 건의 악성코드를 잡아내는 기업이 있다. 올해 서른 살을 맞은 사이버 보안기업 안랩이다. 안랩은 14일 경기창조경제혁신센터에서&nbsp;창업자인 안철수 국민의힘 의원과 강석균 안랩 대표, 사외이사, 임직원 등이 참석한 가운데 창립 30주년 기념식을 개최했다. &nbsp; 안철수 창업자가 지난 14일 안랩 창립 30주년 기념식에서 환영사를 하고 있다. 사진 안랩 &nbsp; 안철수 창업자는 이날 기념식에서 창업 초창기 시절을 회고하며, 환영사를 건넸다. 안랩은 1995년 3월 ‘안철수컴퓨터바이러스연구소’에서 시작했다. 1988년 안 창업자가 서울대 의대 박사과정 중 국내 유입된 세계 최초 컴퓨터 바이러스 ‘브레인’의 치료제를 개발한 게 창업 계기였다. ‘사이버 바이러스’라는 개념조차 낯설던 시기였다.&nbsp; &nbsp; 사업 초기, 상황은 녹록지 않았다. 안 창업자는 사업을 시작한 뒤 4년 간 매일 은행에 돈을 빌리러 다니고, 회사를 홍보하기 위해 머리를 무지개색으로 합성한 광고 포스터를 내기도 했다. 그는&nbsp;“사업 초기에는 회사가 언제 없어질지 몰라 1999년이 돼서야 전 직원들이 모여 처음 사진을 찍었다”며&nbsp;“30주년을 맞은 오늘, 다시 시작이라는 마음으로 ‘함께 사는 사회에 기여하는 초일류 기업’이 되어달라”고 당부했다. &nbsp; 안철수 &nbsp; 안랩은 국내에서 발생한 주요 사이버 보안 사건 때마다 존재감을 드러내 왔다. 1999년 감염된 PC의 하드디스크 데이터를 완전히 삭제하는 CIH 바이러스가 전국의 PC 30만 대를 마비시키자, 즉시 대응팀을 구성해 복구 지원에 나섰다. 2003년 SQL 웜(SQL Slammer Worm) 바이러스가 국내 인터넷망을 마비시켰을 때는 이틀 만에 보안 프로그램을 개발해 추가 피해를 방지했다. 2009년 디도스(DDoS) 공격 당시엔 공격 발생 18시간 만에 전용 백신을 만들어 정부·민간에 배포하기도 했다. &nbsp; 국내외에서 발생하는 바이러스를 사전 차단하는 시스템도 개발했다. 2008년 클라우드 기반의 악성코드 자동 대응 기술인 ASD(안랩 스마트 디펜스)를 출시하면서다. ASD는 올해 포함 약 12억 6100만 건 이상의 악성코드를 탐지했다. PC에 신종 바이러스 파일이 감지되면 클라우드 서버에서 분석, ‘악성’으로 판단한 파일을 차단하는 식이다. 현재는 일평균 약 31만 건의 악성코드를 잡아내고 있다. &nbsp; 안랩 창립 30주년 기념식에서 기념사 중인 강석균 안랩 대표. 연합뉴스 &nbsp; 이렇게 초창기 사이버 바이러스부터 막아온 1세대 보안기업인 안랩은 지금도 꾸준히 성장하고 있다. 지난해 연결기준 영업이익은 276억8200만원을 기록했다. 이는 3년 전인 2022년 영업이익(269억8700만원)보다 2.6% 증가한 수치다. 작년 매출액도 2605억6900만원으로 집계돼 같은 기간 대비 14.3% 성장했다.&nbsp; &nbsp; 현재 안랩은 사우디아라비아 보안기업 SITE와 합작 법인&nbsp;‘라킨’을 설립하며 글로벌 사업 확장에도 나서고 있다. 강석균 안랩 대표는 이날 기념식에서 임직원들에게 “안랩을 글로벌 누구와 경쟁해도 이길 수 있는 ‘월드클래스’ 기업으로 만들어 매출 3000억, 5000억을 넘어 1조기업으로 도약하자”고 말했다. 문상혁 기자 moon.sanghyeok@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2025.03.16 15:15</p>
-<button type="button" class="btn_bookmark" data-cid="25320936" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
